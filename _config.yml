@@ -1,5 +1,5 @@
 markdown: rdiscount
-permalink: /blog/:title
+permalink: /blog/:title/
 name: Knight-Mozilla OpenNews
 description: The blog for the Knight-Mozilla OpenNews project
 url: http://www.opennews.org
