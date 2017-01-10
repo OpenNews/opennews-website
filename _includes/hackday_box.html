@@ -1,0 +1,25 @@
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script type="text/javascript" src="/media/js/tabletop.js"></script>
+<script type="text/javascript">
+//window.onload = function() { init() };
+var public_spreadshseet_url = 'https://docs.google.com/spreadsheets/d/1ZyC7hzsNwAZ0U_uhYbeFUUcfxtJdFGMaWp5KxLXTqJs/pubhtml';
+$(document).ready( function() {
+  tabletop =  Tabletop.init( { key: public_spreadshseet_url,
+                         callback: showInfo,
+                         debug: false } )
+    });
+
+    function showInfo() {
+      $.each( tabletop.sheets("Sheet1").all(), function(i, hackday) {
+        var hack_li = $('<tr><td class="date">' + hackday.Date + '</td><td class="event"><a href="' + hackday.website +'">' + hackday.Title + '</a></td><td class="location">' + hackday.Location + '</td></tr>')
+        hack_li.appendTo("#hackcal");
+
+      if (hackday.status != 'happening') {
+          hack_li.addClass('hide');
+          };
+ 	});
+
+ 	$('#hackcalbox').show();
+    };
+
+  </script>
