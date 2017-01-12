@@ -5,6 +5,8 @@ install: gem install jekyll -v 2.4.0 && gem install jekyll-redirect-from && gem 
 script: jekyll build
 after_success:
   - test $TRAVIS_BRANCH = "staging" && s3_website push --config-dir=_config/staging/
+  - test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
 branches:
   only:
   - staging
+  - master
