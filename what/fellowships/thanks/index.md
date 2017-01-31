@@ -13,5 +13,5 @@ Here’s what happens now:
 * Final candidates for the Knight-Mozilla Fellowship will be notified by early October.
 * A public announcement of our 2016 fellows will be made at the Mozilla Festival in London November 5.
 
-Feel free to drop us a line if you have any questions. You can [e-mail](mailto:opennews@mozillafoundation.org), reach us [on Twitter](http://twitter.com/opennews), or even find us on IRC via the #opennews channel on irc.mozilla.org.
+Feel free to drop us a line if you have any questions. You can [e-mail](mailto:info@opennews.org), reach us [on Twitter](http://twitter.com/opennews), or even find us on IRC via the #opennews channel on irc.mozilla.org.
 We are happy to answer any additional questions you may have and look forward to reviewing your application.
