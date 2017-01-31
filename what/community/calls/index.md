@@ -12,7 +12,7 @@ section: what we do
 
 <p class="bodybig">The OpenNews community calls are a community check-in every other Thursday at 12pm ET for anyone in or near the journalism-code world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
 
-You can participate by calling in and listening, reading along on the etherpad during or after the call, or by [contacting us](mailto: erika@mozillafoundation.org) to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
+You can participate by calling in and listening, reading along on the etherpad during or after the call, or by [contacting us](mailto: erika@opennews.org) to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
 
 ### Call-in Details
 
