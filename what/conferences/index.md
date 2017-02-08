@@ -8,15 +8,9 @@ section: what we do
 <p class="caption">SRCCON 2015 (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">We create spaces where the journalism-code community can gather and focus on the informal skillshares and insightful conversations that are the best parts of conferences.</p> 
+<p class="bodybig">We create spaces where the journalism-code community can gather and focus on the informal skillshares and insightful conversations that are the best parts of conferences.</p>
 
 We host two annual events designed to provide space for those conversations and collaborations to bloom, surrounded by plentiful food, good coffee, and enthusiastic colleagues. We also host cohort-driven convenings to allow small groups of participants to really dig into questions and projects.</p>
-
-<!--
-    <div id="contentbox">
-      <iframe src="https://player.vimeo.com/video/180221748" width="800" height="450" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
-<p><em><a href="https://vimeo.com/180221748">SRCCON 2016 highlights video</a>, videography by <a href="http://www.searlevideo.com/">Searle Video</a>.</em></p>-->
-
 
 <img src="/media/img/srccon-tiff-michael-erik-westra.jpg" class="topline section">
 <p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
@@ -31,6 +25,6 @@ The OpenNews team organizes the journalism sessions at the [Mozilla Festival](ht
 
 
 <img src="/media/img/code-convening-postits.jpg" class="topline section">
-## [Code, Culture, and Leadership Convenings](/what/community/convenings)
+## [Code, Culture, and Leadership Convenings](/what/conferences/convenings)
 
-These cohort-driven convenings give a small group of participants a chance to explore tough questions and projects, together. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more](/what/community/convenings).
+These cohort-driven convenings give a small group of participants a chance to explore tough questions and projects, together. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more](/what/conferences/convenings).

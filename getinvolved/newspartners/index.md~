@@ -14,9 +14,9 @@ Our [Knight-Mozilla Fellowship](/what/fellowships) program brings talented devel
 
 From visualization libraries to data extractors and presentation templates, newsrooms are creating some of the most exciting code on the internet right now. We highlight that work on [Source](http://source.opennews.org), our website dedicated to the code in journalism and the people who write it. On Source, news organizations share the code, process, and thinking behind news applications and interactives. The resources on the site are a direct result of the generosity and efforts of the developers, designers, and newsrooms who are willing to show their work. Join them by [sharing your contributions](https://source.opennews.org/en-US/contribute/) today.
 
-### [Build Together at Code Convenings](/what/community/convenings)
+### [Build Together at Code Convenings](/what/conferences/convenings)
 
-OpenNews [code convenings](/what/community/convenings) bring together some of the best newsroom developers in the world with leading independent talents to work together to complete, document, and release open-source projects. Code convening teams open-source newsroom code and build new applications and libraries to address journalistic problems. Want to take part? In 2015, we'll host a new round of code convenings, each with an open call for submissions. [Follow us on Twitter](https://twitter.com/opennews") or <a href="https://lists.mozilla.org/listinfo/community-mojo">sign up for our email list</a> to be notified when we post each call.
+OpenNews [code convenings](/what/conferences/convenings) bring together some of the best newsroom developers in the world with leading independent talents to work together to complete, document, and release open-source projects. Code convening teams open-source newsroom code and build new applications and libraries to address journalistic problems. Want to take part? In 2015, we'll host a new round of code convenings, each with an open call for submissions. [Follow us on Twitter](https://twitter.com/opennews") or <a href="https://lists.mozilla.org/listinfo/community-mojo">sign up for our email list</a> to be notified when we post each call.
 
 ### [Building Community](/what/community/eventsupport)
 

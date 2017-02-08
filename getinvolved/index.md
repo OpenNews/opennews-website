@@ -19,9 +19,9 @@ Knight-Mozilla Fellows spend 10 months working with a fantastic news organizatio
 
 From visualization libraries to data extractors and presentation templates, newsrooms are creating some of the most exciting code on the internet right now. We highlight that work on [Source](http://source.opennews.org), our website dedicated to the code in journalism and the people who write it. On Source, news organizations share the code, process, and thinking behind news applications and interactives. The resources on the site are a direct result of the generosity and efforts of the developers, designers, and newsrooms who are willing to show their work. Join them by [sharing your contributions](https://source.opennews.org/en-US/contribute/) today.
 
-### [Build Together at Convenings](/what/community/convenings)
+### [Build Together at Convenings](/what/conferences/convenings)
 
-OpenNews [Code, Culture, and Leadership convenings](/what/community/convenings) are cohort-driven events where small groups come together to work and problem solve related to a common theme.  Code convening teams open-source newsroom code and build new applications and libraries to address journalistic problems. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more about how to participate](/what/community/convenings).
+OpenNews [Code, Culture, and Leadership convenings](/what/conferences/convenings) are cohort-driven events where small groups come together to work and problem solve related to a common theme.  Code convening teams open-source newsroom code and build new applications and libraries to address journalistic problems. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more about how to participate](/what/conferences/convenings).
 
 <!--### [Become a News Partner](/getinvolved/newspartners)
 Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or sharing your organization's work on Source? [Learn how to become an OpenNews partner.](/getinvolved/newspartners)-->

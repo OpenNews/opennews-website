@@ -18,10 +18,10 @@ The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, 
 
 ### [Gatherings](conferences/)
 
-In-person events are an important way that this community shares its work, learns from one another, and grows as a network. 
+In-person events are an important way that this community shares its work, learns from one another, and grows as a network.
 
-* We host an [annual conference called SRCCON](conferences/srccon), back this year in Minneapolis. SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. 
-* We organize [Code, Culture, and Leadership convenings](community/convenings) where small cohorts also have the opportunity to build peer groups and share expertise. 
+* We host an [annual conference called SRCCON](conferences/srccon), back this year in Minneapolis. SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day.
+* We organize [Code, Culture, and Leadership convenings](conferences/convenings) where small cohorts also have the opportunity to build peer groups and share expertise.
 * At the [Mozilla Festival](conferences/mozfest), we wrangle a track of journalism sessions.
 * Later this year, we'll hold our first smaller, topical mini-SRCCON.
 
@@ -29,10 +29,10 @@ In-person events are an important way that this community shares its work, learn
 
 ### [Community Support](community/)
 
-As this network matures, we have a slate of offerings to help share work and understand what's happening in the journalism tech community. 
+As this network matures, we have a slate of offerings to help share work and understand what's happening in the journalism tech community.
 
 * In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
-* We also hold biweekly [Source community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators. 
+* We also hold biweekly [Source community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators.
 * We offer [Ticket + Travel scholarships](community/eventsupport) to help community members attend events around the world.
 * We conduct an annual survey to better understand this community and its needs.
 

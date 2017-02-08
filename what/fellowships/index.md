@@ -44,7 +44,7 @@ The Knight-Mozilla Fellows join a community that works at the intersection of jo
 
 * [Source, a community hub](http://source.opennews.org) where the journalism code community writes about projects, code, and culture, posts jobs, and discusses emerging issues
 * [SRCCON, our annual conference](/what/conferences/srccon) for people working on and around news technology teams
-* Small-scale, focused [code convenings](/what/community/convenings) that assemble teams to polish, document, and release open source projects
+* Small-scale, focused [code convenings](/what/conferences/convenings) that assemble teams to polish, document, and release open source projects
 * [Logistical and financial support for local events](/what/community/eventsupport) around the world
 
 Fellows participate in this network at all levels, collaborating on projects, attending and speaking at events, reflecting on their work in Source, and building their profiles as contributors to the wider community.

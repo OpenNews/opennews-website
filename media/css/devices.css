@@ -582,6 +582,8 @@ iframe {
 
 article iframe {
 	width: 98%;
+	height: 365px;
+	margin-bottom: 10px;
 }
 
 #videobox iframe {
