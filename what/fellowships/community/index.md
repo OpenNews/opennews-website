@@ -1,18 +1,19 @@
 ---
-layout: fellowship_index
+layout: post_notitle
 title: Meet the Knight-Mozilla Fellowship Community
 section: fellowships
-sub-section: community
 ---
 <img src="/media/img/fellows_collage.jpg" style="width: 100%;">
 
 <p class="caption"> All of our 33 Knight-Mozilla Fellows, plus our new <a href="/what/fellowships/2016meet">2016 Knight-Mozilla Fellows</a></p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The Knight-Mozilla Fellows spend 10 months working with a partner news organization, contributing to and learning from the journalism code community. A growing community of fellowship alumni also welcomes and supports each new cohort. Fellows share their curiosity,  code, and insights during their fellowship and beyond.
-<br/><br/>
+<p class="bodybig">The Knight-Mozilla Fellows spend 10 months working with a partner news organization, contributing to and learning from the journalism code community. A growing community of fellowship alumni also welcomes and supports each new cohort. Fellows share their curiosity,  code, and insights during their fellowship and beyond.</p>
+
+The fellowship is on hiatus for 2017, but you can meet our five cohorts of fellows.
+
 Meet our fellows: [2016](/what/fellowships/2016meet) | [2015](/what/fellowships/2015meet) | [2014](/what/fellowships/2014meet) | [2013](/what/fellowships/2013meet) | [2012](/what/fellowships/2011meet)
 
-Throughout the program, we encourage fellows to explore their passions, collaborate on projects, and share their work. Here are some examples of work from current and alumni fellows.
+<!--Throughout the program, we encourage fellows to explore their passions, collaborate on projects, and share their work. Here are some examples of work from current and alumni fellows.
 
 ## Explore
 The mandate to explore is one of the ways a fellowship is really different from a regular job. Fellows have the time, space, and support to learn new skills, investigate topics of interest to them, and experiment to answer questions that fascinate them.
@@ -50,4 +51,4 @@ Francis and Tara joined [The Coral Project](coralproject.net) and got straight t
 <img src="/media/img/fellows/2014-fellows/harlo-60.png" class="fellowspage"><img src="/media/img/fellows/2014-fellows/aurelia-60.png" class="fellowspage">Harlo and Aurelia wanted to help journalists understand how and why to communicate securely with sources. Harlo brought her extensive experience in the security community and Aurelia brought her curiosity about apps and communication to develop several talks about [opsec for journalists](https://github.com/auremoser/dropitlike/blob/master/README.md). They presented together, alongside Barton Gellman at HOPE, and at the Hacks/Hackers Buenos Aires Media Party.
 
 ###Brian Abelson - 2013 fellow, now freelancing
-<img src="/media/img/fellows/brian_small.jpg" class="fellowspage">Brian brought his statistics background to studying analytics and impact throughout his fellowship at the New York Times. This led to a Tow Center fellowship where, along with Michael Keller and Stijn Debrouwere (2013 fellow at The Guardian) Brian continued his research. In 2015, Brian and Michael [released a major white paper](http://towcenter.org/wp-content/uploads/2015/06/Tow_Center_NewsLynx_Full_Report.pdf) and [open sourced their work](http://newslynx.readthedocs.org/) on NewsLynx.
+<img src="/media/img/fellows/brian_small.jpg" class="fellowspage">Brian brought his statistics background to studying analytics and impact throughout his fellowship at the New York Times. This led to a Tow Center fellowship where, along with Michael Keller and Stijn Debrouwere (2013 fellow at The Guardian) Brian continued his research. In 2015, Brian and Michael [released a major white paper](http://towcenter.org/wp-content/uploads/2015/06/Tow_Center_NewsLynx_Full_Report.pdf) and [open sourced their work](http://newslynx.readthedocs.org/) on NewsLynx.-->

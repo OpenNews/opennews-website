@@ -1,5 +1,5 @@
 ---
-layout: fellowship_post
+layout: post_notitle
 title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
@@ -8,6 +8,7 @@ redirect_from:
 ---
 <p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship is on hiatus for 2017.</p>
 
+This page describes details of the program as it existed from 2011-16.
 
 ###THE FELLOWSHIP
 **What is happening with the fellowship during 2017?**
