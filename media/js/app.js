@@ -1,4 +1,4 @@
-// new mozilla GA account
+// new GA account
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-35433268-15']);
 		_gaq.push(['_setDomainName', 'opennews.org']);
