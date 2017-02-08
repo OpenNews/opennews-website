@@ -1,25 +1,15 @@
 ---
 layout: post_notitle
-title: Code Convenings
+title: Code, Culture, and Leadership Convenings
 section: what we do
 
 ---
 <img src="/media/img/codeconveningnyc.jpg" class="topline">
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Code convenings are small, focused gatherings in which two-person teams from several newsrooms assemble, each with an open source project that needs last-mile development and documentation to be ready for release.</p>
+<p class="bodybig">Code, Culture, and Leadership convenings are cohort-driven events where small groups come together to work and problem solve related to a common theme.</p>
 
-In 2014, we hosted three code convenings in Portland, San Francisco, and New York, with participants from Al Jazeera, the Center for Investigative Reporting, the Los Angeles Times, MinnPost, OpenElections, ProPublica, the New York Times, NPR, Stanford's Computational Journalism program, the Washington Post, and WNYC as well as extra hands-on help from GitHub and the Mozilla Foundation. 10 open-source projects and one meta-project emerged from the convenings:
+The convenings began as code convenings, where two-person teams from several newsrooms assembled, each with an open source project that needed last-mile development and documentation to be ready for release. Building on that model, in 2017 we will host convenings around the types of culture and leadership challenges that can accompany the implementation of great code projects.
 
-<ul class="conveninglist">
-<li><a href="https://source.opennews.org/en-US/articles/introducing-clarify/">Clarify</a>: An OpenElections data discovery and parsing tool for Clarity-based elections systems</li>
-<li>The <a href="https://source.opennews.org/en-US/articles/introducing-california-civic-data-coalition/">California Civic Data Coalition</a>: a meta-project dedicated to making California's public data easier for reporters and other power-users to access</li>
-<li>The <a href="https://source.opennews.org/en-US/articles/introducing-minnposts-elections-night-api/">Election Night <span class="caps">API</span></a>: A MinnPost package of tools, configurations, and instructions for collecting and serving Election Night data</li>
-<li><a href="https://source.opennews.org/en-US/articles/introducing-fourscore">FourScore</a>: A WNYC graphic template for capturing reader sentiments in an elegant 2D chart</li>
-<li><a href="https://source.opennews.org/en-US/articles/introducing-landline-and-stateline/">Landline and Stateline</a>: A ProPublica tool for creating easy SVG maps that work across all browsers</li>
-<li><a href="https://source.opennews.org/en-US/articles/introducing-tamper-and-pourover/">PourOver and Tamper</a>: A New York Times library and protocol pair that let you quickly filter datasets with thousands of records, right in the browser</li>
-<li><a href="https://source.opennews.org/en-US/articles/introducing-pym/">Pym.js</a>: An NPR library enabling responsive iframes for embedded graphics</li>
-<li><a href="https://source.opennews.org/en-US/articles/introducing-wherewolf/">Wherewolf</a>: A  serverless boundary server from &nbsp;<span class="caps">WNYC</span></li>
-<li><a href="https://source.opennews.org/en-US/articles/introducing-whippersnapper/">Whippersnapper</a>: An automated screenshot tool for keeping a visual of web content, from the Washington&nbsp;Post</li>
-</ul>
+Over the last three years, we hosted seven code convenings, which helped teams document and share projects like [Pym.js](https://source.opennews.org/en-US/articles/introducing-pym/), the [California Civic Data Coalition](https://source.opennews.org/en-US/articles/introducing-california-civic-data-coalition/), [Lunchbox](https://source.opennews.org/en-US/articles/introducing-lunchbox/), [Klaxon](https://source.opennews.org/en-US/articles/when-bots-get-together-part-1/), and a forthcoming [open source playbook](https://source.opennews.org/articles/building-guide-open-sourcing-newsroom-code/). During these convenings, we saw how even teams working on separate projects built relationships and that working together strengthened everyone's projects. With the new styles of convenings, we're going to emphasize relationship building and cohort support even more explicitly as participants work together on projects and questions.
 
-In 2015, we'll host a new round of code convenings, each with an open call for submissions. [Follow us on Twitter](https://twitter.com/opennews") or <a href="https://lists.mozilla.org/listinfo/community-mojo">sign up for our email list</a> to be notified when we post each call.
+Follow us [on Twitter](https://twitter.com/opennews) or [sign up for our email list](http://eepurl.com/czSVTL) to be notified when we post each call.

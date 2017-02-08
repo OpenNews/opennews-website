@@ -4,11 +4,11 @@ title: OpenNews News Partnerships
 section: getinvolved
 ---
 
-<p class="bodybig">At OpenNews, we build <em>with</em> our community, not simply <em>for</em> it. Partnerships with news organizations around the world help shape, guide, and implement our programs. As contributors to Source, as participants in code convenings, and as organizers of hack days, our news partners are a crucial part of OpenNews.</p>
+<p class="bodybig">At OpenNews, we build <em>with</em> our community, not simply <em>for</em> it. Partnerships with news organizations around the world help shape, guide, and implement our programs. As contributors to Source, as participants in code convenings, and as organizers of hack days, our news partners are a crucial part of OpenNews. <a href="/getinvolved/">Get involved today</a>.</p>
 
 <!--### [Mentor New Leaders](/what/fellowships/partnerguidelines)
 
-Our [Knight-Mozilla Fellowship](/what/fellowships) program brings talented developers into newsrooms to research, code, and try new things. Our fellows have been hosted by news organizations around the world that welcome inquisitive outsiders and act as leaders in the journalism code community. Whether large or small, there are a few principles we look for in fellowship partners. If your newsroom is interested in hosting a fellow, please look over our [fellowship partner guidelines](/what/fellowships/partnerguidelines).-->
+Our [Knight-Mozilla Fellowship](/what/fellowships) program brings talented developers into newsrooms to research, code, and try new things. Our fellows have been hosted by news organizations around the world that welcome inquisitive outsiders and act as leaders in the journalism code community. Whether large or small, there are a few principles we look for in fellowship partners. If your newsroom is interested in hosting a fellow, please look over our [fellowship partner guidelines](/what/fellowships/partnerguidelines).
 
 ### [Share Your Work](http://source.opennews.org)
 
@@ -24,4 +24,4 @@ We partner with news organizations and others around the world to foster journal
 
 ### [Staff Up](http://source.opennews.org/jobs)
 
-We also directly support the creation and build-out of newsroom technology teams through [Source Jobs](http://source.opennews.org/jobs), a listings service that allows newsrooms to post and edit news apps and data journalism jobs, as well as administering their overall presence on Source. [Get started](https://source.opennews.org/en-US/jobs/#about-jobs) by designating a jobs contact for your organization.
+We also directly support the creation and build-out of newsroom technology teams through [Source Jobs](http://source.opennews.org/jobs), a listings service that allows newsrooms to post and edit news apps and data journalism jobs, as well as administering their overall presence on Source. [Get started](https://source.opennews.org/en-US/jobs/#about-jobs) by designating a jobs contact for your organization.-->

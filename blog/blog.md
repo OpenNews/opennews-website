@@ -6,7 +6,7 @@ sub-section: index
 permalink: /blog/
 ---
 
-<p class="bodybig">Over the course of the year, we post event announcements, Knight-Mozilla fellowship information, calls for code convening and conference session proposals, and lots more. Keep up by <a href="http://planet.mozillaopennews.org/rss20.xml">grabbing our feed</a>, <a href="https://twitter.com/opennews">following us on Twitter</a>, or <a href="https://lists.mozilla.org/listinfo/community-mojo">joining our notifications list</a>. Or, you know, all of the above.</p>
+<p class="bodybig">Over the course of the year, we post event announcements, applications for scholarships and to participate in events, and lots more. Keep up by <a href="/feed.xml">grabbing our feed</a>, <a href="https://twitter.com/opennews">following us on Twitter</a>, or <a href="http://eepurl.com/czSVTL">joining our notifications list</a>. Or, you know, all of the above.</p>
 
 <ul class = "bloglist">
   {% for post in site.posts %}
