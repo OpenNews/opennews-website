@@ -3,6 +3,7 @@ permalink: /blog/:title/
 name: OpenNews
 description: The blog for OpenNews
 url: https://www.opennews.org
+future: true
 rdiscount:
   extensions: [smart]
 gems:
