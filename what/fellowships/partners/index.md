@@ -1,5 +1,5 @@
 ---
-layout: fellowship_index
+layout: post_notitle
 title: The Knight-Mozilla Fellowships&colon; Fellowship Partners
 section: partnerships
 ---
@@ -26,4 +26,4 @@ Over  the years, we've worked with news organizations in the US, Argentina,  the
 
 
 ### Partnering with OpenNews
-Being  a fellowship partner is the most intensive way that OpenNews  collaborates with news organizations, but it is just one of [many ways  that we partner](/getinvolved/newspartners/) with news orgs. Through our website Source and events like SRCCON, we  partner with news organizations and their teams to share their work. We  also host events called code convenings to help teams open source  projects. 
+Being  a fellowship partner is the most intensive way that OpenNews collaborates with news organizations, but it is just one of [to get involved with our work](/getinvolved/) and work together. Through our website Source and events like SRCCON, we  partner with news organizations and their teams to share their work. We also host events called code convenings to help teams open source  projects. 

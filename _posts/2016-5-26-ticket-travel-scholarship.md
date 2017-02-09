@@ -11,7 +11,7 @@ excerpt: We want to help you get to events that will enrich your work in the jou
 
 One of the biggest lessons we’ve learned at OpenNews is the importance of presence. Of being there. Of listening. Of getting people into a room, working with each other, learning from and teaching one another.
 
-We prioritize getting people to places. We get [fellows](/what/fellowships/) into newsrooms. We get colleagues together to open-source projects at [code convenings](/what/community/convenings). We gather hundreds of news nerds at [SRCCON](http://srccon.org) and give travel scholarships to help many of them access the event.
+We prioritize getting people to places. We get [fellows](/what/fellowships/) into newsrooms. We get colleagues together to open-source projects at [code convenings](/what/conferences/convenings). We gather hundreds of news nerds at [SRCCON](http://srccon.org) and give travel scholarships to help many of them access the event.
 
 Today we announce a new way to build connections. We're opening up [a limited-run travel scholarship program](https://docs.google.com/forms/d/1NpOrZSbqWdUUtjy8K3qqhfnlkJ_Cuky96K-M43CyvlA/viewform) that supports participation in events that benefit the journalism code community. This June and July, we're offering $500 plus the price of the event ticket itself toward the cost of attending an event on journalism technology, or an open-source event where you’ll bring a journalism connection.
 

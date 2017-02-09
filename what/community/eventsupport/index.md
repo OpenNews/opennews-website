@@ -7,9 +7,11 @@ section: what we do
 <img src="/media/img/hackdays.jpg" class="topline">
 <p class="caption">Conversing at the Chicago Crime Hack Day (photo/Daniel X O'Neil)</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Since 2012, we’ve sponsored nearly 100 hack days and projects around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more. We provide financial support and planning help to local organizers, and <a href="https://docs.google.com/forms/d/1XGWKDHc8YYzmkUSdicPwyyCyaYeHUnY92XwlLAV1i1E/viewform">we'd love to help with your event</a>.</p>
+<p class="bodybig">From 2012-2016, we sponsored over 100 journalism hack days and events around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more.</p> 
 
-Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants for your event. Maybe you need advice on
+We no longer offer event sponsorships, but instead created a [travel scholarship program](/what/community/scholarships) for participants to attend events. If you have other ideas about ways to collaborate on events, feel free [to reach out](mailto:erika@opennews.org).</p>
+
+<!--Maybe you’ve already got something in the works, but you want to have a two-day hackfest instead of one. Maybe you’ve got everything lined up, but you want to offer travel grants for your event. Maybe you need advice on
  organization. Maybe you want to bring us in to do something from scratch. There are a lot of ways we can help—the key element is that it brings awesome projects and people into the community. Check out our [event listings on Source](https://source.opennews.org/en-US/articles/tags/events/) for a taste of the variety of events underway in and around news code.
 
 <div id="hackcalbox">
@@ -45,4 +47,4 @@ Some projects that got their start at hack days or via project sponsorships incl
 
 We're also working on some <a href="https://github.com/erikao/journohackdays">documentation</a> to help you in planning, organizing, and facilitating hack day events. Your questions and feedback are a critical part of making the documentation more useful for everyone.
 
-{% include hackday_box.html %}
+{% include hackday_box.html %}-->

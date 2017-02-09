@@ -10,15 +10,14 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The OpenNews community calls are a community check-in every other Thursday at 12pm ET for anyone in or near the journalism-code world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
+<p class="bodybig">The Source community calls are a community check-in every other Thursday at 12pm ET for anyone in or near the journalism-code world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
 
 You can participate by calling in and listening, reading along on the etherpad during or after the call, or by [contacting us](mailto: erika@opennews.org) to get onto the agenda as a speaker—the calls are informal and friendly and a great way to ease into the wider conversation.
 
 ### Call-in Details
 
 **Next Scheduled Call:** February 9, 2017 ([call notes](https://public.etherpad-mozilla.org/p/opennews-calls-Feb9)) <br />
-**Conference Number:** +1 800-503-2899 ([international toll-free numbers](https://wiki.mozilla.org/Webmakers/Community_Calls/International))<br />
-**7-Digit Access Code:** 1941934#<br />
+**Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.uberconference.com/international)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 

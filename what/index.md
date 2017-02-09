@@ -10,26 +10,34 @@ sub-section: index
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">At OpenNews, we are building an ecosystem of programs and tools in support of the global community of journalists and coders who are creating the open technologies and processes journalism needs to thrive.</p>
+<p class="bodybig">At OpenNews, we believe that a community of peers working, learning and solving problems together can create a stronger, more representative, and ascendant journalism. We organize events and community supports to strengthen and sustain this ecosystem.</p>
 
 <!--### [Fellowships](fellowships/)
 
 The [Knight-Mozilla Fellowships](fellowships/) place developers, technologists, civic hackers, and data crunchers in 10-month paid fellowships to develop open-source projects in our partner newsrooms around the world. The 2016 cohort is our fifth group of Knight-Mozilla Fellows, and will be working with news technology teams at the Los Angeles Times, NPR, Vox Media, Correct!v, and the Coral Project (a partnership of the New York Times, the Washington Post, and Mozilla). [Meet them and learn more.](fellowships/)-->
 
-### [Conferences](conferences/)
+### [Gatherings](conferences/)
 
-In 2014, we hosted [the inaugural SRCCON](conferences/srccon), a conference for hackers and data nerds working in and near newsrooms. Our second SRCCON was held last June, and we're returning for a third year in the summer of 2016. We also run the [Journalism](conferences/mozfest) track at the Mozilla Festival, a multi-day celebration of making and the open internet held annually in London. [Learn more about the kinds of sessions we run and how to attend.](conferences/)
+In-person events are an important way that this community shares its work, learns from one another, and grows as a network.
 
-### [Code & Community Support](community/)
+* We host an [annual conference called SRCCON](conferences/srccon), back this year in Minneapolis. SRCCON is a hands-on conference focused on the practical challenges news technology and data teams encounter every day.
+* We organize [Code, Culture, and Leadership convenings](conferences/convenings) where small cohorts also have the opportunity to build peer groups and share expertise.
+* At the [Mozilla Festival](conferences/mozfest), we wrangle a track of journalism sessions.
+* Later this year, we'll hold our first smaller, topical mini-SRCCON.
 
-In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
+[Learn more about the kinds of events we run and how to participate.](conferences/)
 
-Several times a year, we host [code convenings](community/convenings), focused events in which small teams from newsrooms gather to complete last-mile code and documentation for open-source projects they've been working on. We also hold biweekly open [community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators. In addition, we [sponsor hack days and journalism code events](community/eventsupport) around the globe to build community, code, and momentum for solving the problems working journalists face. [Learn more about our community support programs.](community/)
+### [Community Support](community/)
+
+As this network matures, we have a slate of offerings to help share work and understand what's happening in the journalism tech community.
+
+* In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
+* We also hold biweekly [Source community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators.
+* We offer [Ticket + Travel scholarships](community/scholarships) to help community members attend events around the world.
+* We conduct an annual survey to better understand this community and its needs.
+
+[Learn more about our community support programs.](community/)
 
 ### [Get Involved](/getinvolved/)
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).
-
-### [Support for OpenNews](/what/supporters)
-
-OpenNews is made possible by a grant from the Knight Foundation and the support of the Mozilla Foundation. In addition, OpenNews receives support for its conference [SRCCON](http://srccon.org) through sponsorship.

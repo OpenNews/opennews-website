@@ -101,7 +101,6 @@ aside {
 .external h2 {
 	padding-top: 40px;
 	font-family: 'Open Sans', sans-serif;
-	background: transparent url(../img/css/icons.png) no-repeat top left;
 	color: #2e2e2d;
 	text-transform: uppercase;
 	font-size: 18px;
@@ -583,6 +582,8 @@ iframe {
 
 article iframe {
 	width: 98%;
+	height: 365px;
+	margin-bottom: 10px;
 }
 
 #videobox iframe {
@@ -1075,8 +1076,8 @@ article, header, #navblock, #moztab {
 }
 
 header img {
-		width: auto;
-		margin-top: 60px;
+		max-width: 600px;
+		margin-top: 35px;
 }
 
 #kissanenav {
@@ -1385,5 +1386,11 @@ img.fellowsbig {
 	#partnerbox {
 		display: none;
 	}
+
+	article iframe {
+    width: 98%;
+    height: 225px;
+    margin-bottom: 10px;
+}
 
 }

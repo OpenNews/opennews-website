@@ -1,8 +1,9 @@
 markdown: rdiscount
 permalink: /blog/:title/
-name: Knight-Mozilla OpenNews
-description: The blog for the Knight-Mozilla OpenNews project
-url: http://www.opennews.org
+name: OpenNews
+description: The blog for OpenNews
+url: https://www.opennews.org
+future: true
 rdiscount:
   extensions: [smart]
 gems:
