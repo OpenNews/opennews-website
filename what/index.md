@@ -33,7 +33,7 @@ As this network matures, we have a slate of offerings to help share work and und
 
 * In collaboration with writers and developers in newsrooms around the world, we publish [Source, a community site](community/source) focused on open technology projects and process in journalism. From features that explore the context behind the code to targeted job listings that help the community expand, Source presents the people, projects, and insights behind journalism code.
 * We also hold biweekly [Source community calls](community/calls) where newsroom data and apps teams can share their work, announce job openings, and find collaborators.
-* We offer [Ticket + Travel scholarships](community/eventsupport) to help community members attend events around the world.
+* We offer [Ticket + Travel scholarships](community/scholarships) to help community members attend events around the world.
 * We conduct an annual survey to better understand this community and its needs.
 
 [Learn more about our community support programs.](community/)
