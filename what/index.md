@@ -41,11 +41,3 @@ As this network matures, we have a slate of offerings to help share work and und
 ### [Get Involved](/getinvolved/)
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).
-
-### [Our History](/what/history/)
-
-OpenNews began as a partnership between the Knight Foundation and the Mozilla Foundation in 2011. [Learn more about our program's history.](/what/history/)
-
-### [Support for OpenNews](/what/supporters)
-
-As a nonprofit, OpenNews receives funding from supporters, foundations, and sponsors. OpenNews receives significant operating support from the Knight Foundation and underwriting of SRCCON through sponsorship. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/). For more details about how to support our work, please [get in touch](dan@opennews.org).
