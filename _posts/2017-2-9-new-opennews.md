@@ -4,7 +4,7 @@ title: OpenNews Ascent Stage Initiated
 date: 2017-2-09 9:00
 author: Dan Sinker
 tags: opennews
-excerpt: OpenNews kicks off 2017 with a slew of important project announcements. A new home, a renewed focus, and a bunch of newly launched things. Holy cow, this is big.
+excerpt: OpenNews lifts off in 2017 with a slew of important project announcements. A new home, a renewed focus, and a bunch of newly launched things. Holy cow, this is big.
 published: true
 ---
 <img src="/media/img/blog/srccon_wall.jpg" style="width: 100%;">
