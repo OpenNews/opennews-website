@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-title: Code & Community Support
+title: Community Support
 section: what we do
 
 ---
