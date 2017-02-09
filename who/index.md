@@ -20,11 +20,11 @@ sub-section: index
 ### Erin Kissane, Editorial Lead
 <img src="/media/img/staff/kissane.jpg" class="headshot"> Erin is a writer, editor, and longtime open-web nerd. She joined OpenNews in early 2012 to build [Source, a community-driven publication for code in journalism](http://source.opennews.org), and currently oversees content and editorial work for OpenNews. Previously, she was editorial director at award-winning web agency [Happy Cog Studios](http://happycog.com/), editor of [*A List Apart* magazine](http://alistapart.com/), and a consultant to agencies, publishers, and nonprofits large and small. She is the author of *The Elements of Content Strategy* and speaks about online community, web publishing, and the open internet at conferences worldwide. She lives in Brooklyn and tries to spend as much time as possible in London and Portland, OR. (<a href="mailto:erin@opennews.org">erin@opennews.org</a>)
 
-### [Our History](/who/history/)
+## [Our History](/who/history/)
 
 OpenNews began as a partnership between the Knight Foundation and the Mozilla Foundation in 2011. [Learn more about our program's history.](/what/history/)
 
-### [Support for OpenNews](/who/supporters)
+## [Support for OpenNews](/who/supporters)
 
 As a nonprofit, OpenNews receives funding from supporters, foundations, and sponsors. OpenNews receives significant operating support from the Knight Foundation and underwriting of SRCCON through sponsorship. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/). For more details about how to support our work, please [get in touch](dan@opennews.org).
 
