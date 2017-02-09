@@ -6,14 +6,14 @@ sub-section: fellows_info
 redirect_from:
 - /what/fellowships/details/index.html
 ---
-<p class="bodybig">The Knight-Mozilla Fellowships present a unique opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship is on hiatus for 2017.</p>
+<p class="bodybig">The Knight-Mozilla Fellowships were an opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship is on hiatus for 2017.</p>
 
 This page describes details of the program as it existed from 2011-16.
 
 ###THE FELLOWSHIP
 **What is happening with the fellowship during 2017?**
 
-The fellowship will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch. In early 2017, we will have a bunch of other exciting updates to share about OpenNews as well, so stay tuned.
+The fellowship will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch.
 
 **What is the Knight-Mozilla Fellowship?**
 
