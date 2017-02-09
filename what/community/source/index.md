@@ -3,7 +3,7 @@ layout: post_notitle
 title: Source&#058;  Journalism Code, Community & Context
 section: source
 ---
-<img src="/media/img/source-new.png" class="topline">
+<img src="/media/img/source-new.jpg" class="topline">
 
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The code emerging from newsrooms drives innovation across the web, and the community writing it is talented, dedicated, and growing fast. Our community hub, <a href="http://source.opennews.org">Source</a> spotlights that community and dives deep into the code it&#8217;s making.</p>
