@@ -22,11 +22,11 @@ sub-section: index
 
 ## [Our History](/who/history/)
 
-OpenNews began as a partnership between the Knight Foundation and the Mozilla Foundation in 2011. [Learn more about our program's history.](/what/history/)
+OpenNews began as a partnership between the Knight Foundation and the Mozilla Foundation in 2011. [Learn more about our program's history.](/who/history/)
 
 ## [Support for OpenNews](/who/supporters)
 
-As a nonprofit, OpenNews receives funding from supporters, foundations, and sponsors. OpenNews receives significant operating support from the Knight Foundation and underwriting of SRCCON through sponsorship. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/). For more details about how to support our work, please [get in touch](dan@opennews.org).
+As a nonprofit, OpenNews receives funding from supporters, foundations, and sponsors. OpenNews receives significant operating support from the Knight Foundation and underwriting of SRCCON through sponsorship. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/). For more details about how to support our work, please [get in touch](mailto:dan@opennews.org).
 
 
 ## Get Involved
