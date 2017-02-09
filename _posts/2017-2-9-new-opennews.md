@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Announcement Blog Post Temp Title
+title: OpenNews Ascent Stage Initiated
 date: 2017-2-09 9:00
 author: Dan Sinker
 tags: opennews
