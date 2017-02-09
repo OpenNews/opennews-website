@@ -5,17 +5,17 @@ section: fellowships
 ---
 
 <img src="/media/img/2016fellows-2.jpg" alt="Our 2016 Fellows explore journalism code." style="width: 100%;">
-<p class="caption">Introducing the 2016 Knight-Mozilla fellows—<a href="/what/fellowships/2016meet">meet them now</a>. (photo/<a href="http://westraco.com">Erik Westra</a>)</p>
+<p class="caption">The 2016 cohort of <a href="/what/fellowships/2016meet">Knight-Mozilla fellows</a>. (photo/<a href="http://westraco.com">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The Knight-Mozilla Fellowship places creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. From 2011-16, we placed 33 fellows with 19 news organizations in five countries.</p>
+<p class="bodybig">The Knight-Mozilla Fellowship placed creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. From 2011-16, we placed 33 fellows with 19 news organizations in five countries.</p>
 
 Meet our fellows: [2016](/what/fellowships/2016meet) | [2015](/what/fellowships/2015meet) | [2014](/what/fellowships/2014meet) | [2013](/what/fellowships/2013meet) | [2012](/what/fellowships/2011meet)
 
 <a href="#hiatus"></a>
 ###Fellowships on hiatus
-Our fellowships will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch. In early 2017, we will have a bunch of other exciting updates to share about OpenNews as well, so stay tuned.
+Our fellowships will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch. 
 
 ###Why work in journalism?
 Journalism has a disproportionately strong influence on [the web we inhabit](/blog/fellowships-open-web). It shapes the web through code developed in newsrooms, like [Django](https://www.djangoproject.com/) and [Backbone.js](http://backbonejs.org/). Journalism also works at an editorial scale few other industries can match—millions of readers engage with reporting every day, from stories that amuse to investigations and analysis that leads to meaningful changes in our communities.
