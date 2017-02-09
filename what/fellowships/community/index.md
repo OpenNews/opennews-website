@@ -7,9 +7,9 @@ section: fellowships
 
 <p class="caption"> All of our 33 Fellows</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Our Fellows spend 10 months working with a partner news organization, contributing to and learning from the journalism code community. A growing community of fellowship alumni also welcomes and supports each new cohort. Fellows share their curiosity,  code, and insights during their fellowship and beyond.
+<p class="bodybig">Our Fellows spend 10 months working with a partner news organization, contributing to and learning from the journalism code community. A growing community of fellowship alumni also welcomes and supports each new cohort. Fellows share their curiosity,  code, and insights during their fellowship and beyond.</p>
 
-The fellowship is on hiatus for 2017, but you can meet our five cohorts of fellows.</p>
+<p>The fellowship is on hiatus for 2017, but you can meet our five cohorts of fellows.</p>
 
 Meet our fellows: [2016](/what/fellowships/2016meet) | [2015](/what/fellowships/2015meet) | [2014](/what/fellowships/2014meet) | [2013](/what/fellowships/2013meet) | [2012](/what/fellowships/2011meet)
 
