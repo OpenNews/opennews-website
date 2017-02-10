@@ -4,12 +4,12 @@ title: Hello Again. New Source for You.
 date: 2017-2-09 12:00
 author: Erin Kissane
 tags: Source
-excerpt: Along with our <a href="/blog/new-opennews/">other announcements today</a> Source launched with a new look, new setup, and new features.
+excerpt: Along with our other announcements today Source launched with a new look, new setup, and new features.
 published: true
 ---
 <img src="/media/img/blog/source-announce-photo.jpg" style="width: 100%;" alt="an alarm clock, time to wake up">
 
-<p><em>Cross-posted from our <a href="https://source.opennews.org/articles/hello-again/">website Source</a></em>.</p>
+<p><em>Cross-posted from our <a href="https://source.opennews.org/articles/hello-again/">community site, Source</a></em>.</p>
 <p>Source is changing shape. We&#8217;ll write more about our new design, and about the tech changes underneath it, next week—Ryan and Lindsay and I had the good fortune to collaborate with <a href="https://ethanmarcotte.com/">Ethan Marcotte</a>, which is why it&#8217;s so damn pretty and well behaved—and this morning I want to call out a couple of underlying organizational and editorial changes. </p>
 
 <p>Source is published by <a href="http://opennews.org">OpenNews</a>, a project incubated at Mozilla and funded by the Knight Foundation to support and strengthen the community working on open technologies and processes in journalism. As of today, OpenNews is independent, working as a project of Community Partners, a nonprofit fiscal sponsor. You can <a href="https://opennews.org/blog/new-opennews/">read about our new setup and the programs and events we&#8217;ll be offering</a>—and get the just-released dates and location for SRCCON 2017—<a href="https://opennews.org/blog/new-opennews/">at our blog</a>.</p>
