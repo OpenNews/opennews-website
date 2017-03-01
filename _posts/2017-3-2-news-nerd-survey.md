@@ -8,7 +8,7 @@ excerpt: Over 500 of you responded to our survey about the journalism-tech commu
 published: true
 ---
 
-<img src="/media/img/blog/news-nerd-brainstorm-srccon2015.jpg" style="width: 100%;" alt="SRCCON participants with plentiful post its">
+<img src="/media/img/news-nerd-brainstorm-srccon2015.jpg" style="width: 100%;" alt="SRCCON participants with plentiful post its">
 <p class="caption" style="margin-top: 5px;">SRCCON 2015 participants brainstorm topics for the news nerd survey.</p>
 
 As hundreds of members of the journalism-tech community descend on Jacksonville for the [National Institute for Computer-Assisted Reporting](http://www.ire.org/conferences/nicar2017/) conference, we wanted to share results from a recent community survey.
