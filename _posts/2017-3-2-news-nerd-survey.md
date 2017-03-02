@@ -3,7 +3,7 @@ layout: blogpost
 title: Who are the news nerds?
 date: 2017-3-2 14:00
 author: Erika Owens
-tags: surey
+tags: survey
 excerpt: Over 500 of you responded to our survey about the journalism-tech community. Here are the results of the inaugural news nerd survey. 
 published: true
 ---
