@@ -9,11 +9,11 @@ section: what we do
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/blog/ticket-travel-scholarship/">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
 
-<!--<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSfoFyExp32Fv-MVqxzbRLmhLLYynUOyPAoJLPYi6v_M_8XS0A/viewform">Applications are open until January 13</a>.</p>-->
+<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Applications are open until March 17</a>.</p>
 
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. Our next application will open on March 7. 
+Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events.
 
-<!--<a href="https://docs.google.com/forms/d/e/1FAIpQLSfoFyExp32Fv-MVqxzbRLmhLLYynUOyPAoJLPYi6v_M_8XS0A/viewform">Apply now</a>.-->
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Apply now</a>.
 
 ### What we're offering
 
@@ -47,7 +47,7 @@ If there's an event that you think would help increase your participation in the
 Yep! The application is open to everyone. We welcome applications from any country. And you can apply for a scholarship to attend events outside of the US, too.
 
 **When will I receive my scholarship?**<br>
-When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, you will need to send us an invoice and a W-9, and our administrators will process the payment. It may take a month or so for check processing.
+When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, we'll ask you to fill out a form to receive a stipend and a form to gather your W-9 details. Our administrators will process the payment. It may take a month or so for check processing.
  
 **What if I need more than $500 for my travel?**<br>
 We’re able to offer $500 scholarships at this time. Many events and professional organizations offer their own scholarship programs as well. Or maybe your event has things like a room share board to help cut down on costs.
