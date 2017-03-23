@@ -9,11 +9,11 @@ section: what we do
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/blog/ticket-travel-scholarship/">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
 
-<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Applications are open until March 17</a>.</p>
+<!--<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Applications are open until March 17</a>.</p>-->
 
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events.
+Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. Check back on June 26 for our third application this year.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Apply now</a>.
+<!--<a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Apply now</a>.-->
 
 ### What we're offering
 
@@ -59,7 +59,7 @@ We know that a lot of important work, sharing, and learning happens at in-person
 OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in journalism and technology, as well as from people who would be unable to speak at or majorly contribute to an event without the scholarship.
 
 **What about your conference, SRCCON?**<br>
-We run a separate scholarship process for that event and will have more details about that later this year.
+We run a separate scholarship process for that event. You can find [more information on the SRCCON site](https://srccon.org/scholarships/).
 
 ### Questions?
 If you have any additional questions that we didn't cover here, just [email us](mailto:info@opennews.org).
