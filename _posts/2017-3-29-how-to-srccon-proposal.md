@@ -25,10 +25,10 @@ As you may have already concluded, this is a pretty important section of the pro
 * **We expect to receive more than one great proposal for some popular topics. If someone else proposes a session similar to this one and we want to accept both, would you be willing to co-lead a combined session with that person?** - we receive many more proposals than we have space for in the SRCCON schedule. Merging sessions on similar topics helps us involve more folks as facilitators. If we see an opportunity to merge a session, OpenNews staff coordinates with both parties and is on-hand to help make the collaboration easier.
 * **Does this session need a co-facilitator?** - would you like to plan and run your session with someone else? Unlike a panel presentation, you don't need to have a whole bunch of people on your session to represent all possible perspectives--the folks in the room will bring that to the conversation. But a co-facilitator may bring a complementary experience or skillset to your session--maybe they love facilitation or have a lot of energy or always ask questions that your brain loves. It's up to you whether you need, or would just prefer, to have a facilitator. If you would like one, but don't know who, we can help with that.
 
-## About your co-facilitator
+### About your co-facilitator
 If you already have a co-facilitator in mind, you'll see a few questions about that person. Please give us as much information about your co-facilitator as possible. This will help us reach out to the person (especially if you don't have an email address handy). After the call for proposals closes, we will reach out to the co-facilitator to gather their personal information.
 
-Also, if you're thinking about pitching with a co-facilitator who has a few session ideas, that's great! When we build the schedule, we plan for each person to facilitate one session only so that we can involve a wider array of facilitators and so no one is over-burdened with session responsibilities. If the same person is co-facilitator on multiple sessions we want to accept, we will suggest a way to include everyone and may suggest a new co-facilitator for one of the sessions.
+Also, if you're thinking about pitching with a co-facilitator who has a few session ideas, that's great! When we build the schedule, we try to avoid having facilitators work on more than one session each—it keeps people from being overburdened with responsibilities, makes sure session leaders get to fully participate in the conference, and helps us involve a wider array of facilitators at SRCCON. If the same person is co-facilitator on multiple sessions we want to accept, we will suggest a way to include everyone and may suggest a new co-facilitator for one of the sessions.
 
 ## About you
 * **Your name** - whatever name, or version of your name, you would like listed with your session on the session proposals page.
@@ -36,12 +36,12 @@ Also, if you're thinking about pitching with a co-facilitator who has a few sess
 * **Organizational affiliation** - let us know where you work. We're interested in making sure that a variety of news organizations are well represented at SRCCON, especially smaller market and non-coastal news organizations.
 * **Have you attended SRCCON before?** - we aim to make SRCCON welcoming for returning participants and new attendees alike. This question helps us ensure that there's a good mix of SRCCON experience levels.
 
-## Demographics
+### Demographics
 
 * **Do you identify as a:** - this question is strictly optional and confidential. We aim to have a mix of SRCCON participants and want to ensure that people of color, women, and members of other underrepresented groups in journalism tech are well represented at SRCCON.
 * **Group(s) underrepresented in journalism or technology:** - if you selected the "Member of a group underrepresented in journalism or technology, details below" option on the previous question, then this question pops up. We know that gender and race are not the only dimensions of identity and this is a place to share any other details you feel comfortable sharing that may be relevant to your experience in this field and at a conference.
 
-## Travel support
+### Travel support
 
 * **Would you like to be considered for a SRCCON scholarship?** - this year we folded our travel scholarship application into the session proposal form. If you answer yes to this question, a bunch of scholarship-related questions will appear. This scholarship exists to help people--in particular members of underrepresented groups and staff of smaller/non-coastal newsrooms--afford to attend SRCCON. Your answer to this question will not affect the review of your session proposal. The scholarship review process is separate from the session review process.
 * **What interests you about participating in this year's SRCCON?** - we're curious about what makes attending SRCCON now important to you and your career. We have a limited number of scholarships, and your answers to these questions help us figure out how to prioritize applications.
