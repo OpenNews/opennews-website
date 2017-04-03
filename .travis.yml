@@ -1,12 +1,15 @@
 language: ruby
 rvm:
-  - 2.1
+- 2.1
 install: gem install jekyll -v 3.3.0 && gem install jekyll-redirect-from && gem install rdiscount && gem install s3_website
 script: jekyll build
 after_success:
-  - test $TRAVIS_BRANCH = "staging" && s3_website push --config-dir=_config/staging/
-  - test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
+- test $TRAVIS_BRANCH = "staging" && s3_website push --config-dir=_config/staging/
+- test $TRAVIS_BRANCH = "master" && s3_website push --config-dir=_config/production/
 branches:
   only:
   - staging
   - master
+notifications:
+  slack:
+    secure: fdcdMd6DyBtsx7NaIlg3m80S/ZHyfgoKr7nMte08/U/83gblnQ9LGHwWzJiorEx4k8uB+MJ1Y7rle2MBbcgohtjoLM7o1jXpXNt636K/z8wlqyxT5rzGWTasTEWMUcxaKvrOPC3FI1zvIMNtwCjZGjyaphW8oXnJ8PeN8J+KvpVVjxF8TZ7A7uukfVmyUsuVebqCBNu6U1Udls2zaFxudD0rDXlxaaH+CtTkzH27M1ihVuRvrJ3T5fU0YSJqVPpC5se8+NWMNa4WmM5TQc2LYGNPqVmHOqOHGpvhUg8epIRNqVaCk3TMMO2LsjkLg7EpMdrW4Nm/eSy7Iy/KIpCRpOZYE8hvk/qB/BiU/6DK6EnCn2JxLMgU5h/CWJft/MVKLJx3ECLZOxSmiDezh6XeVY/E4Ov9TXowYEaxbWkCUEZPpq2u/U8w80FUDqy8bP/GBtPV9Iu4wp3zrj/f9JFubFcKIUF91hXYIK0dcb2axQNyG6HyO9AR6a3n67h2T+7uFTJ5ourffzbhxzzyFKKf8RA2b490uaZv+ikH9DfUZjq1O3wbxmTjvoTGq1b+Abyv0l2N9RqUBg2vuPuqg1YVFVKVNkeoADxuBd84n/qO7XpE3D9D2gmSmlg+XqaJ1jwNv/2pjgkZKnYCHk6ePU5ZrgsK8zmZk+NETBOKzlnmOfs=
