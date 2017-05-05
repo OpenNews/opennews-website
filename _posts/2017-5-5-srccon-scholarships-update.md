@@ -1,21 +1,21 @@
 ---
 layout: blogpost
-title: Updating SRCCON scholarships to reach even more participants
+title: Updating SRCCON scholarships for more participants
 date: 2017-05-05 12:00
 author: Erika Owens
 tags: SRCCON
-excerpt: This year we've expanded our scholarship offerings to help get even more people to SRCCON.
+excerpt: This year we've expanded our scholarship offerings and made it easier to apply.
 
 ---
 <img src="/media/img/blog/srccon16-1.jpg" style="width: 100%;">
 <p class="caption" style="margin-top: 5px;">Scholarships will help more than 10% of the SRCCON crowd get to the event and participate in these big group meals. (photo/Erik Westra)</p>
 
-Each year with [SRCCON](https://srccon.org), we reflect and make adjustments from the prior year in an effort to make the event even more welcoming and accessible. That shapes everything from the food to the locations we select, and of course how we help people participate in SRCCON. We know that money can be a barrier to participating in an event like SRCCON--travel costs add up fast, and some participants even have to take unpaid time off to attend. 
+Each year with [SRCCON](https://srccon.org), we reflect and make adjustments from the prior year to make the event even more welcoming and accessible. That shapes everything from the food to the locations we select, and of course how we help people participate in SRCCON. We know that money can be a barrier to participating in an event like SRCCON--travel costs add up fast, and some participants even have to take unpaid time off to attend. 
 
 Right from the start, we knew [travel scholarships](https://srccon.org/scholarships) would be an important way to help overcome this barrier. This year we were able to make a few changes to our scholarship program, with the goal of helping even more folks--in particular from under-represented communities in journalism tech and from smaller and non-coastal newsrooms--access the networking and learning that happens at SRCCON.
 
 ## More scholarships
-So, of course, the most straightforward way to help more people is to offer more scholarships. Last year, we could have given all of our available scholarships to session facilitators only. We didn't want to do that because not everyone feels able to pitch a session, especially if they haven't attended a conference before (I know I sure don't!) so we made sure we set some of our scholarships aside for participants.
+So, of course, the most straightforward way to help more people is to offer more scholarships. Last year, we could have given all of our available scholarships to session facilitators only. We didn't want to do that because not everyone feels able to pitch a session, especially if they haven't attended a conference before (I know I sure don't!). We made sure we set some of our scholarships aside for participants.
 
 With the help of some adept sponsorship fundraising, we were able to find support for our first-ever faciliator scholarships, supported by the New York Times. These scholarships joined the renewed support (all four years running!) from WordPress for participant scholarships. With the contributions of two major sponsors, we were able to double the amount of scholarships we have to offer this year.
 
@@ -35,6 +35,6 @@ For scholarship recipients, this is largely invisible. Free tickets are included
 ## Taking intentional steps
 As with [many facets of SRCCON](/blog/srccon-sessions/), scholarships are an important part of how we put our values of inclusion and accessibility into action. We want to make sure that SRCCON is an event that includes the diversity of the communities we serve—geographically, demographically, experientially, and more. We also know that won't happen without us taking proactive, intentional steps to ensure that at every stage of the preparation and planning of SRCCON, we are taking into account the needs of those communities and finding ways to address them. It's not a "nice to have" to make sure that money isn't a barrier to community members participating in SRCCON, it's a "must have."
 
-We're grateful to our sponsors for helping to make this possible and to the community members who bring their wisdom and curiosity to SRCCON every year. If you're interested in attending this year's SRCCON, August 3 and 4 in Minneapolis, the ticket lottery form (complete with scholarship application!) is open from May 3 to noon ET on May 10. [Apply now](https://srccon.org/tickets).
+We're grateful to our sponsors for helping to make this possible and to the community members who bring their wisdom and curiosity to SRCCON every year. If you're interested in attending this year's SRCCON, it's August 3 and 4 in Minneapolis, and the ticket lottery form (complete with scholarship application!) is open from May 3 to noon ET on May 10. [Apply now](https://srccon.org/tickets).
 
 
