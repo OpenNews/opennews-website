@@ -21,6 +21,10 @@ Every two weeks, we host an open conference call for the international news code
 
 We know events are an important part of how the journalism-code community learns and shares with one another. Money shouldn't get in the way of attending a great event, and we want to help. [Learn more about our travel scholarship program](scholarships).
 
+### [Hubs](hubs)
+
+In addition to in-person events, the journalism code-community gathers in Slack channels and list servs to compare notes and solve problems. [Learn more about these online hubs](hubs).
+
 ### Community Survey
 
-In 2016, we conducted the first community survey of people working in journalism technology. The survey was planned by community members Brian Hamman and Scott Klein and developed by the research firm Network Impact. We will release the results at the 2017 NICAR conference and conduct a followup survey later in the year.
+In 2016, we conducted the first community survey of people working in journalism technology. The survey was planned by community members Brian Hamman and Scott Klein and developed by the research firm Network Impact. We [released the results at the 2017 NICAR conference](https://opennews.org/blog/news-nerd-survey/) and conduct a followup survey later in the year.
