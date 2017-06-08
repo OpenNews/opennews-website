@@ -9,11 +9,11 @@ section: what we do
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/blog/ticket-travel-scholarship/">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
 
-<!--<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Applications are open until March 17</a>.</p>-->
+<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Applications are open until June 26</a>.</p>
 
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. Check back on June 26 for our third application this year.
+Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. 
 
-<!--<a href="https://docs.google.com/forms/d/e/1FAIpQLScz9QJB48-G6JZwU6G6XKae-gXva1TUcdFl5eHBc1I94aSQCg/viewform">Apply now</a>.-->
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Apply now</a>.
 
 ### What we're offering
 
@@ -22,10 +22,13 @@ Whether you're a newsroom developer at a small organization with a strained prof
 
 ### When applications are open
 
-Our first batch of applications closed on January 13. We will have two more applications this year:
+Applications are open now till June 26. We will notify all applicants by June 30.
 
-* Applications will open March 7 and close on March 17. We will notify all applicants by March 24.
-* Applications will open June 26 and close on July 7. We will notify all applicants by July 14.
+We had two earlier batches of applications this year:
+* Our first application closed on January 13. 
+* Our seciond application closed on March 17.
+
+Please note, we moved up the deadline for this third round slightly in order to notify participants heading to July events.
 
 ### Who should apply
 * Anyone who is part of the journalism code community such as developers, designers, and data analysts working in newsrooms.
@@ -43,6 +46,22 @@ You tell us how it went! We'll send you a short follow-up survey and will be exc
 **What types of events are covered for travel?**<br>
 If there's an event that you think would help increase your participation in the journalism code community, you should tell us about it and apply for the scholarship. 
 
+### July
+
+* July 19-21: [TextA/V](https://www.eventbrite.com/e/text-av-tickets-33278916134) 
+* July 26-29: [Asian American Journalists Association conference](https://www.aaja17.org/schedule/)
+
+### August
+
+* August 9-13: [National Association of Black Journalists conference](https://www.nabjconvention.com)
+* August 17-19: [WordCamp for Publishers](https://2017-denver.journalist.wordcamp.org/)
+
+### September and beyond
+
+* September 7-9: [Excellence in Journalism conference](http://excellenceinjournalism.org/) (with the National Association of Hispanic Journalists and the Native American Journalist Association)
+* September 13-15: [Hacks/Hackers Buenos Aires Media Party](http://mediaparty.info/)
+* October 5-7: [Online News Association conference](https://ona17.journalists.org/)
+
 **Can people outside of the US apply for the scholarship?**<br>
 Yep! The application is open to everyone. We welcome applications from any country. And you can apply for a scholarship to attend events outside of the US, too.
 
@@ -56,10 +75,11 @@ We’re able to offer $500 scholarships at this time. Many events and profession
 We know that a lot of important work, sharing, and learning happens at in-person events. It's not easy for everyone to get to those events though, no matter how valuable they may be. We know that travel costs can be a hardship, and [offer this scholarship as a way to help mitigate that](/blog/ticket-travel-scholarship).
 
 **How do you decide who will receive a scholarship?**<br>
-OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in journalism and technology, as well as from people who would be unable to speak at or majorly contribute to an event without the scholarship.
+OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**<br>
 We run a separate scholarship process for that event. You can find [more information on the SRCCON site](https://srccon.org/scholarships/).
 
 ### Questions?
 If you have any additional questions that we didn't cover here, just [email us](mailto:info@opennews.org).
+
