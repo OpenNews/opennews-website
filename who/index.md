@@ -20,6 +20,9 @@ sub-section: index
 ### Erin Kissane, Editorial Lead
 <img src="/media/img/staff/kissane.jpg" class="headshot"> Erin is a writer, editor, and longtime open-web nerd. She joined OpenNews in early 2012 to build [Source, a community-driven publication for code in journalism](http://source.opennews.org), and currently oversees content and editorial work for OpenNews. Previously, she was editorial director at award-winning web agency [Happy Cog Studios](http://happycog.com/), editor of [*A List Apart* magazine](http://alistapart.com/), and a consultant to agencies, publishers, and nonprofits large and small. She is the author of *The Elements of Content Strategy* and speaks about online community, web publishing, and the open internet at conferences worldwide. She lives in Brooklyn and tries to spend as much time as possible in London and Portland, OR. (<a href="mailto:erin@opennews.org">erin@opennews.org</a>)
 
+### Lindsay Muscato, Assistant Editor for Source
+<img src="/media/img/staff/muscato.jpg" class="headshot"> Lindsay is a writer and editor based in Brooklyn who joined OpenNews and Source in 2015. Before that, she spent a decade in Chicago on innovative projects in the arts, youth media, design, and civic tech — producing work on issues such as gun violence, health disparities, and user testing for civic apps. She also spent a year in Cambodia as a leadership resident with the Harpswell Foundation, where she lived and worked alongside Cambodian university students. She's been a believer in the open web since 1996, when she made her first website after school one day. She's originally from Buffalo, New York. (<a href="mailto:lindsay@opennews.org">lindsay@opennews.org</a>)
+
 ## [Our History](/who/history/)
 
 OpenNews began as a partnership between the Knight Foundation and the Mozilla Foundation in 2011. [Learn more about our program's history.](/who/history/)
