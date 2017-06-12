@@ -9,7 +9,7 @@ section: what we do
 Jared Tarbell
 )</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">Journalists love a good conference, but our quandries don't always wait till the next big event. Luckily, there are online hubs that are active throughout the day where community members support each other with strategizing, problem solving, and ample GIFs. </p> 
+<p class="bodybig">Journalists love a good conference, but our quandries don't always wait till the next big event. Luckily, there are active online hubs where community members support each other with strategizing, problem solving, and ample GIFs. </p> 
 
 ### Slacks and email, oh my
 
@@ -20,4 +20,6 @@ News nerds from news organizations large and small find community and advice wit
 * [News Nerdery](http://newsnerdery.org/) - this Slack has over 1,300 memebers of the journalism-tech community from around the world, who chat in over 40 topical and geographic channels. 
 * [Lonely Coders Club](https://lcc-slack.herokuapp.com/) - this Slack has over 200 members who identify as "lonely coders," technologists who are alone or one of just a few folks in their newsroom who work with tech and data.
 
-These groups provide important advice and support for community members, especially those who do not have mentors nearby in their newsroom (or even in their city). Members of OpenNews staff participate in each of these communities and we seek out ways to support their work, such as organizing a track of small-group conversations at the NICAR conference and hosting an annual in-person lunch for the Lonely Coders Club. Do you run another online community that serves people working in journalism tech? [Email us](mailto:erika@opennews.org) so we can add it to this list.
+These groups provide important advice and support for community members, especially those who do not have mentors nearby in their newsroom (or even in their city). Members of OpenNews staff participate in each of these communities and we seek out ways to support their work, such as organizing a track of small-group conversations at the NICAR conference and hosting an annual in-person lunch for the Lonely Coders Club. 
+
+Do you run another online community that serves people working in journalism tech? [Email us](mailto:erika@opennews.org) so we can add it to this list.
