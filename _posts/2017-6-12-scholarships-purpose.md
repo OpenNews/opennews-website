@@ -7,8 +7,8 @@ tags: SRCCON
 excerpt: Our Ticket+Travel scholarship application is open again and we wanted to tell you more about why and how we created this program.
 
 ---
-<img src="/media/img/blog/srccon16-1.jpg" style="width: 100%;">
-<p class="caption" style="margin-top: 5px;">Scholarships will help more than 10% of the SRCCON crowd get to the event and participate in these big group meals. (photo/Erik Westra)</p>
+<img src="/media/img/blog/hhba2016.jpg" style="width: 100%;">
+<p class="caption" style="margin-top: 5px;">At events like the Hacks/Hackers Buenos Aires Media Party, participants become friends so quickly that they'll even stand in the rain together for photos. (photo/ramiro c.)</p>
 
 It sometimes seems that you could go to a journalism conference every day of the year. This is not a field that lacks for opportunities to attend panels, teach at workshops, and swap notes in hallway conversations. But funds to attend conferences remain a barrier to participation for many members of the journalism-tech community.
 
@@ -31,17 +31,17 @@ These resources showed me a variety of application styles and grant or scholarsh
 
 ### Iterative approach
 
-Being responsive to community members is important to us, so we have built systems to allow us to iterate.  We provide time to reflect and make updates before launching a new application, to ensure we have space to listen to participants and improve our program. In addition, we learn across our programs, such as pulling from our SRCCON scholarship process or keeping an eye on conferences and topics of interest from coverage on Source.
+Being responsive to community members is important to us, so we have built systems to allow us to iterate. We provide time to reflect and make updates before launching a new application, to ensure we have space to listen to participants and improve our program. In addition, we learn across our programs, such as pulling from our [SRCCON scholarship process](/blog/srccon-scholarship-process-admin/) or keeping an eye on conferences and topics of interest from [coverage on Source](https://source.opennews.org/).
 
 We ask participants about their experience after the event and we feed their responses into updates for the next time. This feedback encourage us to test out things like a lunch for scholarship recipients at NICAR and sharing the contact information of recipients (with permission!).
 
 ### Emphasizing diversity and inclusion
 
-One of the reasons we created the scholarship program is to support people from under-represented backgrounds in attending journalism-tech events. Programs like [the Ida B. Wells Society](https://knightfoundation.org/articles/how-the-ida-b-wells-society-is-working-to-diversify-the-ranks-of-investigative-reporters) grew out of the fact that at many journalism conferences, a small number of journalists of color are there. The Ida B. Wells Socity works to fix that by creating new resources, including an investigative reporting boot camp series to for journalists of color. We're doing our part  by helping journalists, in particular members of under-represented groups, attend existing events in the community. Our scholarship program helps people attend events like the Asian American Journalists Association's Executive Leadership Program as well as the National Instiute for Computer Assisted Reporting annual conference.   
+One of the reasons we created the scholarship program is to support people from under-represented backgrounds in attending journalism-tech events. Programs like [the Ida B. Wells Society](https://knightfoundation.org/articles/how-the-ida-b-wells-society-is-working-to-diversify-the-ranks-of-investigative-reporters) grew out of the fact that at many journalism conferences, a small number of journalists of color are there. The Ida B. Wells Socity works to fix that by creating new resources, including an investigative reporting boot camp series for journalists of color. We're doing our part by helping journalists, in particular members of under-represented groups, attend existing events in the community. Our scholarship program helps people attend events like the Asian American Journalists Association's Executive Leadership Program as well as the National Instiute for Computer Assisted Reporting annual conference.   
 
 Nearly 80% of OpenNews Ticket+Travel scholarship recipients identify as a person of color and/or woman. Many recipients come from smaller and less-resourced newsrooms that have particularly tight budgets and would benefit most from staff who bring back knowledge and connections from the wider field. As the recipient quoted above notes, attending events on a scholarship can be a step to speaking the next time and thereby building the leadership and visibility of recipients. 
 
-We know that [events are an important place for learning and networking](/blog/ticket-travel-scholarship/). We also know that access to these events is not equitably distributed, so it is through this scholarship that we seek to mitigate barriers to entry to the exact journalism events that can be career defining, as they were for many of us.
+We know that [events are an important place for learning and networking](/blog/ticket-travel-scholarship/). We also know that access to these events is not equitably distributed. Through this scholarship we seek to mitigate barriers to entry to the exact journalism events that can be career defining, as they were for many of us.
 
 The application for our current round of scholarship is open till [June 26](/what/community/scholarships). Please apply and help us spread the word.
 
