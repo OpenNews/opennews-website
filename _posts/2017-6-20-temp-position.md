@@ -10,6 +10,7 @@ excerpt: OpenNews is hiring a part-time program and communications coordinator o
 OpenNews is hiring a part-time program and communications coordinator on an hourly, temporary basis through the end of 2017. The program and communications coordinator will work with our deputy director to manage the internal and external communications of OpenNews' activities.
  
 Responsibilities include:
+
 * coordinate outreach and participant emails and notifications for SRCCON, convenings, and other OpenNews activities
 * help compile existing documentation for communications, program planning, and use in drafting event communications
 * with direction and editorial support, write blog posts and other short pieces about OpenNews activities and mission
