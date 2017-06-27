@@ -9,11 +9,11 @@ section: what we do
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/blog/ticket-travel-scholarship/">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
 
-<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Applications are open until June 26</a>.</p>
+<!--<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Applications are open until June 26</a>.</p>-->
 
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. 
+Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. We've closed our third, and final, scholarship application for this year. <a href="http://eepurl.com/czSVTL">Join our email list</a> to find out about when the next application will open.
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Apply now</a>.
+<!--<a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Apply now</a>.-->
 
 ### What we're offering
 
@@ -22,13 +22,11 @@ Whether you're a newsroom developer at a small organization with a strained prof
 
 ### When applications are open
 
-Applications are open now till June 26. We will notify all applicants by June 30.
+Our third application was open until June 26. We notified all applicants by June 30.
 
 We had two earlier batches of applications this year:
 * Our first application closed on January 13. 
-* Our seciond application closed on March 17.
-
-Please note, we moved up the deadline for this third round slightly in order to notify participants heading to July events.
+* Our second application closed on March 17.
 
 ### Who should apply
 * Anyone who is part of the journalism code community such as developers, designers, and data analysts working in newsrooms.
@@ -44,7 +42,7 @@ You tell us how it went! We'll send you a short follow-up survey and will be exc
 ## FAQ
 
 **What types of events are covered for travel?**<br>
-If there's an event that you think would help increase your participation in the journalism code community, you should tell us about it and apply for the scholarship. 
+If there's an event that you think would help increase your participation in the journalism code community, you should tell us about it and apply for the scholarship. For the third application, some of the events people applied for support to attend included:
 
 ### July
 
@@ -60,7 +58,9 @@ If there's an event that you think would help increase your participation in the
 
 * September 7-9: [Excellence in Journalism conference](http://excellenceinjournalism.org/) (with the National Association of Hispanic Journalists and the Native American Journalist Association)
 * September 13-15: [Hacks/Hackers Buenos Aires Media Party](http://mediaparty.info/)
+* September 14-16: [Digital Humanities + Data Journalism Symposium](http://dhdjmiami.com/)
 * October 5-7: [Online News Association conference](https://ona17.journalists.org/)
+* October 13-14: [Computation+Journalism Symposium](http://cj2017.northwestern.edu/)
 
 **Can people outside of the US apply for the scholarship?**<br>
 Yep! The application is open to everyone. We welcome applications from any country. And you can apply for a scholarship to attend events outside of the US, too.
