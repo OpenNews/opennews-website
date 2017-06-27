@@ -25,6 +25,7 @@ Whether you're a newsroom developer at a small organization with a strained prof
 Our third application was open until June 26. We notified all applicants by June 30.
 
 We had two earlier batches of applications this year:
+
 * Our first application closed on January 13. 
 * Our second application closed on March 17.
 
