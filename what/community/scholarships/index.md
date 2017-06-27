@@ -47,7 +47,7 @@ If there's an event that you think would help increase your participation in the
 
 ### July
 
-* July 19-21: [TextA/V](https://www.eventbrite.com/e/text-av-tickets-33278916134) 
+* July 19-21: [TextA/V](http://textav.tech/) 
 * July 26-29: [Asian American Journalists Association conference](https://www.aaja17.org/schedule/)
 
 ### August
@@ -62,6 +62,7 @@ If there's an event that you think would help increase your participation in the
 * September 14-16: [Digital Humanities + Data Journalism Symposium](http://dhdjmiami.com/)
 * October 5-7: [Online News Association conference](https://ona17.journalists.org/)
 * October 13-14: [Computation+Journalism Symposium](http://cj2017.northwestern.edu/)
+* November 2-4: [Berliner Gazette Annual Conference: Friendly Fire](https://berlinergazette.de/friendly-fire/)
 
 **Can people outside of the US apply for the scholarship?**<br>
 Yep! The application is open to everyone. We welcome applications from any country. And you can apply for a scholarship to attend events outside of the US, too.
