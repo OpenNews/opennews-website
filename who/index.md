@@ -23,6 +23,18 @@ sub-section: index
 ### Lindsay Muscato, Assistant Editor for Source
 <img src="/media/img/staff/muscato.jpg" class="headshot"> Lindsay is a writer and editor based in Brooklyn who joined OpenNews and Source in 2015. Before that, she spent a decade in Chicago on innovative projects in the arts, youth media, design, and civic tech — producing work on issues such as gun violence, health disparities, and user testing for civic apps. She also spent a year in Cambodia as a leadership resident with the Harpswell Foundation, where she lived and worked alongside Cambodian university students. She's been a believer in the open web since 1996, when she made her first website after school one day. She's originally from Buffalo, New York. (<a href="mailto:lindsay@opennews.org">lindsay@opennews.org</a>)
 
+### B Cordelia Yu, program and communications coordinator
+B Cordelia Yu is a content & editorial strategist and independent researcher at the intersection of social justice, civic tech, public policy, and digital design. They help organizations build inclusive editorial teams and products to foster democratic communities and expanding access to communities of knowledge. Their [research](http://tinyletter.com/thebestsophist) is in creating models for open governance and technology-mediated deliberative democratic practices. They joined OpenNews for the second half of 2017.
+
+## Our Advisory Board
+
+* Trei Brundrett of Vox Media
+* Tiff Fehr of The New York Times
+* Dawn Garcia of the John S. Knight Fellowship
+* Aron Pilhofer of Temple University
+* Michelle Srbinovich of Detroit Public Radio
+* Aaron Williams of The Washington Post
+
 ## [Our History](/who/history/)
 
 OpenNews began as a partnership between the Knight Foundation and the Mozilla Foundation in 2011. [Learn more about our program's history.](/who/history/)
