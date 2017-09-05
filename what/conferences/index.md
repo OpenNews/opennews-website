@@ -24,6 +24,6 @@ We host events designed to provide space for those conversations and collaborati
 These cohort-driven convenings give a small group of participants a chance to explore tough questions and projects, together. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more](/what/conferences/convenings).
 
 <img src="/media/img/mozfestpano.jpg" class="topline section">
-## [Journalism at the Mozilla Festival](mozfest)
+## [Journalism and the Mozilla Festival](mozfest)
 
-The OpenNews team organizes the journalism sessions at the [Mozilla Festival](https://2015.mozillafestival.org/),  an annual festival of the open internet in London. The journalism sessions at MozFest bring together journalists and developers from around the world for two days of hands-on knowledge sharing and conversation. [Learn more.](mozfest)
+The OpenNews team organizes journalism sessions at and before the [Mozilla Festival](https://mozillafestival.org/), an annual festival of the open internet in London. These journalism sessions bring together journalists and developers from around the world for hands-on knowledge sharing and conversation. [Learn more.](mozfest)
