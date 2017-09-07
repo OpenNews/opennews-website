@@ -14,9 +14,9 @@ We host events designed to provide space for those conversations and collaborati
 
 <img src="/media/img/srccon-tiff-michael-erik-westra.jpg" class="topline section">
 <p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
-## [SRCCON, the OpenNews Conference](srccon)
+## [SRCCON Events](srccon)
 
-[SRCCON](srccon) is a hands-on conference focused on the practical challenges news technology and data teams encounter every day. We welcome participants from all fields—if you want to strengthen journalism online, we want you there. The conference returns in August 2017 for its fourth year, plus at the end of 2017 we'll have a bonus smaller topical SRCCON, too. [Find out more.](srccon)
+[SRCCON](srccon) is our largest event, a hands-on conference focused on the practical challenges news technology and data teams encounter every day. In August, we hosted our fourth SRCCON, and participants [tackled everything from hiring technical staff to caregiving](https://source.opennews.org/articles/tags/srccon-2017/). This year, we're hosting our first-ever SRCCON:WORK to explore how we as a community can help each other take on the hard work of journalism. [Find out more](srccon).
 
 <img src="/media/img/code-convening-postits.jpg" class="topline section">
 ## [Code, Culture, and Leadership Convenings](/what/conferences/convenings)
@@ -24,6 +24,6 @@ We host events designed to provide space for those conversations and collaborati
 These cohort-driven convenings give a small group of participants a chance to explore tough questions and projects, together. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more](/what/conferences/convenings).
 
 <img src="/media/img/mozfestpano.jpg" class="topline section">
-## [Journalism at the Mozilla Festival](mozfest)
+## [Journalism and the Mozilla Festival](mozfest)
 
-The OpenNews team organizes the journalism sessions at the [Mozilla Festival](https://2015.mozillafestival.org/),  an annual festival of the open internet in London. The journalism sessions at MozFest bring together journalists and developers from around the world for two days of hands-on knowledge sharing and conversation. [Learn more.](mozfest)
+The OpenNews team organizes journalism sessions at and before the [Mozilla Festival](https://mozillafestival.org/), an annual festival of the open internet in London. These journalism sessions bring together journalists and developers from around the world for hands-on knowledge sharing and conversation. [Learn more.](mozfest)
