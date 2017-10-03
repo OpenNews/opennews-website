@@ -26,13 +26,14 @@ With SRCCON:WORK, we're aiming to blend the intmacy of a covening with the scale
 Each year with SRCCON, we've iterated on [our approach to tickets](https://opennews.org/blog/srccon-lottery/). Given what we've learned from SRCCON and the need to be even more thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, we are not doing a lottery for SRCCON:WORK. On October 11, we will open a form with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October.
 
 In thinking about the why to attend SRCCON:WORK, we're focusing on participants who are seeking to make a change in their career or their workplace. What can it mean to make a change? It might include:
-hiring folks on your team
-balancing a bunch of different roles as you build your own leadership
-taking on a new career challenge
-figuring out how to make your own way
-developing strategies for how to help other people move up or give back to the community
-putting mental health and self care practices into place for  yourself or your team
-pushing for a policy change that will make your team or organization more inclusive, collaborative, and/or caring 
+
+- hiring folks on your team
+- balancing a bunch of different roles as you build your own leadership
+- taking on a new career challenge
+- figuring out how to make your own way
+- developing strategies for how to help other people move up or give back to the community
+- putting mental health and self care practices into place for  yourself or your team
+- pushing for a policy change that will make your team or organization more inclusive, collaborative, and/or caring 
 
 By focusing on practioners whose work is most affected by the themes we’re tackling we hope that SRCCON:WORK can be an incubator for long-term projects and ideas that people can take back to nurture more inclusive, responsive spaces in their newsrooms.
 
