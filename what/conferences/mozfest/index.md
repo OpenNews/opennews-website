@@ -14,7 +14,7 @@ This year, the journalism floor from the Mozilla Festival expands to the day bef
 Participants can [register now](https://www.eventbrite.com/e/opennews-journalism-tech-unconference-tickets-37647279025). In the coming weeks, we'll confirm some pre-planned sessions, and the majority of sessions will be decided that day. Throughout the day, we'll have the chance to discuss stories, strategies, and tools in sessions and over a group lunch.
 
 ## Journalism Tech Leading into MozFest
-MozFest begins early this year with events all week. In addition to the OpenNews unconference, there's a bunch of journalism-related events in London that week. Know of another event? [Let us know](mailto:erika@opennews.org).
+MozFest begins early this year with events all week. In addition to the OpenNews unconference, there are a bunch of journalism-related events in London that week. Know of another event? [Let us know](mailto:erika@opennews.org).
 
 * Monday, October 23 - [What is the future of adaptive narrative?](https://www.eventbrite.co.uk/e/what-is-the-future-of-adaptive-narratives-tickets-36828270348)
 * Tuesday, October 24-Wednesday October, 25 - [#newsHACK: Conversational User Interfaces (CUI)](https://www.eventbrite.co.uk/e/newshack-conversational-user-interfaces-cui-tickets-37237834365)
