@@ -4,14 +4,16 @@ title: SRCCON:WORK, space to care for and challenge one another
 date: 2017-10-04 09:00
 author: Erika Owens
 tags: srccon srcconwork
-excerpt: 
+excerpt: As we prepare for SRCCON:WORK, we want to share the confirmed sessions so far and details about the ticket process.
 
 ---
+<img src="/media/img/blog/srccon-conversation.jpg" style="width: 100%;">
+<p class="caption" style="margin-top: 5px;">Small group conversations will abound during our time in Philly, just like at this year's SRCCON. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 As we vacillate from one crisis to another, from one disaster, one series of buyouts, one tough day/week/month/year, our challenges compound and our resilience is taxed. I [spoke about this](https://source.opennews.org/articles/acknowledging-our-full-selves/) at SRCCON and in the months since, the danger and exhaustion for many of us has become even more acute. In December, we intend to create time and space for us to care for and challenge one another.
 
 ## Defining what we need and expect
-With SRCCON:WORK, we have the opportunity to spend two-days reflecting, strategizing, and, if we're lucky, even doing a little bit of healing. To come together as a group to work on questions related to career, collaboration, and mental health is an act of defiance itself, given the constant crisis mode, we have been thrown into. And this community is clearly emboldened—to pose and engage with questions we must confront to continue this work in an equitable, inclusive fashion.
+With SRCCON:WORK, we have the opportunity to spend two-days reflecting, strategizing, and, if we're lucky, even doing a little bit of healing. To come together as a group to work on questions related to career, collaboration, and mental health is an act of defiance itself, given the constant crisis mode that we have been thrown into. And this community is clearly emboldened—to pose and engage with questions we must confront to continue this work in an equitable, inclusive fashion.
 
 We're so grateful to everyone who submitted session ideas and who was willing to share their thoughts and experiences on hiring, privilege, recovery, and more. We're still building the full schedule, but you can check out the [remarkable sessions we've confirmed so far](https://work.srccon.org/sessions).
 
@@ -23,7 +25,7 @@ In addition to its topical focus, part of what makes SRCCON:WORK different from 
 
 With SRCCON:WORK, we're aiming to blend the intimacy of a convening with the scale of SRCCON. At about 100 people, this more intimate format means that not everybody can come and that we have to be even more intentional about equitably distributing tickets. 
 
-Each year with SRCCON, we've iterated on [our approach to tickets](https://opennews.org/blog/srccon-lottery/). Given what we've learned from SRCCON and the need to be even more thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, we are not doing a lottery for SRCCON:WORK. On October 11, we will open a form with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October.
+Each year with SRCCON, we've iterated on [our approach to tickets](https://opennews.org/blog/srccon-lottery/). Given what we've learned from SRCCON and the need to be thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, we are not doing a lottery for SRCCON:WORK. On October 11, we will open a form with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October.
 
 In thinking about the why to attend SRCCON:WORK, we're focusing on participants who are seeking to make a change in their career or their workplace. What can it mean to make a change? It might include:
 
@@ -38,6 +40,6 @@ In thinking about the why to attend SRCCON:WORK, we're focusing on participants 
 By focusing on practitioners whose work is most affected by the themes we’re tackling we hope that SRCCON:WORK can be an incubator for long-term projects and ideas that people can take back to nurture more inclusive, responsive spaces in their newsrooms.
 
 ## Gathering in Philadelphia
-We're looking forward to this time to close out the year together in Philadelphia. And we're grateful for the support of the News Integrity Initiative to sponsor Diversity Scholarships for journalists of color to attend SRCCON:WORK, as we begin new work to support leaders from under-represented communities in journalism tech. Our work is made possible by the contributions of community members leading and participating in sessions as well as the generosity of our [sponsors](https://work.srccon.org/sponsors/), which allows us to organize an accessible, inclusive event.
+We're looking forward to this time to close out the year together in Philadelphia. And we're grateful for the support of the News Integrity Initiative to sponsor [Diversity Scholarships for journalists of color](https://work.srccon.org/scholarships) to attend SRCCON:WORK, as we begin new work to support leaders from under-represented communities in journalism tech. Our work is made possible by the contributions of community members leading and participating in sessions as well as the generosity of our [sponsors](https://work.srccon.org/sponsors/), which allows us to organize an accessible, inclusive event.
 
 As we continue to figure out responses to the current climate facing our industry, we remain grateful for the leadership of this community. We'll have more info from SRCCON:WORK over the next few months and look forward to spending this time with you all.
