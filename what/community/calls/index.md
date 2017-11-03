@@ -16,7 +16,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** November 2, 2017 ([call notes](https://etherpad.opennews.org/p/communitycall-Nov2)) <br />
+**Next Scheduled Call:** November 30, 2017 (([call notes](https://etherpad.opennews.org/p/communitycall-Nov30)) <em>The November 16 call is canceled</em>) <br />
 **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.uberconference.com/international)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
@@ -27,6 +27,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 <ul>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov2">November 2, 2017 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct19">October 19, 2017 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct5">October 5, 2017 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sep21">September 21, 2017 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sep7">September 7, 2017 call</a>
