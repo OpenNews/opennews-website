@@ -25,7 +25,7 @@ In addition to its topical focus, part of what makes SRCCON:WORK different from 
 
 With SRCCON:WORK, we're aiming to blend the intimacy of a convening with the scale of SRCCON. At about 100 people, this more intimate format means that not everybody can come and that we have to be even more intentional about equitably distributing tickets. 
 
-Each year with SRCCON, we've iterated on [our approach to tickets](https://opennews.org/blog/srccon-lottery/). Given what we've learned from SRCCON and the need to be thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, we are not doing a lottery for SRCCON:WORK. On October 11, we will open a form with a few questions for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October.
+Each year with SRCCON, we've iterated on [our approach to tickets](https://opennews.org/blog/srccon-lottery/). Given what we've learned from SRCCON and the need to be thoughtful in selecting cohorts with compatible experiences that are representative of the diversity of this community, we are not doing a lottery for SRCCON:WORK. On October 11, [we will open a form with a few questions](https://work.srccon.org/tickets/attendance_form/) for you to tell us why you'd like to attend SRCCON:WORK. We'll send out invitations to attend in mid-October.
 
 In thinking about the why to attend SRCCON:WORK, we're focusing on participants who are seeking to make a change in their career or their workplace. What can it mean to make a change? It might include:
 
