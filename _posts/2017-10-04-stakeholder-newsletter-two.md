@@ -4,7 +4,7 @@ title: Keeping up with OpenNews and SRCCON:WORK
 date: 2017-10-05 09:00
 author: Dan Sinker and Erika Owens
 tags: stakeholdernewsletter
-excerpt: In our second stakeholder newsletter, a details about SRCCON:WORK, perspective from Brittany Mayes, and looking ahead to Source's 5-year anniversary and upcoming events.
+excerpt: In our second stakeholder newsletter, details about SRCCON:WORK, perspective from Brittany Mayes, and looking ahead to Source's 5-year anniversary and upcoming events.
 
 ---
 <img src="/media/img/blog/brittany-srccon.jpg" style="width: 100%;">
