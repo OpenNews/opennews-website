@@ -1,757 +1,757 @@
-,Gender,Age Group,Ethnicity,Country,Diversity Issue,Paid Parental Leave,Salary Parity,Technical Skills,New Team Addition,Recruiting Technologists,Overload of Projects,Educational Background,Self-Study,Mentorship,Non-technical,Reporter,Skills Sources
-0,m,1,,0,0,1,0,1,0,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-1,m,2,,0,0,,0,0,0,0,0,1,0,1,,1,Mentored by another professional
-2,m,3,1,1,0,,,1,,0,0,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-3,f,2,,0,0,,,0,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-4,f,2,8,1,1,,,,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-5,f,1,4,1,0,1,1,0,0,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-6,m,2,,0,0,,,0,,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-7,f,3,1,1,0,,,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-8,,1,8,1,0,0,0,0,1,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-9,m,1,1,1,0,1,0,0,1,1,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-10,m,2,,0,0,,,,,0,0,1,0,1,0,0,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-11,m,1,8,1,0,,,0,,0,1,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
-12,m,1,1,1,1,,,0,1,1,0,0,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
-13,m,3,1,1,0,1,1,1,1,1,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-14,m,3,,0,0,0,,1,1,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-15,m,2,1,1,0,1,,1,0,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-16,m,1,9,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
-17,f,3,1,1,1,,,,,0,0,1,0,1,1,1,"Mentored by another professional,Graduate school degree"
-18,m,3,,0,0,,,1,,0,0,0,1,0,0,,Self-taught (e.g. studied on my own)
-19,m,3,1,1,0,,,1,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-20,m,2,,0,0,,,1,,0,0,1,1,0,1,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-21,m,2,1,1,0,1,,,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-22,f,3,,0,0,0,0,1,1,1,1,1,0,1,1,,"Mentored by another professional,Past and current on-the-job training/learning"
-23,m,3,1,1,0,,,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-24,f,3,3,1,0,1,,1,1,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-25,f,3,8,1,0,0,0,1,1,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-26,m,2,1,1,0,1,,0,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-27,f,2,4,1,1,1,0,,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-28,f,1,1,1,0,,,,,0,0,0,0,1,0,,"Mentored by another professional,Past and current on-the-job training/learning"
-29,f,2,,0,0,1,0,1,1,0,1,1,1,0,1,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-30,f,1,,0,0,,,1,0,0,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-31,f,2,1,1,0,,0,0,0,0,1,1,0,1,1,,"Mentored by another professional,Past and current on-the-job training/learning"
-32,m,1,1,1,0,1,,1,0,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-33,f,2,4,1,0,0,,,1,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-34,m,1,1,1,0,,0,0,0,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-35,,2,,0,0,,,1,1,1,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-36,f,1,8,1,0,1,0,1,1,0,1,0,1,0,0,0,Self-taught (e.g. studied on my own)
-37,f,1,1,1,0,1,0,1,1,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-38,m,2,,0,0,,,,,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-39,f,2,8,1,0,1,0,1,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-40,m,3,8,1,0,0,,1,0,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-41,m,2,,0,0,1,,1,1,0,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-42,f,1,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-43,m,1,1,1,1,,0,0,0,0,0,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
-44,m,1,1,1,0,1,1,,,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-45,m,2,1,1,0,1,,,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-46,m,2,2,1,0,1,,1,1,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-47,f,3,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-48,f,2,,0,0,0,0,1,1,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-49,m,2,,0,0,1,1,1,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-50,f,3,,0,1,,,1,,0,0,1,1,0,,,Self-taught (e.g. studied on my own)
-51,f,2,,0,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-52,m,1,,0,0,0,0,1,1,1,1,0,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-53,m,1,,0,0,,,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree"
-54,m,3,1,1,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
-55,m,2,9,1,0,1,0,0,,1,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-56,m,2,,0,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
-57,m,3,,0,0,,,,,0,0,1,0,1,0,1,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-58,m,1,1,1,0,,,1,,0,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-59,f,1,1,1,0,0,,0,0,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-60,m,2,1,1,0,1,,0,1,1,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-61,f,3,1,1,0,1,1,1,1,0,1,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-62,m,1,,0,0,,,1,,0,0,0,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-63,m,2,1,1,1,,,1,,0,1,0,1,0,0,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-64,f,2,,0,0,1,1,1,0,0,1,0,1,0,1,1,Self-taught (e.g. studied on my own)
-65,f,2,1,1,0,,,0,,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-66,m,1,,0,0,,1,,1,1,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-67,m,3,1,1,0,,,1,,0,0,1,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-68,f,1,1,1,0,1,,1,0,0,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-69,m,2,1,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-70,f,1,1,1,0,,,1,1,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-71,m,2,2,1,1,1,0,1,1,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-72,f,3,1,1,0,,,1,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-73,f,2,,0,0,,,,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-74,m,2,,0,0,,,0,0,1,0,0,1,0,1,,Self-taught (e.g. studied on my own)
-75,m,2,,0,0,1,1,1,,0,1,1,1,0,0,,Self-taught (e.g. studied on my own)
-76,f,2,3,1,0,0,0,0,0,1,1,1,0,1,1,1,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-77,f,1,4,1,0,1,,,,0,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-78,m,1,,0,0,0,0,1,1,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-79,m,2,1,1,0,,,1,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-80,f,1,1,1,0,,,1,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-81,m,2,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-82,m,3,,0,0,0,1,1,0,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-83,f,1,1,1,0,,,0,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
-84,m,3,2,1,0,,,1,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-85,m,2,1,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-86,f,2,,1,0,,,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-87,f,2,1,1,0,,0,,,1,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-88,f,2,1,1,0,0,0,1,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
-89,m,1,1,1,0,1,,1,1,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-90,m,2,1,1,1,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree"
-91,f,1,,0,0,1,0,0,1,1,1,1,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
-92,f,1,,0,0,1,,1,1,0,0,0,0,1,0,1,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-93,m,3,,0,0,,,,,0,0,0,0,0,,,
-94,o,1,1,1,0,,,0,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-95,m,3,1,1,0,,,0,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-96,m,1,1,1,0,,,0,0,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
-97,m,3,,0,0,1,1,1,0,0,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-98,m,2,1,1,0,,,1,1,0,1,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-99,m,1,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-100,m,2,1,1,0,,,1,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-101,m,3,1,1,0,,,0,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-102,m,1,1,1,0,1,0,0,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-103,f,1,1,1,0,,,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-104,f,1,1,1,1,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-105,m,1,,0,0,,,1,1,1,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-106,f,2,5,1,0,,,,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-107,f,2,4,1,0,,,0,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-108,m,1,1,1,0,1,,,,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-109,m,2,,0,0,,,0,,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-110,m,2,,0,0,,,1,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-111,m,3,,0,0,1,0,1,0,0,1,0,1,0,1,,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-112,m,3,1,1,0,1,,0,1,1,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-113,m,3,,0,0,,,1,1,1,1,1,1,0,0,,Self-taught (e.g. studied on my own)
-114,m,3,,0,0,0,0,0,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-115,f,3,1,1,0,0,0,,,0,1,1,1,0,1,,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-116,m,2,1,1,0,,,0,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-117,f,2,1,1,0,1,,1,0,0,0,1,0,1,1,1,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-118,m,3,1,1,0,1,0,,1,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-119,m,3,1,1,1,,,1,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-120,f,2,4,1,0,,,0,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-121,f,3,,0,0,,,1,,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-122,f,2,,0,0,,,1,1,1,1,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-123,m,3,,0,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-124,m,3,,0,0,1,0,1,0,1,1,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-125,f,3,1,1,0,,,1,,0,0,0,0,1,1,1,Mentored by another professional
-126,f,2,,0,1,,,0,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-127,m,1,,0,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-128,f,3,1,1,0,,,,,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-129,f,3,1,1,0,1,,1,1,0,0,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-130,f,2,1,1,0,,,,,0,0,1,0,0,0,,Past and current on-the-job training/learning
-131,m,1,8,1,1,,,0,,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-132,f,2,1,1,0,,,0,,0,0,0,0,0,0,1,"Graduate school degree,Past and current on-the-job training/learning"
-133,f,3,1,1,0,,1,0,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-134,m,2,1,1,0,0,,0,1,1,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-135,m,1,1,1,0,,,1,,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
-136,m,2,1,1,0,0,,1,1,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-137,m,1,,0,0,,,,,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-138,f,1,1,1,1,1,,0,0,0,1,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-139,f,1,1,1,0,0,0,1,0,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
-140,f,3,1,1,0,,,0,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-141,f,2,8,1,0,0,0,0,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-142,f,1,1,1,0,,,1,,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-143,f,1,2,1,1,1,1,1,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-144,f,3,3,1,1,1,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-145,f,1,1,1,0,1,,1,,1,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-146,m,1,,0,1,1,1,1,1,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-147,f,1,,0,0,1,,,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-148,m,2,1,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
-149,f,1,1,1,0,1,,,0,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-150,f,1,4,1,0,,0,,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-151,m,2,,0,0,,,0,1,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-152,f,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-153,f,3,1,1,0,1,,1,0,0,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-154,f,1,1,1,0,1,0,,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-155,m,2,1,1,0,1,,1,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-156,f,2,1,1,0,1,,,,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-157,f,1,4,1,0,1,0,0,,1,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-158,f,3,1,1,0,,,1,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-159,m,2,2,1,0,,,1,0,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-160,f,3,1,1,0,,,0,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-161,f,2,,0,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-162,m,3,,0,0,,,,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
-163,f,1,1,1,1,1,,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-164,m,3,,0,0,,,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree"
-165,f,3,,0,0,1,1,0,0,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-166,m,1,1,1,0,1,,1,0,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-167,f,2,1,1,0,1,,1,1,0,1,1,0,1,0,1,"Mentored by another professional,Graduate school degree"
-168,f,2,,0,0,,,,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-169,f,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-170,m,2,,0,0,1,1,1,0,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-171,m,2,1,1,0,0,0,0,0,0,0,0,0,1,0,1,"Mentored by another professional,Past and current on-the-job training/learning"
-172,,2,,0,1,,,1,,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
-173,f,2,1,1,0,,,0,,0,0,0,0,0,0,,
-174,m,3,1,1,0,,,1,,0,0,1,0,1,0,,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-175,m,1,,0,0,,,1,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-176,m,2,8,1,0,,,0,1,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-177,m,3,9,1,1,1,,1,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-178,m,1,,0,0,0,,,,0,0,0,0,0,0,0,
-179,m,2,,0,0,1,1,1,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-180,m,2,1,1,0,1,0,1,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-181,f,1,3,1,1,0,,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-182,m,3,1,1,0,1,0,0,,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-183,m,1,4,1,0,1,,1,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
-184,f,2,9,1,0,1,1,,1,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-185,f,1,1,1,0,1,,,,0,0,0,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
-186,o,1,1,1,1,,,,,0,0,1,1,0,0,,Self-taught (e.g. studied on my own)
-187,f,1,1,1,0,1,,,0,1,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-188,m,2,9,1,1,1,,1,0,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-189,m,2,1,1,0,1,1,,,1,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-190,m,1,9,1,0,,,1,0,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-191,m,2,,0,0,,,1,1,0,0,0,0,1,1,1,"Mentored by another professional,Past and current on-the-job training/learning"
-192,f,2,1,1,0,0,0,1,1,1,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-193,,1,4,1,0,1,0,1,1,1,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-194,f,3,1,1,1,,,0,,0,0,0,1,0,1,,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-195,f,3,,0,1,1,,1,0,1,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-196,f,3,1,1,1,1,0,0,0,0,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-197,m,3,1,1,0,1,,,,0,0,1,1,0,0,,Self-taught (e.g. studied on my own)
-198,m,2,,0,0,0,0,1,1,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-199,m,3,1,1,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-200,f,1,1,1,0,0,0,1,0,0,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-201,m,1,1,1,1,1,0,,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-202,m,2,1,1,0,1,0,1,1,0,1,0,1,0,0,0,Self-taught (e.g. studied on my own)
-203,m,1,1,1,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree"
-204,m,1,9,1,0,1,1,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-205,m,2,,0,0,1,1,1,1,1,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-206,m,1,,0,0,1,,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-207,m,2,1,1,0,1,0,0,0,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-208,f,3,,0,0,1,0,1,1,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-209,f,1,,0,1,,,0,0,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-210,f,2,1,1,0,,,,,0,0,1,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-211,m,2,1,1,0,1,,0,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-212,f,3,1,1,0,,,0,,0,0,1,1,0,1,1,Self-taught (e.g. studied on my own)
-213,f,1,4,1,1,1,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-214,f,1,3,1,1,1,,1,0,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-215,f,2,1,1,0,,,0,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-216,f,3,8,1,0,1,0,,,0,1,1,1,0,1,1,Self-taught (e.g. studied on my own)
-217,f,1,,0,0,,,,,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
-218,m,1,,0,0,,,0,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-219,m,2,,0,0,1,1,1,0,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-220,f,2,1,1,0,1,,1,,0,0,0,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-221,f,2,4,1,1,1,0,,0,1,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-222,m,3,1,1,0,0,1,1,0,0,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-223,m,2,,0,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-224,m,2,,0,0,,,1,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-225,f,2,,0,0,1,0,1,1,1,0,0,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-226,m,3,1,1,0,,,1,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-227,f,1,1,1,0,,,0,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-228,f,1,1,1,0,1,,0,,0,0,1,0,0,0,,Graduate school degree
-229,m,2,,0,0,,,0,,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-230,f,3,1,1,0,,,,0,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-231,f,3,1,1,0,,,,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-232,m,3,1,1,0,,,,,0,0,1,0,0,0,,Past and current on-the-job training/learning
-233,m,2,,0,1,,,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-234,m,1,1,1,0,,,1,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-235,m,3,1,1,0,1,0,0,0,0,0,0,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-236,f,1,1,1,0,1,,0,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-237,m,3,1,1,0,,,1,0,0,0,0,1,1,,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-238,m,3,1,1,0,,,0,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-239,f,2,1,1,0,0,,0,0,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-240,f,3,1,1,0,1,0,,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-241,f,2,1,1,1,1,0,,,0,0,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-242,f,1,2,1,1,,,,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-243,f,1,1,1,0,1,0,0,1,0,0,0,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-244,m,1,,0,0,,0,1,0,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-245,f,3,,0,0,1,,1,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-246,m,1,1,1,0,,,,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-247,f,2,3,1,0,1,,1,1,0,1,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-248,f,1,1,1,0,,,1,,0,0,1,0,0,1,,
-249,f,1,4,1,0,,1,0,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-250,m,3,1,1,0,1,,1,1,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-251,f,1,1,1,1,,0,1,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-252,m,3,,0,0,,,0,,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-253,m,3,1,1,0,,0,1,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-254,f,3,1,1,0,,,,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-255,m,3,8,1,0,1,1,,0,0,1,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-256,m,2,1,1,1,1,0,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-257,f,1,1,1,0,,,1,0,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-258,f,1,1,1,0,1,,0,1,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-259,f,1,1,1,1,,,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-260,m,1,8,1,0,1,0,1,0,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-261,m,1,1,1,0,1,,1,1,0,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-262,f,2,1,1,0,1,,1,,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-263,m,3,1,1,0,,1,0,1,1,1,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-264,f,1,1,1,1,1,0,1,1,0,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-265,f,3,1,1,0,,,0,,0,0,1,1,0,1,,Self-taught (e.g. studied on my own)
-266,f,2,8,1,0,1,0,0,1,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-267,f,1,1,1,0,1,0,1,1,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-268,f,2,4,1,0,1,0,0,0,1,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-269,f,3,1,1,0,,,0,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-270,f,1,1,1,0,1,,0,0,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-271,f,2,1,1,0,1,0,1,0,0,1,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-272,m,2,1,1,0,1,,0,0,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-273,m,1,,0,1,1,0,1,1,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-274,m,3,1,1,0,1,,,0,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-275,m,1,1,1,0,1,,,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-276,m,1,1,1,0,1,,,1,1,1,1,0,0,0,0,
-277,m,2,1,1,0,,,,0,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
-278,m,2,,0,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-279,m,1,9,1,0,1,,,,0,0,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
-280,m,3,1,1,0,1,,,,0,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-281,f,1,1,1,0,,,0,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-282,f,2,1,1,0,1,0,0,0,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-283,m,3,1,1,0,1,,1,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-284,f,1,1,1,0,1,1,,1,0,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-285,f,2,1,1,0,1,0,0,0,0,0,1,0,1,1,,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-286,f,2,1,1,0,0,0,1,1,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-287,f,3,1,1,0,,,1,,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-288,m,2,,0,0,1,1,1,0,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree"
-289,f,2,,0,0,,,1,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-290,f,2,2,1,0,,,0,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-291,m,2,1,1,0,1,0,1,0,1,1,0,0,0,0,,"Graduate school degree,Past and current on-the-job training/learning"
-292,,1,,0,0,1,1,,,0,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-293,m,1,8,1,0,1,,,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-294,f,1,4,1,0,1,,1,0,0,0,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-295,m,2,,0,0,,,,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree"
-296,f,2,1,1,0,1,,,1,0,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-297,f,3,1,1,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-298,m,3,1,1,0,1,,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-299,f,3,1,1,0,1,0,0,0,0,1,1,1,0,1,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-300,m,2,2,1,0,1,0,0,,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-301,m,1,1,1,0,,,,,0,0,0,0,1,0,,"Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-302,m,1,4,1,1,,,0,0,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-303,m,2,1,1,0,1,,1,0,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-304,m,2,1,1,0,1,,,,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-305,f,2,,0,0,,,1,,0,0,1,0,0,1,,"Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-306,f,2,8,1,1,1,0,,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-307,,2,1,1,0,,,1,,0,0,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-308,m,2,,0,0,1,,1,1,0,0,0,0,1,1,1,"Mentored by another professional,Past and current on-the-job training/learning"
-309,m,2,1,1,0,1,0,,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-310,m,1,,0,0,1,1,1,1,1,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-311,m,1,4,1,0,1,,0,,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-312,m,2,1,1,0,1,,0,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-313,f,3,1,1,1,,,1,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-314,f,2,1,1,0,1,,0,0,0,1,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-315,m,3,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-316,m,2,1,1,0,,,,,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-317,m,1,1,1,0,1,,0,1,0,1,0,0,0,1,1,"Undergraduate degree,Past and current on-the-job training/learning"
-318,m,1,9,1,0,,0,,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-319,m,1,1,1,0,1,,,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-320,f,2,1,1,0,1,,1,1,0,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-321,m,1,1,1,0,,,1,1,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-322,f,3,8,1,0,,,,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-323,m,2,1,1,0,,1,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-324,f,3,8,1,1,,,1,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
-325,f,1,1,1,0,1,,1,,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-326,f,2,1,1,0,1,,1,,0,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-327,m,3,1,1,1,,,0,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-328,f,2,1,1,1,1,0,,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-329,m,2,8,1,0,,,0,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-330,m,1,1,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-331,m,3,1,1,0,,,1,,0,0,1,0,1,0,1,Mentored by another professional
-332,f,1,1,1,0,,,0,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-333,f,3,3,1,0,,,1,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
-334,m,1,1,1,0,0,,1,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-335,m,3,1,1,0,0,1,0,0,0,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-336,f,1,,0,0,,,,,0,0,1,1,0,0,,Self-taught (e.g. studied on my own)
-337,f,1,1,1,1,1,,0,,0,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-338,f,3,8,1,1,,,0,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-339,m,2,,0,0,,,0,0,1,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Graduate school degree"
-340,m,3,1,1,0,,,1,,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-341,m,3,1,1,0,0,1,0,0,1,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-342,m,2,1,1,0,0,0,1,1,1,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
-343,m,1,1,1,1,1,1,1,0,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-344,f,2,1,1,0,,,,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-345,f,1,1,1,1,1,,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-346,m,1,1,1,1,,,1,,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-347,f,1,1,1,0,,,1,0,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
-348,f,3,1,1,0,1,,1,1,0,1,1,1,0,0,,Self-taught (e.g. studied on my own)
-349,f,1,1,1,1,,,1,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-350,m,3,,,0,,,,,0,0,1,1,0,0,,Self-taught (e.g. studied on my own)
-351,m,3,1,1,0,1,,1,1,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-352,m,3,1,1,0,,,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-353,m,2,,0,0,1,,1,0,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-354,m,1,1,1,0,0,,,1,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
-355,m,1,1,1,0,1,0,1,0,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-356,m,3,1,1,0,1,,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-357,m,1,5,1,0,,,,1,1,0,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
-358,m,3,2,1,1,1,,1,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-359,f,2,,0,0,,,,,0,0,1,1,0,1,,Self-taught (e.g. studied on my own)
-360,f,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-361,m,1,1,1,0,,,,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-362,m,2,1,1,0,,,,,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-363,f,1,4,1,1,1,0,0,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-364,f,1,1,1,0,0,0,,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-365,f,2,4,1,0,1,,,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-366,m,3,,0,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-367,m,2,1,1,0,1,,1,,1,1,1,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-368,f,1,4,1,1,1,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-369,m,2,8,1,0,,,0,0,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-370,f,1,1,1,1,,,1,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
-371,m,1,,0,0,,,1,,1,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-372,f,2,,0,0,,,1,,0,0,1,1,0,0,1,"Self-taught (e.g. studied on my own),Undergraduate degree"
-373,f,2,1,1,0,,,0,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree"
-374,m,3,,0,0,,,,,1,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
-375,f,3,,0,0,1,,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-376,f,2,1,1,1,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-377,f,1,1,1,0,,,1,,0,0,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
-378,m,3,1,1,0,1,,1,0,1,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-379,m,3,1,1,0,1,0,0,1,1,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-380,f,3,9,1,0,,0,0,0,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-381,m,2,1,1,0,,,,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-382,f,3,8,1,1,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-383,f,1,1,1,0,1,,1,0,1,0,1,0,0,0,0,Past and current on-the-job training/learning
-384,m,2,1,1,0,1,1,,0,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-385,f,1,1,1,0,1,0,,1,1,1,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-386,f,2,4,1,1,1,1,0,0,1,1,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-387,m,3,2,1,1,,,1,,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-388,m,3,1,1,0,,,,0,0,1,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-389,m,1,1,1,0,1,,1,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-390,m,2,1,1,0,0,0,1,1,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-391,m,3,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-392,f,3,1,1,1,1,1,0,0,0,0,0,0,0,0,,"Undergraduate degree,Past and current on-the-job training/learning"
-393,m,2,1,1,0,1,,1,1,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-394,m,1,1,1,0,1,,1,1,1,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-395,f,1,4,1,0,1,0,0,0,1,1,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-396,f,2,1,1,0,1,,,,0,1,1,1,0,0,1,Self-taught (e.g. studied on my own)
-397,m,2,1,1,0,,,1,1,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-398,f,1,,0,0,1,1,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
-399,f,1,1,1,0,0,0,,1,0,1,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
-400,m,3,1,1,0,,,0,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-401,m,3,1,1,0,1,1,1,0,0,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-402,f,1,1,1,0,1,0,,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-403,m,2,1,1,0,,,1,,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-404,m,1,1,1,0,,,,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-405,f,1,1,1,1,,,1,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-406,m,2,9,1,0,,,1,,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-407,f,1,4,1,0,1,0,,,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-408,m,2,1,1,0,1,,1,1,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-409,f,1,1,1,1,1,1,1,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-410,f,1,2,1,1,,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-411,f,1,8,1,0,,,0,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-412,m,3,1,1,0,0,0,1,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-413,f,1,1,1,0,1,,1,,0,0,0,0,0,0,0,"Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-414,m,1,1,1,1,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-415,f,1,1,1,0,1,,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-416,m,2,1,1,0,1,,,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-417,m,2,,0,0,1,1,0,0,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-418,f,1,1,1,0,1,,,,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-419,f,1,1,1,0,,,0,0,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-420,m,2,,0,0,1,,1,1,1,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-421,m,2,1,1,1,1,,1,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-422,m,2,1,1,0,1,,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-423,f,1,4,1,0,,,,,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-424,f,3,1,1,0,1,1,1,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-425,f,2,1,1,0,1,,,,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-426,m,2,1,1,0,1,,0,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-427,m,2,1,1,0,1,0,0,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-428,f,2,1,1,0,1,0,,0,0,1,0,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-429,f,1,4,1,0,1,0,0,0,1,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-430,f,2,1,1,0,,,0,0,0,0,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-431,m,2,,0,0,0,0,1,1,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-432,f,1,1,1,0,,,,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-433,f,1,,0,0,0,,,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-434,f,1,2,1,1,,0,1,1,0,0,1,0,0,0,0,Graduate school degree
-435,m,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Undergraduate degree
-436,m,3,1,1,0,,,1,1,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
-437,m,2,8,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-438,m,2,8,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-439,m,2,,1,0,1,1,0,1,0,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-440,f,1,1,1,0,,,1,1,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-441,f,2,,0,0,,,0,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-442,m,1,1,1,0,1,,0,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-443,f,1,4,1,1,1,,1,1,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-444,m,1,4,1,0,,,0,,0,0,0,0,0,0,0,
-445,m,1,,0,0,,,,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-446,m,2,,0,1,1,,1,0,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-447,m,3,1,1,0,1,,1,0,1,1,0,1,0,0,,Self-taught (e.g. studied on my own)
-448,m,1,8,1,0,1,,1,1,1,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-449,m,1,1,1,1,1,1,1,1,1,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-450,m,3,1,1,0,,,1,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-451,m,3,1,1,0,,,1,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-452,f,2,,0,0,,,,,0,0,0,0,1,0,,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-453,o,1,8,1,1,1,0,1,1,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-454,,1,1,1,1,1,0,1,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-455,f,1,1,1,0,1,,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-456,m,1,1,1,1,1,,,0,1,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-457,m,2,3,1,0,,,1,0,0,1,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-458,m,1,1,1,0,,,,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-459,f,2,4,1,0,,,0,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-460,m,3,1,1,0,1,0,,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-461,f,2,1,1,1,1,,1,0,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-462,m,2,1,1,1,,,1,0,0,1,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-463,m,1,1,1,0,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-464,m,1,2,1,1,,,1,,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
-465,m,1,1,1,0,1,0,0,0,1,0,,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-466,m,2,,0,0,,,0,0,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-467,m,2,1,1,1,,,0,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-468,f,2,1,1,1,,,1,0,0,0,1,0,1,0,1,"Mentored by another professional,Past and current on-the-job training/learning"
-469,f,2,1,1,1,1,1,1,1,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-470,f,3,,0,0,,,0,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-471,m,3,1,1,0,1,,,1,1,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-472,f,1,2,1,0,1,0,1,,0,0,1,0,1,0,,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-473,m,1,1,1,0,0,0,,,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-474,m,1,2,1,0,,,0,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-475,f,2,1,1,0,1,0,1,0,0,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-476,m,2,1,1,0,,,1,,0,0,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-477,m,2,1,1,1,,,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-478,f,1,3,1,1,1,,1,1,0,1,0,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
-479,m,1,2,1,0,1,,,0,0,0,0,1,0,0,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-480,f,1,4,1,0,,,0,,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-481,m,3,1,1,1,1,,1,0,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-482,f,1,1,1,0,1,0,,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-483,f,1,2,1,1,0,0,,1,1,1,0,0,1,0,1,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-484,m,2,1,1,0,1,,,,0,1,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-485,m,3,1,1,1,1,1,1,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-486,m,2,1,1,0,,,0,0,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-487,f,2,1,1,0,,,1,0,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-488,m,2,1,1,0,1,,0,1,1,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-489,f,1,1,1,0,,,,0,1,1,0,0,1,0,0,"Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-490,m,2,1,1,0,1,0,0,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-491,f,1,4,1,0,1,,0,,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-492,m,2,8,1,1,,,0,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-493,m,2,1,1,0,,,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-494,m,2,9,1,0,0,,0,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-495,m,1,1,1,0,1,1,1,0,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-496,f,1,1,1,0,1,0,1,,1,1,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-497,m,2,,0,0,,,0,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-498,m,1,1,1,0,1,,0,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-499,f,2,1,1,0,1,1,0,0,0,0,0,1,0,1,,Self-taught (e.g. studied on my own)
-500,m,1,1,1,0,,,0,,0,0,1,0,1,0,,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-501,f,1,2,1,1,1,0,1,0,0,1,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-502,f,2,1,1,1,1,0,,0,0,0,1,1,0,1,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-503,f,1,1,1,0,1,,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-504,m,2,1,1,0,,0,1,1,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-505,m,1,1,1,1,,,0,0,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-506,f,1,,0,0,1,0,1,0,1,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-507,m,1,8,1,0,0,,1,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-508,m,2,1,1,1,1,,0,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-509,f,1,1,1,1,1,0,,0,0,0,1,0,1,0,,"Mentored by another professional,Past and current on-the-job training/learning"
-510,m,3,,0,0,1,1,0,1,1,1,1,1,0,1,,Self-taught (e.g. studied on my own)
-511,f,3,1,1,0,,,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-512,m,1,1,1,0,,,1,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-513,f,1,4,1,1,,,1,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-514,m,1,1,1,0,1,,1,1,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-515,m,2,1,1,1,1,,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-516,m,2,1,1,1,,,1,0,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-517,m,2,,0,0,,,0,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-518,f,1,,0,0,,,,,0,0,,,,,,
-519,m,1,,0,0,,,,,0,0,,,,,,
-520,f,1,,0,0,,,0,,0,0,0,1,0,,,Self-taught (e.g. studied on my own)
-521,f,1,,0,0,,,0,1,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-522,m,1,,0,0,,,,,0,0,,,,,,
-523,f,1,8,1,0,,,1,0,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-524,o,1,,1,0,,,,,0,0,,,,,,
-525,f,2,1,1,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree"
-526,f,1,,1,0,,,,,0,0,,,,,,
-527,f,2,,1,0,,,,,0,0,,,,,,
-528,m,1,,0,0,,,,,0,0,,,,,,
-529,m,1,,0,0,,,,,0,0,,,,,,
-530,m,1,,1,0,,,,,0,0,,,,,,
-531,f,3,3,1,0,,,0,,0,0,1,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-532,m,3,1,1,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-533,m,1,3,1,0,,,1,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-534,m,1,,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-535,m,2,,1,0,,,,,0,0,,,,,,
-536,o,1,,1,0,,,,,0,0,,,,,,
-537,f,2,,0,0,,,,,0,0,,,,,,
-538,m,1,1,1,0,,,1,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-539,m,2,1,1,0,1,,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-540,m,2,,1,0,,,,,0,0,,,,,,
-541,f,3,1,1,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree"
-542,m,1,,0,0,,,,,0,0,,,,,,
-543,m,1,,0,0,,,,,0,0,,,,,,
-544,m,1,1,1,0,,,0,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-545,m,2,,0,0,,,,,0,0,,,,,,
-546,f,3,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-547,m,2,1,1,0,,,,,0,0,,,,,,
-548,m,3,,,0,,,,,0,0,,,,,,
-549,m,2,,0,0,,,1,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Graduate school degree"
-550,f,1,,0,0,,,,,0,0,,,,,,
-551,f,2,,0,0,,,,,0,0,,,,,,
-552,f,2,,0,0,,,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-553,m,1,,1,0,,,,,0,0,,,,,,
-554,f,3,1,1,0,,,,,0,0,1,1,0,,,Self-taught (e.g. studied on my own)
-555,m,3,,0,0,,,,,0,0,,,,,,
-556,f,1,,1,0,,,,,0,0,,,,,,
-557,m,2,,1,0,,,,,0,0,,,,,,
-558,f,3,1,1,0,,0,0,0,0,0,1,,,1,,Past and current on-the-job training/learning
-559,m,2,1,1,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-560,m,3,1,1,0,,,1,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-561,f,1,,0,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-562,f,1,,0,0,,,,,0,1,1,0,1,,,"Mentored by another professional,Past and current on-the-job training/learning"
-563,m,1,,1,0,,,,,0,0,,,,,,
-564,m,2,,1,0,,,,,0,0,,,,,,
-565,m,2,,0,0,,,,,0,0,,,,,,
-566,m,2,,1,0,,,,,0,0,,,,,,
-567,f,3,,1,0,,,,,0,0,,,,,,
-568,f,2,,1,0,,,,,0,0,,,,,,
-569,f,1,,1,0,,,,,0,0,,,,,,
-570,f,2,,1,0,,,,,0,0,,,,,,
-571,f,2,,1,0,,,,,0,0,,,,,,
-572,f,1,,1,0,,,,,0,0,,,,,,
-573,m,2,,1,0,,,,,0,0,,,,,,
-574,m,2,1,1,0,,,,,0,0,0,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-575,m,1,1,1,0,,,1,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-576,m,3,,1,0,,,,,0,0,,,,,,
-577,m,3,,0,0,,,1,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-578,f,1,,0,0,,,,,0,0,1,0,,,,
-579,m,2,1,1,0,,,0,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-580,m,2,,0,0,,,,,0,0,,,,,,
-581,,,,,0,,,,,0,0,,,,,,
-582,m,3,,,0,,,,,0,0,1,0,1,,,"Mentored by another professional,Past and current on-the-job training/learning"
-583,,,,1,0,,,,,0,0,,,,,,
-584,m,3,,0,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Graduate school degree"
-585,m,1,,0,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-586,m,3,,1,0,,,,,0,0,,,,,,
-587,m,3,,0,0,,,,,0,0,,,,,,
-588,m,3,,1,0,,,,,0,0,,,,,,
-589,m,2,3,1,0,,,1,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-590,m,1,,0,0,,,1,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-591,m,2,1,1,0,,,0,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-592,m,1,,0,0,,,1,,0,0,0,1,0,,,Self-taught (e.g. studied on my own)
-593,m,3,1,1,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-594,f,1,8,1,0,,,,,0,0,1,0,1,,,"Mentored by another professional,Past and current on-the-job training/learning"
-595,f,3,1,1,0,,,0,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-596,m,2,,0,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-597,m,2,1,1,0,1,,1,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-598,m,1,1,1,0,,,0,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-599,m,1,,1,0,,,,,0,0,,,,,,
-600,f,1,,0,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-601,m,2,,0,0,,,,,0,0,,,,,,
-602,f,3,,0,0,,,,,0,0,,,,,,
-603,m,1,,1,0,,,,,0,0,,,,,,
-604,m,2,,1,0,,,,,0,0,,,,,,
-605,m,2,,1,0,,,,,0,0,,,,,,
-606,f,3,,0,0,,,1,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-607,m,2,,0,0,,,,1,1,0,1,1,0,,,Self-taught (e.g. studied on my own)
-608,f,1,1,1,0,,,0,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
-609,m,3,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-610,m,3,,1,0,,,,,0,0,,,,,,
-611,m,2,,0,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
-612,m,3,,0,0,,,,,0,0,,,,,,
-613,f,1,4,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-614,f,2,1,1,0,,,1,,0,0,1,0,0,,,
-615,f,3,,,0,,,1,,0,0,1,1,0,,,Self-taught (e.g. studied on my own)
-616,f,1,1,1,0,,,0,0,0,0,0,0,1,,,"Mentored by another professional,Past and current on-the-job training/learning"
-617,f,3,1,1,0,,,0,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-618,m,2,,0,0,,,,,0,0,,,,,,
-619,m,1,,0,0,,,,,0,0,,,,,,
-620,m,2,,0,0,,,,,0,0,,,,,,
-621,m,2,,1,0,,,,,0,0,,,,,,
-622,m,2,,0,0,,,1,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-623,m,2,,0,0,1,,1,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
-624,f,1,,0,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-625,f,1,,1,0,,,,,0,0,,,,,,
-626,m,3,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-627,m,1,1,1,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-628,m,3,1,1,0,,,,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
-629,m,2,,0,0,,,,,0,0,,,,,,
-630,m,3,,1,0,,,,,0,0,,,,,,
-631,m,2,,1,0,,,,,0,0,,,,,,
-632,f,1,,1,0,,,,,0,0,,,,,,
-633,f,2,,1,0,,,,,0,0,,,,,,
-634,f,3,1,1,0,,,0,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-635,f,2,,1,0,,,,,0,0,,,,,,
-636,m,3,,0,0,0,1,1,1,1,1,0,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-637,f,2,,1,0,,,,,0,0,,,,,,
-638,m,2,1,1,0,,,1,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-639,m,1,,1,0,,,,,0,0,,,,,,
-640,m,3,2,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-641,f,2,1,1,0,,,,0,1,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
-642,m,1,,1,0,,,,,0,0,,,,,,
-643,f,2,1,1,0,,,1,,0,0,1,1,1,0,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-644,m,1,1,1,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-645,,,1,1,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Graduate school degree"
-646,m,3,,1,0,,,,,0,0,,,,,,
-647,m,3,8,1,0,,,1,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-648,m,2,,1,0,,,,,0,0,,,,,,
-649,m,1,,1,0,,,,,0,0,,,,,,
-650,m,2,,0,0,,,,,0,0,,,,,,
-651,m,1,,1,0,,,,,0,0,,,,,,
-652,o,1,3,1,0,,,,,0,0,0,,,,,
-653,m,1,,0,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-654,m,3,1,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-655,m,1,4,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-656,m,3,,1,0,,,,,0,0,,,,,,
-657,m,2,,0,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-658,m,3,1,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-659,m,2,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-660,f,1,,1,0,,,,,0,0,,,,,,
-661,m,1,,0,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-662,f,3,1,1,0,,,1,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-663,m,2,5,1,0,,,0,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-664,m,2,,0,0,,,1,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-665,m,2,,0,0,,,,,0,0,,,,,,
-666,m,1,,1,0,,,,,0,0,,,,,,
-667,m,2,,1,0,,,,,0,0,,,,,,
-668,f,1,2,1,0,,,1,,0,0,1,0,0,,,Past and current on-the-job training/learning
-669,m,2,,1,0,,,,,0,0,,,,,,
-670,m,2,,1,0,,,,,0,0,,,,,,
-671,f,1,1,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-672,f,3,1,1,0,,,1,,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-673,m,2,4,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-674,m,1,,0,0,,,0,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-675,m,3,,0,0,,,,,0,0,1,1,0,,,Self-taught (e.g. studied on my own)
-676,m,3,,1,0,,,,,0,0,,,,,,
-677,f,1,1,1,0,,,0,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-678,,2,,1,0,,,,,0,0,1,1,0,,,Self-taught (e.g. studied on my own)
-679,m,1,4,1,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-680,,3,,0,0,,,,,0,0,1,1,0,1,1,Self-taught (e.g. studied on my own)
-681,m,3,,0,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-682,m,2,,1,0,,,,,0,0,,,,,,
-683,m,3,1,1,0,,,1,,0,0,1,1,0,,,Self-taught (e.g. studied on my own)
-684,m,1,,0,0,,,1,,0,0,1,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-685,m,1,1,1,0,,,1,,0,0,0,1,1,1,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-686,m,2,,1,0,,,,,0,0,,,,,,
-687,m,1,,1,0,,,,,0,0,,,,,,
-688,m,2,,1,0,,,,,0,0,,,,,,
-689,,,,,0,,,1,1,0,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-690,f,1,2,1,0,,,1,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-691,,3,,,0,,,,,0,0,,,,,,
-692,m,2,,0,0,,,,,0,0,,,,,,
-693,m,2,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-694,m,3,,1,0,,,,,0,0,0,1,,,,Self-taught (e.g. studied on my own)
-695,m,1,,1,0,,,,,0,0,,,,,,
-696,m,2,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-697,m,1,,0,0,,,1,,0,0,0,1,0,,,Self-taught (e.g. studied on my own)
-698,f,2,9,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-699,f,2,1,1,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
-700,m,1,1,1,0,,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-701,f,3,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-702,m,3,,0,0,,,1,0,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-703,f,1,,1,0,,,,,0,0,,,,,,
-704,f,1,,0,0,,,,,0,0,,,,,,
-705,m,2,,1,0,,,,,0,0,,,,,,
-706,m,1,,1,0,,,,,0,0,,,,,,
-707,m,3,,1,0,,,,,0,0,,,,,,
-708,m,2,,1,0,,,,,0,0,,,,,,
-709,m,2,1,1,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional"
-710,f,1,4,1,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-711,m,1,1,1,0,,,,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-712,m,2,,1,0,,,,,0,0,,,,,,
-713,f,1,4,1,0,,,,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-714,f,1,,0,0,,,1,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-715,f,2,,0,0,,,,,0,0,,,,,,
-716,f,2,,1,0,,,,,0,0,,,,,,
-717,m,3,,1,0,,,,,0,0,,,,,,
-718,m,2,,0,0,,,,,0,0,,,,,,
-719,f,3,1,1,0,,,0,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Graduate school degree"
-720,m,3,,1,0,,,,,0,0,,,,,,
-721,m,1,,0,0,,,0,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
-722,m,2,,1,0,,,,,0,0,,,,,,
-723,f,1,,0,0,,,1,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-724,m,1,,0,0,,,,,0,0,,,,,,
-725,m,3,,0,0,,,1,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-726,f,3,,1,0,,,,,0,0,,,,,,
-727,f,2,,1,0,,,,,0,0,,,,,,
-728,f,1,8,1,0,1,,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
-729,m,2,4,1,0,,,1,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-730,f,2,,1,0,,,,,0,0,,,,,,
-731,m,1,,0,0,,,,,0,0,,,,,,
-732,m,2,,1,0,,,,,0,0,,,,,,
-733,f,1,4,1,0,,,1,,0,0,0,1,,,,Self-taught (e.g. studied on my own)
-734,m,2,,1,0,,,,,0,0,,,,,,
-735,m,3,1,1,0,,,1,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-736,f,2,,1,0,,,,,0,0,,,,,,
-737,m,1,,1,0,,,,,0,0,,,,,,
-738,m,2,,1,0,,,,,0,0,,,,,,
-739,m,1,1,1,0,,,,0,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-740,f,1,1,1,0,,,0,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-741,m,3,,0,0,,,,,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-742,m,2,,0,0,,,,,0,0,1,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-743,m,1,,1,0,,,,,0,0,,,,,,
-744,f,1,,0,0,,,0,,0,0,0,1,0,,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-745,m,1,4,1,0,,,1,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-746,f,1,4,1,0,,,,,1,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-747,f,1,1,1,0,0,,1,0,0,0,1,1,0,0,,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
-748,f,1,3,1,0,,,1,,0,0,1,1,0,,,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
-749,m,2,,1,0,,,,,0,0,,,,,,
-750,f,2,,0,0,,,,,0,0,,,,,,
-751,f,3,,0,0,,,,,0,0,,,,,,
-752,f,1,,0,0,,,,,0,0,0,1,1,,,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
-753,m,2,2,1,0,,,0,,0,0,0,1,0,,,Self-taught (e.g. studied on my own)
-754,f,1,1,1,0,,,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
-755,m,1,,0,0,,,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+,Gender,Age Group,Ethnicity,Country,Diversity Issue,Microaggressions,Paid Parental Leave,Salary Parity,Technical Skills,New Team Addition,Recruiting Technologists,Overload of Projects,Educational Background,Self-study,Mentorship,Non-technical,Primary Role,Skills Sources
+0,m,1,,0,0,0,1,0,1,0,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+1,m,2,,0,0,1,0,0,0,0,0,0,1,0,1,,1,Mentored by another professional
+2,m,3,1,1,,0,,,1,,,,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+3,f,2,,0,0,0,,,0,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+4,f,2,8,1,1,0,,,,,,,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+5,f,1,4,1,,1,1,1,0,0,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+6,m,2,,0,0,0,,,0,,,,1,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+7,f,3,1,1,0,0,,,1,,,,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+8,,1,8,1,1,1,0,0,0,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+9,m,1,1,1,0,1,1,0,0,1,1,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+10,m,2,,0,0,0,,,,,,,1,0,1,0,0,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+11,m,1,8,1,1,0,0,0,0,,0,1,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
+12,m,1,1,1,1,1,0,0,0,1,1,0,0,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
+13,m,3,1,1,0,0,1,1,1,1,1,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+14,m,3,,0,0,0,0,0,1,1,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+15,m,2,1,1,0,0,1,0,1,0,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+16,m,1,9,1,,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
+17,f,3,1,1,1,0,,,,,,,1,0,1,1,1,"Mentored by another professional,Graduate school degree"
+18,m,3,,0,0,0,,,1,,,,0,1,0,0,3,Self-taught (e.g. studied on my own)
+19,m,3,1,1,0,0,,,1,,,,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+20,m,2,,0,0,0,,,1,,,,1,1,0,1,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+21,m,2,1,1,,0,1,0,,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+22,f,3,,0,0,1,0,0,1,1,1,1,1,0,1,1,3,"Mentored by another professional,Past and current on-the-job training/learning"
+23,m,3,1,1,0,1,0,0,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
+24,f,3,3,1,0,0,1,0,1,1,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+25,f,3,8,1,,1,0,0,1,1,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+26,m,2,1,1,0,0,1,0,0,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+27,f,2,4,1,1,1,1,0,,1,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional"
+28,f,1,1,1,,0,,,,,,,0,0,1,0,3,"Mentored by another professional,Past and current on-the-job training/learning"
+29,f,2,,0,0,0,1,0,1,1,0,1,1,1,0,1,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+30,f,1,,0,0,1,0,0,1,0,0,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+31,f,2,1,1,0,1,0,0,0,0,0,1,1,0,1,1,3,"Mentored by another professional,Past and current on-the-job training/learning"
+32,m,1,1,1,,1,1,0,1,0,0,0,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+33,f,2,4,1,0,0,0,0,,1,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+34,m,1,1,1,0,1,0,0,0,0,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+35,n,2,,0,0,0,0,0,1,1,1,0,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+36,f,1,8,1,0,1,1,0,1,1,0,1,0,1,0,0,0,Self-taught (e.g. studied on my own)
+37,f,1,1,1,0,1,1,0,1,1,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+38,m,2,,0,0,0,,,,,,,0,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+39,f,2,8,1,1,1,1,0,1,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+40,m,3,8,1,0,0,0,0,1,0,0,0,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+41,m,2,,0,,0,1,0,1,1,0,1,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+42,f,1,1,1,1,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+43,m,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
+44,m,1,1,1,,0,1,1,,,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+45,m,2,1,1,0,0,1,0,,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+46,m,2,2,1,1,1,1,0,1,1,0,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+47,f,3,1,1,1,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+48,f,2,,0,0,1,0,0,1,1,1,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+49,m,2,,0,0,0,1,1,1,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+50,f,3,,0,1,0,,,1,,,,1,1,0,,3,Self-taught (e.g. studied on my own)
+51,f,2,,0,0,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+52,m,1,,0,0,0,0,0,1,1,1,1,0,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+53,m,1,,0,,0,,,,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree"
+54,m,3,1,1,,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
+55,m,2,9,1,,0,1,0,0,,1,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+56,m,2,,0,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
+57,m,3,,0,,0,,,,,,,1,0,1,0,1,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+58,m,1,1,1,,1,0,0,1,,0,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+59,f,1,1,1,0,1,0,0,0,0,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+60,m,2,1,1,0,0,1,0,0,1,1,1,1,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+61,f,3,1,1,1,1,1,1,1,1,0,1,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+62,m,1,,0,0,0,,,1,,,,0,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+63,m,2,1,1,1,0,0,0,1,,0,1,0,1,0,0,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+64,f,2,,0,0,1,1,1,1,0,0,1,0,1,0,1,1,Self-taught (e.g. studied on my own)
+65,f,2,1,1,,0,,,0,,,,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+66,m,1,,0,0,0,0,1,,1,1,0,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+67,m,3,1,1,0,1,0,0,1,,0,0,1,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+68,f,1,1,1,0,1,1,0,1,0,0,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+69,m,2,1,1,0,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+70,f,1,1,1,0,1,0,0,1,1,0,0,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+71,m,2,2,1,1,1,1,0,1,1,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+72,f,3,1,1,0,0,,,1,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+73,f,2,,0,,0,,,,,,,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+74,m,2,,0,0,1,0,0,0,0,1,0,0,1,0,1,3,Self-taught (e.g. studied on my own)
+75,m,2,,0,0,0,1,1,1,,0,1,1,1,0,0,3,Self-taught (e.g. studied on my own)
+76,f,2,3,1,0,0,0,0,0,0,1,1,1,0,1,1,1,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+77,f,1,4,1,,1,1,0,,,0,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+78,m,1,,0,0,1,0,0,1,1,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+79,m,2,1,1,0,0,,,1,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+80,f,1,1,1,0,0,,,1,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+81,m,2,1,1,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+82,m,3,,0,0,0,0,1,1,0,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+83,f,1,1,1,0,0,,,0,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
+84,m,3,2,1,0,0,,,1,,,,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+85,m,2,1,1,0,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+86,f,2,,1,0,0,,,1,,,,1,1,0,0,1,Self-taught (e.g. studied on my own)
+87,f,2,1,1,0,1,0,0,,,1,0,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+88,f,2,1,1,0,1,0,0,1,1,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
+89,m,1,1,1,0,0,1,0,1,1,0,0,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+90,m,2,1,1,1,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree"
+91,f,1,,0,,1,1,0,0,1,1,1,1,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
+92,f,1,,0,0,1,1,0,1,1,0,0,0,0,1,0,1,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+93,m,3,,0,0,0,,,,,,,0,0,0,,3,
+94,o,1,1,1,1,0,,,0,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+95,m,3,1,1,0,0,,,0,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+96,m,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
+97,m,3,,0,0,1,1,1,1,0,0,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+98,m,2,1,1,0,0,0,0,1,1,0,1,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+99,m,1,1,1,,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+100,m,2,1,1,0,0,,,1,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+101,m,3,1,1,,0,,,0,,,,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+102,m,1,1,1,0,1,1,0,0,,0,0,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+103,f,1,1,1,,0,,,1,,,,1,1,0,0,1,Self-taught (e.g. studied on my own)
+104,f,1,1,1,1,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+105,m,1,,0,0,0,0,0,1,1,1,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+106,f,2,5,1,0,0,,,,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+107,f,2,4,1,0,0,,,0,,,,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+108,m,1,1,1,,0,1,0,,,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+109,m,2,,0,0,0,,,0,,,,0,1,0,0,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+110,m,2,,0,0,0,,,1,,,,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional"
+111,m,3,,0,0,0,1,0,1,0,0,1,0,1,0,1,3,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+112,m,3,1,1,0,0,1,0,0,1,1,1,1,1,0,0,3,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+113,m,3,,0,0,0,0,0,1,1,1,1,1,1,0,0,2,Self-taught (e.g. studied on my own)
+114,m,3,,0,,0,0,0,0,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+115,f,3,1,1,0,0,0,0,,,0,1,1,1,0,1,3,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+116,m,2,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+117,f,2,1,1,0,1,1,0,1,0,0,0,1,0,1,1,1,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+118,m,3,1,1,0,0,1,0,,1,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+119,m,3,1,1,1,1,0,0,1,1,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+120,f,2,4,1,0,0,,,0,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+121,f,3,,0,0,0,,,1,,,,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+122,f,2,,0,0,1,,,1,1,1,1,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+123,m,3,,0,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+124,m,3,,0,0,1,1,0,1,0,1,1,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+125,f,3,1,1,0,0,,,1,,,,0,0,1,1,1,Mentored by another professional
+126,f,2,,0,1,0,,,0,,,,1,1,0,0,1,Self-taught (e.g. studied on my own)
+127,m,1,,0,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+128,f,3,1,1,0,0,,,,,,,1,1,0,0,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+129,f,3,1,1,,1,1,0,1,0,0,0,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+130,f,2,1,1,0,0,,,,,,,1,0,0,0,3,Past and current on-the-job training/learning
+131,m,1,8,1,1,0,,,0,,,,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+132,f,2,1,1,,0,,,0,,,,0,0,0,0,1,"Graduate school degree,Past and current on-the-job training/learning"
+133,f,3,1,1,,0,0,1,0,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+134,m,2,1,1,0,0,0,0,0,1,1,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+135,m,1,1,1,0,0,,,1,,,,0,1,0,0,0,Self-taught (e.g. studied on my own)
+136,m,2,1,1,0,0,0,0,1,1,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+137,m,1,,0,,0,0,0,,,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+138,f,1,1,1,1,1,1,0,0,0,0,1,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+139,f,1,1,1,,1,0,0,1,0,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
+140,f,3,1,1,,0,,,0,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+141,f,2,8,1,,1,0,0,0,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+142,f,1,1,1,0,0,,,1,,,,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+143,f,1,2,1,1,1,1,1,1,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+144,f,3,3,1,1,1,1,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+145,f,1,1,1,1,0,1,0,1,,1,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+146,m,1,,0,1,0,1,1,1,1,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+147,f,1,,0,0,0,1,0,,,0,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional"
+148,m,2,1,1,0,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
+149,f,1,1,1,,1,1,0,,0,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+150,f,1,4,1,,1,0,0,,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+151,m,2,,0,,0,0,0,0,1,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+152,f,1,1,1,1,1,1,0,0,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+153,f,3,1,1,0,1,1,0,1,0,0,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+154,f,1,1,1,0,1,1,0,,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+155,m,2,1,1,0,0,1,0,1,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+156,f,2,1,1,,0,1,0,,,0,0,1,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+157,f,1,4,1,0,1,1,0,0,,1,0,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+158,f,3,1,1,0,0,,,1,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+159,m,2,2,1,0,0,0,0,1,0,0,0,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+160,f,3,1,1,0,0,,,0,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+161,f,2,,0,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+162,m,3,,0,,0,,,,,,,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
+163,f,1,1,1,1,1,1,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+164,m,3,,0,,0,,,,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree"
+165,f,3,,0,0,1,1,1,0,0,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+166,m,1,1,1,0,1,1,0,1,0,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+167,f,2,1,1,0,1,1,0,1,1,0,1,1,0,1,0,1,"Mentored by another professional,Graduate school degree"
+168,f,2,,0,,0,,,,,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+169,f,1,1,1,1,1,1,0,1,1,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+170,m,2,,0,0,0,1,1,1,0,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+171,m,2,1,1,0,1,0,0,0,0,0,0,0,0,1,0,1,"Mentored by another professional,Past and current on-the-job training/learning"
+172,n,2,,0,1,0,,,1,,,,0,1,0,0,0,Self-taught (e.g. studied on my own)
+173,f,2,1,1,0,0,,,0,,,,0,0,0,0,3,
+174,m,3,1,1,0,0,,,1,,,,1,0,1,0,3,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+175,m,1,,0,0,0,,,1,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+176,m,2,8,1,1,1,0,0,0,1,0,0,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+177,m,3,9,1,1,0,1,0,1,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+178,m,1,,0,,0,0,0,,,0,0,0,0,0,0,0,
+179,m,2,,0,0,0,1,1,1,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+180,m,2,1,1,,0,1,0,1,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+181,f,1,3,1,1,1,0,0,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+182,m,3,1,1,1,0,1,0,0,,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+183,m,1,4,1,0,0,1,0,1,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
+184,f,2,9,1,,1,1,1,,1,0,0,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+185,f,1,1,1,,0,1,0,,,0,0,0,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
+186,o,1,1,1,1,0,,,,,,,1,1,0,0,3,Self-taught (e.g. studied on my own)
+187,f,1,1,1,0,0,1,0,,0,1,0,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+188,m,2,9,1,1,0,1,0,1,0,0,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+189,m,2,1,1,,0,1,1,,,1,1,1,1,0,0,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+190,m,1,9,1,0,1,0,0,1,0,1,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+191,m,2,,0,0,0,,,1,1,0,0,0,0,1,1,1,"Mentored by another professional,Past and current on-the-job training/learning"
+192,f,2,1,1,0,1,0,0,1,1,1,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+193,,1,4,1,0,0,1,0,1,1,1,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+194,f,3,1,1,1,0,,,0,,,,0,1,0,1,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+195,f,3,,0,1,1,1,0,1,0,1,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+196,f,3,1,1,1,1,1,0,0,0,0,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+197,m,3,1,1,,0,1,0,,,0,0,1,1,0,0,3,Self-taught (e.g. studied on my own)
+198,m,2,,0,,0,0,0,1,1,0,0,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+199,m,3,1,1,,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+200,f,1,1,1,0,0,0,0,1,0,0,1,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+201,m,1,1,1,1,0,1,0,,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+202,m,2,1,1,0,1,1,0,1,1,0,1,0,1,0,0,0,Self-taught (e.g. studied on my own)
+203,m,1,1,1,0,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree"
+204,m,1,9,1,0,0,1,1,1,,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+205,m,2,,0,0,0,1,1,1,1,1,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+206,m,1,,0,,0,1,0,,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+207,m,2,1,1,0,0,1,0,0,0,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+208,f,3,,0,0,1,1,0,1,0,0,0,1,1,0,0,2,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+209,f,1,,0,1,0,0,0,0,0,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+210,f,2,1,1,0,0,,,,,,,1,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+211,m,2,1,1,0,0,1,0,0,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+212,f,3,1,1,0,0,,,0,,,,1,1,0,1,1,Self-taught (e.g. studied on my own)
+213,f,1,4,1,1,1,1,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+214,f,1,3,1,1,0,1,0,1,0,0,0,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+215,f,2,1,1,0,0,,,0,,,,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+216,f,3,8,1,,0,1,0,,,0,1,1,1,0,1,1,Self-taught (e.g. studied on my own)
+217,f,1,,0,,1,0,0,,,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
+218,m,1,,0,,0,,,0,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+219,m,2,,0,0,0,1,1,1,0,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+220,f,2,1,1,0,1,1,0,1,,0,0,0,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+221,f,2,4,1,1,1,1,0,,0,1,0,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+222,m,3,1,1,0,1,0,1,1,0,0,1,1,1,0,0,2,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+223,m,2,,0,,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+224,m,2,,0,0,0,,,1,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+225,f,2,,0,,1,1,0,1,1,1,0,0,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+226,m,3,1,1,0,0,,,1,,,,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+227,f,1,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+228,f,1,1,1,0,0,1,0,0,,0,0,1,0,0,0,3,Graduate school degree
+229,m,2,,0,0,0,,,0,,,,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+230,f,3,1,1,0,1,0,0,,0,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+231,f,3,1,1,,0,,,,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+232,m,3,1,1,0,0,,,,,,,1,0,0,0,3,Past and current on-the-job training/learning
+233,m,2,,0,1,0,,,1,,,,1,1,0,0,1,Self-taught (e.g. studied on my own)
+234,m,1,1,1,0,0,0,0,1,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+235,m,3,1,1,,0,1,0,0,0,0,0,0,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+236,f,1,1,1,,1,1,0,0,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+237,m,3,1,1,0,0,0,0,1,0,0,0,0,1,1,,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+238,m,3,1,1,0,0,,,0,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+239,f,2,1,1,0,1,0,0,0,0,1,1,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+240,f,3,1,1,0,1,1,0,,1,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+241,f,2,1,1,1,0,1,0,,,0,0,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+242,f,1,2,1,1,1,0,0,,,0,0,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+243,f,1,1,1,0,1,1,0,0,1,0,0,0,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+244,m,1,,0,0,0,0,0,1,0,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+245,f,3,,0,0,0,1,0,1,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+246,m,1,1,1,0,0,,,,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+247,f,2,3,1,0,1,1,0,1,1,0,1,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+248,f,1,1,1,0,0,,,1,,,,1,0,0,1,3,
+249,f,1,4,1,0,1,0,1,0,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+250,m,3,1,1,0,1,1,0,1,1,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+251,f,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+252,m,3,,0,0,0,,,0,,,,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+253,m,3,1,1,0,0,0,0,1,1,1,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+254,f,3,1,1,,0,,,,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+255,m,3,8,1,0,0,1,1,,0,0,1,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+256,m,2,1,1,1,0,1,0,1,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+257,f,1,1,1,,1,0,0,1,0,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+258,f,1,1,1,0,0,1,0,0,1,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+259,f,1,1,1,1,0,,,,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+260,m,1,8,1,0,0,1,0,1,0,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+261,m,1,1,1,0,1,1,0,1,1,0,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+262,f,2,1,1,0,1,1,0,1,,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+263,m,3,1,1,,0,0,1,0,1,1,1,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+264,f,1,1,1,1,1,1,0,1,1,0,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+265,f,3,1,1,0,0,,,0,,,,1,1,0,1,3,Self-taught (e.g. studied on my own)
+266,f,2,8,1,,0,1,0,0,1,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+267,f,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+268,f,2,4,1,0,0,1,0,0,0,1,0,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+269,f,3,1,1,0,0,,,0,,,,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+270,f,1,1,1,0,1,1,0,0,0,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+271,f,2,1,1,0,0,1,0,1,0,0,1,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+272,m,2,1,1,,0,1,0,0,0,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+273,m,1,,0,1,0,1,0,1,1,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+274,m,3,1,1,,0,1,0,,0,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+275,m,1,1,1,0,0,1,0,,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+276,m,1,1,1,,0,1,0,,1,1,1,1,0,0,0,0,
+277,m,2,1,1,,0,,,,0,0,0,0,1,0,0,0,Self-taught (e.g. studied on my own)
+278,m,2,,0,0,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+279,m,1,9,1,0,1,1,0,,,,,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
+280,m,3,1,1,,0,1,0,,,0,1,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+281,f,1,1,1,0,0,,,0,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+282,f,2,1,1,0,0,1,0,0,0,0,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+283,m,3,1,1,0,0,1,0,1,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+284,f,1,1,1,,0,1,1,,1,0,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+285,f,2,1,1,0,0,1,0,0,0,0,0,1,0,1,1,3,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+286,f,2,1,1,0,1,0,0,1,1,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+287,f,3,1,1,0,0,,,1,,,,1,1,0,0,0,Self-taught (e.g. studied on my own)
+288,m,2,,0,0,0,1,1,1,0,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree"
+289,f,2,,0,0,0,,,1,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+290,f,2,2,1,1,0,,,0,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+291,m,2,1,1,0,0,1,0,1,0,1,1,0,0,0,0,2,"Graduate school degree,Past and current on-the-job training/learning"
+292,n,1,,0,,0,1,1,,,0,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+293,m,1,8,1,0,1,1,0,,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+294,f,1,4,1,0,0,1,0,1,0,0,0,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+295,m,2,,0,0,0,,,,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree"
+296,f,2,1,1,,0,1,0,,1,0,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+297,f,3,1,1,0,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+298,m,3,1,1,0,0,1,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+299,f,3,1,1,0,0,1,0,0,0,0,1,1,1,0,1,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+300,m,2,2,1,,0,1,0,0,,1,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+301,m,1,1,1,0,0,,,,,,,0,0,1,0,3,"Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+302,m,1,4,1,1,0,0,0,0,0,0,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+303,m,2,1,1,0,0,1,0,1,0,1,1,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+304,m,2,1,1,0,0,1,0,,,1,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+305,f,2,,0,0,0,,,1,,,,1,0,0,1,3,"Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+306,f,2,8,1,1,1,1,0,,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+307,n,2,1,1,0,0,,,1,,,,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+308,m,2,,0,0,0,1,0,1,1,0,0,0,0,1,1,1,"Mentored by another professional,Past and current on-the-job training/learning"
+309,m,2,1,1,,0,1,0,,1,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+310,m,1,,0,0,1,1,1,1,1,1,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+311,m,1,4,1,0,0,1,0,0,,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
+312,m,2,1,1,,0,1,0,0,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+313,f,3,1,1,1,0,,,1,,,,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+314,f,2,1,1,0,1,1,0,0,0,0,1,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+315,m,3,1,1,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+316,m,2,1,1,0,0,,,,,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+317,m,1,1,1,0,0,1,0,0,1,0,1,0,0,0,1,1,"Undergraduate degree,Past and current on-the-job training/learning"
+318,m,1,9,1,0,1,0,0,,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+319,m,1,1,1,,0,1,0,,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+320,f,2,1,1,,1,1,0,1,1,0,1,1,1,0,0,2,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+321,m,1,1,1,0,0,0,0,1,1,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+322,f,3,8,1,,0,,,,,,,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+323,m,2,1,1,,0,0,1,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+324,f,3,8,1,1,0,,,1,,,,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
+325,f,1,1,1,0,0,1,0,1,,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+326,f,2,1,1,0,1,1,0,1,,0,1,1,1,0,0,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+327,m,3,1,1,1,0,0,0,0,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+328,f,2,1,1,1,1,1,0,,1,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+329,m,2,8,1,,0,,,0,,,,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+330,m,1,1,1,0,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+331,m,3,1,1,0,0,,,1,,,,1,0,1,0,1,Mentored by another professional
+332,f,1,1,1,0,0,0,0,0,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+333,f,3,3,1,0,0,,,1,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
+334,m,1,1,1,,0,0,0,1,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+335,m,3,1,1,0,0,0,1,0,0,0,1,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+336,f,1,,0,0,0,,,,,,,1,1,0,0,2,Self-taught (e.g. studied on my own)
+337,f,1,1,1,1,0,1,0,0,,0,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+338,f,3,8,1,1,0,,,0,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+339,m,2,,0,0,0,0,0,0,0,1,0,1,1,0,0,2,"Self-taught (e.g. studied on my own),Graduate school degree"
+340,m,3,1,1,,0,,,1,,,,1,1,0,0,0,Self-taught (e.g. studied on my own)
+341,m,3,1,1,0,0,0,1,0,0,1,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+342,m,2,1,1,0,0,0,0,1,1,1,1,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
+343,m,1,1,1,1,0,1,1,1,0,0,0,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+344,f,2,1,1,0,0,,,,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+345,f,1,1,1,1,0,1,0,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+346,m,1,1,1,1,0,0,0,1,,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+347,f,1,1,1,0,0,0,0,1,0,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
+348,f,3,1,1,0,1,1,0,1,1,0,1,1,1,0,0,2,Self-taught (e.g. studied on my own)
+349,f,1,1,1,1,1,0,0,1,,0,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+350,m,3,,,0,0,,,,,,,1,1,0,0,3,Self-taught (e.g. studied on my own)
+351,m,3,1,1,0,0,1,0,1,1,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+352,m,3,1,1,0,1,0,0,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+353,m,2,,0,0,1,1,0,1,0,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
+354,m,1,1,1,0,0,0,0,,1,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
+355,m,1,1,1,1,0,1,0,1,0,0,0,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+356,m,3,1,1,0,0,1,0,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+357,m,1,5,1,0,0,0,0,,1,1,0,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
+358,m,3,2,1,1,0,1,0,1,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+359,f,2,,0,0,0,,,,,,,1,1,0,1,3,Self-taught (e.g. studied on my own)
+360,f,1,1,1,1,1,0,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+361,m,1,1,1,0,1,0,0,,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+362,m,2,1,1,0,0,,,,,,,1,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+363,f,1,4,1,1,1,1,0,0,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+364,f,1,1,1,1,1,0,0,,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+365,f,2,4,1,0,1,1,0,,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+366,m,3,,0,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+367,m,2,1,1,,0,1,0,1,,1,1,1,1,0,0,2,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+368,f,1,4,1,1,0,1,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+369,m,2,8,1,0,1,0,0,0,0,0,0,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+370,f,1,1,1,1,0,,,1,,,,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
+371,m,1,,0,0,0,,,1,,1,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+372,f,2,,0,0,0,,,1,,,,1,1,0,0,1,"Self-taught (e.g. studied on my own),Undergraduate degree"
+373,f,2,1,1,0,0,,,0,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree"
+374,m,3,,0,0,1,0,0,,,1,1,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional"
+375,f,3,,0,,0,1,0,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+376,f,2,1,1,1,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+377,f,1,1,1,0,0,,,1,,,,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
+378,m,3,1,1,0,1,1,0,1,0,1,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+379,m,3,1,1,,0,1,0,0,1,1,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+380,f,3,9,1,0,1,0,0,0,0,0,0,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+381,m,2,1,1,,0,,,,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+382,f,3,8,1,1,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+383,f,1,1,1,0,1,1,0,1,0,1,0,1,0,0,0,0,Past and current on-the-job training/learning
+384,m,2,1,1,,0,1,1,,0,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+385,f,1,1,1,,1,1,0,,1,1,1,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+386,f,2,4,1,1,1,1,1,0,0,1,1,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+387,m,3,2,1,1,1,0,0,1,,0,0,0,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+388,m,3,1,1,,0,0,0,,0,0,1,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+389,m,1,1,1,0,0,1,0,1,1,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+390,m,2,1,1,0,0,0,0,1,1,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+391,m,3,1,1,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+392,f,3,1,1,1,1,1,1,0,0,0,0,0,0,0,0,3,"Undergraduate degree,Past and current on-the-job training/learning"
+393,m,2,1,1,0,0,1,0,1,1,1,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+394,m,1,1,1,0,1,1,0,1,1,1,0,0,1,0,0,2,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+395,f,1,4,1,,1,1,0,0,0,1,1,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+396,f,2,1,1,,1,1,0,,,0,1,1,1,0,0,1,Self-taught (e.g. studied on my own)
+397,m,2,1,1,,0,0,0,1,1,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+398,f,1,,0,0,1,1,1,1,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree"
+399,f,1,1,1,,0,0,0,,1,0,1,0,0,0,0,0,"Undergraduate degree,Past and current on-the-job training/learning"
+400,m,3,1,1,,0,,,0,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+401,m,3,1,1,,1,1,1,1,0,0,1,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+402,f,1,1,1,,0,1,0,,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+403,m,2,1,1,0,0,,,1,,,,1,1,0,0,0,Self-taught (e.g. studied on my own)
+404,m,1,1,1,0,0,0,0,,,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+405,f,1,1,1,1,0,0,0,1,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+406,m,2,9,1,0,0,,,1,,,,1,1,0,0,0,Self-taught (e.g. studied on my own)
+407,f,1,4,1,,1,1,0,,,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+408,m,2,1,1,1,0,1,0,1,1,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
+409,f,1,1,1,1,0,1,1,1,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+410,f,1,2,1,1,1,0,0,1,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+411,f,1,8,1,0,0,,,0,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+412,m,3,1,1,,0,0,0,1,1,0,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+413,f,1,1,1,,0,1,0,1,,0,0,0,0,0,0,0,"Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+414,m,1,1,1,1,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+415,f,1,1,1,0,1,1,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+416,m,2,1,1,,0,1,0,,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+417,m,2,,0,0,0,1,1,0,0,1,1,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+418,f,1,1,1,,0,1,0,,,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+419,f,1,1,1,0,1,0,0,0,0,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+420,m,2,,0,0,0,1,0,1,1,1,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
+421,m,2,1,1,1,1,1,0,1,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+422,m,2,1,1,0,0,1,0,1,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+423,f,1,4,1,,0,,,,,,,1,1,0,0,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+424,f,3,1,1,0,0,1,1,1,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+425,f,2,1,1,,1,1,0,,,1,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+426,m,2,1,1,,0,1,0,0,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+427,m,2,1,1,0,0,1,0,0,0,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+428,f,2,1,1,0,0,1,0,,0,0,1,0,1,0,0,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+429,f,1,4,1,0,1,1,0,0,0,1,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+430,f,2,1,1,1,1,0,0,0,0,0,0,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+431,m,2,,0,0,0,0,0,1,1,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+432,f,1,1,1,,0,,,,,,,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+433,f,1,,0,1,0,0,0,,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+434,f,1,2,1,1,0,0,0,1,1,0,0,1,0,0,0,0,Graduate school degree
+435,m,1,1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Undergraduate degree
+436,m,3,1,1,0,0,0,0,1,1,0,1,1,1,0,0,0,Self-taught (e.g. studied on my own)
+437,m,2,8,1,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+438,m,2,8,1,0,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+439,m,2,,1,0,0,1,1,0,1,0,1,1,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+440,f,1,1,1,0,1,0,0,1,0,0,0,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+441,f,2,,0,0,0,,,0,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+442,m,1,1,1,1,0,1,0,0,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+443,f,1,4,1,1,1,1,0,1,1,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+444,m,1,4,1,0,0,,,0,,,,0,0,0,0,0,
+445,m,1,,0,,0,,,,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+446,m,2,,0,1,0,1,0,1,0,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+447,m,3,1,1,0,1,1,0,1,0,1,1,0,1,0,0,2,Self-taught (e.g. studied on my own)
+448,m,1,8,1,0,0,1,0,1,1,1,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+449,m,1,1,1,1,0,1,1,1,1,1,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional"
+450,m,3,1,1,0,0,,,1,,,,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+451,m,3,1,1,0,0,,,1,,,,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+452,f,2,,0,0,0,,,,,,,0,0,1,0,3,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+453,o,1,8,1,1,1,1,0,1,1,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+454,n,1,1,1,1,0,1,0,1,1,1,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+455,f,1,1,1,0,1,1,0,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+456,m,1,1,1,1,1,1,0,,0,1,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+457,m,2,3,1,0,1,0,0,1,0,0,1,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+458,m,1,1,1,0,0,,,,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+459,f,2,4,1,1,0,,,0,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+460,m,3,1,1,,0,1,0,,1,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+461,f,2,1,1,1,0,1,0,1,0,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+462,m,2,1,1,1,0,0,0,1,0,0,1,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+463,m,1,1,1,0,0,0,0,1,,0,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+464,m,1,2,1,1,0,0,0,1,,,,0,1,0,0,0,Self-taught (e.g. studied on my own)
+465,m,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+466,m,2,,0,0,0,0,0,0,0,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+467,m,2,1,1,1,0,0,0,0,1,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+468,f,2,1,1,1,1,,,1,0,0,0,1,0,1,0,1,"Mentored by another professional,Past and current on-the-job training/learning"
+469,f,2,1,1,1,1,1,1,1,1,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+470,f,3,,0,0,0,,,0,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+471,m,3,1,1,1,0,1,0,,1,1,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional"
+472,f,1,2,1,1,1,1,0,1,,0,0,1,0,1,0,2,"Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+473,m,1,1,1,,0,0,0,,,1,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+474,m,1,2,1,0,1,0,0,0,0,0,1,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+475,f,2,1,1,0,1,1,0,1,0,0,1,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+476,m,2,1,1,1,0,,,1,,,,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+477,m,2,1,1,1,0,,,1,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+478,f,1,3,1,1,1,1,0,1,1,0,1,0,0,1,0,0,"Mentored by another professional,Past and current on-the-job training/learning"
+479,m,1,2,1,0,0,1,0,,0,0,0,0,1,0,0,2,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+480,f,1,4,1,,0,,,0,,,,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+481,m,3,1,1,1,0,1,0,1,0,0,0,1,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+482,f,1,1,1,,1,1,0,,,0,0,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+483,f,1,2,1,1,1,0,0,,1,1,1,0,0,1,0,1,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+484,m,2,1,1,,0,1,0,,,0,1,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+485,m,3,1,1,1,0,1,1,1,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+486,m,2,1,1,0,0,0,0,0,0,0,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
+487,f,2,1,1,0,0,,,1,0,0,0,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+488,m,2,1,1,0,0,1,0,0,1,1,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+489,f,1,1,1,0,0,0,0,,0,1,1,0,0,1,0,0,"Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+490,m,2,1,1,,0,1,0,0,1,0,0,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+491,f,1,4,1,,0,1,0,0,,0,0,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+492,m,2,8,1,1,0,,,0,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+493,m,2,1,1,0,0,,,,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+494,m,2,9,1,0,0,0,0,0,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+495,m,1,1,1,0,0,1,1,1,0,0,0,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+496,f,1,1,1,0,1,1,0,1,,1,1,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+497,m,2,,0,0,0,,,0,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+498,m,1,1,1,0,0,1,0,0,0,0,1,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+499,f,2,1,1,0,0,1,1,0,0,0,0,0,1,0,1,3,Self-taught (e.g. studied on my own)
+500,m,1,1,1,1,0,,,0,,,,1,0,1,0,3,"Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+501,f,1,2,1,1,1,1,0,1,0,0,1,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+502,f,2,1,1,1,1,1,0,,0,0,0,1,1,0,1,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+503,f,1,1,1,0,1,1,0,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+504,m,2,1,1,0,0,0,0,1,1,0,0,0,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+505,m,1,1,1,1,0,0,0,0,0,0,0,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+506,f,1,,0,0,0,1,0,1,0,1,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+507,m,1,8,1,0,0,0,0,1,,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+508,m,2,1,1,1,0,1,0,0,,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+509,f,1,1,1,1,0,1,0,,0,0,0,1,0,1,0,3,"Mentored by another professional,Past and current on-the-job training/learning"
+510,m,3,,0,0,0,1,1,0,1,1,1,1,1,0,1,3,Self-taught (e.g. studied on my own)
+511,f,3,1,1,0,0,,,1,,,,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+512,m,1,1,1,0,1,0,0,1,0,0,1,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+513,f,1,4,1,1,0,,,1,,,,0,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+514,m,1,1,1,0,0,1,0,1,1,1,0,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+515,m,2,1,1,1,0,1,0,0,1,0,1,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+516,m,2,1,1,1,0,0,0,1,0,0,0,1,1,1,0,2,"Self-taught (e.g. studied on my own),Mentored by another professional"
+517,m,2,,0,,0,,,0,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+518,f,1,,0,,0,,,,,,,,,,,3,
+519,m,1,,0,,0,,,,,,,,,,,3,
+520,f,1,,0,,0,,,0,,,,0,1,0,,3,Self-taught (e.g. studied on my own)
+521,f,1,,0,,0,,,0,1,0,0,0,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+522,m,1,,0,,0,,,,,,,,,,,3,
+523,f,1,8,1,,1,0,0,1,0,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+524,o,1,,1,,0,,,,,,,,,,,3,
+525,f,2,1,1,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree"
+526,f,1,,1,,0,,,,,,,,,,,3,
+527,f,2,,1,,0,,,,,,,,,,,3,
+528,m,1,,0,,0,,,,,,,,,,,3,
+529,m,1,,0,,0,,,,,,,,,,,3,
+530,m,1,,1,,0,,,,,,,,,,,3,
+531,f,3,3,1,,0,,,0,,,,1,1,0,1,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+532,m,3,1,1,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+533,m,1,3,1,,0,,,1,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+534,m,1,,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+535,m,2,,1,,0,,,,,,,,,,,3,
+536,o,1,,1,,0,,,,,,,,,,,3,
+537,f,2,,0,,0,,,,,,,,,,,3,
+538,m,1,1,1,,0,,,1,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+539,m,2,1,1,,0,1,0,1,1,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+540,m,2,,1,,0,,,,,,,,,,,3,
+541,f,3,1,1,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree"
+542,m,1,,0,,0,,,,,,,,,,,3,
+543,m,1,,0,,0,,,,,,,,,,,3,
+544,m,1,1,1,,0,,,0,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+545,m,2,,0,,0,,,,,,,,,,,3,
+546,f,3,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+547,m,2,1,1,,0,,,,,,,,,,,3,
+548,m,3,,,,0,,,,,,,,,,,3,
+549,m,2,,0,,0,,,1,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Graduate school degree"
+550,f,1,,0,,0,,,,,,,,,,,3,
+551,f,2,,0,,0,,,,,,,,,,,3,
+552,f,2,,0,,0,,,1,,,,0,1,1,0,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+553,m,1,,1,,0,,,,,,,,,,,3,
+554,f,3,1,1,,0,,,,,,,1,1,0,,3,Self-taught (e.g. studied on my own)
+555,m,3,,0,,0,,,,,,,,,,,3,
+556,f,1,,1,,0,,,,,,,,,,,3,
+557,m,2,,1,,0,,,,,,,,,,,3,
+558,f,3,1,1,,1,0,0,0,0,0,0,1,0,0,1,3,Past and current on-the-job training/learning
+559,m,2,1,1,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+560,m,3,1,1,,0,,,1,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+561,f,1,,0,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+562,f,1,,0,,0,,,,,0,1,1,0,1,,3,"Mentored by another professional,Past and current on-the-job training/learning"
+563,m,1,,1,,0,,,,,,,,,,,3,
+564,m,2,,1,,0,,,,,,,,,,,3,
+565,m,2,,0,,0,,,,,,,,,,,3,
+566,m,2,,1,,0,,,,,,,,,,,3,
+567,f,3,,1,,0,,,,,,,,,,,3,
+568,f,2,,1,,0,,,,,,,,,,,3,
+569,f,1,,1,,0,,,,,,,,,,,3,
+570,f,2,,1,,0,,,,,,,,,,,3,
+571,f,2,,1,,0,,,,,,,,,,,3,
+572,f,1,,1,,0,,,,,,,,,,,3,
+573,m,2,,1,,0,,,,,,,,,,,3,
+574,m,2,1,1,,0,,,,,,,0,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+575,m,1,1,1,,0,,,1,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+576,m,3,,1,,0,,,,,,,,,,,3,
+577,m,3,,0,,0,,,1,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+578,f,1,,0,,0,,,,,,,1,0,0,,3,
+579,m,2,1,1,,0,,,0,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+580,m,2,,0,,0,,,,,,,,,,,3,
+581,n,,,,,0,,,,,,,,,,,3,
+582,m,3,,,,0,,,,,,,1,0,1,,3,"Mentored by another professional,Past and current on-the-job training/learning"
+583,n,,,1,,0,,,,,,,,,,,3,
+584,m,3,,0,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Graduate school degree"
+585,m,1,,0,,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+586,m,3,,1,,0,,,,,,,,,,,3,
+587,m,3,,0,,0,,,,,,,,,,,3,
+588,m,3,,1,,0,,,,,,,,,,,3,
+589,m,2,3,1,,0,,,1,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+590,m,1,,0,,0,,,1,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+591,m,2,1,1,,0,,,0,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+592,m,1,,0,,0,,,1,,,,0,1,0,,3,Self-taught (e.g. studied on my own)
+593,m,3,1,1,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+594,f,1,8,1,,0,,,,,,,1,0,1,,3,"Mentored by another professional,Past and current on-the-job training/learning"
+595,f,3,1,1,,0,,,0,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+596,m,2,,0,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+597,m,2,1,1,,0,1,0,1,0,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+598,m,1,1,1,,0,,,0,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+599,m,1,,1,,0,,,,,,,,,,,3,
+600,f,1,,0,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+601,m,2,,0,,0,,,,,,,,,,,3,
+602,f,3,,0,,0,,,,,,,,,,,3,
+603,m,1,,1,,0,,,,,,,,,,,3,
+604,m,2,,1,,0,,,,,,,,,,,3,
+605,m,2,,1,,0,,,,,,,,,,,3,
+606,f,3,,0,,0,,,1,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+607,m,2,,0,,0,,,,1,1,0,1,1,0,,3,Self-taught (e.g. studied on my own)
+608,f,1,1,1,,0,,,0,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Graduate school degree,Past and current on-the-job training/learning"
+609,m,3,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+610,m,3,,1,,0,,,,,,,,,,,3,
+611,m,2,,0,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree"
+612,m,3,,0,,0,,,,,,,,,,,3,
+613,f,1,4,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+614,f,2,1,1,,0,,,1,,,,1,0,0,,3,
+615,f,3,,,,0,,,1,,,,1,1,0,,3,Self-taught (e.g. studied on my own)
+616,f,1,1,1,,0,,,0,0,0,0,0,0,1,,3,"Mentored by another professional,Past and current on-the-job training/learning"
+617,f,3,1,1,,0,,,0,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+618,m,2,,0,,0,,,,,,,,,,,3,
+619,m,1,,0,,0,,,,,,,,,,,3,
+620,m,2,,0,,0,,,,,,,,,,,3,
+621,m,2,,1,,0,,,,,,,,,,,3,
+622,m,2,,0,,0,,,1,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+623,m,2,,0,,0,1,0,1,0,0,0,1,1,1,0,0,"Self-taught (e.g. studied on my own),Mentored by another professional"
+624,f,1,,0,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+625,f,1,,1,,0,,,,,,,,,,,3,
+626,m,3,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+627,m,1,1,1,,0,,,,,0,0,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+628,m,3,1,1,,0,,,,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Undergraduate degree"
+629,m,2,,0,,0,,,,,,,,,,,3,
+630,m,3,,1,,0,,,,,,,,,,,3,
+631,m,2,,1,,0,,,,,,,,,,,3,
+632,f,1,,1,,0,,,,,,,,,,,3,
+633,f,2,,1,,0,,,,,,,,,,,3,
+634,f,3,1,1,,0,,,0,,,,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+635,f,2,,1,,0,,,,,,,,,,,3,
+636,m,3,,0,,0,0,1,1,1,1,1,0,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+637,f,2,,1,,0,,,,,,,,,,,3,
+638,m,2,1,1,,0,,,1,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+639,m,1,,1,,0,,,,,,,,,,,3,
+640,m,3,2,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+641,f,2,1,1,,1,0,0,,0,1,0,1,1,0,0,0,Self-taught (e.g. studied on my own)
+642,m,1,,1,,0,,,,,,,,,,,3,
+643,f,2,1,1,,0,,,1,,,,1,1,1,0,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+644,m,1,1,1,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+645,n,,1,1,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Graduate school degree"
+646,m,3,,1,,0,,,,,,,,,,,3,
+647,m,3,8,1,,0,,,1,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+648,m,2,,1,,0,,,,,,,,,,,3,
+649,m,1,,1,,0,,,,,,,,,,,3,
+650,m,2,,0,,0,,,,,,,,,,,3,
+651,m,1,,1,,0,,,,,,,,,,,3,
+652,o,1,3,1,,0,,,,,,,0,,,,3,
+653,m,1,,0,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+654,m,3,1,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+655,m,1,4,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+656,m,3,,1,,0,,,,,,,,,,,3,
+657,m,2,,0,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+658,m,3,1,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+659,m,2,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+660,f,1,,1,,0,,,,,,,,,,,3,
+661,m,1,,0,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+662,f,3,1,1,,0,,,1,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+663,m,2,5,1,,0,,,0,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+664,m,2,,0,,0,,,1,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+665,m,2,,0,,0,,,,,,,,,,,3,
+666,m,1,,1,,0,,,,,,,,,,,3,
+667,m,2,,1,,0,,,,,,,,,,,3,
+668,f,1,2,1,,0,,,1,,,,1,0,0,,3,Past and current on-the-job training/learning
+669,m,2,,1,,0,,,,,,,,,,,3,
+670,m,2,,1,,0,,,,,,,,,,,3,
+671,f,1,1,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+672,f,3,1,1,,0,,,1,,,,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+673,m,2,4,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+674,m,1,,0,,0,,,0,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+675,m,3,,0,,0,,,,,,,1,1,0,,3,Self-taught (e.g. studied on my own)
+676,m,3,,1,,0,,,,,,,,,,,3,
+677,f,1,1,1,,0,,,0,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+678,,2,,1,,0,,,,,,,1,1,0,,3,Self-taught (e.g. studied on my own)
+679,m,1,4,1,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+680,n,3,,0,,0,,,,,,,1,1,0,1,1,Self-taught (e.g. studied on my own)
+681,m,3,,0,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+682,m,2,,1,,0,,,,,,,,,,,3,
+683,m,3,1,1,,0,,,1,,,,1,1,0,,3,Self-taught (e.g. studied on my own)
+684,m,1,,0,,0,,,1,,,,1,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+685,m,1,1,1,,0,,,1,,,,0,1,1,1,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+686,m,2,,1,,0,,,,,,,,,,,3,
+687,m,1,,1,,0,,,,,,,,,,,3,
+688,m,2,,1,,0,,,,,,,,,,,3,
+689,n,,,,,0,,,1,1,0,0,0,1,0,0,1,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+690,f,1,2,1,,0,,,1,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+691,,3,,,,0,,,,,,,,,,,3,
+692,m,2,,0,,0,,,,,,,,,,,3,
+693,m,2,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+694,m,3,,1,,0,,,,,,,0,1,0,,3,Self-taught (e.g. studied on my own)
+695,m,1,,1,,0,,,,,,,,,,,3,
+696,m,2,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+697,m,1,,0,,0,,,1,,,,0,1,0,,3,Self-taught (e.g. studied on my own)
+698,f,2,9,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+699,f,2,1,1,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Undergraduate degree,Past and current on-the-job training/learning"
+700,m,1,1,1,,0,,,1,,,,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+701,f,3,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+702,m,3,,0,,0,,,1,0,1,0,0,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+703,f,1,,1,,0,,,,,,,,,,,3,
+704,f,1,,0,,0,,,,,,,,,,,3,
+705,m,2,,1,,0,,,,,,,,,,,3,
+706,m,1,,1,,0,,,,,,,,,,,3,
+707,m,3,,1,,0,,,,,,,,,,,3,
+708,m,2,,1,,0,,,,,,,,,,,3,
+709,m,2,1,1,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional"
+710,f,1,4,1,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+711,m,1,1,1,,0,,,,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+712,m,2,,1,,0,,,,,,,,,,,3,
+713,f,1,4,1,,0,,,,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+714,f,1,,0,,0,,,1,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+715,f,2,,0,,0,,,,,,,,,,,3,
+716,f,2,,1,,0,,,,,,,,,,,3,
+717,m,3,,1,,0,,,,,,,,,,,3,
+718,m,2,,0,,0,,,,,,,,,,,3,
+719,f,3,1,1,,0,,,0,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Graduate school degree"
+720,m,3,,1,,0,,,,,,,,,,,3,
+721,m,1,,0,,0,,,0,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Graduate school degree,Past and current on-the-job training/learning"
+722,m,2,,1,,0,,,,,,,,,,,3,
+723,f,1,,0,,0,,,1,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+724,m,1,,0,,0,,,,,,,,,,,3,
+725,m,3,,0,,0,,,1,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+726,f,3,,1,,0,,,,,,,,,,,3,
+727,f,2,,1,,0,,,,,,,,,,,3,
+728,f,1,8,1,,0,1,0,1,,0,0,1,1,0,0,0,"Self-taught (e.g. studied on my own),Graduate school degree,Past and current on-the-job training/learning"
+729,m,2,4,1,,0,,,1,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+730,f,2,,1,,0,,,,,,,,,,,3,
+731,m,1,,0,,0,,,,,,,,,,,3,
+732,m,2,,1,,0,,,,,,,,,,,3,
+733,f,1,4,1,,0,,,1,,,,0,1,0,,3,Self-taught (e.g. studied on my own)
+734,m,2,,1,,0,,,,,,,,,,,3,
+735,m,3,1,1,,0,,,1,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+736,f,2,,1,,0,,,,,,,,,,,3,
+737,m,1,,1,,0,,,,,,,,,,,3,
+738,m,2,,1,,0,,,,,,,,,,,3,
+739,m,1,1,1,,0,,,,0,0,0,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+740,f,1,1,1,,0,,,0,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+741,m,3,,0,,0,,,,,,,1,1,1,1,1,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+742,m,2,,0,,0,,,,,,,1,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+743,m,1,,1,,0,,,,,,,,,,,3,
+744,f,1,,0,,0,,,0,,,,0,1,0,,3,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+745,m,1,4,1,,0,,,1,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+746,f,1,4,1,,0,,,,,1,0,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+747,f,1,1,1,,0,0,0,1,0,0,0,1,1,0,0,2,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"
+748,f,1,3,1,,0,,,1,,,,1,1,0,,3,"Self-taught (e.g. studied on my own),Undergraduate degree,Past and current on-the-job training/learning"
+749,m,2,,1,,0,,,,,,,,,,,3,
+750,f,2,,0,,0,,,,,,,,,,,3,
+751,f,3,,0,,0,,,,,,,,,,,3,
+752,f,1,,0,,0,,,,,,,0,1,1,,3,"Self-taught (e.g. studied on my own),Mentored by another professional,Past and current on-the-job training/learning"
+753,m,2,2,1,,0,,,0,,,,0,1,0,,3,Self-taught (e.g. studied on my own)
+754,f,1,1,1,,0,,,1,,0,0,1,1,0,0,1,Self-taught (e.g. studied on my own)
+755,m,1,,0,,0,0,0,,,,,0,1,0,0,0,"Self-taught (e.g. studied on my own),Past and current on-the-job training/learning"

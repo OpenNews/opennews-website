@@ -2,7 +2,8 @@
 	"Gender": {
 		"m": "Male",
 		"f": "Female",
-		"o": "Other"
+		"o": "Other",
+		"n": "Prefer not to say"
 	},
 	"Age Group": {
 		"1": "30 or younger",
@@ -72,9 +73,11 @@
 		"1": "I never spend any of my time coding.",
 		"0": "I spent at least a small portion of my time coding."
 	},
-	"Reporter": {
+	"Primary Role": {
+		"3": "I spend little time on either reporting or coding.",
+		"2": "I spend the same amount of time reporting and coding.",
 		"1": "I spend more of my time reporting than coding.",
-		"0": "I spend less of my time reporting than coding."
+		"0": "I spend more of my time coding than reporting."
 	},
 	"Skills Sources": "A comma-delimited list of things that I considered important / very important in building my current skills."
 }

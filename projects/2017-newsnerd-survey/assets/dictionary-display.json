@@ -1,0 +1,38 @@
+{
+	"Educational Background": {
+		"1": "degree in comp-sci. or journalism",
+		"0": "no degree in field"
+	},
+	"Self-study": {
+		"1": "Self-study important",
+		"0": "Self-study not important"
+	},
+	"Mentorship": {
+		"1": "Mentorship important",
+		"0": "Mentorship not important"
+	},
+	"Salary Parity": {
+		"1": "Claimed salary parity",
+		"0": "Claimed no salary parity"
+	},
+	"Paid Parental Leave": {
+		"1": "Parental leave",
+		"0": "No parental leave"
+	},
+	"Microaggressions": {
+		"1": "Subject of harassment / microaggressions",
+		"0": "Not subject of harassment / microaggressions"
+	},
+	"Overload of Projects": {
+		"1": "Project overload is major challenge",
+		"0": "Project overload not a major challenge"
+	},
+	"New Team Addition": {
+		"1": "Hire technical skills",
+		"0": "Hire another type of role"
+	},
+	"Technical Skills": {
+		"1": "Wants to build technical skills",
+		"0": "Does not want to build technical skills"
+	}
+}
