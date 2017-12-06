@@ -18,7 +18,7 @@ The News Nerd Survey was made possible by the support of Google News Lab and the
 You probably want to dive right into the data yourself! We've got a few different opportunities for you to check out the data this time:
 
 * [Data visualization and analysis from Google News Lab](/projects/2017-newsnerd-survey/)
-* [Analysis of the salary-related data from Soo](/blog/salaries-survey-2017)
+* [Analysis of the salary-related data from Soo](/blog/salaries-2017-survey/)
 * [The data itself](https://drive.google.com/open?id=1hBmHTQGo0dAXZqEd3qWk4lz3kwKnQKhVWAqPzSHfWFs), and an [overview of the findings from Network Impact](https://drive.google.com/open?id=1tICCNq5B6CzoPMURWmWdX4s6cUBcS2WB)
 
 Thank you to all of the respondents for sharing feedback on so much related to their career, background, current work, and hopes for the future. We are so grateful to get to spend time with this data and share it back with you for application in your work.
