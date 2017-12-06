@@ -17,6 +17,10 @@ Source is half community hub, half magazine—a place for working journalist-cod
 
 Every two weeks, we host an open conference call for the international news code community. The Source community calls include discussions of specific, recently launched projects and tools, announcements of new events, grants, jobs, and other opportunities. They’re a perfect way to connect with new collaborators and learn more about the day-to-day work of newsroom developers. [Learn more and see when the next call is scheduled](calls).
 
+### [Community Survey](survey)
+
+OpenNews conducts an annual survey to better understand the hiring and career landscape and skill-building needs of this community, plus gather insights into the supports of interest to smaller newsrooms. These “news nerds,” the developers, designers, editors, data analysts, and product folks who work in tech and journalism, have built vibrant online and in-person spaces to find new opportunities, build skills, and advocate for more inclusive news organizations. [Learn more about who they are.](/what/community/survey)
+
 ### [Ticket + Travel Scholarships](scholarships)
 
 We know events are an important part of how the journalism-code community learns and shares with one another. Money shouldn't get in the way of attending a great event, and we want to help. [Learn more about our travel scholarship program](scholarships).
@@ -25,6 +29,3 @@ We know events are an important part of how the journalism-code community learns
 
 In addition to in-person events, the journalism code-community gathers in Slack channels and list servs to compare notes and solve problems. [Learn more about these online hubs](hubs).
 
-### Community Survey
-
-In 2016, we conducted the first community survey of people working in journalism technology. The survey was planned by community members Brian Hamman and Scott Klein and developed by the research firm Network Impact. We [released the results at the 2017 NICAR conference](https://opennews.org/blog/news-nerd-survey/) and conduct a followup survey later in the year.

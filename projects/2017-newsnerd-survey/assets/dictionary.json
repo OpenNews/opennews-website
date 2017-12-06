@@ -1,0 +1,83 @@
+{
+	"Gender": {
+		"m": "Male",
+		"f": "Female",
+		"o": "Other",
+		"n": "Prefer not to say"
+	},
+	"Age Group": {
+		"1": "30 or younger",
+		"2": "31 - 40",
+		"3": "40 or older"
+	},
+	"Ethnicity": {
+		"1": "Non-Hispanic White or Euro-American",
+		"2": "Latino or Hispanic American",
+		"3": "Black, Afro-Caribbean, or African American",
+		"4": "Asian American",
+		"5": "Middle Eastern or Arab American",
+		"6": "Native American or Alaskan Native",
+		"7": "Native Hawaiian or Pacific Islander",
+		"8": "Two or more Races / Ethnicities",
+		"9": "Other"
+	},
+	"Country": {
+		"1": "United States",
+		"0": "International"
+	},
+	"Diversity Issue": {
+		"1": "Diversity is among the top 3 things that the journalism tech community 'needs' right now.",
+		"0": "Diversity is not among the top 3 things."
+	},
+	"Microaggressions": {
+		"1": "I've been the subject of harassment or microaggressions inside or outside the newsroom",
+		"0": "I have not been the subject of harassment or microaggressions."
+	},
+	"Paid Parental Leave": {
+		"1": "My newsroom has paid parental leave.",
+		"0": "My newsroom doesn't have paid parental leave."
+	},
+	"Salary Parity": {
+		"1": "My newsroom has salary parity.",
+		"0": "My newsroom doesn't have salary parity."
+	},
+	"Technical Skills": {
+		"1": "I'm looking to build at least one technical skill over the next year.",
+		"0": "I'm not looking to build a technical skill."
+	},
+	"New Team Addition": {
+		"1": "I'd want to hire someone with technical skills (data, web development, engineering, newsroom tools).",
+		"0": "I'd hire someone for another type of role."
+	},
+	"Recruiting Technologists": {
+		"1": "Recruiting technologists is a major challenge for the journalism tech industry.",
+		"0": "Recruiting technologists is not a major challenge."
+	},
+	"Overload of Projects": {
+		"1": "Project overload is a major challenge for the journalism tech industry.",
+		"0": "Project overload is not a major challenge."
+	},
+	"Educational Background": {
+		"1": "I have an undergrad or graduate degree in a field other than journalism or computer science",
+		"0": "I don't have a degree in a field other than journalism or computer science."
+	},
+	"Self-study": {
+		"1": "Self-study was important / very important in building the skills I use today as a news nerd",
+		"0": "Self-study was not as important in building my skills."
+	},
+	"Mentorship": {
+		"1": "Mentorship by another professional was important / very important in building the skills I use today as a news nerd",
+		"0": "Mentorship by another professional was not as important in building my skills."
+	},
+	"Non-technical": {
+		"1": "I never spend any of my time coding.",
+		"0": "I spent at least a small portion of my time coding."
+	},
+	"Primary Role": {
+		"3": "I spend little time on either reporting or coding.",
+		"2": "I spend the same amount of time reporting and coding.",
+		"1": "I spend more of my time reporting than coding.",
+		"0": "I spend more of my time coding than reporting."
+	},
+	"Skills Sources": "A comma-delimited list of things that I considered important / very important in building my current skills."
+}

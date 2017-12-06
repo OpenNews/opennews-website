@@ -7,113 +7,113 @@
 <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Breaking down isolation and bringing journalists together</title>
+<dc:creator></dc:creator>
+
+<description>Our Ticket+Travel scholarship application is open again and we wanted to tell you more about why and how we created this program.</description>
+
+<pubDate>Mon, 12 Jun 2017 12:00:00 -0400</pubDate>
+<link>http://localhost:4000/blog/scholarships-purpose/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/scholarships-purpose/</guid>
+</item>
+
+<item>
+<title>Updating SRCCON scholarships for more participants</title>
+<dc:creator></dc:creator>
+
+<description>This year we've expanded our scholarship offerings and made it easier to apply.</description>
+
+<pubDate>Fri, 05 May 2017 12:00:00 -0400</pubDate>
+<link>http://localhost:4000/blog/srccon-scholarships-update/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-scholarships-update/</guid>
+</item>
+
+<item>
+<title>Our SRCCON proposals guide is here to help</title>
+<dc:creator></dc:creator>
+
+<description>We want you to pitch your ideas for SRCCON—timely, technical, thoughtful, difficult, even weird—and we want you to feel confident when you do. That's easier when you feel supported and have access to feedback, so we're making our review process more transparent.</description>
+
+<pubDate>Mon, 03 Apr 2017 08:00:00 -0400</pubDate>
+<link>http://localhost:4000/blog/srccon-proposal-guide/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-proposal-guide/</guid>
+</item>
+
+<item>
+<title>How to pitch a SRCCON session</title>
+<dc:creator></dc:creator>
+
+<description>Here we walk through each question one-by-one to answer any of your questions about how to craft your proposal.</description>
+
+<pubDate>Wed, 29 Mar 2017 08:00:00 -0400</pubDate>
+<link>http://localhost:4000/blog/how-to-srccon-proposal/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/how-to-srccon-proposal/</guid>
+</item>
+
+<item>
+<title>Evolving our model for small events: a dozen people, two days, and a purpose</title>
+<dc:creator></dc:creator>
+
+<description>Code convenings have helped newsroom developers revise and release more than 30 open-source tools. Now we're taking what we've learned, and developing events to build documentation, skills, and community connections.</description>
+
+<pubDate>Fri, 03 Mar 2017 08:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/evolving-convening-model/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/evolving-convening-model/</guid>
+</item>
+
+<item>
+<title>Who are the news nerds?</title>
+<dc:creator></dc:creator>
+
+<description>Over 500 of you responded to our survey about the journalism-tech community. Here are the results of the inaugural news nerd survey.</description>
+
+<pubDate>Thu, 02 Mar 2017 14:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/news-nerd-survey/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/news-nerd-survey/</guid>
+</item>
+
+<item>
+<title>Where you'll see OpenNews at NICAR 2017</title>
+<dc:creator></dc:creator>
+
+<description>We're excited to be back at NICAR, and we're bringing a bunch of announcements and projects to share.</description>
+
+<pubDate>Thu, 02 Mar 2017 08:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/NICAR/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/NICAR/</guid>
+</item>
+
+<item>
+<title>The SRCCON ticket lottery, and what we learned</title>
+<dc:creator></dc:creator>
+
+<description>Open ticket sales turned into too-quick sellouts for our first two conferences, so we switched to a lottery system for SRCCON 2016. Here's how it worked.</description>
+
+<pubDate>Tue, 28 Feb 2017 11:21:00 -0500</pubDate>
+<link>http://localhost:4000/blog/srccon-lottery/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-lottery/</guid>
+</item>
+
+<item>
+<title>Hello Again. New Source for You.</title>
+<dc:creator></dc:creator>
+
+<description>Along with our other announcements today Source launched with a new look, new setup, and new features.</description>
+
+<pubDate>Thu, 09 Feb 2017 12:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/new-source/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/new-source/</guid>
+</item>
+
+<item>
 <title>OpenNews Ascent Stage Initiated</title>
 <dc:creator></dc:creator>
 
 <description>OpenNews lifts off in 2017 with a slew of important project announcements. A new home, a renewed focus, and a bunch of newly launched things. Holy cow, this is big.</description>
 
-<pubDate>Thu, 09 Feb 2017 09:00:00 -0600</pubDate>
+<pubDate>Thu, 09 Feb 2017 09:00:00 -0500</pubDate>
 <link>http://localhost:4000/blog/new-opennews/</link>
 <guid isPermaLink="true">http://localhost:4000/blog/new-opennews/</guid>
-</item>
-
-<item>
-<title>SRCCON is coming back to Minneapolis</title>
-<dc:creator></dc:creator>
-
-<description>SRCCON will be back in 2017. We'll be returning to beautiful Minneapolis, Minnesota August 3 and 4.</description>
-
-<pubDate>Thu, 09 Feb 2017 08:55:00 -0600</pubDate>
-<link>http://localhost:4000/blog/srccon2017/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon2017/</guid>
-</item>
-
-<item>
-<title>Thursday Nights at SRCCON</title>
-<dc:creator></dc:creator>
-
-<description>Our evening program at SRCCON is designed to offer the &quot;life&quot; part of the work/life balance. We've iterated on it every year--here's how we did it this year.</description>
-
-<pubDate>Fri, 07 Oct 2016 11:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-thursday/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-thursday/</guid>
-</item>
-
-<item>
-<title>How We Planned &amp; Ran the SRCCON Travel Scholarships</title>
-<dc:creator></dc:creator>
-
-<description>One part of how we make SRCCON accessible is through travel scholarships. This is how we administer the program.</description>
-
-<pubDate>Thu, 06 Oct 2016 10:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-scholarship-process-admin/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-scholarship-process-admin/</guid>
-</item>
-
-<item>
-<title>How We Facilitated a Huge, Participatory, Highly Charged SRCCON Session, a Guest Post from Alyson Hurt</title>
-<dc:creator></dc:creator>
-
-<description>As the SRCCON organizers reminded us, our job was to *facilitate* a session, and our topic in particular felt like it was meant to be a conversation (rather than, say, a skill-share or lesson). We had some thoughts and past experience to share, but we by no means considered ourselves experts. In a group setting, we could all learn from *each other* about ways—as individuals, as managers, as teams, as organizations—folks are dealing with burnout and job satisfaction now, and maybe devise new strategies to try in the future.</description>
-
-<pubDate>Tue, 12 Jul 2016 10:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-facilitator-recs-two/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-facilitator-recs-two/</guid>
-</item>
-
-<item>
-<title>3 Ways to Facilitate a Great Conference Session, a Guest Post from Sisi Wei</title>
-<dc:creator></dc:creator>
-
-<description>If you've never presented at a conference with facilitators instead of speakers before, you're in for a treat. Facilitation is a much more interactive way of running sessions at conferences, and when done well, both the facilitator and the attendees walk away feeling inspired, motivated, and like they've learned a lot from everyone in the room.</description>
-
-<pubDate>Tue, 05 Jul 2016 12:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-facilitator-recs-one/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-facilitator-recs-one/</guid>
-</item>
-
-<item>
-<title>The Importance of Presence - Announcing a New Way to Connect</title>
-<dc:creator></dc:creator>
-
-<description>We want to help you get to events that will enrich your work in the journalism code community. Today we announce a Ticket and Travel scholarship program.</description>
-
-<pubDate>Thu, 26 May 2016 12:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/ticket-travel-scholarship/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/ticket-travel-scholarship/</guid>
-</item>
-
-<item>
-<title>Gone in 60 Seconds--SRCCON Ticketing Changes</title>
-<dc:creator></dc:creator>
-
-<description>Ticket sales for SRCCON are coming soon and we're making some changes to how we sell them this year.</description>
-
-<pubDate>Thu, 05 May 2016 12:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-tix/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-tix/</guid>
-</item>
-
-<item>
-<title>Why You Should Pitch a SRCCON Session (Today)</title>
-<dc:creator></dc:creator>
-
-<description>Every year, the SRCCON proposal deadline comes up faster than seems possible, but it's not yet too late—in fact, this is the perfect time to submit your pitch.</description>
-
-<pubDate>Mon, 18 Apr 2016 14:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/why-pitch-srccon/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/why-pitch-srccon/</guid>
-</item>
-
-<item>
-<title>Tools, Bridges, and Five Years of Knight-Mozilla Fellows</title>
-<dc:creator></dc:creator>
-
-<description>Today's announcement of our 2016 Knight-Mozilla Fellows adds a fifth cohort to our fellowship community.</description>
-
-<pubDate>Thu, 05 Nov 2015 14:05:00 -0600</pubDate>
-<link>http://localhost:4000/blog/five-years-of-fellows/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/five-years-of-fellows/</guid>
 </item>
 
 </channel>
