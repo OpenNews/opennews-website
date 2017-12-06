@@ -88,11 +88,13 @@ _Breakdown of respondents:_
 
 Along with discontent over salaries, journalists cite lack of career opportunities and lack of newsroom leadership as reasons they’ve left their job in the past five years. That suggests some potential problems and ideas:
 
-1. Newsrooms are vulnerable to journalists with tech skills leaving — possibly to a tech company or another news organization’s engineering department — if they want a raise but don’t want to become a manager, if those opportunities even become available.  
-2. Newsrooms may struggle to accommodate and make space for technical journalists who want to move into more senior roles, whether as management or some other kind of leadership position.  
-3. Despite the high cost of living, newsrooms in New York and DC pay so much better than newsrooms in other areas that they might have some difficulty retaining technical journalists. Many of these locations are major metro areas in their own right: San Francisco, Seattle, Los Angeles, Chicago, Minneapolis, and Boston are the next top reported locations. The cost of living is rising in these cities, and if salaries don’t catch up, then we may see journalism further bent towards the two media capitals.  
-4. That said, newsrooms in New York and DC might be able to pay remote workers salaries that are higher than average locally, improving their own coverage outside the Mid-Atlantic bubble.  
-5. The fact that the salaries of <a href="https://www.npr.org/sections/codeswitch/2017/05/01/492982066/the-modern-newsroom-is-stuck-behind-the-gender-and-color-line">underrepresented journalists</a> skew lower than the salaries of white men is something of a failure of our community and our newsrooms. Journalists who primarily make graphics, develop apps, and analyze data in their jobs still make up a small enough part of the newsroom that we should be able to better level the playing field, not perpetuate pay gaps.  
+<p>
+<ol>
+<li>Newsrooms are vulnerable to journalists with tech skills leaving — possibly to a tech company or another news organization’s engineering department — if they want a raise but don’t want to become a manager, if those opportunities even become available.</li>  
+<li>Newsrooms may struggle to accommodate and make space for technical journalists who want to move into more senior roles, whether as management or some other kind of leadership position.</li>  
+<li>Despite the high cost of living, newsrooms in New York and DC pay so much better than newsrooms in other areas that they might have some difficulty retaining technical journalists. Many of these locations are major metro areas in their own right: San Francisco, Seattle, Los Angeles, Chicago, Minneapolis, and Boston are the next top reported locations. The cost of living is rising in these cities, and if salaries don’t catch up, then we may see journalism further bent towards the two media capitals.</li>  
+<li>That said, newsrooms in New York and DC might be able to pay remote workers salaries that are higher than average locally, improving their own coverage outside the Mid-Atlantic bubble.</li>  
+<li>The fact that the salaries of <a href="https://www.npr.org/sections/codeswitch/2017/05/01/492982066/the-modern-newsroom-is-stuck-behind-the-gender-and-color-line">underrepresented journalists</a> skew lower than the salaries of white men is something of a failure of our community and our newsrooms. Journalists who primarily make graphics, develop apps, and analyze data in their jobs still make up a small enough part of the newsroom that we should be able to better level the playing field, not perpetuate pay gaps.</li></ol></p>  
 
 **Now what?**
 
