@@ -60,5 +60,5 @@ The News Nerd Survey was organized by [OpenNews](https://opennews.org), with the
 * The community advisory group includes Soo Oh, John S. Knight Fellow; Jennifer Lee, Google News Lab; and Liam Andrew, The Texas Tribune
 * The Network Impact team includes Anne Whatley, Madeleine Taylor, Amanda Rounsaville Welsh
 * Project management from OpenNews by Erika Owens
-* The data visualization was made by [Polygraph](http://polygraph.cool/), with advisors Alberto Cairo and Simon Rogers
+* The data visualization was made by [Polygraph](http://polygraph.cool/), advised by Alberto Cairo and Simon Rogers
 
