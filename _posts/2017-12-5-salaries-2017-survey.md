@@ -1,14 +1,14 @@
 ---
 layout: blogpost
-title: How journalists who code, design, and analyze data are paid
+title: Here's how newsrooms pay journalists who code, design, and analyze data
 date: 2017-12-5 12:01
 author: Soo Oh
 tags: newsnerdsurvey
-excerpt: The results of OpenNews’ second News Nerd Survey  confirm many hypotheses on pay equity that technical journalists discuss in backchannels.
+excerpt: The results of OpenNews' second News Nerd Survey confirm many hypotheses on pay equity that technical journalists discuss in backchannels.
 
 ---
-<img src="/media/img/survey-announcement.jpg" style="width: 100%;">
-<p class="caption" style="margin-top: 5px;">Thanks so much to those of you who raised your hand and shared your experience in this survey. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<img src="/media/img/srccon2017conversation.jpg" style="width: 100%;">
+<p class="caption" style="margin-top: 5px;">JSK Fellow ’14 Andrew Losowsky at SRCCON 2017. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 As a <a href="https://jsk.stanford.edu/fellows/class-of-2018/soo-oh/">John S. Knight Journalism Fellow at Stanford</a> this year, I’m researching how we can better manage and support journalists with technical skills. My research focus comes from my own experiences as a journalist-coder making interactive graphics and newsrooms tools at <a href="https://vox.com">Vox</a>, the <a href="https://www.chronicle.com/">Chronicle of Higher Education</a>, and the <a href="http://www.latimes.com">Los Angeles Times</a>.
 
@@ -24,7 +24,7 @@ While there are many intriguing findings in this survey, I’m focusing this pie
 
 **1. Salaries and benefits are not the main reason why news nerds leave a job, but they’re within the top 3**
 
-<img style="width: 100%;border: none;" src="https://cdn-images-1.medium.com/max/1600/1*XdgU9-chbJ7WzDkNm4DU6A.png">
+<img style="width: 100%;border: none;" src="/media/img/blog/salary-chart1.png">
 
 61 percent of nearly 500 respondents have left a job at a news organization in the past five years. They cited lack of advancement opportunities, lack of leadership or newsroom direction, and salary and benefits as their top reasons for leaving. These results correspond closely with <a href="https://hbr.org/2017/03/why-do-employees-stay-a-clear-career-path-and-good-pay-for-starters">other studies</a> about why employees leave and why they stay.
 
@@ -32,7 +32,7 @@ While there are many intriguing findings in this survey, I’m focusing this pie
 
 No factor accounted for as much difference in earnings than whether or not you managed people. The majority of managers make $110,001 or more a year, whether or not they led teams that produce journalism or an organization’s core technologies.
 
-<img style="width: 100%;border: none;" src="https://cdn-images-1.medium.com/max/800/1*ZVP6lDIlkQlYM23x3AO_wQ.png">
+<img style="width: 100%;border: none;" src="/media/img/blog/salary-chart2.png">
 
 The survey asked how much respondents earned in salary increments of $10,000, with the lowest value “Under $30,000” and the highest “$110,001 and above.” It seemed like a worthwhile trade-off between getting good data and people withholding their salaries once the buckets got too high. Based on our results, that call was right for non-managerial roles, but that means we have less information to help the majority of managers understand their salaries.
 
@@ -49,7 +49,7 @@ _Breakdown of respondents:_
 
 For the next three data points, I limit all the reported salaries to US respondents who work at least 30 hours or are salaried on teams that produce journalism.
 
-<img style="width: 100%;border: none;" src="https://cdn-images-1.medium.com/max/800/1*8IuNPwuV6VIV2W2s2QuCKQ.png">
+<img style="width: 100%;border: none;" src="/media/img/blog/salary-chart3.png">
 
 Generally, pay distributions skew higher for men than for women, whether or not they’re managers. Though median wages for non-managers are similar, the top 25 percent of women tend to get paid less than the top 25 percent of men.
 
@@ -61,7 +61,7 @@ _Breakdown of respondents: 78 non-managerial women, 83 non-managerial men, 28 ma
 
 Salaries between New York and DC aren’t too different; by quartile, they match up pretty well. Median earnings for non-managerial roles in both cities fall in the $80,001 to $90,000 range — tracking pretty closely with figures from the Bureau of Labor Statistics for <a href="https://www.bls.gov/oes/current/oes273022.htm#st">reporters and correspondents</a>.
 
-<img style="width: 100%;border: none;" src="https://cdn-images-1.medium.com/max/800/1*waoa2VaAOk5siVuXnKX8jw.png">
+<img style="width: 100%;border: none;" src="/media/img/blog/salary-chart4.png">
 
 But a quick check in a <a href="http://www.bankrate.com/calculators/savings/moving-cost-of-living-calculator.aspx">cost of living calculator</a> shows that Manhattan is almost 55 percent more expensive to live in than the DC area; living in Brooklyn reduces that to about 18 percent.
 
@@ -71,7 +71,7 @@ Other areas were less well represented in the survey. Of non-managerial responde
 
 The existence of a newsroom union affects the distribution of salaries for managers and non-managers alike. Half of all managers working in organizations without a union make more than $110,001, whereas almost 71 percent of managers in unionized newsrooms make more than $110,001.
 
-<img style="width: 100%;border: none;" src="https://cdn-images-1.medium.com/max/800/1*A-_Y7mrmS-JQHbNcd7u2xQ.png">
+<img style="width: 100%;border: none;" src="/media/img/blog/salary-chart5.png">
 
 The results for non-managers are even more interesting. While journalists in unions are more likely to earn higher wages than their counterparts in non-unionized newsrooms, not actually being in a newsroom union — 75 percent of these respondents were ineligible to join — still results in higher wages overall.
 
