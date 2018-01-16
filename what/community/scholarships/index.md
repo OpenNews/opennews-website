@@ -6,82 +6,64 @@ section: what we do
 ---
 <img src="/media/img/index_opennewsphoto.jpg" class="topline">
 <p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
+
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. <a href="/blog/ticket-travel-scholarship/">Events can be a great opportunity</a> to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help defray the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
 
-<!--<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Applications are open until June 26</a>.</p>-->
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
 
-Whether you're a newsroom developer at a small organization with a strained professional development budget or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. We've closed our third, and final, scholarship application for this year. <a href="http://eepurl.com/czSVTL">Join our email list</a> to find out about when the next application will open.
+<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe_FVTcK-VouOcqbjzn_-8T1jl4oRHW44R1ZnLYDK7H3RI5vQ/viewform">Applications for this round of 2018 scholarships are open through Wednesday, Jan. 24</a>.</p>
 
-<!--<a href="https://docs.google.com/forms/d/e/1FAIpQLSf11wqZGC5MNKKdle5T8wqSdOgJDiD4PNkU6netg4cxl5d5ow/closedform">Apply now</a>.-->
+Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events.
+
+We're excited to be able to offer ticket and travel support again in 2018, because we’ve consistently seen how valuable participating in events can be for individuals, their organizations, and the broader community. We see this program as a really meaningful way we can support the journalism community, and we expect to be able to announce more scholarship applications later this year.
+
+If there's an event coming up that you'd like to attend, we encourage you to [apply for a scholarship now](https://docs.google.com/forms/d/e/1FAIpQLSe_FVTcK-VouOcqbjzn_-8T1jl4oRHW44R1ZnLYDK7H3RI5vQ/viewform)!
 
 ### What we're offering
 
-* $500 toward the cost (travel, lodging, etc.) of attending an event on journalism technology, or an open source event where you’ll bring a journalism connection. 
+* $500 toward the cost (travel, lodging, etc.) of attending an event on journalism and technology, or an open-source event where you’ll build new skills or bring a journalism connection to a new community.
 * Full coverage of your event registration fee (capped at $1,000, but most events in the community cost much less).
 
 ### When applications are open
 
-Our third application was open until June 26. We notified all applicants by June 30.
-
-We had two earlier batches of applications this year:
-
-* Our first application closed on January 13. 
-* Our second application closed on March 17.
+Our applications are open now through midnight Eastern on Wednesday, Jan. 24. We'll notify all applicants by Wednesday, Jan. 31.
 
 ### Who should apply
-* Anyone who is part of the journalism code community such as developers, designers, and data analysts working in newsrooms.
-* Anyone interested in learning more about the journalism code community such as people working in other areas of technology who want share their development, design, or analysis skills with journalists.
-* People of color, women, and other under-represented groups in technology are strongly encouraged to apply.
+
+* Anyone who is part of the journalism-code community, such as developers, designers, and data analysts working in newsrooms.
+* Anyone interested in learning more about the journalism-code community, such as people working in other areas of technology who want to share their development, design, or analysis skills with journalists.
+* People of color, women, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
 
 ### What happens after you apply
-OpenNews staff will review applications and inform applicants of their application status by the notification date.
+
+OpenNews staff will review applications, and all applicants will receive an answer by Jan. 31.
 
 ### What happens after the conference
+
 You tell us how it went! We'll send you a short follow-up survey and will be excited to check out any blog posts or code repos that come out of your participation in the event.
 
 ## FAQ
 
-**What types of events are covered for travel?**<br>
-If there's an event that you think would help increase your participation in the journalism code community, you should tell us about it and apply for the scholarship. For the third application, some of the events people applied for support to attend included:
+**What types of events are covered for travel?**  
+We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. If you think an event will help you cover your community better, we want you to [tell us about it and apply for a scholarship](https://docs.google.com/forms/d/e/1FAIpQLSe_FVTcK-VouOcqbjzn_-8T1jl4oRHW44R1ZnLYDK7H3RI5vQ/viewform)!
 
-### July
+**Can people outside of the U.S. apply for the scholarship?**  
+Yep! The application is open to everyone. We welcome applications from any country, and you can apply for a scholarship to attend events outside of the U.S., too.
 
-* July 19-21: [TextA/V](http://textav.tech/) 
-* July 26-29: [Asian American Journalists Association conference](https://www.aaja17.org/schedule/)
-
-### August
-
-* August 9-13: [National Association of Black Journalists conference](https://www.nabjconvention.com)
-* August 17-19: [WordCamp for Publishers](https://2017-denver.journalist.wordcamp.org/)
-
-### September and beyond
-
-* September 7-9: [Excellence in Journalism conference](http://excellenceinjournalism.org/) (with the National Association of Hispanic Journalists and the Native American Journalist Association)
-* September 13-15: [Hacks/Hackers Buenos Aires Media Party](http://mediaparty.info/)
-* September 14-16: [Digital Humanities + Data Journalism Symposium](http://dhdjmiami.com/)
-* October 5-7: [Online News Association conference](https://ona17.journalists.org/)
-* October 13-14: [Computation+Journalism Symposium](http://cj2017.northwestern.edu/)
-* November 2-4: [Berliner Gazette Annual Conference: Friendly Fire](https://berlinergazette.de/friendly-fire/)
-
-**Can people outside of the US apply for the scholarship?**<br>
-Yep! The application is open to everyone. We welcome applications from any country. And you can apply for a scholarship to attend events outside of the US, too.
-
-**When will I receive my scholarship?**<br>
-When we notify scholarship recipients, we will include information about how to receive the scholarship funds. In short, we'll ask you to fill out a form to receive a stipend and a form to gather your W-9 details. Our administrators will process the payment. It may take a month or so for check processing.
+**When will I receive my scholarship?**  
+When we notify scholarship recipients, we will include information about how to receive the scholarship funds. We'll ask you to fill out a form to receive a stipend and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
  
-**What if I need more than $500 for my travel?**<br>
-We’re able to offer $500 scholarships at this time. Many events and professional organizations offer their own scholarship programs as well. Or maybe your event has things like a room share board to help cut down on costs.
+**What if I need more than $500 for my travel?**  
+We’re able to offer $500 scholarships at this time. Many events and professional organizations offer their own scholarship programs as well. Or maybe your event has things like a room-share board to help cut down on costs.
 
-**Why are you offering this scholarship?**<br>
+**Why are you offering this scholarship?**  
 We know that a lot of important work, sharing, and learning happens at in-person events. It's not easy for everyone to get to those events though, no matter how valuable they may be. We know that travel costs can be a hardship, and [offer this scholarship as a way to help mitigate that](/blog/ticket-travel-scholarship).
 
-**How do you decide who will receive a scholarship?**<br>
+**How do you decide who will receive a scholarship?**  
 OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
 
-**What about your conference, SRCCON?**<br>
-We run a separate scholarship process for that event. You can find [more information on the SRCCON site](https://srccon.org/scholarships/).
+**What about your conference, SRCCON?**  
+We run a separate scholarship process for that event and will have more details about that later this year.
 
 ### Questions?
 If you have any additional questions that we didn't cover here, just [email us](mailto:info@opennews.org).
-
