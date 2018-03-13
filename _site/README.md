@@ -3,6 +3,8 @@ This is the website for [OpenNews](https://opennews.org).
 
 OpenNews is a Knight Foundation-funded project that supports the growing community of news developers, designers, and data analysts helping journalism thrive on the open web.
 
+[![Build Status](https://travis-ci.org/OpenNews/opennews-website.svg?branch=master)](https://travis-ci.org/OpenNews/opennews-website)
+
 ## How to update the OpenNews site
 ### Testing changes locally
 * Clone this repository to your local machine.

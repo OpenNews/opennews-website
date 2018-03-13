@@ -7,113 +7,113 @@
 <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
-<title>Breaking down isolation and bringing journalists together</title>
+<title>Catch up with OpenNews during NICAR</title>
 <dc:creator></dc:creator>
 
-<description>Our Ticket+Travel scholarship application is open again and we wanted to tell you more about why and how we created this program.</description>
+<description>We're gathering in Chicago for the NICAR conference and a bunch of community activities.</description>
 
-<pubDate>Mon, 12 Jun 2017 12:00:00 -0400</pubDate>
-<link>http://localhost:4000/blog/scholarships-purpose/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/scholarships-purpose/</guid>
+<pubDate>Tue, 06 Mar 2018 08:00:00 -0600</pubDate>
+<link>http://localhost:4000/blog/NICAR18/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/NICAR18/</guid>
 </item>
 
 <item>
-<title>Updating SRCCON scholarships for more participants</title>
+<title>Pushing for newsroom culture change - the year with OpenNews</title>
 <dc:creator></dc:creator>
 
-<description>This year we've expanded our scholarship offerings and made it easier to apply.</description>
+<description>In our fourth stakeholder newsletter, a look back at 2017.</description>
 
-<pubDate>Fri, 05 May 2017 12:00:00 -0400</pubDate>
-<link>http://localhost:4000/blog/srccon-scholarships-update/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-scholarships-update/</guid>
+<pubDate>Thu, 21 Dec 2017 17:00:00 -0600</pubDate>
+<link>http://localhost:4000/blog/stakeholder-year-review/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/stakeholder-year-review/</guid>
 </item>
 
 <item>
-<title>Our SRCCON proposals guide is here to help</title>
+<title>SRCCON:WORK is for care, community, and collaboration for inclusive journalism</title>
 <dc:creator></dc:creator>
 
-<description>We want you to pitch your ideas for SRCCON—timely, technical, thoughtful, difficult, even weird—and we want you to feel confident when you do. That's easier when you feel supported and have access to feedback, so we're making our review process more transparent.</description>
+<description>We’re back in Philadelphia to double down on a culture of inclusive journalism.</description>
 
-<pubDate>Mon, 03 Apr 2017 08:00:00 -0400</pubDate>
-<link>http://localhost:4000/blog/srccon-proposal-guide/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-proposal-guide/</guid>
+<pubDate>Tue, 05 Dec 2017 12:10:00 -0600</pubDate>
+<link>http://localhost:4000/blog/srccon-work-open/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-work-open/</guid>
 </item>
 
 <item>
-<title>How to pitch a SRCCON session</title>
+<title>Findings from the 2017 News Nerd Survey</title>
 <dc:creator></dc:creator>
 
-<description>Here we walk through each question one-by-one to answer any of your questions about how to craft your proposal.</description>
+<description>We’re excited to share the results from a survey of 756 folks who work in journalism technology. Their answers help us understand who are we, how do we learn and support one another, and where do we go next?</description>
 
-<pubDate>Wed, 29 Mar 2017 08:00:00 -0400</pubDate>
-<link>http://localhost:4000/blog/how-to-srccon-proposal/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/how-to-srccon-proposal/</guid>
+<pubDate>Tue, 05 Dec 2017 12:05:00 -0600</pubDate>
+<link>http://localhost:4000/blog/news-nerd-survey-2017/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/news-nerd-survey-2017/</guid>
 </item>
 
 <item>
-<title>Evolving our model for small events: a dozen people, two days, and a purpose</title>
+<title>Here's how newsrooms pay journalists who code, design, and analyze data</title>
 <dc:creator></dc:creator>
 
-<description>Code convenings have helped newsroom developers revise and release more than 30 open-source tools. Now we're taking what we've learned, and developing events to build documentation, skills, and community connections.</description>
+<description>The results of OpenNews' second News Nerd Survey confirm many hypotheses on pay equity that technical journalists discuss in backchannels.</description>
 
-<pubDate>Fri, 03 Mar 2017 08:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/evolving-convening-model/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/evolving-convening-model/</guid>
+<pubDate>Tue, 05 Dec 2017 12:01:00 -0600</pubDate>
+<link>http://localhost:4000/blog/salaries-2017-survey/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/salaries-2017-survey/</guid>
 </item>
 
 <item>
-<title>Who are the news nerds?</title>
+<title>Press release for 2017 News Nerd Survey</title>
 <dc:creator></dc:creator>
 
-<description>Over 500 of you responded to our survey about the journalism-tech community. Here are the results of the inaugural news nerd survey.</description>
+<description>OpenNews conducts expanded survey of 756 people working at the intersection of journalism and technology.</description>
 
-<pubDate>Thu, 02 Mar 2017 14:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/news-nerd-survey/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/news-nerd-survey/</guid>
+<pubDate>Tue, 05 Dec 2017 12:00:00 -0600</pubDate>
+<link>http://localhost:4000/blog/press-release-survey-2017/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/press-release-survey-2017/</guid>
 </item>
 
 <item>
-<title>Where you'll see OpenNews at NICAR 2017</title>
+<title>Keeping up with OpenNews and 5 years of Source</title>
 <dc:creator></dc:creator>
 
-<description>We're excited to be back at NICAR, and we're bringing a bunch of announcements and projects to share.</description>
+<description>In our third stakeholder newsletter, celebrating five years of Source, perspective from Rachel Schallom, and looking ahead to SRCCON:WORK and the news nerd survey.</description>
 
-<pubDate>Thu, 02 Mar 2017 08:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/NICAR/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/NICAR/</guid>
+<pubDate>Mon, 20 Nov 2017 09:00:00 -0600</pubDate>
+<link>http://localhost:4000/blog/stakeholder-five-years-source/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/stakeholder-five-years-source/</guid>
 </item>
 
 <item>
-<title>The SRCCON ticket lottery, and what we learned</title>
+<title>Keeping up with OpenNews and SRCCON:WORK</title>
 <dc:creator></dc:creator>
 
-<description>Open ticket sales turned into too-quick sellouts for our first two conferences, so we switched to a lottery system for SRCCON 2016. Here's how it worked.</description>
+<description>In our second stakeholder newsletter, details about SRCCON:WORK, perspective from Brittany Mayes, and looking ahead to Source's 5-year anniversary and upcoming events.</description>
 
-<pubDate>Tue, 28 Feb 2017 11:21:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-lottery/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-lottery/</guid>
+<pubDate>Thu, 05 Oct 2017 09:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/stakeholder-newsletter-two/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/stakeholder-newsletter-two/</guid>
 </item>
 
 <item>
-<title>Hello Again. New Source for You.</title>
+<title>SRCCON:WORK, space to care for and challenge one another</title>
 <dc:creator></dc:creator>
 
-<description>Along with our other announcements today Source launched with a new look, new setup, and new features.</description>
+<description>As we prepare for SRCCON:WORK, we want to share the confirmed sessions so far and details about the ticket process.</description>
 
-<pubDate>Thu, 09 Feb 2017 12:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/new-source/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/new-source/</guid>
+<pubDate>Wed, 04 Oct 2017 09:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/srccon-work-tickets/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-work-tickets/</guid>
 </item>
 
 <item>
-<title>OpenNews Ascent Stage Initiated</title>
+<title>Lead a session on collaboration, career growth, and care at SRCCON:WORK</title>
 <dc:creator></dc:creator>
 
-<description>OpenNews lifts off in 2017 with a slew of important project announcements. A new home, a renewed focus, and a bunch of newly launched things. Holy cow, this is big.</description>
+<description>Our December conference will focus on three ways to strengthen newsrooms. Your ideas will help us build a program for the full community.</description>
 
-<pubDate>Thu, 09 Feb 2017 09:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/new-opennews/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/new-opennews/</guid>
+<pubDate>Wed, 06 Sep 2017 14:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/srccon-work-cfp/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-work-cfp/</guid>
 </item>
 
 </channel>
