@@ -1,0 +1,44 @@
+{
+	"Educational Background": {
+		"1": "Degree in a field outside of CS or journalism",
+		"0": "No degree in unrelated field"
+	},
+	"Self-study": {
+		"1": "Self-study important",
+		"0": "Self-study not important"
+	},
+	"Gender": {
+		"m": "Male",
+		"f": "Female",
+		"o": "Other response",
+		"n": "Prefer not to say"
+	},
+	"Salary Parity": {
+		"1": "Salary parity",
+		"0": "No salary parity"
+	},
+	"Paid Parental Leave": {
+		"1": "Parental leave",
+		"0": "No parental leave"
+	},
+	"Microaggressions": {
+		"1": "Subject of harassment / microaggressions",
+		"0": "Not subject of harassment / microaggressions"
+	},
+	"Overload of Projects": {
+		"1": "Project overload is major challenge",
+		"0": "Project overload not a major challenge"
+	},
+	"Diversity Issue": {
+		"0": "Diversity is not among the top 3 things journalism tech community &ldquo;needs&rdquo; right now",
+		"1": "Diversity is among the top 3 things"
+	},
+	"New Team Addition": {
+		"1": "Hire technical skills",
+		"0": "Hire another type of role"
+	},
+	"Technical Skills": {
+		"1": "Want to build technical skills",
+		"0": "Do not want to build technical skills"
+	}
+}
