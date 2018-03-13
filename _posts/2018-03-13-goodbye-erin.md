@@ -18,10 +18,8 @@ Erin has been an amazing colleague to all of us here, offering insights and advi
 
 Erin's influence went far beyond the publications and projects she worked on over six years at OpenNews. The [code of conduct she drafted](http://incisive.nu/2014/codes-of-conduct/) for the first SRCCON, for instance, has been forked and modified by dozens of conferences since, many far outside journalism. I remember talking with Erin about codes of conduct early in the drafting process. Her metaphor for fire marshals in buildings--you want them there and trained even if the building never burns down--is one that I still use in discussing COCs so many years later. That's how it always worked with Erin: starting with human scale and moving up from there. Erin's human-scale approach has lead the industry by example.
 
-Which is why it's hard to say goodbye to her today, her last day with OpenNews. Erin is leaving to spend more time with her daughter in the forest they've recently moved to, a worthy pursuit if ever there was one, but she will be missed deeply by all of us here at OpenNews. And, as our first hire who became a close friend as well as a trusted colleague, by me especially.
+Which is why it's hard to say goodbye to her today, her last day with OpenNews. Erin is leaving to spend more time with her daughter in the forest they've recently moved to, a worthy pursuit if ever there was one, but she will be missed deeply by all of us here at OpenNews. And, as our first hire who became both a close friend and a trusted colleague, by me especially.
 
 We are very lucky that Erin's role at Source will be filled by Lindsay Muscato who has been working with Erin at Source for almost three years. She'll be picking up where Erin left off with the publication and we're excited to see where she takes it.
 
 Erin's accomplishments are many and her influence is vast, but mostly she's just great people and we are so thankful to have spent the years we have had with her.
-
--- everyone at OpenNews
