@@ -13,10 +13,11 @@ This year, the journalism floor from the Mozilla Festival expands to the day bef
 
 Participants can [register now](https://www.eventbrite.com/e/opennews-journalism-tech-unconference-tickets-37647279025). Many of the sessions will be scheduled that morning, but we've confirmed a few sessions in advance as well! They include:
 
+* François de Montremy of Vogue International talking about the opportunities and challenges engaging with teens through visual storytelling
 * Emily Goligoski and Sanne Blauw discussing [The Membership Puzzle Project](https://membershippuzzle.org/) and membership strategies for news
 * Amanda Hickman and Kevin O'Gorman talking about security in the newsroom and the [guide they're working on](https://source.opennews.org/articles/training-colleagues-digital-security/) to make it easier if you're the default security trainer in your newsroom, plus they want your feedback
 * Megan Lucero of [The Bureau Local](https://www.thebureauinvestigates.com/projects/the-bureau-local) talking about local collaborations
-* Allison Shults of the BBC News Labs, sharing projects from their [#newsHACK on conversational UI](https://www.eventbrite.co.uk/e/newshack-conversational-user-interfaces-cui-tickets-37237834365), from just the day before
+* Allison Shultes of the BBC News Labs, sharing projects from their [#newsHACK on conversational UI](https://www.eventbrite.co.uk/e/newshack-conversational-user-interfaces-cui-tickets-37237834365), from just the day before
 * Emily Withrow of the [Quartz Bot Studio](https://bots.qz.com/), talking, yes, bots!
 
 Throughout the day, we'll have the chance to discuss stories, strategies, and tools in sessions and over a group lunch.
