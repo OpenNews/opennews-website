@@ -8,7 +8,7 @@ excerpt: For our fifth SRCCON, we’re evolving our approach to the conference. 
 published: true
 ---
 <img src="/media/img/blog/srccon-overhead.jpg" style="width: 100%;">
-<p class="caption" style="margin-top: 5px;">An overview of our plans for SRCCON 2018 includes a return to the McNamara Alumni Center in Minneapolis.</p>
+<p class="caption" style="margin-top: 5px;">The scene from SRCCON 2017. We return here for SRCCON 2018. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
 Five years ago, during the lightning talks at the NICAR conference, I leaned over to my colleague Erin Kissane and whispered “What if we do a conference that’s this, but instead of five-minute talks for an hour, it’s two days long.” A month later, the OpenNews team met in Portland to design the conference and, just a few months after that, [the first SRCCON](https://2014.srccon.org/) was held in Philadelphia.
 
