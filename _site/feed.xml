@@ -7,6 +7,17 @@
 <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 
 <item>
+<title>Announcing SRCCON 5: Minneapolis, June 28 &amp; 29</title>
+<dc:creator></dc:creator>
+
+<description>For our fifth SRCCON, we’re evolving our approach to the conference. It will still be the highly-participatory, peer-led, human-first conference you’ve come to expect, but we’ll be trying some new things too.</description>
+
+<pubDate>Tue, 27 Mar 2018 12:00:00 -0500</pubDate>
+<link>http://localhost:4000/blog/srccon-five/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-five/</guid>
+</item>
+
+<item>
 <title>Saying Goodbye to Erin Kissane</title>
 <dc:creator></dc:creator>
 
@@ -103,17 +114,6 @@
 <pubDate>Thu, 05 Oct 2017 09:00:00 -0500</pubDate>
 <link>http://localhost:4000/blog/stakeholder-newsletter-two/</link>
 <guid isPermaLink="true">http://localhost:4000/blog/stakeholder-newsletter-two/</guid>
-</item>
-
-<item>
-<title>SRCCON:WORK, space to care for and challenge one another</title>
-<dc:creator></dc:creator>
-
-<description>As we prepare for SRCCON:WORK, we want to share the confirmed sessions so far and details about the ticket process.</description>
-
-<pubDate>Wed, 04 Oct 2017 09:00:00 -0500</pubDate>
-<link>http://localhost:4000/blog/srccon-work-tickets/</link>
-<guid isPermaLink="true">http://localhost:4000/blog/srccon-work-tickets/</guid>
 </item>
 
 </channel>
