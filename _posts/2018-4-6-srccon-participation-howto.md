@@ -13,7 +13,7 @@ published: true
 
 This year we [updated up our tickets and session proposal process](/blog/srccon-five/) so we want to give you all the information you need to fill out our [call for participation form](https://srccon.org/participation/form/) and potentially join us in Minneapolis on June 28 & 29.
 
-So, quick recap. [This form](https://srccon.org/participation/form/) is the one place, __and your only chance to tell us all the ways you'd like to participate in SRCCON__, whether that be as an attendee or session facilitator. Plus, it includes our [travel scholarship](https://srccon.org/scholarships) application. It's your one-stop shop to tell us what you'd like to bring to SRCCON, and what you want to take home. You have till Friday, April 13 at 11:59pm ET to fill in this form and we'll get back to you by the end of the month. 
+So, quick recap. [This form](https://srccon.org/participation/form/) is the one place __and your only chance to tell us all the ways you'd like to participate in SRCCON__, whether that be as an attendee or session facilitator. Plus, it includes our [travel scholarship](https://srccon.org/scholarships) application. It's your one-stop shop to tell us what you'd like to bring to SRCCON, and what you want to take home. You have till Friday, April 13 at 11:59pm ET to fill in this form and we'll get back to you by the end of the month. 
 
 We're really psyched to hear from you, so here's a question-by-question walkthrough of the form!
 
@@ -25,7 +25,7 @@ We're really psyched to hear from you, so here's a question-by-question walkthro
 * **City you're based in** - this helps us understand geographic diversity of attendees.
 * **Have you attended SRCCON before?** - we aim to make SRCCON welcoming for returning participants and new attendees alike. This question helps us ensure that there's a good mix of SRCCON experience levels.
 * Demographics: **Do you identify as a:** - this question is strictly optional and confidential. We aim to have a mix of SRCCON participants and want to ensure that people of color, women, and members of other underrepresented groups in journalism tech are well represented at SRCCON.
-* **Group(s) underrepresented in journalism or technology:** - if you selected the "Member of a group underrepresented in journalism or technology, details below" option on the previous question, then this question pops up. We know that gender and race are not the only dimensions of identity and this is a place to share any other details you feel comfortable sharing that may be relevant to your experience in this field and at a conference.
+* **Group(s) underrepresented in journalism or technology:** - if you selected the "Member of a group underrepresented in journalism or technology, details below" option on the previous question, then this question pops up. We know that gender and race are not the only dimensions of identity, and this is a place to share any other details you feel comfortable sharing that may be relevant to your experience in this field and at a conference.
 
 ## Participating in SRCCON
 * **How would you like to participate in SRCCON?** - this is where you tell us how you'd like to contribute! You can select any or all of the options. These checkboxes also correspond to questions later in the page.
@@ -72,7 +72,7 @@ Here's your chance to pitch a session, or tell us about your interest in co-faci
 
     * Yes, and I would like help finding the right person - you'll get a followup question about what type of support you'd find helpful, and we have a bunch of participants to potentially pair you with!
 
-* **I'd like to submit another session idea.** - if you have another idea right now or think of one later, fantastic. We ask that you email additional proposals to us at srccon@opennews.org so you don't have to re-enter all kinds of other data in the form.
+* **I'd like to submit another session idea.** - if you have another idea right now or think of one later, fantastic. We ask that you email additional proposals to us at [srccon@opennews.org](mailto:srccon@opennews.org) so you don't have to re-enter all kinds of other data in the form.
 * __**  Tell us about what you'd like to do as a co-facilitator:**__ - if you said you're available to co-facilitate, we'll just ask you a little about what you'd like to do, which will help us pair you up if someone else is looking for that perspective or those skills.
 
 ## Participating in some other way!
@@ -93,8 +93,8 @@ These questions help us allocate the limited number of $500 travel scholarships 
 
 * **How did you hear about SRCCON?** - this just helps us understand what works best in spreading the word about SRCCON.
 * **Would you be interested in information about free childcare?** - it helps us to know how many folks might be interested in childcare, and we'll have a bunch of info to share about it in the leadup to SRCCON.
-* **Would you like to join our mailing list for OpenNews and SRCCON updates?** - totally optional to join our email list, but it's a great way to stay up to date on what we're doing and upcoming deadlines. Whether you sign up or not for this list, you'll receive emails from us throughout the SRCCON process.
-* **Anything else that you'd like to tell us?** - anything means anything--can relate to needs for you to participate, or thoughts that didn't fit into any of the other answers. If you have a question and would like a quick reply, you can always [email us](mailto:srccon@opennews.org).
+* **Would you like to join our mailing list for OpenNews and SRCCON updates?** - totally optional to join our email list, but it's a great way to stay up to date on what we're doing and upcoming deadlines. Whether or not you sign up for _this_ list, you'll receive emails from us throughout the SRCCON process.
+* **Anything else that you'd like to tell us?** - anything means anything—it can relate to needs for you to participate, or thoughts that didn't fit into any of the other answers. If you have a question and would like a quick reply, you can always [email us](mailto:srccon@opennews.org).
 * **Please confirm that you have read the SRCCON code of conduct and agree to follow it.** - the entirety of SRCCON is covered by our [code of conduct](https://srccon.org/conduct) so we want to make sure you know about it and agree to it. We appreciate your support for making SRCCON a thoughtful, welcoming space.
 
 Hit "submit" and your proposal is complete! You'll get an email confirmation that we received your form, and we'll see it in our review queue. The [call for participation](https://srccon.org/participation/form/) closes at 11:59pm on Friday, April 13. We will notify everyone who submitted a form by April 30.
