@@ -15,6 +15,10 @@ sub-section: index
 Knight-Mozilla Fellows spend 10 months working with a fantastic news organization in a paid position and traveling around the world to learn from and collaborate with news nerds. [Meet our 2015 fellows](what/fellowships/2015meet) and [learn more about the program](/what/fellowships/), then apply to become a [2016 Knight-Mozilla Fellow](/what/fellowships/apply).
 -->
 
+### [Support Our Work](/who/supporters/)
+
+As a nonprofit, OpenNews receives funding from [donors](https://opennews.networkforgood.com/projects/54161), foundations, and sponsors. Learn more about [our supporters](/who/supporters/).
+
 ### [Share Your Work](http://source.opennews.org)
 
 From visualization libraries to data extractors and presentation templates, newsrooms are creating some of the most exciting code on the internet right now. We highlight that work on [Source](http://source.opennews.org), our website dedicated to the code in journalism and the people who write it. On Source, news organizations share the code, process, and thinking behind news applications and interactives. The resources on the site are a direct result of the generosity and efforts of the developers, designers, and newsrooms who are willing to show their work. Join them by [sharing your contributions](https://source.opennews.org/en-US/contribute/) today.
