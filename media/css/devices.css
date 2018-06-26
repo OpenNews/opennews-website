@@ -272,6 +272,10 @@ article header p {
 	margin-bottom: 8px;
 }
 
+#newsbox h3 {
+    margin-top: 0;
+}
+
 div[role="main"] .opengraph a {
 	border-bottom-color: #444444;
 	border-bottom-style: dotted;
@@ -1289,6 +1293,9 @@ div.main_col {
 	float: left;
 }
 
+a.sidebar-button {
+    width: 80%;
+}
 }
 
 @media screen and (max-width: 480px) {

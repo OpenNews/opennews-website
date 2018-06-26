@@ -41,3 +41,7 @@ As this network matures, we have a slate of offerings to help share work and und
 ### [Get Involved](/getinvolved/)
 
 Everything we do is built around the needs of the sprawling community of people who code (and crunch data, and design interactive tools) in and around newsrooms. Whether you're an old hand or just curious about the field, [there's a way for you to get involved](/getinvolved/).
+
+### [Support Our Work](/who/supporters/)
+
+As a nonprofit, OpenNews receives funding from [donors](https://opennews.networkforgood.com/projects/54161), foundations, and sponsors. Learn more about [our supporters](/who/supporters/).

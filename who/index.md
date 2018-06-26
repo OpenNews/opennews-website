@@ -41,7 +41,7 @@ OpenNews began as a partnership between the Knight Foundation and the Mozilla Fo
 
 ## [Support for OpenNews](/who/supporters)
 
-As a nonprofit, OpenNews receives funding from supporters, foundations, and sponsors. OpenNews receives significant operating support from the Knight Foundation and underwriting of SRCCON through sponsorship. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/). For more details about how to support our work, please [get in touch](mailto:dan@opennews.org).
+As a nonprofit, OpenNews receives funding from [donors](https://opennews.networkforgood.com/projects/54161), foundations, and sponsors. Incubated at the [Mozilla Foundation](https://www.mozilla.org/en-US/foundation/) from 2011-2016, OpenNews is now a project of [Community Partners](http://www.communitypartners.org/).
 
 
 ## Get Involved
