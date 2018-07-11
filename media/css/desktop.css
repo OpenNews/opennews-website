@@ -105,7 +105,7 @@ margin-right: 40px;
 	border-top: none;
 }
 
-a.sidebar-button, a.donate-button {
+a.sidebar-button {
     border: 0;
     border-radius: .25em;
     background-color: #fc6e1f;
