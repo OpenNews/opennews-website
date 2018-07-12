@@ -1236,6 +1236,21 @@ footer .col img {
 	width: auto;
 }
 
+a.sidebar-button {
+    border: 0;
+    border-radius: .25em;
+    background-color: #fc6e1f;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: .67em;
+    line-height: 1;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+
+
 @media screen and (max-width: 980px) {
 	article, header {
 		padding: 15px;
