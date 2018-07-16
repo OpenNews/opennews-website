@@ -15,6 +15,8 @@ At OpenNews, our work is driven by the needs of the community we serve. And [we 
 
 [We're raising $30,000 this July and ask for your help to reach our goal](https://opennews.networkforgood.com/projects/54161). We're already more than halfway there, and every contribution strengthens our ability to do our part to make journalism better.
 
+<a class="sidebar-button" href="https://opennews.networkforgood.com/projects/54161">Support OpenNews Today</a>
+
 ## A network seven years in the making
 We believe a diverse community of peers working, learning, and solving problems together can create the stronger, more representative ecosystem that journalism needs to thrive. Through events for newsroom coders and journalists and a wide range of community- and project-support programs, we enable collaboration across organizations. We support the cohorts of leaders who drive change in their newsrooms for more inclusive organizations that create more responsive and ascendant journalism.
 
