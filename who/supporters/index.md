@@ -14,6 +14,8 @@ section: what we do
 
 Our work exists to support the community that is pushing to create more diverse, responsive, trustworthy journalism. To continue to do this work, we rely on the support of community members. It’s important for the longterm future of OpenNews that we create ways for community members to contribute to the sustainability of our work. [Consider joining us as a donor](https://opennews.networkforgood.com/projects/54161).
 
+<a id="faq" class="sidebar-button" href="https://opennews.networkforgood.com/projects/54161">Support OpenNews Today</a>
+
 ### Donation FAQ
 #### How do I donate?
 You can contribute online through [our Network for Good page](https://opennews.networkforgood.com/projects/54161). If you would like to make a donation by check or through another method, please [email us](mailto:info@opennews.org).
