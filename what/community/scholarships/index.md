@@ -9,15 +9,9 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships.</p> 
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. 
 
-<p class="bodybig"><a href="https://docs.google.com/forms/d/e/1FAIpQLSe_FVTcK-VouOcqbjzn_-8T1jl4oRHW44R1ZnLYDK7H3RI5vQ/viewform">Applications for this round of 2018 scholarships are open through Wednesday, Jan. 24</a>.</p>
-
-Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events.
-
-We're excited to be able to offer ticket and travel support again in 2018, because we’ve consistently seen how valuable participating in events can be for individuals, their organizations, and the broader community. We see this program as a really meaningful way we can support the journalism community, and we expect to be able to announce more scholarship applications later this year.
-
-If there's an event coming up that you'd like to attend, we encourage you to [apply for a scholarship now](https://docs.google.com/forms/d/e/1FAIpQLSe_FVTcK-VouOcqbjzn_-8T1jl4oRHW44R1ZnLYDK7H3RI5vQ/viewform)!
+Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. <a href="http://eepurl.com/czSVTL">Join our email list</a> to find out about when the next application will open.</p> 
 
 ### What we're offering
 
@@ -26,7 +20,7 @@ If there's an event coming up that you'd like to attend, we encourage you to [ap
 
 ### When applications are open
 
-Our applications are open now through midnight Eastern on Wednesday, Jan. 24. We'll notify all applicants by Wednesday, Jan. 31.
+We don't currently have an application open at this time, but will update this page when the next application is open.
 
 ### Who should apply
 
@@ -36,7 +30,7 @@ Our applications are open now through midnight Eastern on Wednesday, Jan. 24. We
 
 ### What happens after you apply
 
-OpenNews staff will review applications, and all applicants will receive an answer by Jan. 31.
+OpenNews staff reviews applications and notifies all applicants.
 
 ### What happens after the conference
 
@@ -45,7 +39,7 @@ You tell us how it went! We'll send you a short follow-up survey and will be exc
 ## FAQ
 
 **What types of events are covered for travel?**  
-We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. If you think an event will help you cover your community better, we want you to [tell us about it and apply for a scholarship](https://docs.google.com/forms/d/e/1FAIpQLSe_FVTcK-VouOcqbjzn_-8T1jl4oRHW44R1ZnLYDK7H3RI5vQ/viewform)!
+We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. Some of the events prior scholarship recipients attended include: NICAR, Internet Freedom Festival, Data Harvest, SND, ONA,, IRE, NABJ, JAWS CAMP, AAJA, EIJ, New Now Next, TextAV, and TechRaking.
 
 **Can people outside of the U.S. apply for the scholarship?**  
 Yep! The application is open to everyone. We welcome applications from any country, and you can apply for a scholarship to attend events outside of the U.S., too.
