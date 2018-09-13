@@ -6,12 +6,12 @@ section: what
 <img src="/media/img/mozfest2015_01.jpg" class="topline">
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig"> OpenNews is heading back to the <a href="https://mozillafestival.org/">Mozilla Festival</a>, a multi-day, annual celebration of the open internet for technologists, makers, educators, and creators in all fields. This year, we're also organizing a full day of journalism-tech sessions on October 25.
+<p class="bodybig"> OpenNews is heading back to the <a href="https://mozillafestival.org/">Mozilla Festival</a>, a multi-day, annual celebration of the open internet for technologists, makers, educators, and creators in all fields. This year, we're also organizing [full day of journalism-tech sessions](https://ti.to/Mozilla/mozfestHouse-opennews) on October 25.
 
 ## OpenNews Unconference on Journalism Tech
 All day on Thursday, October 25 we'll have hands-on, collaborative sessions from local London journalists and visitors coming to town for the festival.
 
-Participants can register soon and tickets will cost £50 each. Many of the sessions will be scheduled that morning, but we're working to confirm a bunch of sessions in advance, too. If you're interested in bringing a session, [let us know](mailto:erika@opennews.org). Stay tuned here for updates!
+Participants can [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and tickets will cost £50 each. Many of the sessions will be scheduled that morning, but we're working to confirm a bunch of sessions in advance, too. If you're interested in bringing a session, [let us know](mailto:erika@opennews.org). Stay tuned here for updates!
 
 Throughout the day, we'll have the chance to discuss stories, strategies, and tools in sessions and over a group lunch.
 
@@ -30,7 +30,7 @@ Our rough schedule will be:
 * 4:30-5:30pm - final sesssion
 * 5:30-6pm - wrap the day with thank yous and next steps 
 
-We expect it to be a busy, fun, and productive day filled with sharing about our work and building stronger connections with colleagues. Registration will open soon and we appreciate any help to spread the word.
+We expect it to be a busy, fun, and productive day filled with sharing about our work and building stronger connections with colleagues. Please [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and help us to spread the word.
 
 ## Journalism During MozFest
 The Mozilla Festival this year features [five topical spaces](https://mozillafestival.org/spaces) around facets of the health of the internet. In particular, the [openness space](https://mozillafestival.org/spaces#Openness) will include journalism-related sessions and one of the organizers of that group is Hacks/Hackers Buenos Aires organizer Mariano Blejman.
