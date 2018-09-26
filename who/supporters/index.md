@@ -12,13 +12,13 @@ section: what we do
 
 ### Support our work
 
-Our work exists to support the community that is pushing to create more diverse, responsive, trustworthy journalism. To continue to do this work, we rely on the support of community members. It’s important for the longterm future of OpenNews that we create ways for community members to contribute to the sustainability of our work. [Consider joining us as a donor](https://opennews.networkforgood.com/projects/54161).
+Our work exists to support the community that is pushing to create more diverse, responsive, trustworthy journalism. To continue to do this work, we rely on the support of community members. It’s important for the longterm future of OpenNews that we create ways for community members to contribute to the sustainability of our work. [Consider joining us as a donor](https://opennews.networkforgood.com/).
 
-<a id="faq" class="sidebar-button" href="https://opennews.networkforgood.com/projects/54161">Support OpenNews Today</a>
+<a id="faq" class="sidebar-button" href="https://opennews.networkforgood.com/">Support OpenNews Today</a>
 
 ### Donation FAQ
 #### How do I donate?
-You can contribute online through [our Network for Good page](https://opennews.networkforgood.com/projects/54161). If you would like to make a donation by check or through another method, please [email us](mailto:info@opennews.org).
+You can contribute online through [our Network for Good page](https://opennews.networkforgood.com/). If you would like to make a donation by check or through another method, please [email us](mailto:info@opennews.org).
 
 #### Is OpenNews a nonprofit?
 Yes, OpenNews operates as a project of [Community Partners](https://communitypartners.org/), our [fiscal sponsor](https://www.councilofnonprofits.org/tools-resources/fiscal-sponsorship-nonprofits). Community Partners is a nonprofit public charity exempt from federal income tax under Section 501(c)(3) of the Internal Revenue Code.
@@ -38,7 +38,7 @@ Your donation will support our work strengthening the network of peers working t
 #### Is there anything else I can do to help?
 Why yes, thank you for asking!
 
-* You can spread the word and ask your colleagues to support this network by [making a donation to OpenNews](https://opennews.networkforgood.com/projects/54161). Like all of our work, word of mouth drives so much of how people find out about what we do. Any help getting the word out helps this work continue.
+* You can spread the word and ask your colleagues to support this network by [making a donation to OpenNews](https://opennews.networkforgood.com/). Like all of our work, word of mouth drives so much of how people find out about what we do. Any help getting the word out helps this work continue.
 * Does your employer have a matching gifts program? Many employers will match their employee's donations to nonprofit organizations, which can double (and sometimes even triple) the size of your gift! [Here's a list](https://www.motherjones.com/support/matching-gifts/) from Mother Jones of some organizations known to have these programs. If you need any information to complete paperwork for a match with your company, just [let us know](mailto:erika@opennews.org).
 * Share your story about how this network has helped you and your career! Some folks have tweeted about their experiences with OpenNews or blogged about attending SRCCON. You can also [reach out to us directly](mailto:info@opennews.org) and let us know about your exprience. We love hearing what resonates with you, and it helps us tell other organizations and potential donors about the importance of this network.
 
