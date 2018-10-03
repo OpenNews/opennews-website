@@ -15,7 +15,7 @@ Participants can [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and
 
 * Simon Jockers about using public statistics and open data in journalism and his experience with [Datenguide](https://datengui.de/)
 * Federica Cherubini and Sarah Marshall of Hacks/Hackers London with "If you build it, they will come: A workshop in how to create an audience-first strategy" 
-* us! (the OpenNews team) facilitating a session about...factilitation and how we [build our SRCCON events](https://srccon.org/our-resources)
+* us! (the OpenNews team) facilitating a session about...facilitation and how we [build our SRCCON events](https://srccon.org/our-resources)
 * journalists from the BBC News Labs and Full Fact, which will be returning to present at the unconference for the second year in a row
 * maybe also you? If you're interested in bringing a session, [let us know](mailto:erika@opennews.org) or you can of course pitch that day as well
 
