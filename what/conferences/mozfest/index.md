@@ -17,7 +17,8 @@ Participants can [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and
 * Federica Cherubini and Sarah Marshall of Hacks/Hackers London with "If you build it, they will come: A workshop in how to create an audience-first strategy" 
 * us! (the OpenNews team) facilitating a session about...facilitation and how we [build our SRCCON events](https://srccon.org/our-resources)
 * Stefan Wehrmeyer with a session on FOIA technology
-* journalists from the BBC News Labs and Full Fact, which will be returning to present at the unconference for the second year in a row
+* Remi Oduyemi, an engineer at BBC News Labs, will be facilitating a session exploring possible applications of AR technologies for news
+* other journalists from the BBC News Labs and Full Fact, which will be returning to present at the unconference for the second year in a row
 * maybe also you? If you're interested in bringing a session, [let us know](mailto:erika@opennews.org) or you can of course pitch that day as well
 
 Throughout the day, we'll have the chance to discuss stories, strategies, and tools in sessions and over a group lunch.
