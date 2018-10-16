@@ -14,7 +14,7 @@ All day on Thursday, October 25 we'll have hands-on, collaborative sessions from
 Participants can [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and tickets will cost £10 each. Many of the sessions will be scheduled that morning, and we're working to confirm a bunch of sessions in advance, too. You can expect sessions from:
 
 * Simon Jockers about using public statistics and open data in journalism and his experience with [Datenguide](https://datengui.de/)
-* Federica Cherubini and Sarah Marshall of Hacks/Hackers London with "If you build it, they will come: A workshop in how to create an audience-first strategy" 
+* Federica Cherubini and Kevin Dubouis of Conde Nast International with "If you build it, they will come: A workshop in how to create an audience-first strategy" 
 * us! (the OpenNews team) facilitating a session about...facilitation and how we [build our SRCCON events](https://srccon.org/our-resources)
 * Stefan Wehrmeyer with a session on FOIA technology
 * Remi Oduyemi, an engineer at BBC News Labs, will be facilitating a session exploring possible applications of AR technologies for news
