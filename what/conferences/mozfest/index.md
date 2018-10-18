@@ -39,6 +39,11 @@ Our rough schedule will be:
 
 We expect it to be a busy, fun, and productive day filled with sharing about our work and building stronger connections with colleagues. Please [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and help us to spread the word.
 
+## Thanks to Our Sponsors
+We're grateful to the [BBC News Labs](http://bbcnewslabs.co.uk/) team and the [Mozilla Festival](https://mozillafestival.org) team for their support of this event.
+
+<a href="http://bbcnewslabs.co.uk/"><img src="/media/img/BBCNewsLabsLogo.jpg" alt="BBC News Labs logo"></a>
+
 ## Journalism During MozFest
 The Mozilla Festival this year features [five topical spaces](https://mozillafestival.org/spaces) around facets of the health of the internet. In particular, the [openness space](https://mozillafestival.org/spaces#Openness) will include journalism-related sessions and one of the organizers of that group is Hacks/Hackers Buenos Aires organizer Mariano Blejman.
 
