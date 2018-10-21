@@ -35,7 +35,7 @@ Our rough schedule will be:
 * 2:30-3:30pm - third session
 * 3:30-4pm - break, with snack and conversation
 * 4-5pm - final session
-* 5-5:30pm - wrap the day with thank yous and next steps
+* 5pm - wrap up
 
 We expect it to be a busy, fun, and productive day filled with sharing about our work and building stronger connections with colleagues. Please [register now](https://ti.to/Mozilla/mozfestHouse-opennews) and help us to spread the word.
 
