@@ -16,7 +16,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** March 15, 2018 ([call notes](https://etherpad.opennews.org/p/communitycall-Mar15)) (pushing a week due to NICAR) <br />
+**Next Scheduled Call:** November 15, 2018 ([call notes](https://etherpad.opennews.org/p/communitycall-Nov15)) <br />
 **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.uberconference.com/international)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
@@ -26,6 +26,18 @@ You can participate by calling in and listening, reading along on the etherpad d
 <p>We use Etherpad to take full, participatory notes during our calls. Feel free to look through our call archive. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
 
 <ul>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov1">November 1, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct18">October 18, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept20">September 20, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-July19">July 19, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-June21">June 21, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-June7">June 7, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May24">May 24, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May10">May 10, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-April26">April 26, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-April12">April 12, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar29">March 29, 2018 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar15">March 15, 2018 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb22">February 22, 2018 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb8">February 8, 2018 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan25">January 25, 2018 call</a>
