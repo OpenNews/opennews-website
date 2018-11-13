@@ -4,9 +4,12 @@ title: Why we think childcare is so important at SRCCON events
 date: 2018-11-13 15:00
 author: Ryan Pitts
 tags: OpenNews
-excerpt: When you feel good about bringing your family to professional events, you feel more able to fully participate.
+excerpt: When you feel good about bringing your family to professional events, it can help you fully participate.
 published: true
 ---
+
+<img src="/media/img/srccon-childcare.jpg" style="width: 100%;" alt="Shadows of kids playing outside in the sun">
+<p class="caption" style="margin-top: 5px;">Free childcare is an important part of our program for SRCCON events. (Photo: <a href="https://secure.flickr.com/photos/wespeck/4020223929/in/photolist-78fGvF-dwaXk8-24ouGcE-j31KFK-8QTfA7-W8g9TZ-eCFA2a-im2FTW-doCEet-a6tkFA-zzQNr-pwzLc9-8p9cVg-8MQfW7-riW1xQ-aYLQoR-WiNTp3-6v1uFR-95LnYo-8yayhi-c85EZq-6pyVJS-6fNEmt-cTKVmS-Kiec76-saaWU1-6puLEr-kRNsHz-8KM2vz-4P9cRG-6puKRH-6pyUVo-e2F5Qr-iDRbLX-NYfYXH-71CkeJ-6fSNKq-gefdoY-6pyPbg-zzCjo-oVaZSj-iWyfjb-2j5LnC-5Gob14-7JnpHL-9rq2vC-piE7UU-jrqSfJ-2j5HRC-6pyEPP">gfpeck</a>).</p>
 
 We talk a lot about helping participants bring their "whole selves" to SRCCON events. Our conferences are [built around participatory, conversational sessions](https://power.srccon.org/participation/), and those work best—and challenge us the most—when people feel able to share from personal experience and talk about all the things they care most deeply about.
 
