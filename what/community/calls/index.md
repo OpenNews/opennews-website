@@ -23,7 +23,9 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 <div class="calllist closed">
 <h3><span class="mw-headline" id="Call_Archives">Call Archives</span></h3>
-<p>We use Etherpad to take full, participatory notes during our calls. Feel free to look through our call archive. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
+<p>We use Etherpad to take full, participatory notes during our calls. We've been experimenting with recording calls as well—you can use <a href="https://soundcloud.com/opennews/">our audio archive</a> to listen in on your own schedule.</p>
+    
+<p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
 
 <ul>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov15">November 15, 2018 call</a>
