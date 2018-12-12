@@ -9,9 +9,7 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. 
-
-Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. <a href="http://eepurl.com/czSVTL">Join our email list</a> to find out about when the next application will open.</p> 
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. <a href="http://eepurl.com/czSVTL">Join our email list</a> to find out about when the next application will open.</p> 
 
 ### What we're offering
 
@@ -20,7 +18,9 @@ Whether you're a newsroom developer at a small organization without much budget 
 
 ### When applications are open
 
-We don't currently have an application open at this time, but will update this page when the next application is open.
+[Our applications for the first round of 2019 scholarships are open](https://docs.google.com/forms/d/e/1FAIpQLScVSLN5y-LeStKp1kADenQHwUxtlPA3LSMI0rPmmakqJc2hHw/viewform) now through midnight Eastern on Friday, Jan. 18. We'll notify all applicants by Friday, Jan. 25.
+
+If you're interested in an event taking place later in the year, we'll be offering scholarships again in 2019. Stay tuned—or follow along via [our newsletter](http://eepurl.com/czSVTL)—for more details!
 
 ### Who should apply
 
@@ -30,7 +30,7 @@ We don't currently have an application open at this time, but will update this p
 
 ### What happens after you apply
 
-OpenNews staff reviews applications and notifies all applicants.
+OpenNews staff will review applications, and all applicants will receive an answer by Jan. 25.
 
 ### What happens after the conference
 
@@ -57,7 +57,7 @@ We know that a lot of important work, sharing, and learning happens at in-person
 OpenNews staff reviews all applications. We prioritize applications from members of communities under-represented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**  
-We run a separate scholarship process for that event and will have more details about that later this year.
+We run a separate scholarship process for that event and will have more details about that in early 2019.
 
 ### Questions?
 If you have any additional questions that we didn't cover here, just [email us](mailto:info@opennews.org).
