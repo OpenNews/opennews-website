@@ -21,7 +21,7 @@ We organize SRCCON events with a lot of space for conversation and emergent idea
 
 Several folks also mentioned that they appreciated the topical theme for this event including that the theme "meant everyone had some common interest, even if we had super different job titles." Participants to this event were tied together by the fact that they were all working to shift power dynamics in journalism. One attendee mentioned, "in particular, I found this conference did a fantastic job of pushing difficult conversations in kind and supportive ways."
 
-With this shared grounding, we also put a lot of intention into helping folks think about takeaways from the event and how to [keep the work and conversations moving forward](/opennews.org/blog/srccon-power-forward/) after these two days. It's been great to see ideas flowing in for ways we can support people’s work, and a bunch of notes about takeaways that are exactly what we hoped for—including:
+With this shared grounding, we also put a lot of intention into helping folks think about takeaways from the event and how to [keep the work and conversations moving forward](/blog/srccon-power-forward/) after these two days. It's been great to see ideas flowing in for ways we can support people’s work, and a bunch of notes about takeaways that are exactly what we hoped for—including:
 
 - "There is a community in journalism that wants to reform power structures and it makes me feel heard and safe."
 - "Some strong connections with others in the industry I hadn't gotten to know before, a plan for a write-up and a personal sense of obligation to use my own power more often!"
@@ -45,7 +45,10 @@ In addition to feedback from our anonymous attendee survey, several attendees to
 
 These comments and others show how important it is to create spaces like this for folks to connect, reflect, and recharge. And we've got a bunch of [resources on our site about how we plan](https://srccon.org/our-resources) these human-focused events, plus we're [available for consulting](mailto:srccon@opennews.org) to help other organizations with any aspect about this type of planning!
 
+<span id="improvement"></span>
+
 ## Areas of improvement
+
 The processes and structure we have for SRCCON events have been developed over five years of experimentation and feedback. We still have a lot of room to grow, and I am so grateful to participants for the depth of their feedback and letting us know when we've made a misstep. In our feedback form, we asked about what could have been better, and we got a few notes about small adjustments to timing, food, and programming, which we'll incorporate into future events. We also received notes about one aspect of the event that I'd like to respond to in more depth.
 
 This year, I organized our talks program. After reaching out to a bunch of community members for suggestions, I invited folks with a range of expertise on different dimensions of power, journalism, and tech. I was excited for these speakers to share research and experience that could inform the conversations throughout the conference, with longer talks providing time to really reflect on what they were sharing.
