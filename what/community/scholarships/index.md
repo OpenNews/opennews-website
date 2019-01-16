@@ -9,7 +9,9 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events. <a href="http://eepurl.com/czSVTL">Join our email list</a> to find out about when the next application will open.</p> 
+<p class="bodybig">The journalism code community is diverse and distributed across the globe. Events can be a great opportunity to get together in person to chat and collaborate, but sometimes the cost of travel can be a hardship. To help with the cost of attending conferences and other technical events, OpenNews offers Ticket + Travel scholarships. Whether you're a newsroom developer at a small organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, we created this program to help you attend events.</p>
+
+<p>Applications are <a href="https://docs.google.com/forms/d/e/1FAIpQLScVSLN5y-LeStKp1kADenQHwUxtlPA3LSMI0rPmmakqJc2hHw/viewform">open right now</a> for our first round of 2019 scholarships. We're planning to offer scholarships more than once this year, so please <a href="http://eepurl.com/czSVTL">join our email list</a> to find out when the next applications will open too.</p>
 
 ### What we're offering
 
