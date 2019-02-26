@@ -9,7 +9,7 @@ published: true
 ---
 
 <img src="/media/img/blog/scholarships-networking.jpg" style="width: 100%;" alt="Events can help you expand your networks, or plug into new ones.">
-<p class="caption" style="margin-top: 5px;">Events can help you expand your networks, or plug into new ones. (Photo/[Felix Triller](https://www.flickr.com/photos/triller/2226679393/))</p>
+<p class="caption" style="margin-top: 5px;">Events can help you expand your networks, or plug into new ones. (Photo/<a href="https://www.flickr.com/photos/triller/2226679393/">Felix Triller</a></p>
 
 It's no secret that at OpenNews we're fans of getting together in person to talk about journalism. We [organize events](https://srccon.org) of all sizes throughout the year, and we love attending other conferences and convenings as participants, too. When we listen to people who care about the same problems but approach them differently, it helps us imagine new ways to work.
 
