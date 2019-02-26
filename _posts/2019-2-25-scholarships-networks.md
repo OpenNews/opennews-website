@@ -4,7 +4,7 @@ title: Network effect&#58; Scholarships can help journalists change whole commun
 date: 2019-02-25 12:00
 author: Ryan Pitts
 tags: OpenNews
-excerpt: Our community attends in-person events for a lot of reasons, but a few really stick out: Building relationships that support and sustain us in the work, learning new skills to share with an existing network back home, and opening new doors at critical moments in a career.
+excerpt: Our community attends in-person events for a lot of reasons, but a few really stick out&#58; Building relationships that support and sustain us in the work, learning new skills to share with an existing network back home, and opening new doors at critical moments in a career.
 published: true
 ---
 
