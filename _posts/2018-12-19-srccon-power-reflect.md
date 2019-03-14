@@ -11,7 +11,7 @@ published: true
 <img src="/media/img/srccon_power_email_head.jpg" style="width: 100%;" alt="Philadelphia skyline at night">
 <p class="caption" style="margin-top: 5px;">We gathered in Philly for <a href="https://power.srccon.org">SRCCON:POWER</a>.</p>
 
-Over the two days of SRCCON:POWER, I caught snippets of conversation about so many different dimensions of power dynamics in journalism and tech. Accountability for tech companies, systems of racial oppression, difficulties navigating power between different bosses and team members, how gender plays in. Given that wide range of topics, I also heard from folks that they came into the event and they didn't really know what it was going to be about, but they knew they wanted to be there.
+Over the two days of [SRCCON:POWER](https://power.srccon.org), I caught snippets of conversation about so many different dimensions of power dynamics in journalism and tech. Accountability for tech companies, systems of racial oppression, difficulties navigating power between different bosses and team members, how gender plays in. Given that wide range of topics, I also heard from folks that they came into the event and they didn't really know what it was going to be about, but they knew they wanted to be there.
 
 In planning, we intentionally left this space open for the participants to explore idea of power together. I'm so grateful to participants for trusting us to convene these conversations, and one another to get into such difficult and thorny topics. Many of the discussions went as we had hoped and planned, while others missed the mark. I want to share a bit of the initial feedback we've received and what's ahead.
 
