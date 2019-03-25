@@ -17,7 +17,8 @@ section: what we do
 
 [Applications are open **right now** through 11:59pm Eastern on Friday, April 5](https://docs.google.com/forms/d/e/1FAIpQLScszqWGlUsIA4iEZnrdCaI-fiHttB9saiXAtiD9E031erobyg/viewform), prioritizing events coming up through September. All applicants will hear back from us by Friday, April 12.
 
-Other rounds of scholarships this year:  
+Other rounds of scholarships this year:
+
 * Our first application closed January 18, and we notified applicants on January 25.
 * Our final application this year will be open Sept. 3-13, and we'll notify applicants by Sept. 20.
 
@@ -48,17 +49,26 @@ You tell us how it went! We'll send you a short follow-up survey and will be exc
 We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. Some upcoming events include:
     
 **May**  
+
 * May 16-17: [Collaborative Journalism Summit](https://collaborativejournalism.org/cjs2019/)
 * May 16-19: [Dataharvest](https://dataharvest.eu/)
+
 **June**  
+
 * June 25-26: [SembraMedia Conference](https://www.sembramedia.org/eventos-de-sembramedia/cancun/)
+
 **July**  
+
 * July 11-12: [SRCCON](https://srccon.org/) (we have a separate application for our conference, [details on our SRCCON site](https://srccon.org/scholarships/)!)
 * July 31-August 3: [AAJA](https://www.aaja.org/aaja19_announcement)
+
 **August**  
+
 * August 7-11: [NABJ](http://www.nabjconvention.com/index.cfm)
 * August 16-18: [Write/Speak/Code](https://www.writespeakcode.com/)
+
 **September**  
+
 * September 5-7: [NAHJ / Excellence in Journalism](https://excellenceinjournalism.org/)
 * September 12-15: [Online News Association](https://ona19.journalists.org)
 
