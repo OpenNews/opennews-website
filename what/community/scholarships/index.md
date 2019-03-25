@@ -11,7 +11,7 @@ section: what we do
 
 <p class="bodybig">The journalism-code community is diverse and distributed across organizations of many sizes, in many places. Events are a great opportunity to get together in person to chat and collaborate, but the cost of travel can be a hardship. Whether you're a newsroom developer at an organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, OpenNews offers scholarships that cover conference registration fees plus $500 toward helping you get there.</p>
 
-<p>We offer scholarships because [events help people build skills and relationships](https://opennews.org/blog/scholarships-networks/)—two things that transform how journalists work, strengthen their support networks, and open new doors no matter where they are in their career. We also know that sharing knowledge between peers is [one of the key ways](https://opennews.org/what/community/survey/) our community builds expertise, so helping one journalist attend an event can help many journalists do better work.</p>
+<p>We offer scholarships because <a href="https://opennews.org/blog/scholarships-networks/">events help people build skills and relationships</a>—two things that transform how journalists work, strengthen their support networks, and open new doors no matter where they are in their career. We also know that sharing knowledge between peers is <a href="https://opennews.org/what/community/survey/">one of the key ways</a> our community builds expertise, so helping one journalist attend an event can help many journalists do better work.</p>
 
 ### When applications are open
 
