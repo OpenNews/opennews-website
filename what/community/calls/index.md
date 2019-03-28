@@ -16,7 +16,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** March 28, 2019 ([call notes](https://etherpad.opennews.org/p/communitycall-Mar28)) <br />
+**Next Scheduled Call:** April 11, 2019 ([call notes](https://etherpad.opennews.org/p/communitycall-April11)) <br />
 **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.uberconference.com/international)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews") or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
@@ -27,7 +27,9 @@ You can participate by calling in and listening, reading along on the etherpad d
     
 <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a>
 
-<ul><li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar14">March 14, 2019 call</a>
+<ul>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar28">March 28, 2019 call</a>
+<li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar14">March 14, 2019 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb28">February 28, 2019 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb14">February 14, 2019 call</a>
 <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan31">January 31, 2019 call</a>
