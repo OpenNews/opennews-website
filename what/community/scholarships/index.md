@@ -55,21 +55,22 @@ We'd love to consider any event that you think would help increase your particip
 
 **June**  
 
+* June 13-14: [Investigative Reporters and Editors Conference](https://www.ire.org/events-and-training/conferences/ire-2019/)
 * June 25-26: [SembraMedia Conference](https://www.sembramedia.org/eventos-de-sembramedia/cancun/)
 
 **July**  
 
 * July 11-12: [SRCCON](https://srccon.org/) (we have a separate application for our conference, [details on our SRCCON site](https://srccon.org/scholarships/)!)
-* July 31-August 3: [AAJA](https://www.aaja.org/aaja19_announcement)
+* July 31-August 3: [Asian American Journalists Association Convention](https://www.aaja.org/aaja19_announcement)
 
 **August**  
 
-* August 7-11: [NABJ](http://www.nabjconvention.com/index.cfm)
+* August 7-11: [National Association of Black Journalists Convention](http://www.nabjconvention.com/index.cfm)
 * August 16-18: [Write/Speak/Code](https://www.writespeakcode.com/)
 
 **September**  
 
-* September 5-7: [NAHJ / Excellence in Journalism](https://excellenceinjournalism.org/)
+* September 5-7: [National Association of Hispanic Journalists / Excellence in Journalism](https://excellenceinjournalism.org/)
 * September 12-15: [Online News Association](https://ona19.journalists.org)
 
 The scholarship program isn't limited to this list, but we hope it gives you some ideas about the range of community events coming up soon. We're also open to conferences and workshops on specific themes. Many of these events can help people improve their coding, data analysis and visualization, or newsroom collaboration, but we also hear from applicants who want to study topics like social justice, census data, poverty and inequality, or education, just to name a few.
