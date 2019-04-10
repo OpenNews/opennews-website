@@ -8,18 +8,18 @@ section: what
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">With SRCCON Events, we design conferences that empower and celebrate the journalism tech community. Participants join for two days to collaborate on the tools, strategies, and processes we need to nurture inclusive, innovative newsrooms.</p>
+<p class="bodybig">SRCCON conferences are two days of community connection, collaborative sessions, and a ton of documentation. As one attendee put it, <em>“The structure of the program and the attention to detail and people’s needs is what makes this an exceptional and special event.”</em></p>
+
+We’ve been hosting SRCCON events since 2014, and [have gathered years of writing](https://srccon.org/our-resources#participant-experience) about how we create these inclusive, participatory spaces as well as session documentation, and resources that inspired us from the start. If you’d like to learn more about how we organize these events, and maybe have us help out with an event of your own, [reach out](mailto:info@opennews.org)!
 
 ## SRCCON
 
-At [SRCCON 2017](https://srccon.org), we gathered again in Minneapolis for two days of sessions, meals, social activities, and great hallway conversations. Participants left SRCCON re-energized and with new strategies for their newsrooms coming out of sessions including building software to cover democracy, tools for inter-newsroom collaboration, mentorship in the newsroom, and many others.
+[SRCCON 2019](https://srccon.org) returns to Minneapolis on July 11 & 12 and will include 300 participants who want to dig into challenging questions and discuss ways we can make newsroom tech teams, and journalism overall, work well for _everyone_.
 
-About a third of the sessions [were transcribed](https://srccon.org/transcription/) to share with people who weren’t able to attend, and as a reference point for continued work on the questions that came up at SRCCON. You can also find [writeups about many sessions on Source](https://source.opennews.org/articles/tags/srccon-2017/), including details about [skill testing for journalism tech jobs](https://source.opennews.org/articles/journalism-needs-better-skills-testing/), an open and candid look at [supporting caregivers in newsrooms](https://source.opennews.org/articles/caregiving-and-journalism/), and our closing talk on [the importance of inclusion in journalism](https://source.opennews.org/articles/acknowledging-our-full-selves/). 
+Through these events, we see how much this community working at the intersection of journalism, technology, and social changes supports one another and pushes each other to implement more inclusive policies, and do more sustainable and interesting work. 
 
-For many, SRCCON and the followups published in Source are where they find the tools, skills, and community they need to help transform their newsrooms.
+## SRCCON:POWER
 
-## SRCCON:WORK
+[SRCCON:POWER](https://power.srccon.org/) in December 2018 was the second in a series of smaller, topic-focused convenings built on the SRCCON model of deep conversation and community connection. Participants engaged in conversations about how power influences our work at the intersection of journalism and technology, and one attendee shared that they walked away from the event with knowledge that _"There is a community in journalism that wants to reform power structures and it makes me feel heard and safe."_
 
-[SRCCON:WORK](https://work.srccon.org/) is a brand new event for 2017, a small conference that explores how we as a community can help each other take on the hard work of journalism. It builds on the collaborative, community-driven work of SRCCON and gives us a chance to dig more deeply into how we create teams that take care of each other, represent our readers, and give our communities the coverage they deserve.
-
-This December, we'll host [SRCCON:WORK](https://work.srccon.org/) in Philadelphia. Through sessions on collaboration, career growth, and self care, participants at transition points in their career will be able to make connections and take home strategies that will sustain them in this work. 
+The conversations, feedback, and challenges [raised during SRCCON:POWER](/blog/srccon-power-reflect/) have influenced OpenNews' work into 2019 and beyond.

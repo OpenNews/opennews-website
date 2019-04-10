@@ -15,14 +15,13 @@ section: what we do
 
 ### When applications are open
 
-[Applications are open **right now** through 11:59pm Eastern on Friday, April 5](https://docs.google.com/forms/d/e/1FAIpQLScszqWGlUsIA4iEZnrdCaI-fiHttB9saiXAtiD9E031erobyg/viewform), prioritizing events coming up through September. All applicants will hear back from us by Friday, April 12.
-
-Other rounds of scholarships this year:
+We don't have an application open at this time, but we plan to offer more scholarships this September for events taking place toward the end of the year. If you'd like to get notifications about key dates in our scholarship program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date!
+ 
+Our rounds of scholarships this year:
 
 * Our first application closed January 18, and we notified applicants on January 25.
-* Our final application this year will be open Sept. 3-13, and we'll notify applicants by Sept. 20.
-
-If you'd like to get notifications about key dates in our scholarship program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date!
+* Our second application closed April 5, and we'll notify applicants by April 12.
+* Our final application for 2019 will be open Sept. 3-13, and we'll notify applicants by Sept. 20.
 
 ### What our scholarships offer
 
@@ -37,7 +36,7 @@ If you'd like to get notifications about key dates in our scholarship program, [
 
 ### What happens after you apply
 
-OpenNews staff reviews applications and notifies all applicants. For the round of scholarships open right now, all applicants will receive an answer by April 12.
+OpenNews staff reviews applications and notifies all applicants.
 
 ### What happens after the conference
 
@@ -46,34 +45,9 @@ You tell us how it went! We'll send you a short follow-up survey and will be exc
 ## FAQ
 
 **What types of events are covered for travel?**  
-We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. Some upcoming events include:
-    
-**May**  
+We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. Some of the events prior scholarship recipients attended include: NICAR, Internet Freedom Festival, Data Harvest, SND, ONA, IRE, NABJ, JAWS CAMP, AAJA, EIJ, New Now Next, TextAV, and TechRaking.
 
-* May 16-17: [Collaborative Journalism Summit](https://collaborativejournalism.org/cjs2019/)
-* May 16-19: [Dataharvest](https://dataharvest.eu/)
-
-**June**  
-
-* June 13-14: [Investigative Reporters and Editors Conference](https://www.ire.org/events-and-training/conferences/ire-2019/)
-* June 25-26: [SembraMedia Conference](https://www.sembramedia.org/eventos-de-sembramedia/cancun/)
-
-**July**  
-
-* July 11-12: [SRCCON](https://srccon.org/) (we have a separate application for our conference, [details on our SRCCON site](https://srccon.org/scholarships/)!)
-* July 31-August 3: [Asian American Journalists Association Convention](https://www.aaja.org/aaja19_announcement)
-
-**August**  
-
-* August 7-11: [National Association of Black Journalists Convention](http://www.nabjconvention.com/index.cfm)
-* August 16-18: [Write/Speak/Code](https://www.writespeakcode.com/)
-
-**September**  
-
-* September 5-7: [National Association of Hispanic Journalists / Excellence in Journalism](https://excellenceinjournalism.org/)
-* September 12-15: [Online News Association](https://ona19.journalists.org)
-
-The scholarship program isn't limited to this list, but we hope it gives you some ideas about the range of community events coming up soon. We're also open to conferences and workshops on specific themes. Many of these events can help people improve their coding, data analysis and visualization, or newsroom collaboration, but we also hear from applicants who want to study topics like social justice, census data, poverty and inequality, or education, just to name a few.
+The scholarship program isn't at all limited to this list, but we hope it gives you some ideas about the range of community events. We're also open to conferences and workshops on specific themes. Many of these events can help people improve their coding, data analysis and visualization, or newsroom collaboration, but we also hear from applicants who want to study topics like social justice, census data, poverty and inequality, or education, just to name a few.
 
 **Can people outside of the U.S. apply for the scholarship?**  
 Applications are open to everyone and we're open to events taking place anywhere. We prioritize applications from journalists of color and journalists from regional/local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
