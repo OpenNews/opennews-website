@@ -20,6 +20,6 @@ Through these events, we see how much this community working at the intersection
 
 ## SRCCON:POWER
 
-[SRCCON:POWER](https://power.srccon.org/) in December 2018 was the second in a series of smaller, topic-focused convenings built on the SRCCON model of deep conversation and community connection. Participants engaged in conversations about how power influences our work at the intersection of journalism and technology, and one attendee shared that they walked away from the event with knowledge that _"There is a community in journalism that wants to reform power structures and it makes me feel heard and safe."_.
+[SRCCON:POWER](https://power.srccon.org/) in December 2018 was the second in a series of smaller, topic-focused convenings built on the SRCCON model of deep conversation and community connection. Participants engaged in conversations about how power influences our work at the intersection of journalism and technology, and one attendee shared that they walked away from the event with knowledge that _"There is a community in journalism that wants to reform power structures and it makes me feel heard and safe."_
 
 The conversations, feedback, and challenges [raised during SRCCON:POWER](/blog/srccon-power-reflect/) have influenced OpenNews' work into 2019 and beyond.
