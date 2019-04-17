@@ -23,7 +23,7 @@ We want to make it as easy as possible for you to join us in Minneapolis, so our
 
 In five-plus years of running this conference, we've learned that it takes two things for a session idea to come together in the most compelling way: A subject that's deeply important to you as a session leader, and an experience that draws participants in.
 
-The first part, well, it really is up to you. Creating a participatory experience is something we can help with. We support facilitators throughout their planning process, and we’re intentional in inviting an audience that represents all kinds of backgrounds and experiences. Good sessions end up being about listening as much as learning. The people in the room are colleagues and contributors.
+The first part, well, it really _is_ up to you. Creating a participatory experience is something we can help with. We support facilitators throughout their planning process, and we’re intentional in inviting an audience that represents all kinds of backgrounds and experiences. Good sessions end up being about listening as much as learning. The people in the room are colleagues and contributors.
 
 And just like SRCCON is built around a set of values, crafting a session that operates like that usually starts with a values statement itself. Here are some shorthand ways to describe sessions that we’ve seen connect with the community over and over again:
 
