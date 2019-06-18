@@ -13,7 +13,7 @@ published: true
 
 This year we're doing a [single call for participation form](/blog/srccon-2019-launch/) again for you to tell us how you'd like to participate in SRCCON. It's your way to [pitch a session](https://srccon.org/sessions/proposal-guide/), apply for a [travel scholarship](https://srccon.org/scholarships), or tell us that you'd like to attend SRCCON in Minneapolis on July 11 & 12. 
 
-It's your one-stop shop to tell us what you'd like to bring to SRCCON, and what you want to take home. You have till Wednesday, April 24 at 11:59pm ET to fill in this form and we'll get back to you by May 10. 
+It's your one-stop shop to tell us what you'd like to bring to SRCCON, and what you want to take home. You have till Wednesday, April 24, at 11:59pm ET to fill in this form and we'll get back to you by May 10. 
 
 We're really psyched to hear from you, so here's a question-by-question walkthrough of the form!
 
@@ -21,7 +21,7 @@ We're really psyched to hear from you, so here's a question-by-question walkthro
 * **First and last name** - whatever name, or version of your name, you would like to share. If you're proposing a session, your name will be listed with your proposal on the SRCCON website.
 * **Email** - this is not shared publicly, but is how we will communicate with you.
 * **Organization** - let us know where you work. We're interested in making sure that a variety of news organizations are well represented at SRCCON, especially smaller-market and non-coastal news organizations.
-* **Twitter handle** - if you have one and you're proposing a session, we'll list it with your proposal, if neither of those things apply to you, no worries! 
+* **Twitter handle** - if you have one and you're proposing a session, we'll list it with your proposal. If neither of those things apply to you, no worries! 
 * **City you're based in** - this helps us understand geographic diversity of attendees.
 * Demographics: **Do you identify as a:** - this question is strictly optional and confidential. We aim to have a mix of SRCCON participants and want to ensure that people of color, women, and members of other underrepresented groups in journalism tech are well represented at SRCCON.
 * **Group(s) underrepresented in journalism or technology:** - if you selected the "Member of a group underrepresented in journalism or technology, details below" option on the previous question, then this question pops up. We know that gender and race are not the only dimensions of identity, and this is a place to share any other details you feel comfortable sharing that may be relevant to your experience in this field and at a conference.
@@ -58,13 +58,13 @@ Here's your chance to pitch a session, or tell us about your interest in co-faci
 
 * Sessions at SRCCON will last about 75 minutes. **If you think your session needs a different or specific amount of time, let us know here:** - each session will have 75 minutes on the schedule. If you have an awesome idea that would work best with more or less time, just let us know. We do have some flexibility in the schedule.
 
-* SRCCON is a small conference, and we may receive more than one great proposal for some topics. **If someone else proposes a session similar to this one, would you be willing to collaborate with another facilitator on a combined session?** - we receive many more proposals than we have space for in the SRCCON schedule. Merging sessions on similar topics helps us involve more folks as facilitators. If we see an opportunity to merge a session, OpenNews staff coordinates with both parties and is on-hand to help make the collaboration easier.
+* SRCCON is a small conference, and we may receive more than one great proposal for some topics. **If someone else proposes a session similar to this one, would you be willing to collaborate with another facilitator on a combined session?** - we receive many more proposals than we have space for in the SRCCON schedule. Merging sessions on similar topics helps us involve more folks as facilitators. If we see an opportunity to merge a session, OpenNews staff coordinates with both parties and is on hand to help make the collaboration easier.
 
-* **Does this session need a co-facilitator?** - would you like to plan and run your session with someone else? Unlike a panel presentation, you don't need to have a whole bunch of people on your session to represent all possible perspectives—the folks in the room will bring that to the conversation. But a co-facilitator may bring a complementary experience or skillset to your session—maybe they love facilitation or have a lot of energy or always ask questions that your brain loves. It's up to you whether you need, or would just prefer, to have a facilitator. If you would like one but don't know who, we can help with that.
+* **Does this session need a co-facilitator?** - would you like to plan and run your session with someone else? Unlike a panel presentation, you don't need to have a whole bunch of people on your session to represent all possible perspectives—the folks in the room will bring that to the conversation. But a co-facilitator may bring a complementary experience or skillset to your session—maybe they love facilitation or have a lot of energy or always ask questions that your brain loves. It's up to you whether you need, or would just prefer, to have another person to work with. If you would like one but don't know who, we can help with that.
 
     * Nope, I'm all good  - solo session, great!
 
-    * Yes, and I have someone in mind who I have worked with on this proposal  - partner sesion, great! We'll ask you who your co-facilitator is, and that person needs to fill out this form, too (though not all the session details, you already did that).
+    * Yes, and I have someone in mind who I have worked with on this proposal  - partner session, great! We'll ask you who your co-facilitator is, and that person needs to fill out this form, too (though not all the session details, you already did that).
 
     * Yes, and there's someone I think would be a good fit  - are you submitting this session at 11:53pm ET on April 24? If so, maybe you didn't actually talk to the person you'd like to co-facilitate with yet. Or maybe you're just shy. In any case, it's ok. It's just helpful for us to know if your co-facilitator was involved with the session prep for when we communicate with folks next.
 
@@ -85,14 +85,14 @@ These questions help us allocate the limited number of $500 travel scholarships 
 
 * **What travel costs do you expect you will have to pay for yourself?** - standard scholarships are $500 plus a free ticket, but sometimes we can make slight adjustments, such as offering a ticket-only scholarship to people from Minneapolis.
 
-* **If you receive a scholarship, do you expect to be able to attend SRCCON?** - we just want to double check that the $500 scholarship would be enough to help you attend so we can make sure everyone we offer scholarships is able to use them.
+* **If you receive a scholarship, do you expect to be able to attend SRCCON?** - we just want to doublecheck that the $500 scholarship would be enough to help you attend so we can make sure everyone we offer a scholarship to is able to use it.
 
-* **If you receive a scholarship, are you ok with your contact info being shared with other recipients?** - in the past, scholarship recipients have requested being connected with other scholarship folks. We don't publish the list of scholarship recipients, but if you'd like to connect with other scholarship folks, just let us know.
+* **If you receive a scholarship, are you ok with your contact info being shared with other recipients?** - in the past, scholarship recipients have asked to be connected with each other. We don't publish the list of scholarship recipients, but if you'd like to connect with other scholarship folks, just let us know.
 
 ## Childcare and caretaking support
 New this year, we're offering a scholarship for caretaking support, in addition to our free conference childcare.
 
-* **Would you be interested in using our free conference childcare?** - we'll followup with more information about how to sign up, and we're happy to answer any of your questions!
+* **Would you be interested in using our free conference childcare?** - we'll follow up with more information about how to sign up, and we're happy to answer any of your questions!
 
 * **Would you like to be considered for a scholarship for caretaking or childcare-related costs?** - if support for caretaking-related costs would help you attend, check this box and we'll just ask for a little more information.
 
@@ -104,7 +104,7 @@ New this year, we're offering a scholarship for caretaking support, in addition 
 
 * **Anything else that you'd like to tell us?** - anything means anything—it can relate to needs for you to participate, or thoughts that didn't fit into any of the other answers. If you have a question and would like a quick reply, you can always [email us](mailto:srccon@opennews.org).
 
-* **Please confirm that you have read the SRCCON code of conduct and agree to follow it.** - the entirety of SRCCON is covered by our [code of conduct](https://srccon.org/conduct) so we want to make sure you know about it and agree to it. We appreciate your support for making SRCCON a thoughtful, welcoming space.
+* **Please confirm that you have read the SRCCON code of conduct and agree to follow it.** - the entirety of SRCCON is covered by our [code of conduct](https://srccon.org/conduct), so we want to make sure you know about it and agree to it. We appreciate your support for making SRCCON a thoughtful, welcoming space.
 
 Hit "submit" and your proposal is complete! You'll get an email confirmation that we received your form, and we'll see it in our review queue. The [call for participation](https://srccon.org/participation/form/) closes at 11:59pm ET on Wednesday, April 24. We will notify everyone who submitted a form by May 10. As space allows, we will keep the form open for tickets only after April 24, but applying before then is your best chance to get offered a ticket and your _only_ chance to pitch a session or apply for a scholarship.
 
