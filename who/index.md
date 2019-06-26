@@ -34,9 +34,10 @@ Team members who shaped OpenNews, and have since moved on to other pursuits.
 
 * Trei Brundrett of Vox Media
 * Tiff Fehr of The New York Times
+* Candice Fortman of Outlier Media
 * Dawn Garcia of the John S. Knight Fellowship
 * Aron Pilhofer of Temple University
-* Michelle Srbinovich of Detroit Public Radio
+* Dan Sinker (former director of OpenNews)
 * Aaron Williams of The Washington Post
 
 ## [Our History](/who/history/)
