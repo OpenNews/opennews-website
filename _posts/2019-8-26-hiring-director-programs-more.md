@@ -7,7 +7,7 @@ tags: OpenNews
 excerpt: We've got answers to some of your questions about this new position with OpenNews.
 
 ---
-We're hiring a [new full-time member](/blog/hiring-director-programs/) of the OpenNews team! We've set a priority deadline for applications of X date. The [application will remain open](https://opennews.forms.fm/director-of-programs-job) until the position is filled, but we will begin reviewing and interviewing applicants after that date so it's the best time to apply.
+We're hiring a new [full-time member of the OpenNews team](/blog/hiring-director-programs/)! We've set a priority deadline for applications of September 15, 2019. The [application will remain open](https://opennews.forms.fm/director-of-programs-job) until the position is filled, but we will begin reviewing and interviewing applicants after that date so it's the best time to apply.
 
 I wanted to publicly respond to questions we've received so far. If you have any others, please feel free to [email me](mailto:erika@opennews.org) as well.
 
