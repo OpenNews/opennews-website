@@ -46,3 +46,5 @@ If you're intrigued by this position, but don't feel like you have the precise b
 
 Submit your resume and cover letter through [this form](https://opennews.forms.fm/director-of-programs-job). 
 We'll review these applications on a rolling basis. There's no fixed deadline to apply. If you have any questions, [feel free to contact](mailto:erika@opennews.org) executive director Erika Owens.
+
+We've set a priority deadline for applications of September 15, 2019. The [application will remain open](https://opennews.forms.fm/director-of-programs-job) until the position is filled, but we will begin reviewing and interviewing applicants after that date so it's the best time to apply. You can find additional information about the position [on our blog](/blog/hiring-director-programs-more/).
