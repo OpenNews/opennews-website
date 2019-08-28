@@ -4,8 +4,8 @@ title: The Knight-Mozilla Fellowships
 section: fellowships
 ---
 
-<img src="/media/img/2016fellows-2.jpg" alt="Our 2016 Fellows explore journalism code." style="width: 100%;">
-<p class="caption">The 2016 cohort of <a href="/what/fellowships/2016meet">Knight-Mozilla fellows</a>. (photo/<a href="http://westraco.com">Erik Westra</a>)</p>
+<img src="/media/img/fellows_collage.jpg" alt="All 33 Knight-Mozilla Fellows" style="width: 100%;">
+<p class="caption"> All of our 33 Fellows.</p>
 
 <h2>{{ page.title }}</h2>
 
@@ -13,17 +13,18 @@ section: fellowships
 
 Meet our fellows: [2016](/what/fellowships/2016meet) | [2015](/what/fellowships/2015meet) | [2014](/what/fellowships/2014meet) | [2013](/what/fellowships/2013meet) | [2012](/what/fellowships/2011meet)
 
-<a href="#hiatus"></a>
-###Fellowships on hiatus
-Our fellowships will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch. 
+###Impact and influence of the fellowship
+Fellows came into to the program from many technical fields in and near journalism and after the fellowship 85% of them continued to work in journalism or adjacent fields.  During their terms, fellows worked on widely adopted tools, award-winning projects, graphics, research, and all the while writing and speaking and sharing about their work, ensuring that what they were learning could help other folks in their host newsrooms and beyond. 
 
-###Why work in journalism?
+As one fellow put it, "everything I have done since the fellowship is directly related to my fellowship experience. Training workshops for journalists, organising journalism related events, journalism related projects.“ At the conclusion of the fellowship, the Knight Foundation [conducted a study of the impact of the fellowship](https://www.knightfoundation.org/reports/opennews-insights-from-building-a-community-of-newsroom-technologists) and its development of a entire network of journalists supporting and training one another.
+
+###Why a journalism-tech fellowship?
 Journalism has a disproportionately strong influence on [the web we inhabit](/blog/fellowships-open-web). It shapes the web through code developed in newsrooms, like [Django](https://www.djangoproject.com/) and [Backbone.js](http://backbonejs.org/). Journalism also works at an editorial scale few other industries can match—millions of readers engage with reporting every day, from stories that amuse to investigations and analysis that leads to meaningful changes in our communities.
 
 By working in journalism, the Knight-Mozilla Fellows advocated for a web that is open, accessible, and ours. In journalism as in the open source community, openness is a core value—the information reporters uncover and share is critical to our ability to understand and affect our world. Knight-Mozilla Fellows became leaders in efforts to build tools and cultivate resources that enable news organizations to support healthy communities, online and off. [Learn more about the structure of the program.](/what/fellowships/info)
 
-### Prior partners
-Over  the years, we've worked with news organizations in the US, Argentina, the United Kingdom, Germany, and Kenya. Our partners have included:
+### Fellowship partners
+Over the course of the fellowship, we worked with news organizations in the US, Argentina, the United Kingdom, Germany, Qatar, and Kenya. Our partners included:
 
 * 2016: Correct!v, Coral Project, Frontline, Los Angeles Times Data Desk, NPR, Vox Media
 * 2015: Center for Investigative Reporting/Reveal, Guardian, La Nacion, NPR, Vox Media, The Coral Project (a collaboration between New York Times, The Washington Post, and Mozilla)

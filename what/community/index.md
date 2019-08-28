@@ -29,3 +29,7 @@ We know events are an important part of how the journalism-code community learns
 
 In addition to in-person events, the journalism code-community gathers in Slack channels and list servs to compare notes and solve problems. [Learn more about these online hubs](hubs).
 
+### [Fellowships](/what/fellowships)
+
+The Knight-Mozilla Fellowship placed creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. From 2011-16, we placed 33 fellows with 19 news organizations in five countries.
+
