@@ -15,13 +15,14 @@ section: what we do
 
 ### When applications are open
 
-We don't have an application open at this time, but we plan to offer more scholarships this September for events taking place toward the end of the year. If you'd like to get notifications about key dates in our scholarship program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date!
- 
-Our rounds of scholarships this year:
+[Applications are open **right now** through 11:59pm Eastern on Friday, Sept. 13](https://docs.google.com/forms/d/e/1FAIpQLScdPhFTZCxlKgcKHyh4zhiwMRzkbNStAxwkhWG--s_sm2j6FA/viewform), prioritizing events taking place through the end of 2019. All applicants will hear back from us by Friday, Sept. 20.
+
+Other rounds of scholarships this year:
 
 * Our first application closed January 18, and we notified applicants on January 25.
-* Our second application closed April 5, and we'll notify applicants by April 12.
-* Our final application for 2019 will be open Sept. 3-13, and we'll notify applicants by Sept. 20.
+* Our second application closed April 5, and we notified applicants on April 12.
+
+If you'd like to get notifications about key dates in our scholarship program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date!
 
 ### What our scholarships offer
 
@@ -62,7 +63,7 @@ We’re able to offer $500 scholarships at this time. Many events and profession
 OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**  
-We run a separate scholarship process for that event. You can find more details [on the SRCCON website](https://srccon.org/scholarships/)!
+We run a separate scholarship process for SRCCON events. You can find more details [on the SRCCON website](https://srccon.org/scholarships/)!
 
 **Who funds these scholarships?**  
 Our scholarships are made possible by grants from the Democracy Fund and News Integrity Initiative, and [donations from community members](https://opennews.networkforgood.com/).
