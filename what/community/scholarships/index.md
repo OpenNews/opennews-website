@@ -15,7 +15,7 @@ section: what we do
 
 ### When applications are open
 
-[Applications are open **right now** through 11:59pm Eastern on Friday, Sept. 13](https://docs.google.com/forms/d/e/1FAIpQLScdPhFTZCxlKgcKHyh4zhiwMRzkbNStAxwkhWG--s_sm2j6FA/viewform), prioritizing events taking place through the end of 2019 All applicants will hear back from us by Friday, Sept. 20.
+[Applications are open **right now** through 11:59pm Eastern on Friday, Sept. 13](https://docs.google.com/forms/d/e/1FAIpQLScdPhFTZCxlKgcKHyh4zhiwMRzkbNStAxwkhWG--s_sm2j6FA/viewform), prioritizing events taking place through the end of 2019. All applicants will hear back from us by Friday, Sept. 20.
 
 Other rounds of scholarships this year:
 
@@ -63,7 +63,7 @@ We’re able to offer $500 scholarships at this time. Many events and profession
 OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**  
-We run a separate scholarship process for that event. You can find more details [on the SRCCON website](https://srccon.org/scholarships/)!
+We run a separate scholarship process for SRCCON events. You can find more details [on the SRCCON website](https://srccon.org/scholarships/)!
 
 **Who funds these scholarships?**  
 Our scholarships are made possible by grants from the Democracy Fund and News Integrity Initiative, and [donations from community members](https://opennews.networkforgood.com/).
