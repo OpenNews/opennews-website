@@ -4,16 +4,18 @@ title: Peer data review&#58; Get feedback about your data stories
 section: what we do
 
 ---
-<img src="/media/img/index_opennewsphoto.jpg" class="topline">
-<p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
+<img src="/media/img/peer_data_review.jpg" class="topline">
+<p class="caption">Sign up to review your data project with a peer coach. (photo/<a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">Learning data journalism is a continual process, and as a community, we invest so much time and energy into sharing what we know through trainings, workshops, and writeups.</p>
+<p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
 
-<p class="bodybig">Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data <em>really</em> says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. That's a gap the news-nerd community can help fill.</p>
+## Why this program
 
-With that in mind, OpenNews is trying a new program, connecting journalists in smaller newsrooms with peers who can help them think through their reporting and analysis on a data story.
+Learning data journalism is a continual process, and as a community, we invest so much time and energy into sharing what we know through trainings, workshops, and writeups.
+
+Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data _really_ says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. That's a gap the news-nerd community can help fill.
 
 ## How the data-review program works
 
@@ -25,7 +27,7 @@ Coaches will exchange emails and set up times to meet on a voice or video call t
 
 ## How to get started
 
-From now through Nov. 1:
+From now through Oct. 16:
 
 1. [Use this form to tell us about your project](https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform).
 2. OpenNews will review requests and reach out to coaches to see who can help. We can't promise that someone will be available to work with you, but we'll let you know either way.
@@ -54,11 +56,15 @@ And it's for projects where you:
 
 ### When can I apply?
 
-If you have a project that you think would be a good candidate for peer review, [tell us about it now](https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform)! Applications will be open through Nov. 1.
+If you have a project that you think would be a good candidate for peer review, [tell us about it now](https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform)! Applications will be open through Oct. 16.
 
 ### Does this cost anything?
 
 No, it’s free for you and your newsroom. OpenNews will pay a small thank-you stipend to your coach.
+
+### Who are the coaches?
+
+Our volunteer coaches come from a variety of backgrounds, disciplines, and sizes of organization. They’re all experts in data journalism; are familiar with analysis, reporting, and visualization; and are comfortable in spreadsheets as well as with languages like Python, R, and JavaScript.
 
 ### Will I get scooped?
 
@@ -75,7 +81,7 @@ This program is not:
 * A place to ask "where can I find data for a story I want to do?"
 * A place to find a reporter/developer/editor to share a project with.
 
-These are fantastic goals, and the communities in the News Nerdery, Journalists of Color, and Lonely Coders Slacks are great places to find help with both! We're also excited to help you find collaborators at [OpenNews events](https://srccon.org), or by connecting you with additional [resources](https://propublica.gitbook.io/collaborative/) and [organizations](https://centerforcooperativemedia.org/) here to [support your work](https://centerforcooperativemedia.org/).
+These are fantastic goals, and the communities in the News Nerdery, Journalists of Color, and Lonely Coders Slacks are great places to find help with both! We're also excited to help you find collaborators at [OpenNews events](https://srccon.org), or by connecting you with additional [resources](https://propublica.gitbook.io/collaborative/) and [organizations](https://centerforcooperativemedia.org/) here to support your work.
 
 This program is here to help people think through data they already have and their approach to analyzing it. If you have other kinds of questions, please [reach out to us](mailto:info@opennews.org) separately.
 
