@@ -179,7 +179,8 @@ div[role="main"] h2 {
 	font-weight: 400;
 }
 article p,
-article ul {
+article ul,
+article ol {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	line-height: 1.6;
 	font-size: 18px;
