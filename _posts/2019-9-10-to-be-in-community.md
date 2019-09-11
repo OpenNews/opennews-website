@@ -8,7 +8,7 @@ excerpt: With ONA this week and the JOC Slack admins receiving the second ONA Co
 ---
 
 <img src="/media/img/denver-community.jpg" style="width: 100%;"  alt="one person listening in focus with a crowd behind"> 
-<p class="caption" style="margin-top: 5px;">Events like this one from Denver are an important part of how we build and sustain connections. (Photo: Alyson McClaran for Colorado Media Project)</p> 
+<p class="caption" style="margin-top: 5px;">Events like this one from Denver are an important part of how we build and sustain connections. (photo/<a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 This week the Online News Association will give the [second ONA Community Award to the admins of the JOC Slack](https://awards.journalists.org/entries/journalists-of-color-slack-administrators/). I received the [first such award](https://awards.journalists.org/2019/07/17/building-community-and-career-paths-for-newsroom-coders-qa-with-erika-owens/) and am honored to share company with this team of devoted community leaders. This award is an opportunity to reflect: What does it take to be in community with each other?
 
