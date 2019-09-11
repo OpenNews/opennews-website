@@ -81,7 +81,7 @@ This program is not:
 * A place to ask "where can I find data for a story I want to do?"
 * A place to find a reporter/developer/editor to share a project with.
 
-These are fantastic goals, and the communities in the News Nerdery, Journalists of Color, and Lonely Coders Slacks are great places to find help with both! We're also excited to help you find collaborators at [OpenNews events](https://srccon.org), or by connecting you with additional [resources](https://propublica.gitbook.io/collaborative/) and [organizations](https://centerforcooperativemedia.org/) here to support your work.
+These are fantastic goals, and [the communities in](/what/community/hubs) the News Nerdery, Journalists of Color, and Lonely Coders Slacks are great places to find help with both! We're also excited to help you find collaborators at [OpenNews events](https://srccon.org), or by connecting you with additional [resources](https://propublica.gitbook.io/collaborative/) and [organizations](https://centerforcooperativemedia.org/) here to support your work.
 
 This program is here to help people think through data they already have and their approach to analyzing it. If you have other kinds of questions, please [reach out to us](mailto:info@opennews.org) separately.
 
