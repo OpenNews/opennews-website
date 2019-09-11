@@ -17,8 +17,9 @@ News nerds from news organizations large and small find community and advice wit
 
 * [NICAR-L](http://ire.org/resource-center/listservs/subscribe-nicar-l/) - the go-to list serv for all things data journalism. The National Institute for Computer Assisted Reporter's list has been around for years and is a high-volume resource where community members share jobs, recommended reading, and the answers to numerous questions each week. Introductory and advanced questions are both welcome and will likely receive prompt and opinionated replies.
 * [NICAR-L-ESP](http://www.ire.org/resource-center/listservs/nicar-esp-l/) - NICAR recently expanded the list to a Spanish language version.
-* [News Nerdery](http://newsnerdery.org/) - this Slack has over 1,300 memebers of the journalism-tech community from around the world, who chat in over 40 topical and geographic channels. 
-* [Lonely Coders Club](https://lcc-slack.herokuapp.com/) - this Slack has over 200 members who identify as "lonely coders," technologists who are alone or one of just a few folks in their newsroom who work with tech and data.
+* [News Nerdery](http://newsnerdery.org/) - this Slack has over 3,000 members of the journalism-tech community from around the world, who chat in over 40 topical and geographic channels. 
+* [Lonely Coders Club](https://lcc-slack.herokuapp.com/) - this Slack has over 500 members who identify as "lonely coders," technologists who are alone or one of just a few folks in their newsroom who work with tech and data.
+* [Journalists of Color](https://journalistsofcolor.us/) - this Slack is for journalists of color to connect and support one another. The group includes many news nerds, and the volunteer admins of this group [received the 2019 ONA Community Award](https://awards.journalists.org/entries/journalists-of-color-slack-administrators/).
 
 These groups provide important advice and support for community members, especially those who do not have mentors nearby in their newsroom (or even in their city). Members of OpenNews staff participate in each of these communities and we seek out ways to support their work, such as organizing a track of small-group conversations at the NICAR conference and hosting an annual in-person lunch for the Lonely Coders Club. 
 
