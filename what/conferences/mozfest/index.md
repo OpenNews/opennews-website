@@ -6,7 +6,7 @@ section: what
 <img src="/media/img/mozfest2015_01.jpg" class="topline">
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig"> OpenNews is heading back to the <a href="https://mozillafestival.org/">Mozilla Festival</a>, a multi-day, annual celebration of the open internet for technologists, makers, educators, and creators in all fields. This year, we're organizing [full day of journalism-tech sessions](https://ti.to/Mozilla/mozfestHouse-opennews) at the <a href="https://mozillafestival.org/house">MozFest House</a> on October 24.
+<p class="bodybig"> OpenNews is heading back to the <a href="https://mozillafestival.org/">Mozilla Festival</a>, a multi-day, annual celebration of the open internet for technologists, makers, educators, and creators in all fields. This year, we're organizing full day of journalism-tech sessions at the <a href="https://mozillafestival.org/house">MozFest House</a> on October 24.
 
 ## Teams & collaboration: How an interdisciplinary approach gets the work done in journalism tech
 All day on Thursday, October 24 we'll have hands-on, collaborative sessions from local London journalists and visitors coming to town for the festival. The event takes place at the [Royal Society of Arts](https://www.google.com/maps/place/RSA+House/@51.5093702,-0.1248943,17z/data=!3m1!4b1!4m5!3m4!1s0x487604c9572d71f1:0xc61aaa0727953544!8m2!3d51.5093669!4d-0.1227056) in central London.
