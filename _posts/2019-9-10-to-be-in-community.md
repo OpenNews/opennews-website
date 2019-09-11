@@ -48,4 +48,4 @@ In addition, you can bet there are so many more opportunities for support includ
 ## There is space for each of us
 I was asked recently what motivates me in this work. I still don't know the best way to put it, but basically, I want to help people feel less alone. I've been a part of so many communities, really thoughtful, intentional ones even!, where I just always felt apart from the group. I don't really know where I belong. I hear from a lot of people who feel the same way. It's probably a lifelong process to find that place of belonging, but my purpose in this work is to smooth that path for as many people as I can. I hope that we can all find at least moments of belonging as we work to make the world what we want it to be: a safe and welcoming place for all the communities we inhabit. 
 
-_Thanks to Lam Thuy Vo and Ryan Pitts for feedback on this piece._
+_Thanks to [Lam Thuy Vo](https://twitter.com/lamthuyvo) and [Ryan Pitts](https://twitter.com/ryanpitts) for feedback on this piece._
