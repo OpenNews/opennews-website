@@ -11,11 +11,13 @@ section: what we do
 
 <p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
 
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Apply for data review!</a>
+
 ## Why this program
 
 Learning data journalism is a continual process, and as a community, we invest so much time and energy into sharing what we know through trainings, workshops, and writeups.
 
-Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data _really_ says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. That's a gap the news-nerd community can help fill.
+Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data _really_ says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. [That's a gap the news-nerd community can help fill](/blog/announcing-data-review/).
 
 ## How the data-review program works
 
@@ -72,7 +74,7 @@ No, we have a [privacy agreement](#agreement) in place, and all sessions are one
 
 ### How much time will this take? 
 
-We anticipate an hour or two, spread across emails and/or calls based on what works best for your project and the questions you have.
+We anticipate a couple hours spread across emails and/or calls, based on what works best for your project and the questions you have.
 
 ### What _can’t_ this program help me with?
 
@@ -98,7 +100,7 @@ By submitting a request for help or taking part in this program as a coach, you'
 * **Conflicts of interest.** If a match between participant and coach raises any conflicts of interest, these should be raised with OpenNews so we can figure out a more appropriate fit.
 * **Conduct.** Coaches will create a positive, welcoming, and inclusive experience for participants. Everyone should feel able to ask questions without worrying about criticism or judgment.
 * **Responsibility.** Coaches are rooting for participants and their organizations to tell important stories with data, and they’ll provide the best advice they can. It’s important to note that ultimately, though, coaches aren’t responsible for what participants publish.
-* **Time.** Check-ins will work best if everyone has the same expectations around time commitment. Emails, chats, video calls—each project should count on an hour or two of overall coaching time.
+* **Time.** Check-ins will work best if everyone has the same expectations around time commitment. Emails, chats, video calls—each project should count on a couple hours of overall coaching time.
 
 These may feel a little bit formal for a program that's very explicitly an experiment, but we want to make sure people feel comfortable participating and confident that we'll protect their privacy.
 

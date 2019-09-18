@@ -1250,6 +1250,9 @@ a.sidebar-button {
     display: block;
     margin: 0 auto;
 }
+.article_body a.sidebar-button {
+    margin: 0 3% 1.5em;
+}
 
 
 @media screen and (max-width: 980px) {
