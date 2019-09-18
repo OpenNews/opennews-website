@@ -17,7 +17,7 @@ section: what we do
 
 Learning data journalism is a continual process, and as a community, we invest so much time and energy into sharing what we know through trainings, workshops, and writeups.
 
-Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data _really_ says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. That's a gap the news-nerd community can help fill.
+Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data _really_ says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. [That's a gap the news-nerd community can help fill](/blog/announcing-data-review/).
 
 ## How the data-review program works
 
