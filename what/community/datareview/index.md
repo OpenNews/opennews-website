@@ -11,6 +11,8 @@ section: what we do
 
 <p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
 
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Apply for data review!</a>
+
 ## Why this program
 
 Learning data journalism is a continual process, and as a community, we invest so much time and energy into sharing what we know through trainings, workshops, and writeups.
