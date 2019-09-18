@@ -72,7 +72,7 @@ No, we have a [privacy agreement](#agreement) in place, and all sessions are one
 
 ### How much time will this take? 
 
-We anticipate an hour or two, spread across emails and/or calls based on what works best for your project and the questions you have.
+We anticipate a couple hours spread across emails and/or calls, based on what works best for your project and the questions you have.
 
 ### What _can’t_ this program help me with?
 
@@ -98,7 +98,7 @@ By submitting a request for help or taking part in this program as a coach, you'
 * **Conflicts of interest.** If a match between participant and coach raises any conflicts of interest, these should be raised with OpenNews so we can figure out a more appropriate fit.
 * **Conduct.** Coaches will create a positive, welcoming, and inclusive experience for participants. Everyone should feel able to ask questions without worrying about criticism or judgment.
 * **Responsibility.** Coaches are rooting for participants and their organizations to tell important stories with data, and they’ll provide the best advice they can. It’s important to note that ultimately, though, coaches aren’t responsible for what participants publish.
-* **Time.** Check-ins will work best if everyone has the same expectations around time commitment. Emails, chats, video calls—each project should count on an hour or two of overall coaching time.
+* **Time.** Check-ins will work best if everyone has the same expectations around time commitment. Emails, chats, video calls—each project should count on a couple hours of overall coaching time.
 
 These may feel a little bit formal for a program that's very explicitly an experiment, but we want to make sure people feel comfortable participating and confident that we'll protect their privacy.
 
