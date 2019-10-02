@@ -11,7 +11,7 @@ section: what
 ## Teams & collaboration: How an interdisciplinary approach gets the work done in journalism tech
 All day on Thursday, October 24 we'll have hands-on, collaborative sessions from local London journalists and visitors coming to town for the festival. The event takes place at the [Royal Society of Arts](https://www.google.com/maps/place/RSA+House/@51.5093702,-0.1248943,17z/data=!3m1!4b1!4m5!3m4!1s0x487604c9572d71f1:0xc61aaa0727953544!8m2!3d51.5093669!4d-0.1227056) in central London.
 
-This years theme is about teams, collaboration, and the interdisciplinary perspectives that help us to work well in journalism and tech. We'll have a range of sessions about how we work together, how we enage folks from disciplines outside of journalism, and what we need to do to create cultures that are welcoming to all perspectives and value innovative thinking.
+This years theme is about teams, collaboration, and the interdisciplinary perspectives that help us to work well in journalism and tech. We'll have a range of sessions about how we work together, how we engage folks from disciplines outside of journalism, and what we need to do to create cultures that are welcoming to all perspectives and value innovative thinking.
 
 Participants [can register now](https://ti.to/opennews-events/teams-collaboration-how-an-interdisciplinary-approach-gets-the-work-done-in-journalism-tech) and tickets are free. Many of the sessions will be scheduled that morning, and we're working to confirm a bunch of sessions in advance, too. You can expect sessions on:
 
