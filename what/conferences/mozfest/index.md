@@ -21,6 +21,7 @@ Participants [can register now](https://ti.to/opennews-events/teams-collaboratio
 * "How can we start a project out right? What are the challenges in creating and evaluating project proposals, and what have we learnt about what works?" from Robin Kwong of the Financial Times
 * "What are best practices and things to be careful of when working with communities and technology for data journalism projects?" with Romina Colman of La Nacion Data
 * "How to organize reading groups that encourage continued learning about our work?" with Nicole Zhu of Vox Media
+* "What changes when one newsroom becomes 70? Lessons and mistakes from building The Coral Project." with Andrew Losowsky of Coral for Vox Media.
 * "How to take care of yourself and your colleagues when the news doesn't stop?" from OpenNews staff and community members
 * maybe also a topic of interest you? If you'd like to lead a session, [let us know](mailto:erika@opennews.org) or you can of course pitch that day as well
 
