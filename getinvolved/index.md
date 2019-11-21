@@ -17,7 +17,7 @@ Knight-Mozilla Fellows spend 10 months working with a fantastic news organizatio
 
 ### [Support Our Work](/who/supporters/)
 
-As a nonprofit, OpenNews receives funding from [donors](https://opennews.networkforgood.com/projects/54161), foundations, and sponsors. Learn more about [our supporters](/who/supporters/).
+As a nonprofit, OpenNews receives funding from donors, foundations, and sponsors. Join us as a [founding sustaining member](https://opennews.networkforgood.com/) of this community. Learn more about [our supporters](/who/supporters/).
 
 ### [Share Your Work](http://source.opennews.org)
 

@@ -12,7 +12,7 @@ section: what we do
 
 ### Support our work
 
-Our work exists to support the community that is pushing to create more diverse, responsive, trustworthy journalism. To continue to do this work, we rely on the support of community members. It’s important for the longterm future of OpenNews that we create ways for community members to contribute to the sustainability of our work. [Consider joining us as a donor](https://opennews.networkforgood.com/).
+Our work exists to support the community that is pushing to create more inclusive, equitable, and purpose-driven journalism. It’s important for the longterm future of OpenNews that we create ways for community members to contribute to the sustainability of our work. Consider joining us as [a founding sustainer](https://opennews.networkforgood.com/), contributing monthly to make possible all of OpenNews’ programs.
 
 <a id="faq" class="sidebar-button" href="https://opennews.networkforgood.com/">Support OpenNews Today</a>
 
@@ -55,3 +55,4 @@ OpenNews' annual conference [SRCCON](https://srccon.org) brings together develop
 * [2018 SRCCON Sponsors](https://2018.srccon.org/sponsors/): WordPress.com VIP, Facebook, The New York Times, Google News Initiative, Vox Media, The John S. Knight Journalism Fellowships, Alley Interactive
 * [SRCCON:POWER Sponsors](https://power.srccon.org/sponsors/list/): Democracy Fund, News Integrity Initiative, Vox Media, JSK Fellowship
 * [2019 SRCCON Sponsors](https://srccon.org/sponsors/): The New York Times, WordPress.com VIP, Facebook Journalism Project, Google News Initiative, Craig Newmark Philanthropies, The Lenfest Institute for Journalism, Knight Foundation, Vox Media, Alley, JSK Fellowship, Democracy Fund, News Integrity Initiative, Minnesota Journalism Center, StarTribune, The Accountability Project
+* [SRCCON:LEAD Sponsors](https://lead.srccon.org/sponsors/): WordPressVIP, Facebook Journalism Project, Craig Newmark Philanthropies, The Lenfest Institute, The Gannett Foundation, Vox Media, Democracy Fund, JSK Fellowship, Independence Media Foundation
