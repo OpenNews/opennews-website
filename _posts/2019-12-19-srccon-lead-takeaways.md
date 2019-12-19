@@ -42,6 +42,4 @@ So we need to keep making space to teach each other. We need to listen more and 
 
 _“I came into the conference hoping to learn concrete tasks and skills for being a leader, but what I learned was much bigger: that there's a choice to be made to align leadership tools/models with values, and I can hold myself and others accountable for which models we choose.”_
 
-____
-
-_As we head into 2020, we're thinking a lot about collective action, too. We launched a sustainer program coming out of SRCCON:LEAD, and your donations will help build long-term sustainability for OpenNews while supporting your peers in journalism through the programs we offer. If you find this work meaningful, [we invite you to join us](/donate)!_
+<p class="trailer">As we head into 2020, we're thinking a lot about collective action, too. We launched a sustainer program coming out of SRCCON:LEAD, and your donations will help build long-term sustainability for OpenNews while supporting your peers in journalism through the programs we offer. If you find this work meaningful, [we invite you to join us](/donate)!</p>

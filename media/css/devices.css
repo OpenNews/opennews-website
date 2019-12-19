@@ -968,6 +968,14 @@ font-size: 14px;
 	width: 97%;
 }
 
+.trailer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: .8em;
+    border-top: 1px solid #888;
+    margin-top: 1.5em;
+    padding-top: 1.5em;
+}
+
 img.topline {
 	width: 100%;
 	border: 1px solid black;
