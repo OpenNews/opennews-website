@@ -9,13 +9,15 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The journalism-code community is diverse and distributed across organizations of many sizes, in many places. Events are a great opportunity to get together in person to chat and collaborate, but the cost of travel can be a hardship. Whether you're a newsroom developer at an organization without much budget for professional development, or a freelance developer eager to learn more about journalism code, OpenNews offers scholarships that cover conference registration fees plus $500 toward helping you get there.</p>
+<p class="bodybig">Events are a great opportunity to collaborate and connect with peers, but travel costs can be a hardship. Whether you&rsquo;re a developer at a newsroom without much budget for professional development, or a freelancer eager to learn more about journalism and code, OpenNews offers scholarships that cover registration plus $500 toward helping you get to an event.</p>
 
-<p>We offer scholarships because <a href="https://opennews.org/blog/scholarships-networks/">events help people build skills and relationships</a>—two things that transform how journalists work, strengthen their support networks, and open new doors no matter where they are in their career. We also know that sharing knowledge between peers is <a href="https://opennews.org/what/community/survey/">one of the key ways</a> our community builds expertise, so helping one journalist attend an event can help many journalists do better work.</p>
+<p>We offer scholarships because <a href="https://opennews.org/blog/scholarships-networks/">events help people build skills and relationships</a>—two things that transform how journalists work, strengthen their support networks, and open new doors no matter where they are in their career. Sharing knowledge between peers is <a href="https://opennews.org/what/community/survey/">one of the key ways</a> our community builds expertise, so helping one journalist attend an event can help many journalists do better work.</p>
 
 ### When applications are open
 
 [Applications are open **right now** through midnight Eastern on Tuesday, Jan. 21](https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform), prioritizing events taking place through the first half of 2020. All applicants will hear back from us by Monday, Jan. 27.
+
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform">Apply for an event scholarship!</a>
 
 We'll open a second round of scholarship applications midyear, prioritizing events in the second half of 2020.
 
