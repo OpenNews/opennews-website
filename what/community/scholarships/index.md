@@ -15,12 +15,9 @@ section: what we do
 
 ### When applications are open
 
-[Applications are open **right now** through 11:59pm Eastern on Friday, Sept. 13](https://docs.google.com/forms/d/e/1FAIpQLScdPhFTZCxlKgcKHyh4zhiwMRzkbNStAxwkhWG--s_sm2j6FA/viewform), prioritizing events taking place through the end of 2019. All applicants will hear back from us by Friday, Sept. 20.
+[Applications are open **right now** through midnight Eastern on Tuesday, Jan. 21](https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform), prioritizing events taking place through the first half of 2020. All applicants will hear back from us by Monday, Jan. 27.
 
-Other rounds of scholarships this year:
-
-* Our first application closed January 18, and we notified applicants on January 25.
-* Our second application closed April 5, and we notified applicants on April 12.
+We'll open a second round of scholarship applications midyear, prioritizing events in the second half of 2020.
 
 If you'd like to get notifications about key dates in our scholarship program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date!
 
