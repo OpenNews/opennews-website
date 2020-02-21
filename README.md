@@ -9,7 +9,7 @@ OpenNews is a Knight Foundation-funded project that supports the growing communi
 ### Testing changes locally
 * Clone this repository to your local machine.
 * For minor updates, work directly in the `staging` branch. For major updates, or if you're working on long-term changes to the site, create a new feature branch.
-* To test your work locally, run `jekyll serve` or `jekyll build`, and view the site in a browser.
+* To test your work locally, run `jekyll serve` or `jekyll build`, and view the site in a browser. If you don't have jekyll installed, [follow their installation instructions here](https://jekyllrb.com/docs/installation/macos/).
 
 ### Pushing to staging
 * When you're ready to have someone review a site update, update the `staging` branch in GitHub. If you're working in `staging` locally, you just need to push your code changes. If you're working in a separate feature branch, push that branch to GitHub and then open a pull request into `staging` and merge it.
