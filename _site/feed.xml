@@ -3,8 +3,19 @@
 <channel>
 <title>OpenNews</title>
 <description>The blog for OpenNews</description>
-<link>https://www.opennews.org</link>
-<atom:link href="https://www.opennews.org/feed.xml" rel="self" type="application/rss+xml" />
+<link>http://localhost:4000</link>
+<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+
+<item>
+<title>New Beginnings&amp;colon; Sisi Wei Joins OpenNews</title>
+<dc:creator></dc:creator>
+
+<description>“I can’t think of a better community to tackle journalism’s biggest problems, and to transform journalism collectively and help it keep evolving into the future.”</description>
+
+<pubDate>Tue, 25 Feb 2020 14:45:00 -0500</pubDate>
+<link>http://localhost:4000/blog/sisi-wei-joins-opennews/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/sisi-wei-joins-opennews/</guid>
+</item>
 
 <item>
 <title>Bigger ideas &amp; better skills&amp;#58; What we all took home from SRCCON&amp;#58;LEAD</title>
@@ -13,8 +24,8 @@
 <description>The third in our series of smaller, thematic SRCCONs gave us a chance to reimagine leadership in journalism and share skills to change our newsrooms.</description>
 
 <pubDate>Thu, 19 Dec 2019 08:00:00 -0500</pubDate>
-<link>https://www.opennews.org/blog/srccon-lead-takeaways/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/srccon-lead-takeaways/</guid>
+<link>http://localhost:4000/blog/srccon-lead-takeaways/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-lead-takeaways/</guid>
 </item>
 
 <item>
@@ -24,8 +35,8 @@
 <description>We organized a monthlong pilot program that matched journalists with peer coaches to help them work through questions on a data story. Twelve projects later, here's what we learned.</description>
 
 <pubDate>Tue, 17 Dec 2019 08:00:00 -0500</pubDate>
-<link>https://www.opennews.org/blog/reviewing-peer-data-review/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/reviewing-peer-data-review/</guid>
+<link>http://localhost:4000/blog/reviewing-peer-data-review/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/reviewing-peer-data-review/</guid>
 </item>
 
 <item>
@@ -35,8 +46,8 @@
 <description>In closing out two days about how we can collectively work for change, we shared an invitation to join OpenNews as a founding sustainer.</description>
 
 <pubDate>Wed, 20 Nov 2019 19:00:00 -0500</pubDate>
-<link>https://www.opennews.org/blog/lead-launch-sustainer/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/lead-launch-sustainer/</guid>
+<link>http://localhost:4000/blog/lead-launch-sustainer/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/lead-launch-sustainer/</guid>
 </item>
 
 <item>
@@ -46,8 +57,8 @@
 <description>On November 19 &amp; 20, we'll be back in Philly with 125 community members who want to shape the future of leadership in journalism.</description>
 
 <pubDate>Tue, 01 Oct 2019 12:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/srccon-lead/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/srccon-lead/</guid>
+<link>http://localhost:4000/blog/srccon-lead/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/srccon-lead/</guid>
 </item>
 
 <item>
@@ -57,8 +68,8 @@
 <description>Journalists on smaller teams have the skills to tell important stories with data, but not always colleagues they can ask for help. We're launching an experimental program to connect them with community members who can offer feedback that gets more of those stories into the world.</description>
 
 <pubDate>Wed, 18 Sep 2019 12:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/announcing-data-review/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/announcing-data-review/</guid>
+<link>http://localhost:4000/blog/announcing-data-review/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/announcing-data-review/</guid>
 </item>
 
 <item>
@@ -68,8 +79,8 @@
 <description>With ONA this week and the JOC Slack admins receiving the second ONA Community Award, it's a great chance to reflect on how we create community together.</description>
 
 <pubDate>Tue, 10 Sep 2019 15:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/to-be-in-community/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/to-be-in-community/</guid>
+<link>http://localhost:4000/blog/to-be-in-community/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/to-be-in-community/</guid>
 </item>
 
 <item>
@@ -79,8 +90,8 @@
 <description>Next year, we'll gather 150 product thinkers for the first conference by, for, and about product and news.</description>
 
 <pubDate>Mon, 09 Sep 2019 15:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/announcing-srccon-product/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/announcing-srccon-product/</guid>
+<link>http://localhost:4000/blog/announcing-srccon-product/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/announcing-srccon-product/</guid>
 </item>
 
 <item>
@@ -90,8 +101,8 @@
 <description>Over the course of five years, 33 incredible fellows joined newsrooms to work in the open on tools and projects to help journalism flourish. We're closing the program today.</description>
 
 <pubDate>Wed, 28 Aug 2019 12:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/fellowship-what-next/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/fellowship-what-next/</guid>
+<link>http://localhost:4000/blog/fellowship-what-next/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/fellowship-what-next/</guid>
 </item>
 
 <item>
@@ -101,19 +112,8 @@
 <description>We've got answers to some of your questions about this new position with OpenNews.</description>
 
 <pubDate>Mon, 26 Aug 2019 12:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/hiring-director-programs-more/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/hiring-director-programs-more/</guid>
-</item>
-
-<item>
-<title>SRCCON's back and we've got so much to share</title>
-<dc:creator></dc:creator>
-
-<description>From the mix of sessions you know and love to a few new ways to connect, we're taking a look at the program mix for this year's conference.</description>
-
-<pubDate>Wed, 10 Jul 2019 12:00:00 -0400</pubDate>
-<link>https://www.opennews.org/blog/srccon-space-experiment/</link>
-<guid isPermaLink="true">https://www.opennews.org/blog/srccon-space-experiment/</guid>
+<link>http://localhost:4000/blog/hiring-director-programs-more/</link>
+<guid isPermaLink="true">http://localhost:4000/blog/hiring-director-programs-more/</guid>
 </item>
 
 </channel>
