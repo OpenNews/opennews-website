@@ -10,13 +10,23 @@ sub-section: index
 ## Our Staff
 
 ### Erika Owens, Director
-<img src="/media/img/staff/owens.jpg" class="headshot"> Erika is a web journalist based in Philadelphia. She works with OpenNews to help journalists, developers, designers, data geeks, and civic hackers create awesome projects together on the open web. Prior to joining OpenNews, Erika was web editor at the [Philadelphia Public School Notebook](http://thenotebook.org/) where she oversaw the Notebook's site as it became the go-to place for news and conversation about public education in Philadelphia. She loves nonprofit journalism, people watching, and laughing heartily. (<a href="mailto:erika@opennews.org">erika@opennews.org</a>)
+<img src="/media/img/staff/owens.jpg" class="headshot"> Erika Owens is Director of OpenNews, where she convenes people and projects in journalism and open source technology. Erika and the OpenNews team seek ways to build enduring connections by supporting a thriving network of creating inclusive, caring spaces for the journalism-tech community. Her adroit community work has been instrumental in establishing OpenNews as a leader in how to foster and sustain networks. Erika also serves on the board of the Movement Alliance Project (formerly Media Mobilizing Project) and has trained as a donor organizer through the Giving Project at Bread and Roses Community Fund. Previously, Erika was web editor at the Philadelphia Public School Notebook](http://thenotebook.org/). She is based in Philadelphia and loves nonprofit journalism, people watching, and laughing heartily. (<a href="mailto:erika@opennews.org">erika@opennews.org</a>)
 
 ### Ryan Pitts, Tech Lead
 <img src="/media/img/staff/pitts.jpg" class="headshot"> Ryan is a web developer and journalist based in Spokane, Wash. He works on code-related programs for OpenNews, making websites for team projects, helping facilitate events, and working with other developers to open-source code for the journalism community. Prior to joining OpenNews, he helped build [Census Reporter](http://censusreporter.org/), a Knight News Challenge-funded project that makes Census data easier to use. He has been a reporter, editor, and designer, and was the senior editor for digital media at the [Spokesman-Review](http://www.spokesman.com/) in Spokane, where he led the team that built the paper's CMS and worked with other journalists on award-winning news apps. (<a href="mailto:ryan@opennews.org">ryan@opennews.org</a>)
 
-### Lindsay Muscato, Editor for Source
-<img src="/media/img/staff/muscato.jpg" class="headshot"> Lindsay is a writer and editor based in Brooklyn who joined OpenNews and Source in 2015. Before that, she spent a decade in Chicago on innovative projects in the arts, youth media, design, and civic tech — producing work on issues such as gun violence, health disparities, and user testing for civic apps. She also spent a year in Cambodia as a leadership resident with the Harpswell Foundation, where she lived and worked alongside Cambodian university students. She's been a believer in the open web since 1996, when she made her first website after school one day. She's originally from Buffalo, New York. (<a href="mailto:lindsay@opennews.org">lindsay@opennews.org</a>)
+### Sisi Wei, Director of Programs
+<img src="/media/img/staff/wei.jpg" class="headshot"> Sisi Wei is the Director of Programs at OpenNews, where she envisions and executes transformative initiatives to help create a journalism industry that is more inclusive and equitable, especially for journalists of color and local journalists. Previously, she was the Assistant Managing Editor at ProPublica, during which she edited and managed news apps, graphics, visual investigations and large, interdisciplinary projects. Sisi has won numerous Malofiej, SND Digital and ONA awards, the Gannett Award for Innovation in Watchdog Journalism, and the 2016 Data Journalism Award for Best Individual Portfolio. She has served as an adjunct professor at New York University, The New School and CUNY, and she is also the co-founder of [_Code with me_](http://codewithme.us/), a high-impact, nonprofit workshop that teaches journalists how to code. She is based in New York City. (<a href="mailto:sisi@opennews.org">sisi@opennews.org</a>) 
+
+## Our Advisory Board
+
+* Trei Brundrett of Vox Media
+* Tiff Fehr of The New York Times
+* Candice Fortman of Outlier Media
+* Dawn Garcia of the John S. Knight Fellowship
+* Aron Pilhofer of Temple University
+* Dan Sinker (former director of OpenNews)
+* Aaron Williams of The Washington Post
 
 ## Our Former Staff
 Team members who shaped OpenNews, and have since moved on to other pursuits.
@@ -30,15 +40,8 @@ Team members who shaped OpenNews, and have since moved on to other pursuits.
 ### B Cordelia Yu, program and communications coordinator
 <img src="/media/img/staff/cordelia.jpg" class="headshot">B Cordelia Yu is a content & editorial strategist and independent researcher at the intersection of social justice, civic tech, public policy, and digital design. They help organizations build inclusive editorial teams and products to foster democratic communities and expanding access to communities of knowledge. Their [research](http://tinyletter.com/thebestsophist) is in creating models for open governance and technology-mediated deliberative democratic practices. They joined OpenNews for the second half of 2017.
 
-## Our Advisory Board
-
-* Trei Brundrett of Vox Media
-* Tiff Fehr of The New York Times
-* Candice Fortman of Outlier Media
-* Dawn Garcia of the John S. Knight Fellowship
-* Aron Pilhofer of Temple University
-* Dan Sinker (former director of OpenNews)
-* Aaron Williams of The Washington Post
+### Lindsay Muscato, Editor for Source
+<img src="/media/img/staff/muscato.jpg" class="headshot"> Lindsay is a writer and editor based in Brooklyn who joined OpenNews and Source in 2015. Before that, she spent a decade in Chicago on innovative projects in the arts, youth media, design, and civic tech — producing work on issues such as gun violence, health disparities, and user testing for civic apps. She also spent a year in Cambodia as a leadership resident with the Harpswell Foundation, where she lived and worked alongside Cambodian university students. She's been a believer in the open web since 1996, when she made her first website after school one day. She's originally from Buffalo, New York. (<a href="mailto:lindsay@opennews.org">lindsay@opennews.org</a>)
 
 ## [Our History](/who/history/)
 

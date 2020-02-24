@@ -179,7 +179,8 @@ div[role="main"] h2 {
 	font-weight: 400;
 }
 article p,
-article ul {
+article ul,
+article ol {
 	font-family: Georgia, "Times New Roman", Times, serif;
 	line-height: 1.6;
 	font-size: 18px;
@@ -270,6 +271,10 @@ article header p {
 	list-style-image: url(../img/css/arrow.png);
 	list-style-position: inside;
 	margin-bottom: 8px;
+}
+
+#newsbox h3 {
+    margin-top: 0;
 }
 
 div[role="main"] .opengraph a {
@@ -963,6 +968,14 @@ font-size: 14px;
 	width: 97%;
 }
 
+.trailer {
+    font-family: 'Open Sans', sans-serif;
+    font-size: .8em;
+    border-top: 1px solid #888;
+    margin-top: 1.5em;
+    padding-top: 1.5em;
+}
+
 img.topline {
 	width: 100%;
 	border: 1px solid black;
@@ -1232,6 +1245,24 @@ footer .col img {
 	width: auto;
 }
 
+a.sidebar-button {
+    border: 0;
+    border-radius: .25em;
+    background-color: #fc6e1f;
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+    padding: .67em;
+    line-height: 1;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.article_body a.sidebar-button {
+    margin: 0 3% 1.5em;
+}
+
+
 @media screen and (max-width: 980px) {
 	article, header {
 		padding: 15px;
@@ -1289,6 +1320,9 @@ div.main_col {
 	float: left;
 }
 
+a.sidebar-button {
+    width: 80%;
+}
 }
 
 @media screen and (max-width: 480px) {
