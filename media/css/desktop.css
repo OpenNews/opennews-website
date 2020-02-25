@@ -76,8 +76,8 @@ nav li {
 	float: left;
 }
 
-.main_col quote {
-  padding-left: 20px;
+blockquote.orange-highlight {
+  padding: 0 20px;
   display: block;
   line-height: 1.6rem;
   border-left: 8px solid #ffdfce;
