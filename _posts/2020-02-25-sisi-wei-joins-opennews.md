@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: New Beginnings&colon; Sisi Wei Joins OpenNews
+title: New Beginnings&#58; Sisi Wei Joins OpenNews
 date: 2020-02-25 14:45
 author: Sisi Wei
 tags: OpenNews
