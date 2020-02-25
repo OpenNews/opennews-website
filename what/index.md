@@ -3,6 +3,7 @@ layout: post_notitle
 title: What We Do
 section: what we do
 sub-section: index
+image: /media/img/srccon-group-erik-westra.jpg
 ---
 
 <img src="/media/img/srccon-group-erik-westra.jpg" class="topline">

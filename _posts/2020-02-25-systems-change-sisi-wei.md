@@ -5,6 +5,7 @@ date: 2020-02-25 14:45
 author: Erika Owens
 tags: OpenNews
 excerpt: We're continuing to evolve our work and figure out how to create broader change in the industry with new Director of Programs Sisi Wei.
+image: /media/img/blog/2020-02-25-change.jpg
 ---
 
 <img src="/media/img/blog/2020-02-25-change.jpg" style="width: 100%;"  alt="Sisi Wei, director of programs at OpenNews"> 

@@ -1,0 +1,17 @@
+    
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://opennews.org{{ page.url }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:description" content="{{ page.excerpt }}" />
+    {% if page.image %}
+    <meta property="og:image" content="https://opennews.org{{ page.image }}" />
+    {% endif %}
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" value="{{ page.title }}" />
+    <meta name="twitter:description" value="{{ page.excerpt }}" />
+    {% if page.image %}
+    <meta name="twitter:image" content="https://opennews.org{{ page.image }}" />
+    {% endif %}
+    <meta name="twitter:url" value="https://opennews.org{{ page.url }}" />
+    <meta name="twitter:site" value="@opennews" />
