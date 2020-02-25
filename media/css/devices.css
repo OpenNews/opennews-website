@@ -1300,6 +1300,16 @@ div.main_col {
 	width: 100%;
 }
 
+blockquote.orange-highlight {
+  padding: 0 20px;
+  display: block;
+  line-height: 1.6rem;
+  border-left: 8px solid #ffdfce;
+  margin: 30px 0 40px 10px;
+  font-size: 1em;
+  color: #888;
+}
+
 .sidebox {
 	width: 100%;
 	margin-top: 0px;
