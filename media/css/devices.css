@@ -1300,6 +1300,15 @@ div.main_col {
 	width: 100%;
 }
 
+.main_col quote {
+  padding-left: 20px;
+  display: block;
+  line-height: 1.6rem;
+  border-left: 8px solid #ffdfce;
+  margin: 30px 0 40px 30px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .sidebox {
 	width: 100%;
 	margin-top: 0px;

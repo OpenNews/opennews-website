@@ -7,8 +7,7 @@ tags: OpenNews
 excerpt: “I can’t think of a better community to tackle journalism’s biggest problems, and to transform journalism collectively and help it keep evolving into the future.”
 ---
 
-
-<img src="/media/img/blog/2012-02-25-sisi-wei-lead-image.png" style="width: 100%;"  alt="Sisi Wei, director of programs at OpenNews"> 
+<img src="/media/img/blog/2020-02-25-sisi-wei-lead-image.png" style="width: 100%;"  alt="Sisi Wei, director of programs at OpenNews"> 
 <p class="caption" style="margin-top: 5px;">Sisi Wei joins the OpenNews team.</p> 
 
 I’ve officially started as Director of Programs at OpenNews and I couldn’t be more excited.
@@ -21,7 +20,7 @@ Those of you who know me know that I’ve always been idealistic. When I can env
 
 That’s why years ago, fresh out of journalism school and still a newbie graphics editor at the Washington Post, I co-founded [Code with me](http://codewithme.us/) with Tom Giratikanon, who was working at the Boston Globe. We both saw colleagues — producers, designers, and reporters — across our newsrooms who were genuinely interested in learning to code but had no resources to turn to. We knew we could solve that problem, so we did, by hosting [weekend workshops](https://source.opennews.org/articles/sisi-wei-code-me/) across the county to teach journalists how to code, but for journalism. 
 
-<img src="/media/img/blog/2020-02-24-sisi-wei-code-with-me.jpg" style="width: 100%; margin-top: 25px;"  alt="Sisi Wei smiling in front of a Code with me presentation."> 
+<img src="/media/img/blog/2020-02-25-sisi-wei-code-with-me.jpg" style="width: 100%; margin-top: 25px;"  alt="Sisi Wei smiling in front of a Code with me presentation."> 
 <p class="caption" style="margin-top: 5px;">Me, in 2012, smiling uncontrollably after our first <i>Code with me</i> workshop in DC. (Photo: Danny DeBelius)</p> 
 
 Creating the program, however, taught something I hadn’t yet grasped about networks and community. Since online resources were sparse back then, we wanted to set our students up for success, and one method was by pairing them 2:1 with an experienced, local mentor. We drew from both civic coders and journalists, regardless of their newsroom, who lived and worked in a local area, and who were all willing to be someone others could bounce ideas off of and lean on after the workshop was over. 
