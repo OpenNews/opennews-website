@@ -5,6 +5,7 @@ date: 2020-02-25 14:45
 author: Sisi Wei
 tags: OpenNews
 excerpt: “I can’t think of a better community to tackle journalism’s biggest problems, and to transform journalism collectively and help it keep evolving into the future.”
+image: /media/img/blog/2020-02-25-sisi-wei-lead-image.png
 ---
 
 <img src="/media/img/blog/2020-02-25-sisi-wei-lead-image.png" style="width: 100%;"  alt="Sisi Wei, director of programs at OpenNews"> 
