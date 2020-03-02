@@ -8,8 +8,8 @@ excerpt: We're continuing to evolve our work and figure out how to create broade
 image: /media/img/blog/2020-02-25-change.jpg
 ---
 
-<img src="/media/img/blog/2020-02-25-change.jpg" style="width: 100%;"  alt="Sisi Wei, director of programs at OpenNews"> 
-<p class="caption" style="margin-top: 5px;">We're continuing to evolve our work and figure out how to create broader change in the industry with new Director of Programs Sisi Wei. (Photo by <a href="https://unsplash.com/@rossf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Ross Findon</a> on <a href="https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>)</p> 
+<img src="/media/img/blog/2020-02-25-change.jpg" style="width: 100%;" alt="Sisi Wei, director of programs at OpenNews"> 
+<p class="caption" style="margin-top: 5px;">We're continuing to evolve our work and figure out how to create broader change in the industry with new Director of Programs Sisi Wei. (Photo by <a href="https://unsplash.com/@rossf">Ross Findon</a> on <a href="https://unsplash.com/">Unsplash</a>)</p> 
 
 The challenges in journalism right now are clear, from harassment campaigns to hedge funds dismantling organizations. But alongside these outside forces are longstanding structural problems of how newsrooms treat their employees, and who they decide to hire and promote in the first place. Some journalists have never felt comfortable, welcome, or safe in these mainstream, white institutions. Some journalists have tried to change those organizations from within, and increasingly, I hear how tired they are of waiting for change to come. Since we started doing [thematic SRCCON conferences](/blog/srccon-lead-takeaways/), people share new name ideas and usually they've been about themes in the industry like LOCAL, PRODUCT, REVENUE. But over the few months, I've heard ideas like SRCCON:
 
