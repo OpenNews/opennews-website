@@ -18,9 +18,9 @@ Here are some ways we're looking forward to connecting with you this week.
 ## Community events around NICAR
 We're coordinating or helping out with three evening events this year:
 
-* **Welcome dinners on Wednesday night:** We set up hosted tables at six restaurants the night before NICAR to help folks get to know new people in a smaller setting before heading into a huge conference. The [signup sheet is here](https://docs.google.com/spreadsheets/d/1atQ4HtWBey7IZd138aE9VTWcDuOb4G6NgDNDf49YMB4/edit#gid=0)—if tables are full and you'd like us to let you know if more room opens up, just [send Ryan a quick note](mailto:ryan@opennews.org).
+* **Wednesday night welcome dinners:** We set up hosted tables at six restaurants the night before NICAR to help folks get to know new people in a smaller setting before heading into a huge conference. The [signup sheet is here](https://docs.google.com/spreadsheets/d/1atQ4HtWBey7IZd138aE9VTWcDuOb4G6NgDNDf49YMB4/edit#gid=0)—if tables are full and you'd like us to let you know if more room opens up, just [send Ryan a quick note](mailto:ryan@opennews.org).
 * **Friday night beignet party:** This is an alcohol-free event at an art gallery just a short walk from the NICAR venue. [RSVP here](https://www.eventbrite.com/e/nicar-2020-new-orleans-beignet-party-tickets-96525403079) and drop in anytime from 7-9pm on Friday, March 6, to hang out with a bunch of journalists for snacks, art, and a live brass band.
-* **Saturday board game night:** Whenever you’re done with dinner on Saturday, you can join folks for games in the lobby of the conference hotel. [See what people are planning to bring](https://etherpad.wikimedia.org/p/nicar20boardgames) and sign up to bring games of your own!
+* **Saturday night board games:** Whenever you’re done with dinner on Saturday, you can join folks for games in the lobby of the conference hotel. [See what people are planning to bring](https://etherpad.wikimedia.org/p/nicar20boardgames) and sign up to bring games of your own!
 
 ## Meetups & meals during NICAR
 We're super on board with the hallway track at NICAR, so please come say hi and talk with us about what you're working on. You can also find us at these get-togethers during the days:
