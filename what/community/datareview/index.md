@@ -9,15 +9,15 @@ section: what we do
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
+<p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
 
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform">Apply for data review!</a>
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Apply for data review! This round: COVID-19 projects</a>
 
 ## Why this program
 
-Learning data journalism is a continual process, and as a community, we invest so much time and energy into sharing what we know through trainings, workshops, and writeups.
+Learning data journalism is a continual process, and as a community, we invest a lot of time and energy into sharing what we know through trainings, workshops, and writeups.
 
-Lately we’ve heard that many of you could use more support in implementing what you’ve learned. Sometimes it’s hard to be sure the data _really_ says what you think, or you may feel anxious about making a math mistake. Walking through your process with someone else can help, but reporters on smaller teams don't always have experienced colleagues to compare notes with. [That's a gap the news-nerd community can help fill](/blog/announcing-data-review/).
+Support from a peer makes it easier to implement what you've learned. When you aren't sure the data _really_ says what you think, or you feel anxious about making a math mistake, walking through your process with someone else can help. Reporters on smaller teams don't always have experienced colleagues to compare notes with—[but that's a gap the news-nerd community can help fill](/blog/reviewing-peer-data-review/).
 
 ## How the data-review program works
 
@@ -25,13 +25,11 @@ First, your data-journalism project should meet a couple criteria—you already 
 
 Peer coaches will be experienced data journalists who can look over data with you, confirm your hunches, and identify things you might have overlooked—at least in part because they recognize mistakes they've already made themselves. And they're volunteers who will receive a thank-you stipend from OpenNews, so you don't need to feel awkward about taking a bit of someone's time.
 
-Coaches will exchange emails and set up times to meet on a voice or video call to work through your questions with you.
+Coaches will exchange emails with you and set up times to meet on a voice or video call to work through questions with you.
 
 ## How to get started
 
-From now through Oct. 16:
-
-1. [Use this form to tell us about your project](https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform).
+1. [Use this form to tell us about your project](https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform).
 2. OpenNews will review requests and reach out to coaches to see who can help. We can't promise that someone will be available to work with you, but we'll let you know either way.
 3. If there's a coach who's a good fit for your project, they'll reach out with some followup questions. You'll probably trade a few emails back and forth.
 4. Coaches will set aside time for a call so you can dig into the data together and talk through any questions. These calls shouldn't last more than an hour. (If emails answer all the questions you have, that's great too!)
@@ -39,7 +37,7 @@ From now through Oct. 16:
 
 Participation is free and for data journalists on small teams, from local or regional newsrooms, and from underrepresented backgrounds in journalism. These conversations [will be one-on-one and private](#agreement), so you don't need to worry about giving up a scoop or feeling awkward about any questions you have.
 
-This program is an experiment, and we think it could tell us a lot about building a sustainable framework for peer support in the journalism-tech community. (And if you're interested in helping out as a coach, please [reach out](mailto:ryan@opennews.org)!)
+This program is one of the ways we're building sustainable frameworks for peer support in the journalism-tech community. (And if you're interested in helping out as a coach, please [reach out](mailto:ryan@opennews.org)!)
 
 ## Frequently Asked Questions
 
@@ -54,11 +52,11 @@ This is for journalists who:
 And it's for projects where you:
 
 * already have data but aren't sure what to do next,
-* or already have data and think you've got the story too, but would really like to verify that your analysis is correct
+* or have the data and think you've got the story too, and would really like to verify that your analysis is correct
 
 ### When can I apply?
 
-If you have a project that you think would be a good candidate for peer review, [tell us about it now](https://docs.google.com/forms/d/e/1FAIpQLSeigaV1wvZOcokMGbC7xVUG8B2dGwZxNgxWgAc8VW1612KVMg/viewform)! Applications will be open through Oct. 16.
+If you have a project that you think would be a good candidate for peer review, [tell us about it now](https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform)!
 
 ### Does this cost anything?
 
