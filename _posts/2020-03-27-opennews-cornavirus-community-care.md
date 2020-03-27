@@ -8,7 +8,8 @@ excerpt: To our OpenNews family, we're here, and we're here for you.
 image: /media/img/blog/2020-03-02-new-orleans.jpg
 ---
 
-<br/>
+<i>If you want stay up-to-date on our community care programs during COVID-19, [sign up for our community newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc).</i>
+
 To our OpenNews family,
 
 We hope you're all well, and managing to take care of yourselves, loved ones, and each other in the ways we all need right now. At OpenNews, we're all working from home, which at first glance isn't much different from our normal routines. But whether you're new to this or an expert at it, we know that this is still hard. We know that this is and feels different than working from home on any other day or week or month.
@@ -25,8 +26,8 @@ Last week, we focused our [community call](https://etherpad.opennews.org/p/commu
 
 Tina Ye also closed our call with a group feelings share and an emoji garden. Together, we checked in with each other, what we need from others and shared inspiring things we've seen and advice we'd like to share. It was a really special experience and we're grateful for how many of you joined us. For those who could make it, you can still check out what happened here: [https://etherpad.opennews.org/p/communitycall-Mar19](https://etherpad.opennews.org/p/communitycall-Mar19)
 
-We're in the process of building projects in all three community care areas we've identified, but if you have suggestions, ideas, questions, or anything else you'd like to share with us, [let us know](mailto:info@opennews.org).
+We're already in the process of building projects in all three community care areas we've identified, but if you have suggestions, ideas, questions, or anything else you'd like to share with us, [let us know](mailto:info@opennews.org). In the meantime, if you want to make sure you stay up-to-date on everything we're doing, including what we're planning for future community calls, [sign up for our community newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc). If, in this moment, you're interested in supporting this work and the community as a founding sustainer, [you can support us here](https://opennews.networkforgood.com/).
 
-We're here, and we're here for you.
+Please take care, and know that we're here, and we're here for you.
 
 —Sisi, Ryan, and Erika
