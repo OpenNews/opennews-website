@@ -26,7 +26,7 @@ We've always been grateful for how much the OpenNews community supports and care
 
 As every day brings new information both about COVID-19 and what our community needs, we'll listen and learn, we'll adapt and adjust, and we'll take on the best ways OpenNews can support you as we go.
 
-Last week, we focused our [community call](https://etherpad.opennews.org/p/communitycall-Mar19) completely on ways for us to support each other. We heard from Ted Han about a [COVID-19 Guide](https://covid19.ops.guide/) being put together by the community, Chris Groskopf about working remotely, and us about this here community call and how you could start one up yourself. 
+Our most recent [community call](https://etherpad.opennews.org/p/communitycall-Mar19) focused completely on ways for us to support each other. We heard from Ted Han about a [COVID-19 Guide](https://covid19.ops.guide/) being put together by the community, Chris Groskopf about working remotely, and us about this here community call and how you could start one up yourself. 
 
 Tina Ye also closed our call with a group feelings share and an emoji garden. Together, we checked in with each other, what we need from others and shared inspiring things we've seen and advice we'd like to share. It was a really special experience and we're grateful for how many of you joined us. For those who could make it, you can still check out what happened here: [https://etherpad.opennews.org/p/communitycall-Mar19](https://etherpad.opennews.org/p/communitycall-Mar19)
 
