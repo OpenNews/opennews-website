@@ -2,6 +2,7 @@
 layout: post_notitle
 title: Peer data review&#58; Get feedback about your data stories
 section: what we do
+image: /media/img/peer_data_review.jpg
 
 ---
 <img src="/media/img/peer_data_review.jpg" class="topline">
