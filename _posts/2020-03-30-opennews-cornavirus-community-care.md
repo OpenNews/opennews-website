@@ -20,7 +20,7 @@ We hope you're all well, and managing to take care of yourselves, loved ones, an
 It's also why right now, the team has decided to focus on the next step following self-care: community care. 
 
 We've always been grateful for how much the OpenNews community supports and cares for one another, so we're coming up with a few ways for us to support, organize, and practice community care during COVID-19. For the next couple of weeks, we'll be focused on helping you, our community, in three ways:
-* **Mutual Aid:** Organizing different ways to easily help community members who need our collective support, and documenting and open-sourcing that process so anymore can do the same.
+* **Mutual Aid:** Organizing different ways to easily help community members who need our collective support, and documenting and open-sourcing that process so anyone can do the same.
 * **Coverage Knowledge Sharing:** If there's an appetite for it, helping the community create story recipes so local journalists anywhere can replicate data analysis techniques to find stories for their communities.
 * **Building Remote Process and Culture for Our Community:** To help us build the newsroom and team cultures we want as we work from home, we're developing a tailored and lightweight resource that's rooted in our community values, and uses expertise from community members to filter and focus the mountain of knowledge being shared about remote work.
 
