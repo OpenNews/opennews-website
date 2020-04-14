@@ -181,10 +181,9 @@ layout: layout_resource
 
 <ul>
   <li><a href="https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan">“For leaders who are suddenly managing work-from-home teams, there are five things you can focus on right now to maximize stability.”</a></li>
-  <li>It can be really helpful to talk this stuff through. The <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a> are all communities where managers and editors talk with each other about shared challenges.</li>
 </ul>
 
-<p class="callout small">&rarrhk; We know there are more resources out there for newsroom leaders responding to crisis. Have you found something particularly useful, or shared something helpful with your own team? <a href="mailto:team@opennews.org">Send us a link!</a></p>
+<p class="callout small">&rarrhk; It can be really helpful to talk this stuff through. You can find other managers and editors are already talking with each other about shared challenges in the <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a>.</p>
 
 <p class="question-section">LEADERSHIP</p>
 
