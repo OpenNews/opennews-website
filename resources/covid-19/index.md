@@ -18,6 +18,7 @@ layout: layout_resource
   }
   .callout {
     font-style: italic;
+    margin-left: 2.5rem;
   }
   .small {
     font-size: .83em;
