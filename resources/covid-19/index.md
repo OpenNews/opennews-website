@@ -1,10 +1,11 @@
 ---
 layout: layout_resource
 ---
-
+<link rel="stylesheet" href="https://use.typekit.net/bmm7xbg.css">
 <style>
   .question, .question-section {
     font-weight: bold;
+    font-weight: 600;
   }
   .question-section {
     font-family: sofia-pro, sans-serif;
