@@ -3,6 +3,9 @@ layout: layout_resource
 ---
 <link rel="stylesheet" href="https://use.typekit.net/bmm7xbg.css">
 <style>
+  h1.big-type {
+    line-height: 1.2;
+  }
   .question, .question-section {
     font-weight: bold;
     font-weight: 600;
