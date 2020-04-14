@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <title>{{ page.title }} | OpenNews</title>
     <link rel="alternate" type="application/atom+xml" title="Atom 0.3"  href="http://planet.opennews.org/rss" />
-     <meta name="Description" content="OpenNews is about creating a diverse ecosystem to help journalism thrive on the open web. It's about producing open source code that solves real problems in news. It's about supporting communities of developers and journalists as they make, learn, and invent together. And it's about deploying fellows&mdash;and code&mdash;into news organizations to collaborate in new ways..">
+     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning, and solving problems together can create a stronger, more responsive journalism ecosystem.{% endif %}">
     <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
     <meta name="viewport" content="initial-scale=1.0, width=device-width">
     <link rel="icon" href="/favicon.ico" />
