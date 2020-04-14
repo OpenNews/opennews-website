@@ -80,12 +80,8 @@ layout: layout_resource
 
 <ul>
   <li><a href="https://www.huffpost.com/entry/remote-work-coronavirus-how-to-advice_l_5e690cedc5b60557280f70d0">If you suddenly work remotely, communication matters more than anything else</a></li>
-  <li><a href="https://aworkinglibrary.com/writing/hard-way">We’re learning lessons right now the hard way: Good communication requires you to be intentional and explicit</a>
-
-    <ul>
-      <li>“You are going to have to listen fiercely, speak openly, make decisions even when no good options present themselves, and admit that you just don’t know what’s coming. You are going to have to stay calm and present even as the fire rages.”</li>
-    </ul>
-  </li>
+  <li><a href="https://aworkinglibrary.com/writing/hard-way">We’re learning lessons right now the hard way: Good communication requires you to be intentional and explicit</a><br/>
+  &#8220;You are going to have to listen fiercely, speak openly, make decisions even when no good options present themselves, and admit that you just don’t know what’s coming. You are going to have to stay calm and present even as the fire rages.&#8221;</li>
   <li><a href="https://hbr.org/2015/01/how-to-handle-difficult-conversations-at-work">How to handle difficult conversations at work</a> (<a href="https://ona19.journalists.org/sessions/23518316/">especially in a newsroom</a> + <a href="https://docs.google.com/document/d/1h0PrgpjligGVYmNO_hKeEneMtLe4ziRrrJp5U659gz4/edit">tipsheet</a>)</li>
 </ul>
 
@@ -122,11 +118,8 @@ layout: layout_resource
 <p class="question">How do I make sense of how I&#8217;m feeling right now?</p>
 
 <ul>
-  <li><a href="https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief">&#8220;That discomfort you&#8217;re feeling is grief&#8221;</a>
-    <ul>
-      <li>“We feel the world has changed, and it has. We know this is temporary, but it doesn’t feel that way, and we realize things will be different. &#8230; We are not used to this kind of collective grief in the air.”</li>
-    </ul>
-  </li>
+  <li><a href="https://hbr.org/2020/03/that-discomfort-youre-feeling-is-grief">&#8220;That discomfort you&#8217;re feeling is grief&#8221;</a><br/>
+  &#8220;We feel the world has changed, and it has. We know this is temporary, but it doesn’t feel that way, and we realize things will be different. &#8230; We are not used to this kind of collective grief in the air.&#8221;</li>
   <li><a href="https://podcasts.apple.com/us/podcast/the-happiness-lab-with-dr-laurie-santos/id1474245040?i=1000468907282">Coach yourself through a crisis</a></li>
   <li><a href="https://about.gitlab.com/company/culture/all-remote/mental-health/">Combating burnout, isolation, and anxiety in the remote workplace</a></li>
   <li><a href="https://mentalhealthjournalism.org/covid-19-mental-health-resources-for-journalists-and-you/">COVID&#8211;19 mental health resources for journalists and you</a></li>
@@ -164,11 +157,8 @@ layout: layout_resource
 <p class="question">What does my team need to hear from me right now? What should I proactively communicate to immediately preempt anxiety and enable good work?</p>
 
 <ul>
-  <li><a href="https://twitter.com/chrisalbon/status/1239927980450697218">“All this is not normal” and how you’d like to handle it</a>.
-    <ul>
-      <li>“We will assume positive intent. These are hard times. Everyone is going through tough personal situations and stressors. This can cause folks to lash out in frustration or fear. As a team we will rigidly assume positive intent and operate with empathy with our stakeholders, our peers, and each other.”</li>
-    </ul>
-  </li>
+  <li><a href="https://twitter.com/chrisalbon/status/1239927980450697218">“All this is not normal” and how you’d like to handle it</a><br/>
+  &#8220;We will assume positive intent. These are hard times. Everyone is going through tough personal situations and stressors. This can cause folks to lash out in frustration or fear. As a team we will rigidly assume positive intent and operate with empathy with our stakeholders, our peers, and each other.&#8221;</li>
   <li><a href="https://academy.nobl.io/going-remote-overnight-preparing-for-the-coronavirus/">Going remote overnight: Preparing for the Coronavius</a> when it comes to your policies, systems, and people.</li>
 </ul>
 
@@ -200,12 +190,8 @@ layout: layout_resource
 <p class="question">I need to make tough decisions as quickly as possible, how do I make sure I’m basing them in the values I hold important?</p>
 
 <ul>
-  <li><a href="https://source.opennews.org/articles/newsroom-managers-diversity-inclusivity-covid19/">Newsroom execs and managers: Ways to uphold your diversity and inclusivity values during COVID&#8211;19</a> covering everything from small gestures leaders can make to how to think about layoffs and furloughs thoughtfully and equitably when it comes to diversity.
-
-    <ul>
-      <li>“In overwhelming times, easier things often get done first, while harder, more complicated problems wait. But we need to spend time on the harder things, and to do so now, so here’s a guide to make upholding your diversity, equity and inclusivity values during a pandemic — one step easier.”</li>
-    </ul>
-  </li>
+  <li><a href="https://source.opennews.org/articles/newsroom-managers-diversity-inclusivity-covid19/">Newsroom execs and managers: Ways to uphold your diversity and inclusivity values during COVID&#8211;19</a> covering everything from small gestures leaders can make to how to think about layoffs and furloughs thoughtfully and equitably when it comes to diversity.<br/>
+  &#8220;In overwhelming times, easier things often get done first, while harder, more complicated problems wait. But we need to spend time on the harder things, and to do so now, so here’s a guide to make upholding your diversity, equity and inclusivity values during a pandemic — one step easier.&#8221;</li>
 </ul>
 
 <p class="question">How do I model a healthy balance between doing my job and taking care of myself and/or loved ones?</p>
@@ -247,12 +233,8 @@ layout: layout_resource
   <li><a href="https://teamsuccess.io/remoteteam">Not everything on this checklist applies to newsroom teams, but it’s a nice starting point</a></li>
   <li>From the news-nerd community
     <ul>
-      <li><a href="https://medium.com/whereby-us/5-practical-tips-for-managing-newly-remote-teams-during-coronavirus-2059ea53b9f">5 practical tips for managing newly remote teams during coronavirus</a>
-
-        <ul>
-          <li>“Remote work, for all of its challenges, can force you and your company to become more intentional, more thoughtful, and more resilient to the challenges of change.”</li>
-        </ul>
-      </li>
+      <li><a href="https://medium.com/whereby-us/5-practical-tips-for-managing-newly-remote-teams-during-coronavirus-2059ea53b9f">5 practical tips for managing newly remote teams during coronavirus</a><br/>
+      &#8220;Remote work, for all of its challenges, can force you and your company to become more intentional, more thoughtful, and more resilient to the challenges of change.&#8221;</li>
       <li><a href="https://source.opennews.org/articles/making-remote-work-work/">Making remote work work</a></li>
     </ul>
   </li>
