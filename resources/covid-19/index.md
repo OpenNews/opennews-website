@@ -3,6 +3,9 @@ layout: layout_resource
 ---
 <link rel="stylesheet" href="https://use.typekit.net/bmm7xbg.css">
 <style>
+  h1.big-type {
+    line-height: 1.2;
+  }
   .question, .question-section {
     font-weight: bold;
     font-weight: 600;
@@ -18,7 +21,7 @@ layout: layout_resource
   }
   .callout {
     font-style: italic;
-    margin-left: 2.5rem;
+    margin: 0 2.5rem 1em;
   }
   .small {
     font-size: .83em;
@@ -155,7 +158,7 @@ layout: layout_resource
   <li><a href="https://www.leapers.co/">Community of support: &#8220;Leapers supports the mental health of freelancers and the self-employed&#8221;</a></li>
 </ul>
 
-<p class="callout small">&rarrhk; This section could really use your expertise. What have you seen out there that’s helped you the most as a freelancer? <a href="mailto:team@opennews.org">Let us know.</a></p>
+<p class="callout small">&rarrhk; This section could really use your expertise. What have you seen out there that’s been really helpful for freelancers? <a href="mailto:team@opennews.org">Let us know.</a></p>
 
 <div id="for-editors-and-managers" class="page-divider"><span>FOR EDITORS AND MANAGERS</span></div>
 
@@ -178,6 +181,7 @@ layout: layout_resource
 
 <ul>
   <li><a href="https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan">“For leaders who are suddenly managing work-from-home teams, there are five things you can focus on right now to maximize stability.”</a></li>
+  <li>It can be really helpful to talk this stuff through. The <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a> are all communities where managers and editors talk with each other about shared challenges.</li>
 </ul>
 
 <p class="callout small">&rarrhk; We know there are more resources out there for newsroom leaders responding to crisis. Have you found something particularly useful, or shared something helpful with your own team? <a href="mailto:team@opennews.org">Send us a link!</a></p>
@@ -219,13 +223,6 @@ layout: layout_resource
   <li><a href="https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf">Trello&#8217;s Ultimate Guide to Remote Work</a> dispels myths about remote workers and helps you set the right expectations.</li>
   <li><a href="https://zapier.com/blog/build-trust-remote-work/">How to build trust on a remote team</a></li>
 </ul>
-
-<p class="question">As a manager, who can I talk to about this?</p>
-
-<ul>
-  <li>The <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a> are all communities where managers and editors talk with each other about shared challenges.</li>
-</ul>
-
 
 <div id="general-guidance" class="page-divider"><span>GENERAL GUIDANCE</span></div>
 
