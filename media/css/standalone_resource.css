@@ -291,6 +291,9 @@ main {
 main ul, main p {
     margin: 0 0 1em;
 }
+main li, main li > ul {
+    margin-bottom: .25em;
+}
 main input {
     font-size: .75em;
     padding: .25em;
