@@ -6,6 +6,15 @@ layout: layout_resource
   .question, .question-section {
     font-weight: bold;
   }
+  .question-section {
+    font-family: sofia-pro, sans-serif;
+    font-size: .8em;
+    margin: 3em 0 0;
+    font-weight: normal;
+  }
+  .question-section + .question {
+    margin-top: .5em;
+  }
   .callout {
     font-style: italic;
   }
