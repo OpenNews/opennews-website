@@ -1,7 +1,5 @@
 ---
-layout: TK
-section: TK
-permalink: TK
+layout: layout_resource
 ---
 
 <style>
