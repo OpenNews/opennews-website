@@ -11,24 +11,23 @@ layout: layout_resource
   }
 </style>
 
-<div class="page-intro">
-  <h1 class="big-type">Resource packs for how journalists can rethink our relationship with work during a global pandemic</h1>
-  <h2 class="dek"><em>For the humans working at or leading news organizations, a curated list of shared resources by OpenNews</em></h2>
+<h1 class="big-type">Resource packs for how journalists can rethink our relationship with work during a global pandemic</h1>
+<h2 class="dek"><em>For the humans working at or leading news organizations, a curated list of shared resources by OpenNews</em></h2>
 
-  <p>Working from home during a global crisis isn’t the same as working from home any other day. This is especially true for journalists and news organizations as we try to help people make sense of a crisis while experiencing crisis ourselves. It’s extra stress, extra exhaustion, extra juggling, combined with extra hours. Many of us started working from home overnight — <a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">it’s okay to feel overwhelmed, anxious, distracted.</a> </p>
+<p>Working from home during a global crisis isn’t the same as working from home any other day. This is especially true for journalists and news organizations as we try to help people make sense of a crisis while experiencing crisis ourselves. It’s extra stress, extra exhaustion, extra juggling, combined with extra hours. Many of us started working from home overnight — <a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">it’s okay to feel overwhelmed, anxious, distracted.</a> </p>
 
-  <p>We’ve seen lots of great guides on how to work home (we share some favorites later!). But this guide is based on our shared values as a community, meant to help answer some of the most essential questions, matched with the best resources we could find to help you answer them thoughtfully and empathetically.</p>
+<p>We’ve seen lots of great guides on how to work home (we share some favorites later!). But this guide is based on our shared values as a community, meant to help answer some of the most essential questions, matched with the best resources we could find to help you answer them thoughtfully and empathetically.</p>
 
-  <p>Our questions and paired resources are split into three sections:</p>
+<p>Our questions and paired resources are split into three sections:</p>
 
-  <ul>
-    <li><a href="#everyone">Questions that apply to everyone trying to work through a global pandemic</a></li>
-    <li><a href="#for-editors-and-managers">Questions especially for editors and managers who are trying to lead thoughtfully during this overwhelming time</a></li>
-    <li><a href="#general-guidance">General resources about working from home that we’ve found the most helpful</a></li>
-  </ul>
+<ul>
+  <li><a href="#everyone">Questions that apply to everyone trying to work through a global pandemic</a></li>
+  <li><a href="#for-editors-and-managers">Questions especially for editors and managers who are trying to lead thoughtfully during this overwhelming time</a></li>
+  <li><a href="#general-guidance">General resources about working from home that we’ve found the most helpful</a></li>
+</ul>
 
-  <p>Pick and choose based on what you need most. If there are essential resources and questions you think should be here, we want to add them! Email us at <a href="mailto:team@opennews.org">team@opennews.org</a>.</p>
-</div>
+<p>Pick and choose based on what you need most. If there are essential resources and questions you think should be here, we want to add them! Email us at <a href="mailto:team@opennews.org">team@opennews.org</a>.</p>
+
 
 <div id="everyone" class="page-divider"><span>FOR EVERYONE AT NEWS ORGANIZATIONS</span></div>
 
