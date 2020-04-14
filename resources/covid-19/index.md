@@ -190,65 +190,66 @@ layout: layout_resource
 
       <ul>
         <li>“In overwhelming times, easier things often get done first, while harder, more complicated problems wait. But we need to spend time on the harder things, and to do so now, so here’s a guide to make upholding your diversity, equity and inclusivity values during a pandemic — one step easier.”</li>
-      </ul></li>
-    </ul>
+      </ul>
+    </li>
+  </ul>
 
-    <p class="question">How do I model a healthy balance between doing my job and taking care of myself and/or loved ones?</p>
+  <p class="question">How do I model a healthy balance between doing my job and taking care of myself and/or loved ones?</p>
 
-    <ul>
-      <li><a href="https://twitter.com/SarahM/status/1242994783909490688">&#8220;Especially if you&#8217;re a leader, normalize that human stuff&#8221;</a></li>
-      <li><a href="https://www.cnn.com/2017/07/12/health/mental-health-response-from-company-ceo-trnd/index.html?sr=twCNN071217mental-health-response-from-company-ceo-trnd0410PMStory">When a woman took sick days for mental health, her email sparked a larger discussion</a></li>
-    </ul>
+  <ul>
+    <li><a href="https://twitter.com/SarahM/status/1242994783909490688">&#8220;Especially if you&#8217;re a leader, normalize that human stuff&#8221;</a></li>
+    <li><a href="https://www.cnn.com/2017/07/12/health/mental-health-response-from-company-ceo-trnd/index.html?sr=twCNN071217mental-health-response-from-company-ceo-trnd0410PMStory">When a woman took sick days for mental health, her email sparked a larger discussion</a></li>
+  </ul>
 
-    <p class="question">What expectations do I need to change now that my entire team works from home?</p>
+  <p class="question">What expectations do I need to change now that my entire team works from home?</p>
 
-    <ul>
-      <li><a href="https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf">Trello&#8217;s Ultimate Guide to Remote Work</a> dispels myths about remote workers and helps you set the right expectations.</li>
-      <li><a href="https://zapier.com/blog/build-trust-remote-work/">How to build trust on a remote team</a></li>
-    </ul>
+  <ul>
+    <li><a href="https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf">Trello&#8217;s Ultimate Guide to Remote Work</a> dispels myths about remote workers and helps you set the right expectations.</li>
+    <li><a href="https://zapier.com/blog/build-trust-remote-work/">How to build trust on a remote team</a></li>
+  </ul>
 
-    <p class="question">As a manager, who can I talk to about this?</p>
+  <p class="question">As a manager, who can I talk to about this?</p>
 
-    <ul>
-      <li>The <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a> are all communities where managers and editors talk with each other about shared challenges.</li>
-      <li class="callout">Know of other resources you’ve really liked? <a href="mailto:team@opennews.org">Tell us!</a></li>
-    </ul>
+  <ul>
+    <li>The <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a> are all communities where managers and editors talk with each other about shared challenges.</li>
+    <li class="callout">Know of other resources you’ve really liked? <a href="mailto:team@opennews.org">Tell us!</a></li>
+  </ul>
 
-    <div id="general-guidance" class="page-divider"><span>GENERAL GUIDANCE</span></div>
+  <div id="general-guidance" class="page-divider"><span>GENERAL GUIDANCE</span></div>
 
-    <p class="question">Where can I find guidance on covering COVID&#8211;19 as a newsroom?</p>
+  <p class="question">Where can I find guidance on covering COVID&#8211;19 as a newsroom?</p>
 
-    <ul>
-      <li><a href="https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
-      <li><a href="https://dartcenter.org/resources/covering-coronavirus-resources-journalists">Covering Coronavirus: Resources for Journalists</a> from the DART Center has tips on “covering disease, interviewing victims and survivors, and working with colleagues exposed to traumatic events”</li>
-      <li class="callout">What other resources have really made a difference for you? <a href="mailto:team@opennews.org">Share them here.</a></li>
-    </ul>
+  <ul>
+    <li><a href="https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
+    <li><a href="https://dartcenter.org/resources/covering-coronavirus-resources-journalists">Covering Coronavirus: Resources for Journalists</a> from the DART Center has tips on “covering disease, interviewing victims and survivors, and working with colleagues exposed to traumatic events”</li>
+    <li class="callout">What other resources have really made a difference for you? <a href="mailto:team@opennews.org">Share them here.</a></li>
+  </ul>
 
-    <p class="question">Where can I find a good general guide for working from home?</p>
+  <p class="question">Where can I find a good general guide for working from home?</p>
 
-    <ul>
-      <li><a href="https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
-      <li><a href="https://medium.com/better-programming/29-tips-for-very-effective-remote-managers-and-workers-3b20d897ceb3">29 tips for very effective remote managers and workers</a> is framed in a lot of thoughtful &amp; empathetic ways</li>
-      <li><a href="https://teamsuccess.io/remoteteam">Not everything on this checklist applies to newsroom teams, but it’s a nice starting point</a></li>
-      <li>From the news-nerd community
+  <ul>
+    <li><a href="https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
+    <li><a href="https://medium.com/better-programming/29-tips-for-very-effective-remote-managers-and-workers-3b20d897ceb3">29 tips for very effective remote managers and workers</a> is framed in a lot of thoughtful &amp; empathetic ways</li>
+    <li><a href="https://teamsuccess.io/remoteteam">Not everything on this checklist applies to newsroom teams, but it’s a nice starting point</a></li>
+    <li>From the news-nerd community
 
-        <ul>
-          <li><a href="https://medium.com/whereby-us/5-practical-tips-for-managing-newly-remote-teams-during-coronavirus-2059ea53b9f">5 practical tips for managing newly remote teams during coronavirus</a>
+      <ul>
+        <li><a href="https://medium.com/whereby-us/5-practical-tips-for-managing-newly-remote-teams-during-coronavirus-2059ea53b9f">5 practical tips for managing newly remote teams during coronavirus</a>
 
-            <ul>
-              <li>“Remote work, for all of its challenges, can force you and your company to become more intentional, more thoughtful, and more resilient to the challenges of change.”</li>
-            </ul></li>
-            <li><a href="https://source.opennews.org/articles/making-remote-work-work/">Making remote work work</a></li>
+          <ul>
+            <li>“Remote work, for all of its challenges, can force you and your company to become more intentional, more thoughtful, and more resilient to the challenges of change.”</li>
           </ul></li>
-          <li>Company handbook examples
+          <li><a href="https://source.opennews.org/articles/making-remote-work-work/">Making remote work work</a></li>
+        </ul></li>
+        <li>Company handbook examples
+
+          <ul>
+            <li><a href="https://handbook.hmn.md/working-here/working-remotely/">Human Made</a></li>
+            <li><a href="https://about.gitlab.com/company/culture/all-remote/guide/">Gitlab&#8217;s guide to all-remote</a></li>
+          </ul></li>
+          <li>Security
 
             <ul>
-              <li><a href="https://handbook.hmn.md/working-here/working-remotely/">Human Made</a></li>
-              <li><a href="https://about.gitlab.com/company/culture/all-remote/guide/">Gitlab&#8217;s guide to all-remote</a></li>
+              <li><a href="https://freedom.press/training/blog/wfh-securely/">How journalists can work from home securely</a></li>
             </ul></li>
-            <li>Security
-
-              <ul>
-                <li><a href="https://freedom.press/training/blog/wfh-securely/">How journalists can work from home securely</a></li>
-              </ul></li>
-            </ul>
+          </ul>
