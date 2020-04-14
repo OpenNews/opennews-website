@@ -55,11 +55,11 @@ layout: layout_resource
 
 <p class="question">My partner and I are trying to balance working from home with taking care of the kids—how do we make this easier?</p>
 
-<p>&#8220;A long time ago — like, last week — we would have talked about setting up a home workspace and setting personal schedules. But this is a new world now. For so many of us, schools are closed. Day cares are closed. If you have a partner, that person is either also home figuring out this new reality (and taking up precious desk space), or is working extra long hours as a result of these new circumstances.&#8221; </p>
+<p>&#8220;A long time ago — like, last week — we would have talked about setting up a home workspace and setting personal schedules. But this is a new world now.&#8221; </p>
 
 <ul>
   <li><a href="https://www.nytimes.com/2020/03/19/us/work-from-home-mothers-coronavirus-covid19.html">Figuring out work and family in the age of Coronavirus</a><br/>
-  &#8220;A long time ago — like, last week — we would have talked about setting up a home workspace and setting personal schedules. But this is a new world now. For so many of us, schools are closed. Day cares are closed. If you have a partner, that person is either also home figuring out this new reality (and taking up precious desk space), or is working extra long hours as a result of these new circumstances.&#8221;</li>
+  &#8220;A long time ago — like, last week — we would have talked about setting up a home workspace and setting personal schedules. But this is a new world now.&#8221;</li>
   <li><a href="https://www.thecut.com/2020/03/how-to-work-from-home-with-kids.html">Now is the perfect time for lowering the parenting bar</a></li>
   <li><a href="https://hbr.org/2020/03/how-working-parents-can-prepare-for-coronavirus-closures">How working parents can prepare for coronavirus closures</a></li>
   <li><a href="https://www.poynter.org/business-work/2020/how-to-work-from-home-with-kids-around/">How to work from home with kids around</a></li>

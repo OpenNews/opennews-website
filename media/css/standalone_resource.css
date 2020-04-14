@@ -61,7 +61,7 @@ h1, h2, h3, h4 {
     text-align: center;
 }
 .hub #hub-nav img {
-    margin: .5em 0 0 -2em;
+    margin: .5em 0 0 0;
 }
 .hub .page-intro {
     text-align: left;
