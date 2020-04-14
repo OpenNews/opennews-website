@@ -190,7 +190,6 @@ layout: layout_resource
   <li><a href="https://larahogan.me/blog/predictability-stability-terrible-times/">Creating predictability and stability in times of rapid change</a></li>
   <li><a href="https://twitter.com/AlexandraZayas/status/1248632824351133697">Establish safety measures for when to send reporters out physically</a></li>
   <li><a href="https://www.ihollaback.org/bystanderintervention/">Bystander intervention training to stop Anti-Asian/American and xenophobic harassment</a></li>
-  <li>Written before COVID but could be applicable to every member of your team</li>
 </ul>
 
 <p class="question">How do I help someone on my team who is struggling?</p>
