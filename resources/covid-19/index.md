@@ -18,10 +18,15 @@ layout: layout_resource
   .callout {
     font-style: italic;
   }
+  .dek {
+    font-family: freight-text-pro, serif;
+    font-size: 1.3em;
+    margin: 1em 0;
+  }
 </style>
 
 <h1 class="big-type">Resource packs for how journalists can rethink our relationship with work during a global pandemic</h1>
-<h2 class="dek"><em>For the humans working at or leading news organizations, a curated list of shared resources by OpenNews</em></h2>
+<h2 class="dek"><em>For the humans working at or leading news organizations, a list of shared resources curated by OpenNews</em></h2>
 
 <p>Working from home during a global crisis isn’t the same as working from home any other day. This is especially true for journalists and news organizations as we try to help people make sense of a crisis while experiencing crisis ourselves. It’s extra stress, extra exhaustion, extra juggling, combined with extra hours. Many of us started working from home overnight — <a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">it’s okay to feel overwhelmed, anxious, distracted.</a> </p>
 
