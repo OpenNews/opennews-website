@@ -7,11 +7,8 @@
     <title>{% if page.title %}{{ page.title }} | {% endif %}OpenNews</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning, and solving problems together can create a stronger, more responsive journalism ecosystem.{% endif %}">
-    {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}">
-    {% endif %}
-    <meta property="og:type" content="article">
-    <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning, and solving problems together can create a stronger, more responsive journalism ecosystem.{% endif %}"/>
+
+    {% include social_meta.html %}
 
     <script src="//use.typekit.net/mvg8obr.js"></script>
     <script>try{Typekit.load();}catch(e){}</script>
@@ -48,7 +45,7 @@
 
     <footer>
         <div class="page-container">
-            <p>Keep in touch: <span class="contact-options"><a href="https://twitter.com/opennews">Twitter</a> / <a href="mailto:team@opennews.org">Email</a> / <a href="http://eepurl.com/czSVTL">Newsletter</a> / <a href="https://opennews.org/donate">Become a Sustainer</a></span></p>
+            <p>Keep in touch: <span class="contact-options"><a href="https://twitter.com/opennews">Twitter</a> / <a href="mailto:team@opennews.org">Email</a> / <a href="http://eepurl.com/czSVTL">Newsletter</a> / <a href="https://opennews.networkforgood.com/projects/97927-opennews-community-care">Support this work</a></span></p>
     
             <p class="trailer"><em>We can be here for each other.</em></p>
         </div>
