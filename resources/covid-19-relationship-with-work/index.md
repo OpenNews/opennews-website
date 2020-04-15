@@ -45,7 +45,7 @@ description: A resource guide based on our shared values as a community, for tea
 
 <p>Working from home during a global pandemic <a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">isn’t the same</a> as working from home any other day. This is especially true for journalists as we try to help people make sense of a crisis while experiencing crisis ourselves. Our expectations of work from just a few weeks ago don’t work any more—not while each of us is social distancing, taking care of loved ones, and trying to keep our own selves healthy, too.</p>
 
-<p>But here’s what we also know to be true: As a community, we’re capable of rallying to this moment. When newsrooms cover a crisis while living through it, we lift up those colleagues in solidarity, and pitch in our time, money, and expertise. Moments like these remind us that our colleagues are human beings who need love and support. None of us knows what's coming next, but we do know a lot about helping each other.</p>
+<p>But here’s what we also know to be true: As a community, we’re capable of rallying to this moment. When newsrooms cover a crisis while living through it, we lift up those journalists in solidarity, and pitch in our time, money, and expertise. Moments like these remind us that our colleagues are human beings who need love and support. None of us knows what’s coming next, but we do know a lot about helping each other.</p>
 
 <p><strong>This guide draws on work this community has been doing for years. We pulled it together because:</strong></p>
 
