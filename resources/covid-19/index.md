@@ -114,7 +114,7 @@ layout: layout_resource
   <li><a href="https://twitter.com/clockwerks/status/1238592306367860736">&#8220;Today, to support all the folks WFH with kids, folks in our parents group organized a Zoom reading time. It was amazing.&#8221;</a></li>
 </ul>
 
-<p class="callout small">&rarrhk; There are lots of ways to build great team culture. If something's working for your team, tweet it, Slack it, post it — whatever works for you — so that we all can try it too. (And then <a href="mailto:team@opennews.org">let us know</a>, so we can add it here.)</p>
+<p class="callout small">&rarrhk; There are lots of ways to build great team culture. If something's working for your team, tweet it, Slack it, post it—whatever works for you—so that we all can try it too. (And then <a href="mailto:team@opennews.org">let us know</a>, so we can add it here.)</p>
 
 <p class="question-section">SELF-CARE &amp; FINDING COMMUNITY</p>
 
@@ -230,7 +230,7 @@ layout: layout_resource
 <ul>
   <li><a href="https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
   <li><a href="https://dartcenter.org/resources/covering-coronavirus-resources-journalists">Covering Coronavirus: Resources for Journalists</a> from the DART Center has tips on “covering disease, interviewing victims and survivors, and working with colleagues exposed to traumatic events”</li>
-  <li><a href="https://trello.com/b/IPF2Zyz1/gathering-covid-19-resources">The folks from Gather created a guide of guides</a>, covering everything from "Reporting Tools and Frameworks" to "Disinformation" to "Earning trust from the communities you serve."</li>
+  <li><a href="https://trello.com/b/IPF2Zyz1/gathering-covid-19-resources">The folks from Gather created a guide of guides</a>, covering everything from “Reporting Tools and Frameworks” to “Disinformation” to “Earning trust from the communities you serve.”</li>
 </ul>
 
 <p class="question">Where can I find a good general guide for working from home?</p>
