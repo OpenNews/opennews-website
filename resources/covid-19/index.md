@@ -114,7 +114,7 @@ layout: layout_resource
   <li><a href="https://twitter.com/clockwerks/status/1238592306367860736">&#8220;Today, to support all the folks WFH with kids, folks in our parents group organized a Zoom reading time. It was amazing.&#8221;</a></li>
 </ul>
 
-<p class="callout small">&rarrhk; There are lots of ways to build great team culture, and we'd love to fill up this section with your favorites. If you have a link or a good idea to share, <a href="mailto:team@opennews.org">send us a quick note!</a></p>
+<p class="callout small">&rarrhk; There are lots of ways to build great team culture. If something's working for your team, tweet it, Slack it, post it — whatever works for you — so that we all can try it too. (And then <a href="mailto:team@opennews.org">let us know</a>, so we can add it here.)</p>
 
 <p class="question-section">SELF-CARE &amp; FINDING COMMUNITY</p>
 
