@@ -230,8 +230,8 @@ layout: layout_resource
 <ul>
   <li><a href="https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
   <li><a href="https://dartcenter.org/resources/covering-coronavirus-resources-journalists">Covering Coronavirus: Resources for Journalists</a> from the DART Center has tips on “covering disease, interviewing victims and survivors, and working with colleagues exposed to traumatic events”</li>
+  <li><a href="https://trello.com/b/IPF2Zyz1/gathering-covid-19-resources">The folks from Gather created a guide of guides</a>, covering everything from "Reporting Tools and Frameworks" to "Disinformation" to "Earning trust from the communities you serve."</li>
 </ul>
-<p class="callout small">&rarrhk; Here’s another spot where we can really learn from each other. If there’s a resource that’s made a difference for your newsroom, <a href="mailto:team@opennews.org">please send us a link!</a></p>
 
 <p class="question">Where can I find a good general guide for working from home?</p>
 
