@@ -43,7 +43,7 @@ layout: layout_resource
 
 <p>Working from home during a global crisis isn’t the same as working from home any other day. This is especially true for journalists and news organizations as we try to help people make sense of a crisis while experiencing crisis ourselves. It’s extra stress, extra exhaustion, extra juggling, combined with extra hours. Many of us started working from home overnight—<a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">it’s okay to feel overwhelmed, anxious, distracted.</a> </p>
 
-<p>We’ve seen lots of great guides on how to work home (we share some favorites later!). This one is based on our shared values as a community, addressing essential questions with the best resources we could find to help you answer them thoughtfully and empathetically.</p>
+<p>We’ve seen lots of great guides on how to work from home (we share some favorites later!). This one is based on our shared values as a community, addressing essential questions with the best resources we could find to help you answer them thoughtfully and empathetically.</p>
 
 <p>Our questions and paired resources are split into three sections:</p>
 
@@ -183,7 +183,7 @@ layout: layout_resource
   <li><a href="https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan">“For leaders who are suddenly managing work-from-home teams, there are five things you can focus on right now to maximize stability.”</a></li>
 </ul>
 
-<p class="callout small">&rarrhk; It can be really helpful to talk this stuff through. You can find other managers and editors are already talking with each other about shared challenges in the <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a>.</p>
+<p class="callout small">&rarrhk; It can be really helpful to talk this stuff through. You can find other managers and editors talking with each other about shared challenges in the <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a>.</p>
 
 <p class="question-section">LEADERSHIP</p>
 
