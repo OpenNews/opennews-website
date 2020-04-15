@@ -43,20 +43,27 @@ description: A resource guide based on our shared values as a community, for tea
 <h1 class="big-type">Resources: How journalists can rethink our relationship with work during a pandemic</h1>
 <h2 class="dek"><em>For the humans working at or leading news organizations, a list of shared resources curated by OpenNews</em></h2>
 
-<p>Working from home during a global crisis isn’t the same as working from home any other day. This is especially true for journalists as we try to help people make sense of a crisis while experiencing crisis ourselves. It’s extra stress, extra exhaustion, extra juggling, combined with extra hours. Many of us started working from home overnight—<a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">it’s okay to feel overwhelmed, anxious, distracted.</a> </p>
+<p>Working from home during a global pandemic <a href="https://blog.alicegoldfuss.com/work-in-the-time-of-corona/">isn’t the same</a> as working from home any other day. This is especially true for journalists as we try to help people make sense of a crisis while experiencing crisis ourselves. Our expectations of work from just a few weeks ago don’t work any more—not while each of us is social distancing, taking care of loved ones, and trying to keep our own selves healthy, too.</p>
 
-<p>We’ve seen lots of great guides on how to work from home (and we share some favorites later!). This one is based on our shared values as a community, addressing essential questions with resources to help you answer them thoughtfully and empathetically.</p>
+<p>But here’s what we also know to be true: As a community, we’re capable of rallying to this moment. When newsrooms cover a crisis while living through it, we lift up those colleagues in solidarity, and pitch in our time, money, and expertise. Moments like these remind us that our colleagues are human beings who need love and support. None of us knows what's coming next, but we do know a lot about helping each other.</p>
 
-<p>Our questions and paired resources are split into three sections:</p>
+<p><strong>This guide draws on work this community has been doing for years. We pulled it together because:</strong></p>
+
+<ul>
+  <li>We wanted to make the mountain of resources less overwhelming.</li>
+  <li>Saying things out loud sometimes gives us permission to think differently. We hope this makes it easier to have explicit, values-driven conversations.</li>
+  <li>We’re all human beings who deserve <a href="https://opennews.org/blog/opennews-cornavirus-community-care/">care and empathy</a>, and that includes <em>you</em> as much as your colleagues. We’re bringing more of our lives than ever into work right now, and we all want to be there for each other.</li>
+</ul>
+
+<p><strong>You’ll find questions and resources for:</strong></p>
 
 <ul>
   <li><a href="#everyone">Everyone trying to work through COVID-19</a></li>
   <li><a href="#for-editors-and-managers">Editors and managers trying to lead thoughtfully during an overwhelming time</a></li>
-  <li><a href="#general-guidance">General resources about working from home that we’ve found helpful</a></li>
+  <li><a href="#general-guidance">Newsrooms struggling to adapt to new practices</a></li>
 </ul>
 
-<p>Pick and choose based on what you need most. If there are essential resources and questions you think should be here, we want to add them! Email us at <a href="mailto:team@opennews.org">team@opennews.org</a>.</p>
-
+<p>Talk about them with your team. Use what you need most. If knowing that everyone else is trying to figure this out helps you talk about it, too, that’s great. And if you’ve found something that’s really working for your team, we hope you’ll share it with the community (<a href="mailto:team@opennews.org">and us too</a>).</p>
 
 <div id="everyone" class="page-divider"><span>FOR EVERYONE AT NEWS ORGANIZATIONS</span></div>
 
@@ -230,7 +237,7 @@ description: A resource guide based on our shared values as a community, for tea
 <p class="question">Where can I find guidance on covering COVID&#8211;19 as a newsroom?</p>
 
 <ul>
-  <li><a href="https://training.npr.org/2020/04/14/during-the-pandemic-cover-those-weve-left-out/">During the pandemic, cover those we’ve left out</a></li>
+  <li><a href="https://training.npr.org/2020/04/14/during-the-pandemic-cover-those-weve-left-out/">During the pandemic, cover those we’ve left out</a> is a guide from NPR on framing coverage around our most vulnerable neighbors, people who have the fewest resources for navigating the pandemic</li>
   <li><a href="https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
   <li><a href="https://dartcenter.org/resources/covering-coronavirus-resources-journalists">Covering Coronavirus: Resources for Journalists</a> from the DART Center has tips on “covering disease, interviewing victims and survivors, and working with colleagues exposed to traumatic events”</li>
   <li><a href="https://trello.com/b/IPF2Zyz1/gathering-covid-19-resources">The folks from Gather created a guide of guides</a>, covering everything from “Reporting Tools and Frameworks” to “Disinformation” to “Earning trust from the communities you serve.”</li>
