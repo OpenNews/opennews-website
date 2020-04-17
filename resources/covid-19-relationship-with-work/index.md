@@ -83,7 +83,7 @@ description: A resource guide based on our shared values as a community, for tea
   <li><a href="https://www.nytimes.com/2020/03/19/us/work-from-home-mothers-coronavirus-covid19.html">Figuring out work and family in the age of Coronavirus</a></li>
   <li><a href="https://www.thecut.com/2020/03/how-to-work-from-home-with-kids.html">Now is the perfect time for lowering the parenting bar</a></li>
   <li><a href="https://hbr.org/2020/03/how-working-parents-can-prepare-for-coronavirus-closures">How working parents can prepare for coronavirus closures</a></li>
-  <li><a href="https://www.poynter.org/business-work/2020/how-to-work-from-home-with-kids-around/">How to work from home with kids around</a></li>
+  <li><a href="https://www.poynter.org/business-work/2020/how-to-work-from-home-with-kids-around/">How to work from home with kids around</a> and the follow-up: <a href="https://www.poynter.org/business-work/2020/how-to-try-to-work-from-home-with-kids-in-a-pandemic/">How to (try to) work from home with kids (in a pandemic)</a> </li>
   <li><a href="https://docs.google.com/spreadsheets/d/1KCFnWreu4v7VoO3NbgP-Qcq2LyE1FvliYSoiTLRY7Qg/htmlview?usp=sharing&amp;sle=true">Crowdsourced spreadsheet: 275+ enrichment activities for children while parents are working remotely </a></li>
 </ul>
 
