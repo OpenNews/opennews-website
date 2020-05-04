@@ -1144,6 +1144,14 @@ body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li
 	color: #3E3D3D
 }
 
+#kissanenav li a.donate {
+	color: white;
+	background-color: #fc6d1f;
+}
+
+#kissanenav li a.donate:hover {
+	background-color: #f95800;
+}
 
 
 article a {
@@ -1265,6 +1273,11 @@ a.sidebar-button {
     display: block;
     margin: 0 auto;
 }
+
+a.sidebar-button:hover {
+	background-color: #f95800;
+}
+
 .article_body a.sidebar-button {
     margin: 0 3% 1.5em;
 }
