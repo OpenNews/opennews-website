@@ -165,6 +165,8 @@ description: A resource guide based on our shared values as a community, for tea
 <ul>
   <li><a href="https://www.leapers.co/articles/2020-03-09/freelance-tips-for-coronavirus">Key things to consider if you&#8217;re freelance and worried about coronavirus</a></li>
   <li><a href="https://www.leapers.co/">Community of support: &#8220;Leapers supports the mental health of freelancers and the self-employed&#8221;</a></li>
+  <li><a href="https://fortune.com/2020/04/09/freelance-coronavirus-advice-covid-19/">With work drying up, here&#8217;s how freelancers can pivot to make it through the coronavirus pandemic</a></li>
+  <li><a href="https://www.poynter.org/business-work/2020/working-as-a-freelance-journalist-right-now-is-hard-but-not-impossible-heres-some-advice/">Working as a freelance journalist right now is hard but not impossible. Here&#8217;s some advice.</a></li>
 </ul>
 
 <p class="callout small">&rarrhk; This section could really use your expertise. What have you seen out there that’s been really helpful for freelancers? <a href="mailto:team@opennews.org">Let us know.</a></p>
