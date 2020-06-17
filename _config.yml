@@ -1,12 +1,11 @@
+name: OpenNews
+description: The website for OpenNews
+url: https://www.opennews.org
 markdown: kramdown
 kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-permalink: /blog/:title/
-name: OpenNews
-description: The blog for OpenNews
-url: https://www.opennews.org
-future: true
-rdiscount:
-  extensions: [smart]
-gems:
+plugins:
   - jekyll-redirect-from
+exclude: ['*.yml']
+permalink: /blog/:title/
+future: true
