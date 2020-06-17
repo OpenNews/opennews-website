@@ -30,7 +30,7 @@ Yes, your donation is tax-deductible to the extent allowed by law, as long as no
 The EIN or Federal Tax ID number for Community Partners (our fiscal sponsor) is 95-4302067.
 
 #### Can you accept recurring donations?
-At this time, we are not accepting recurring donations. We're researching options and expect to launch a recurring donation sustainer program in the near future.
+We can! [Joining OpenNews as a sustainer](https://opennews.networkforgood.com/) helps strengthen this community, developing capacity in our individual work and building energy for collective action.
 
 #### What will my donation help support?
 Your donation will support our work strengthening the network of peers working to make journalism better. It will support our [events for newsroom coders and journalists and a wide range of community and project support programs](/what). 

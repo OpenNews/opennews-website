@@ -1091,6 +1091,7 @@ article, header, #navblock, #moztab {
 header img {
 		max-width: 600px;
 		margin-top: 35px;
+		/*width: 100%;*/
 }
 
 #kissanenav {
@@ -1109,6 +1110,12 @@ abbr {
 	line-height: 1;
 	margin: 0 auto;
 	padding: 16px 0;
+}
+
+@media only screen and (max-width: 530px) {
+	#kissanenav #navblock .extra {
+		display: none;
+	}
 }
 
 #kissanenav ul {
@@ -1137,6 +1144,14 @@ body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li
 	color: #3E3D3D
 }
 
+#kissanenav li a.donate {
+	color: white;
+	background-color: #fc6d1f;
+}
+
+#kissanenav li a.donate:hover {
+	background-color: #f95800;
+}
 
 
 article a {
@@ -1258,6 +1273,11 @@ a.sidebar-button {
     display: block;
     margin: 0 auto;
 }
+
+a.sidebar-button:hover {
+	background-color: #f95800;
+}
+
 .article_body a.sidebar-button {
     margin: 0 3% 1.5em;
 }
