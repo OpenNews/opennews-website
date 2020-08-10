@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+.familyfont {
+
+font-family: 'IBM Plex Mono', monospace;
+font-family: 'IBM Plex Serif', serif;
+font-family: 'Open Sans', sans-serif;
+}
+
+/*.wcallout {background-color: : #484848;}*/
+
+
+.credit {
+	font-family: 'IBM Plex Mono', monospace;
+
+
+}
+
+
+.wcallout {background-color: hsl(89, 43%, 51%);}
+
+.oragne {background-color: coral;}
+
+.greenery {background-color: #b8fb3c;}
+.tealery {background-color: #5ce5d5;}
+.bluery {background-color: #7898fb;}
+.darkbluery {background-color: #001437;}
+
+.green-crt {
+
+		background-color: black;
+		  background-image: radial-gradient(
+		    rgba(0, 150, 0, 0.75), black 120%
+		  );
+		  height: 100vh;
+}
+.green-crt {
+  ...
+
+  color: white;
+  font: 1.3rem Inconsolata, monospace;
+  text-shadow: 0 0 5px #C8C8C8;
+}
+
+.green-crt:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: repeating-linear-gradient(
+    0deg,
+    rgba(black, 0.15),
+    rgba(black, 0.15) 1px,
+    transparent 1px,
+    transparent 2px
+  );
+}
