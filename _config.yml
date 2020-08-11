@@ -9,3 +9,10 @@ plugins:
 exclude: ['*.yml']
 permalink: /blog/:title/
 future: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      excerpt: ""
+      description: OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. OpenNews believes that a community of peers working, learning, and solving problems together can create a stronger, more responsive journalism ecosystem.

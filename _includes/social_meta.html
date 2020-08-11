@@ -1,7 +1,7 @@
     <meta property="og:type" content="article" />
     <meta property="og:url" content="https://opennews.org{{ page.url }}" />
     <meta property="og:title" content="{{ page.title }}" />
-    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
+    <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
     {% if page.image %}
     <meta property="og:image" content="https://opennews.org{{ page.image }}" />
     {% else %}
@@ -10,7 +10,7 @@
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" value="{{ page.title }}" />
-    <meta name="twitter:description" value="{% if page.excerpt %}{{ page.excerpt }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
+    <meta name="twitter:description" value="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
     {% if page.image %}
     <meta name="twitter:image" content="https://opennews.org{{ page.image }}" />
     {% else %}
