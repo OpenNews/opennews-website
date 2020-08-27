@@ -209,6 +209,25 @@ font-family: 'IBM Plex Mono', monospace;
     margin-bottom: 10px;
     text-transform: uppercase;
 }
+.call-action-form-1 {
+    color: #0d0d0d;
+    font-family: 'Open Sans', Helvetica, Verdana, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.0em;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.call-action-form-2 {
+    color: #0d0d0d;
+    font-family: 'Open Sans', Helvetica, Verdana, Arial, sans-serif;
+    font-weight: 300;
+    font-size: 1.0em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    /*text-transform: uppercase;*/
+}
 
 .bookmark-icon {
   display: block;
