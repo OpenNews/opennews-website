@@ -718,7 +718,7 @@ ul.no-bullet, ol.no-bullet {
   float: left; }
   .tabs-title > a {
     display: block;
-    padding: 1.0rem 1.1rem;
+    padding: 0.8rem 0.9rem;
     font-size: 0.95rem;
     line-height: 1;
     color: #0080ff; }
