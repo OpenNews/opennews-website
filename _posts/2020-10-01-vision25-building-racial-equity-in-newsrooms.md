@@ -4,14 +4,14 @@ title: Vision25&colon; Building Racial Equity in Newsrooms
 date: 2020-10-01 12:25
 author: Sisi Wei
 tags: OpenNews, Maynard, ONA, Vision25
-excerpt: A collaboration between the Online News Association, the Maynard Institute for Journalism and OpenNews.
+excerpt: A collaboration between the Online News Association, the Maynard Institute, and OpenNews.
 image: /media/img/blog/2020-07-21-together-mural-social-crop.jpg
 ---
 
 <!-- <img src="/media/img/blog/2020-07-21-together-mural.jpg" style="width: 100%;" alt="Together, written on a mural."> 
 <p class="caption" style="margin-top: -15px; text-align: left;">OpenNews is co-creating with the community two digital organizing spaces — hosted on Slack — focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry. (Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/s/photos/together?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</p>  -->
 
-_A collaboration between the Online News Association, the Maynard Institute for Journalism and OpenNews._
+_A collaboration between the Online News Association, the Maynard Institute, and OpenNews._
 
 Today, we’re announcing Vision25: Building Racial Equity in Newsrooms, a catalyst in a social change movement that seeks to build journalistic institutions where newsrooms are actively anti-racist and collaborative, and journalists of color feel like they truly belong. This movement will require people, action and resources at scale, and we’re looking to build an alliance of supporters.   
 
