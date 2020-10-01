@@ -5,11 +5,7 @@ date: 2020-10-01 12:30
 author: Sisi Wei
 tags: OpenNews, Maynard, ONA, Vision25
 excerpt: A collaboration between the Online News Association, the Maynard Institute, and OpenNews.
-image: /media/img/blog/2020-07-21-together-mural-social-crop.jpg
 ---
-
-<!-- <img src="/media/img/blog/2020-07-21-together-mural.jpg" style="width: 100%;" alt="Together, written on a mural."> 
-<p class="caption" style="margin-top: -15px; text-align: left;">OpenNews is co-creating with the community two digital organizing spaces — hosted on Slack — focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry. (Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/s/photos/together?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</p>  -->
 
 _A collaboration between the Online News Association, the Maynard Institute, and OpenNews._
 
@@ -53,12 +49,12 @@ We are in a moment for journalism to meet the movement. The lack of trust we fac
 
 Our organizations came together because we found that we were each fighting the same fight, but on different fronts, to create social change. Each of us—Online News Association, Maynard Institute, and OpenNews—had been tackling this change separately, but once we started imagining what could be possible if we combined the leadership power and reach of ONA with Maynard’s training on dismantling systemic racism and OpenNews’s expertise in community organizing and support, we knew that we had to join forces.  
 
-Vision25 is a commitment by our three organizations to advance racial equity in journalism. But, to make this a reality, we need to do this together as an industry. We hope you will sign up for more information on how and when to join us and tell us how you’d like to help to meet the moment.
+Vision25 is a commitment by our three organizations to advance racial equity in journalism. But, to make this a reality, we need to do this together as an industry. We hope you will [sign up for more information](https://journalists.org/vision25-interest-form/) on how and when to join us and tell us how you’d like to help to meet the moment.
 
 <style type="text/css">
-#join-us { max-width: 400px; margin: 40px auto; }
+#join-us { max-width: 400px; margin: 40px auto; cursor:pointer; }
 </style>
-<a class="sidebar-button" id="join-us">JOIN US</a>
+<a class="sidebar-button" id="join-us" href="https://journalists.org/vision25-interest-form/">JOIN US</a>
 
 In service, 
 
