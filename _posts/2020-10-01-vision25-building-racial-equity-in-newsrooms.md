@@ -2,7 +2,7 @@
 layout: blogpost
 title: Vision25&colon; Building Racial Equity in Newsrooms
 date: 2020-10-01 12:30
-author: Sisi Wei
+author: <a href="http://opennews.org/who/">Sisi Wei</a>, on October 1, 2020
 tags: OpenNews, Maynard, ONA, Vision25
 excerpt: A collaboration between the Online News Association, the Maynard Institute, and OpenNews.
 ---
