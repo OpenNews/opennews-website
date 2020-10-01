@@ -49,12 +49,12 @@ We are in a moment for journalism to meet the movement. The lack of trust we fac
 
 Our organizations came together because we found that we were each fighting the same fight, but on different fronts, to create social change. Each of us—Online News Association, Maynard Institute, and OpenNews—had been tackling this change separately, but once we started imagining what could be possible if we combined the leadership power and reach of ONA with Maynard’s training on dismantling systemic racism and OpenNews’s expertise in community organizing and support, we knew that we had to join forces.  
 
-Vision25 is a commitment by our three organizations to advance racial equity in journalism. But, to make this a reality, we need to do this together as an industry. We hope you will [sign up for more information](https://journalists.org/vision25-interest-form/) on how and when to join us and tell us how you’d like to help to meet the moment.
+Vision25 is a commitment by our three organizations to advance racial equity in journalism. But, to make this a reality, we need to do this together as an industry. We hope you will [sign up for more information](https://journalists.org/%E2%80%8Bvision25-interest-form/) on how and when to join us and tell us how you’d like to help to meet the moment.
 
 <style type="text/css">
 #join-us { max-width: 400px; margin: 40px auto; cursor:pointer; }
 </style>
-<a class="sidebar-button" id="join-us" href="https://journalists.org/vision25-interest-form/">JOIN US</a>
+<a class="sidebar-button" id="join-us" href="https://journalists.org/%E2%80%8Bvision25-interest-form/">JOIN US</a>
 
 In service, 
 
