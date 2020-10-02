@@ -23,7 +23,7 @@ As we workshopped Vision25, there was a lot to talk about, but I’ll share with
 
 First, the easiest: language. It was 2020, and despite the pandemic (and maybe because of how much it illuminated the racial injustice across society’s institutions), Black Lives Matter protests erupted in city after city, and shortly after, journalists of color across the country and across different organizations were speaking out against the racial inequities and racial injustices that have gone on for years in their newsrooms.
 
-In that moment, as journalists who have fought for diversity and inclusion, and against bias and discrimination in our industry and in our own newsrooms, we knew the world had changed. More specifically, we knew _the words_ had changed. We were moving from journalism having a “diversity” problem to naming things for what they are: journalism having a racism problem.
+In that moment, as journalists who have fought for diversity and inclusion, and against bias and discrimination in our industry and in our own newsrooms, we knew the world had changed. More specifically, we knew _the words_ had changed. We were moving away from journalism has a “diversity” problem, and toward naming the issue for what it really was: journalism has a racism problem.
 
 While this change is only a few words, especially as journalists, we can appreciate this powerful shift. Too many people of color have stories about well-meaning colleagues who insisted they aren’t racist, and who shut down and turned to the defensive when the word “racism” is mentioned in conversation. Finally, in 2020, journalism can call racism racism, instead of by any other name.
 
