@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-title: COVID19 Community Care Package
+title: COVID-19 Community Care Package
 section: what we do
 image: /media/img/blog/2020-03-30-community-care.jpg
 
