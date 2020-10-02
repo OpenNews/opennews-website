@@ -2,7 +2,7 @@
 layout: post_notitle
 title: COVID19 Community Care Package
 section: what we do
-image: /media/img/peer_data_review.jpg
+image: /media/img/blog/2020-03-30-community-care.jpg
 
 ---
 <img src="/media/img/blog/2020-03-30-community-care.jpg" alt="Hand lettering that says Community Care" style="width: 100%;">

@@ -25,7 +25,7 @@
     <!-- script calls -->
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 <script type="text/javascript" src="//www.google.com/jsapi"></script>
-<script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script>
+<!-- <script src="//mozorg.cdn.mozilla.net/tabzilla/tabzilla.js"></script> -->
 {% if page.title == 'Apply to become a 2016 Knight-Mozilla Fellow!' %}
 <!-- this is the embed for the application -->
 <link href="//d3q1ytufopwvkq.cloudfront.net/0/formrenderer.css" rel="stylesheet" />
@@ -57,7 +57,7 @@
  </div>
 <div id="snap-content-wrapper" class="snap-content overthrow">
 -->
-<script type="text/javascript">
+    <script type="text/javascript">
         document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/, '');
     </script>
     <div id="kissanenav">
@@ -73,18 +73,18 @@
                 <a href="/"><img alt="OpenNews" src="/media/img/open-news-2017.png" /></a>
             </h1>
     </header>
-        <article>
-            <div class="main_col">
-            {{ content }}
-            </div> <!-- close main_col -->
-            <div class="sidebox">
-            {% include sidebar_update.html %}
-            </div>
-        </article>
+    <article>
+        <div class="main_col">
+        {{ content }}
+        </div> <!-- close main_col -->
+        <div class="sidebox">
+        {% include sidebar_update.html %}
+        </div>
+    </article>
 
-        <footer>
-          {% include footer.html %}
-        </footer>
+    <footer>
+      {% include footer.html %}
+    </footer>
 
     <script type="text/javascript" src="/media/js/overthrow.js"></script>
     <script type="text/javascript" src="/media/js/snap.js"></script>
