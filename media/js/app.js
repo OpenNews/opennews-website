@@ -11,44 +11,6 @@
 			s.parentNode.insertBefore(ga, s);
 		})();
 
-// ross's feed loader
-	google.load("feeds", "1");
-	function initialize() {
-		var feed_urls = $("a.feed_url");
-		$.each(feed_urls, function() {
-			var current = $(this),
-				feed = new google.feeds.Feed(current.attr('href'));
-			feed.setNumEntries(4);
-			feed.load(function(result) {
-				if (!result.error) {
-					var feed_list = "<ul>";
-					for (var i = 0; i < result.feed.entries.length; i++) {
-						var entry = result.feed.entries[i],
-							url = entry.link;
-						feed_list += "<li><a href='" + url + "'>";
-						var chunks = entry.title.split(':');
-						/*
-							to support our varying formats for feeds:
-							Those from planet.opennews have the format {author} : {title}
-							and everything else just has {title}.
-							If this changes then BOOM - we reap the benefits
-						*/
-						if (chunks.length !== 1 && (feed.O.indexOf('planet.') !== -1)) {
-							var name = chunks.shift();
-							feed_list += chunks.toString() + "</a> by " + name.toString();
-						} else {
-							feed_list += entry.title + "</a>";
-						}
-						feed_list += "</li>";
-					}
-					feed_list += "</ul>";
-					current.parent().before($(feed_list));
-				}
-			});
-		});
-	}
-	google.setOnLoadCallback(initialize);
-
 // timeago, makes the timestamps on the blog readable
 
 /**
@@ -66,7 +28,6 @@
  *
  * Copyright (c) 2008-2013, Ryan McGeary (ryan -[at]- mcgeary [*dot*] org)
  */
-
 (function (factory) {
   if (typeof define === 'function' && define.amd) {
     // AMD. Register as an anonymous module.
@@ -273,3 +234,41 @@ $('.showall').click(function (e) {
     e.preventDefault();
     $('.calllist').toggleClass('closed');
 });
+
+// ross's feed loader
+  google.load("feeds", "1");
+  function initialize() {
+    var feed_urls = $("a.feed_url");
+    $.each(feed_urls, function() {
+      var current = $(this),
+        feed = new google.feeds.Feed(current.attr('href'));
+      feed.setNumEntries(4);
+      feed.load(function(result) {
+        if (!result.error) {
+          var feed_list = "<ul>";
+          for (var i = 0; i < result.feed.entries.length; i++) {
+            var entry = result.feed.entries[i],
+              url = entry.link;
+            feed_list += "<li><a href='" + url + "'>";
+            var chunks = entry.title.split(':');
+            /*
+              to support our varying formats for feeds:
+              Those from planet.opennews have the format {author} : {title}
+              and everything else just has {title}.
+              If this changes then BOOM - we reap the benefits
+            */
+            if (chunks.length !== 1 && (feed.O.indexOf('planet.') !== -1)) {
+              var name = chunks.shift();
+              feed_list += chunks.toString() + "</a> by " + name.toString();
+            } else {
+              feed_list += entry.title + "</a>";
+            }
+            feed_list += "</li>";
+          }
+          feed_list += "</ul>";
+          current.parent().before($(feed_list));
+        }
+      });
+    });
+  }
+  google.setOnLoadCallback(initialize);

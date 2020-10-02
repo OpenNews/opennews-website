@@ -131,6 +131,7 @@ Typography
 */
 
 abbr[title] {
+    text-decoration: none;
 }
 
 /*
