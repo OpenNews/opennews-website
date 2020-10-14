@@ -5,8 +5,6 @@ section: what we do
 image: /media/img/srccon-2020-screenshot.png
 
 ---
-<!-- <script src="//use.typekit.net/mvg8obr.js"></script>
-<script>try{Typekit.load();}catch(e){}</script> -->
 <style>
   article h2 {
     font-size: 2em;
