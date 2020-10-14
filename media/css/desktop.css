@@ -82,8 +82,12 @@ blockquote.orange-highlight {
   line-height: 1.6rem;
   border-left: 8px solid #ffdfce;
   margin: 30px 0 40px 30px;
-  font-size: 1em;
+  font-size: 1.2em;
   color: #888;
+}
+
+small {
+	font-size: 1rem;
 }
 
 .fellowsbox {

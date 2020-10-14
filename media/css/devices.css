@@ -14,8 +14,9 @@ a:visited,
 a:focus,
 a:hover,
 a:active {
-	color: #ad3121;
-	text-decoration: none;
+	color: #fc6e1f;
+	text-decoration:underline;
+	/*text-decoration: none;*/
 }
 a:hover,
 a:focus,
@@ -104,7 +105,7 @@ aside {
 	color: #2e2e2d;
 	text-transform: uppercase;
 	font-size: 18px;
-	font-weight: 300;
+	font-weight: bold;
 }
 .external .tweet h2 {
 	background-position: 0 -140px;
@@ -116,7 +117,7 @@ aside {
 	background-position: 0 -440px;
 }
 .external p {
-	font-size: 14px;
+	font-size: 1rem;
 	color: #454545;
 }
 .external ul {
@@ -126,7 +127,7 @@ aside {
 	list-style-type: none;
 	border-top: 1px solid #D8DADC;
 	padding: 0.5em 0;
-	font-size: 14px;
+	font-size: 0.9rem;
 }
 .external li:first-child {
 	border-top: none;
@@ -169,22 +170,17 @@ div[role=main] {
 	display: none;
 }
 div[role="main"] a {
-	color: #ad3121;
+	color: #fc6e1f;
+	text-decoration:underline;
 }
 div[role="main"] h1,
 div[role="main"] h2 {
 	text-transform: capitalize;
-	color: #fc6e1f;
+	/*color: #fc6e1f;*/
 	font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
-	font-weight: 400;
+	font-weight: bold;
 }
-article p,
-article ul,
-article ol {
-	font-family: "freight-text-pro", Georgia, "Times New Roman", Times, serif;
-	line-height: 1.6;
-	font-size: 18px;
-}
+
 article header h2 {
 	font-size: 28px;
 }
@@ -249,7 +245,7 @@ article header p {
 	background-position: 0 -590px;
 }
 .external p, .external ul {
-	line-height: 1.3em;
+	line-height: 1.45rem;
 	font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
 }
 .external iframe {
@@ -265,6 +261,10 @@ article header p {
 #involved ul, #involved p, #newsbox ul, #sourcebox ul, #sidenav ul {
 	font-size: 1em;
 	font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
+}
+
+#involved ul a, #involved p a, #newsbox ul a, #sourcebox ul a, #sidenav ul a, #newsbox a{
+	text-decoration: none;
 }
 
 #involved li, #newsbox li, #sourcebox li {
@@ -340,7 +340,7 @@ height: 20%;
 }
 
 #minifellows p, #involved p, #newsbox p, #sourcebox p {
-font-size: 0.9em;
+font-size: 1em;
 font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
 }
 
@@ -414,6 +414,11 @@ margin-bottom: 15px;
 font-size: 23px;
 line-height: 1.7;
 margin-bottom: 35px;
+margin-top: 0px;
+}
+
+h3.byline {
+	font-weight: 300;
 }
 
 #nav {
@@ -504,7 +509,7 @@ width: 98%;
 h3, h4 {
 color: #0d0d0d;
 font-family: 'sofia-pro','Open Sans', Helvetica, Verdana, Arial, sans-serif;
-font-weight: 300;
+font-weight: bold;
 font-size: 1.1em;
 margin-top: 30px;
 margin-bottom: 10px;
@@ -520,7 +525,7 @@ h4 {
 }
 
 h3 a:link, h3 a:visited, h3 a:focus, h3 a:hover, h3 a:active {
-	color: #782216;
+	color: black;
 }
 
 #fellowside {
@@ -1112,6 +1117,10 @@ abbr {
 	padding: 16px 0;
 }
 
+#navblock a {
+	text-decoration: none;
+}
+
 @media only screen and (max-width: 530px) {
 	#kissanenav #navblock .extra {
 		display: none;
@@ -1131,7 +1140,7 @@ abbr {
 }
 #kissanenav li a {
 	color: white;
-	padding: 16px 16px;
+	padding: 13px 16px;
 }
 #kissanenav li a:hover, #kissanenav li a:active {
 	text-decoration: none;
@@ -1155,20 +1164,24 @@ body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li
 
 
 article a {
-	color: #ad3121;
+	color: #fc6e1f;
+	text-decoration:underline;
 }
 article h1,
 article h2 {
 	text-transform: capitalize;
-	color: #fc6e1f;
 	font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
-	font-weight: 400;
+	font-weight: bold;
+	color: black;
+	font-size: 2rem;
+	margin-bottom: 0.5rem;
 }
 article p,
-article ul {
+article ul,
+article ol {
 	font-family: "freight-text-pro", Georgia, "Times New Roman", Times, serif;
 	line-height: 1.6;
-	font-size: 18px;
+  font-size: 1.3rem;
 }
 
 blockquote {
@@ -1182,7 +1195,7 @@ blockquote {
 .sidebox {
 padding-bottom: 20px;
 padding-right: 10px;
-padding-top: 18px;
+/*padding-top: 18px;*/
 margin-top: 20px;
 width: 220px;
 float: right;
@@ -1266,9 +1279,9 @@ a.sidebar-button {
     background-color: #fc6e1f;
     color: #fff;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 1.2rem;
     padding: .67em;
-    line-height: 1;
+    line-height: 1.2rem;
     text-align: center;
     display: block;
     margin: 0 auto;
