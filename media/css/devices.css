@@ -387,6 +387,8 @@ margin-top: 50px;
 
 #navlist li {
 	list-style: none;
+	margin-left: 1em;
+	text-indent: -1em;
 }
 
 #navlist ul {
