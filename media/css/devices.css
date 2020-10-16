@@ -1220,17 +1220,23 @@ ul.bloglist li {
 }
 
 ul.bloglist li p.blogtitle {
-	font-size: 1.3em;
-	line-height: 1.2em;
-	margin-bottom: 10px;
+	font-size: 1.6rem;
+  line-height: 2.2rem;
+  margin-bottom: 10px;
+  font-family: 'sofia-pro', Georgia, serif;
+  font-weight: bold;
 }
 
 ul.bloglist li p.blogtitle span.blogdate  {
 	font-size: .7em;
 	margin-left: 8px;
+	font-weight: normal;
+	color: #9e9e9e;
 }
 ul.bloglist li p.excerpt {
 	margin-top: 0px;
+	font-size: 1.3rem;
+	line-height: 1.6;
 }
 
 #newsbox ul, #sourcebox ul {
