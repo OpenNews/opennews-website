@@ -299,6 +299,11 @@ div[role="main"] .opengraph a:hover {
 div.article_body {
 	margin-bottom: 50px;
 }
+
+.article_body strong, .article_body b {
+	font-weight: 900;
+}
+
 #newsline {
 	font-family: 'sofia-pro','Open Sans', sans-serif;
 	font-size: 18px;
