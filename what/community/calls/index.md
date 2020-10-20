@@ -5,8 +5,12 @@ section: what we do
 
 ---
 
-<img src="/media/img/operators.jpg" class="topline">
-<p class="caption">Our calls are slightly more exciting. (photo courtesy <a href="https://www.flickr.com/photos/ironrodart/4154904299">Royce Blair</a>)</p>
+<style type="text/css">
+img.topline { border: none; }
+</style>
+
+<img src="/media/img/community-call-image.png" class="topline">
+<p class="caption">Our calls use a shared writing space where we take collective notes and ask questions.</p>
 
 <h2>{{ page.title }}</h2>
 
