@@ -9,3 +9,10 @@ plugins:
 exclude: ['*.yml']
 permalink: /blog/:title/
 future: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      excerpt: ""
+      description: OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. Alongside our community, our mission includes fighting for a future where newsrooms are anti-racist, equitable, inclusive, and collaborative.

@@ -3,10 +3,12 @@ layout: post_notitle
 title: Journalism at the MozFest House 2019
 section: what
 ---
+
 <img src="/media/img/mozfest2015_01.jpg" class="topline">
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig"> OpenNews is heading back to the <a href="https://mozillafestival.org/">Mozilla Festival</a>, a multi-day, annual celebration of the open internet for technologists, makers, educators, and creators in all fields. Again this year, we're organizing [a full day of journalism-tech sessions](https://ti.to/opennews-events/teams-collaboration-how-an-interdisciplinary-approach-gets-the-work-done-in-journalism-tech) at the <a href="https://mozillafestival.org/house">MozFest House</a> on October 24.
+
+<p class="bodybig">OpenNews is heading back to the <a href="https://mozillafestival.org/">Mozilla Festival</a>, a multi-day, annual celebration of the open internet for technologists, makers, educators, and creators in all fields. Again this year, we're organizing <a href="https://ti.to/opennews-events/teams-collaboration-how-an-interdisciplinary-approach-gets-the-work-done-in-journalism-tech">a full day of journalism-tech sessions</a> at the <a href="https://mozillafestival.org/house">MozFest House</a> on October 24.</p>
 
 ## Teams & collaboration: How an interdisciplinary approach gets the work done in journalism tech
 All day on Thursday, October 24 we'll have hands-on, collaborative sessions from local London journalists and visitors coming to town for the festival. The event takes place at the [Royal Society of Arts](https://www.google.com/maps/place/RSA+House/@51.5093702,-0.1248943,17z/data=!3m1!4b1!4m5!3m4!1s0x487604c9572d71f1:0xc61aaa0727953544!8m2!3d51.5093669!4d-0.1227056) in central London.
@@ -49,10 +51,3 @@ We expect it to be a busy, fun, and productive day filled with sharing about our
 We're grateful to the [BBC News Labs](http://bbcnewslabs.co.uk/) team and the [Mozilla Festival](https://mozillafestival.org) team for their support of this event.
 
 <a href="http://bbcnewslabs.co.uk/"><img src="/media/img/BBCNewsLabsLogo.jpg" alt="BBC News Labs logo"></a>
-
-{% comment %}
-##Journalism During MozFest
-The Mozilla Festival this year features [five topical spaces](https://mozillafestival.org/spaces) around facets of the health of the internet. In particular, the [openness space](https://mozillafestival.org/spaces#Openness) will include journalism-related sessions and one of the organizers of that group is Hacks/Hackers Buenos Aires organizer Mariano Blejman.
-
-You can find more details on [the MozFest website](https://mozillafestival.org) or by [following @MozillaFestival](https://twitter.com/mozillafestival).
-{% endcomment %}

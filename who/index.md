@@ -5,7 +5,7 @@ section: who we are
 sub-section: index
 ---
 
-<p class="bodybig">OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. Learn more about <a href="/what">what we do</a> or find out how you can <a href="/getinvolved">get involved</a>.</p>
+<p class="bodybig">OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. Alongside our community, our mission includes fighting for a future where newsrooms are anti-racist, equitable, inclusive, and collaborative. Learn more about <a href="/what">what we do</a> or find out how you can <a href="/getinvolved">get involved</a>.</p>
 
 ## Our Staff
 
