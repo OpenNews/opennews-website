@@ -1192,12 +1192,15 @@ article ol {
 }
 
 blockquote {
-	font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
-	line-height: 1.7em;
-	font-size: 1.1em;
-
+  font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+  line-height: 1.8rem;
+  font-size: 1.4rem;
+  padding: 10px 25px;
+  display: block;
+  border-left: 8px solid #ff9b66;
+  margin: 30px 0 40px 15px;
+  color: #333333;
 }
-
 
 .sidebox {
 padding-bottom: 20px;
@@ -1344,16 +1347,6 @@ box-sizing: border-box;
 
 div.main_col {
 	width: 100%;
-}
-
-blockquote.orange-highlight {
-  padding: 0 20px;
-  display: block;
-  line-height: 1.6rem;
-  border-left: 8px solid #ffdfce;
-  margin: 30px 0 40px 10px;
-  font-size: 1em;
-  color: #888;
 }
 
 .sidebox {
