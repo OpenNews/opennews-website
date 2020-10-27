@@ -5,10 +5,10 @@ date: 2020-10-21 10:00-04:00
 author: Erika Owens
 tags: OpenNews, SRCCON
 excerpt: We'll gather virtually in mid-December to dream and support one another through the end of 2020.
-image: /media/img/blog/2020-10-02-srccon-2020-participants.png
+image: /media/img/blog/2020-10-28-srccon-groupshot-final.png
 ---
 
-<img src="/media/img/blog/2020-10-28-srccon-groupshot-final.jpg" style="width: 100%; border: 1px solid #d4d1d1;" alt="SRCCON 2020 virtual group photo, taken during our closing session."> 
+<img src="/media/img/blog/2020-10-28-srccon-groupshot-final.png" style="width: 100%;" alt="SRCCON 2020 virtual group photo, taken during our closing session."> 
 <p class="caption" style="margin-top: -15px; text-align: left;">SRCCON 2020 virtual group photo, taken during our closing session.</p> 
 
 When we gathered for SRCCON 2020 in July, we really didn't know what to expect. Our community told us they still wanted to connect and they still wanted to [talk about everything from objectivity to data viz editing](https://2020.srccon.org/schedule/). So we kept our original dates for SRCCON and planned the conference in a few short weeks. Our biggest open question, however, was what would it _feel_ like to gather online? Could we create the same atmosphere and experience as years past?
