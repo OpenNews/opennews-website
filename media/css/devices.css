@@ -428,6 +428,10 @@ h3.byline {
 	font-weight: 300;
 }
 
+h2.headline {
+	text-transform: none;
+}
+
 #nav {
 	font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
 	display: none;
