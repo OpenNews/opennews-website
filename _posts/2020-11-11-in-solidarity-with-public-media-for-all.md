@@ -4,14 +4,14 @@ title: In solidarity with Public Media For All
 date: 2020-11-11 10:00-04:00
 author: Sisi Wei
 tags: OpenNews, Vision25, DEI
-excerpt: TK
+excerpt: We at OpenNews stand in solidarity with Public Media For All, a diverse coalition of public media workers, led by people of color.
 ---
 
 <iframe src="https://player.vimeo.com/video/477761175" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen alt="Video of Sisi Wei, prepared for Public Media For All's day of action and education."></iframe>
 
-<i>We at OpenNews stand in solidarity with [Public Media For All](https://www.publicmediaforall.com/), a diverse coalition of public media workers, led by people of color. They are "raising awareness of the negative effects of a lack of diversity, equity and inclusion in public media, and sharing solutions for individuals and organizations."
+<i>We at OpenNews stand in solidarity with [Public Media For All](https://www.publicmediaforall.com/), a diverse coalition of public media workers, led by people of color. They are "raising awareness of the negative effects of a lack of diversity, equity and inclusion in public media, and sharing solutions for individuals and organizations."</i>
 
-I was honored to be asked by the coalition to talk about my journey in this work during their Nov. 10 day of action and education. Below is a transcript of the video I prepared.</i>
+<i>I was honored to be asked by the coalition to talk about my journey in this work during their Nov. 10 day of action and education. Below is a transcript of the video I prepared.</i>
 
 <hr>
 TRANSCRIPT
