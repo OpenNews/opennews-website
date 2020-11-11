@@ -3,7 +3,7 @@ layout: blogpost
 title: Announcing our DEI Coalition for Anti-Racist, Equitable, and Just Newsrooms
 date: 2020-07-21 12:20
 author: Sisi Wei
-tags: OpenNews
+tags: OpenNews, DEI-Coalition
 excerpt: OpenNews is co-creating with the community two digital organizing spaces — hosted on Slack — focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry.
 image: /media/img/blog/2020-07-21-together-mural-social-crop.jpg
 ---

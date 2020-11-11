@@ -1,17 +1,19 @@
 ---
 layout: blogpost
-title: In solidarity with Public Media For All
+title: In support of Public Media For All
 date: 2020-11-11 10:00-04:00
 author: Sisi Wei
-tags: OpenNews, Vision25, DEI
-excerpt: We at OpenNews stand in solidarity with Public Media For All, a diverse coalition of public media workers, led by people of color.
+tags: OpenNews, Vision25, DEI-Coalition
+excerpt: Transcript of Sisi Wei's talk at the Public Media For All Nov. 10 day of action and education.
 ---
 
 <iframe src="https://player.vimeo.com/video/477761175" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen alt="Video of Sisi Wei, prepared for Public Media For All's day of action and education."></iframe>
 
-<i>We at OpenNews stand in solidarity with [Public Media For All](https://www.publicmediaforall.com/), a diverse coalition of public media workers, led by people of color. They are "raising awareness of the negative effects of a lack of diversity, equity and inclusion in public media, and sharing solutions for individuals and organizations."</i>
+<i>[Public Media For All](https://www.publicmediaforall.com/) is a diverse coalition of public media workers, led by people of color. They are "raising awareness of the negative effects of a lack of diversity, equity and inclusion in public media, and sharing solutions for individuals and organizations." We at OpenNews know that both our staff and many community members support their mission wholeheartedly, and joined the Public Media For All day of action and education on Nov. 10, 2020.</i>
 
-<i>I was honored to be asked by the coalition to talk about my journey in this work during their Nov. 10 day of action and education. Below is a transcript of the video I prepared.</i>
+<i>I was honored to be asked by the coalition to talk about my journey in this work during their event. A couple participants asked for a transcript of the talks, so we're posting a transcript of the video I prepared below.</i>
+
+<i>Public Media For All has also posted [the full recording](https://fb.watch/1HL9d8BBlo/) of their Nov. 10 webinar, which includes not only other speakers, but also shares the stories of people of color in public media, and the racism they've experienced. [Please check it out](https://fb.watch/1HL9d8BBlo/).</i> 
 
 <hr>
 TRANSCRIPT
@@ -48,4 +50,8 @@ So, I started with a quote from [Roxanne’s op-ed](https://www.nytimes.com/2020
 
 She wrote: “This is America, a country desperately divided, and desperately flawed. The future of this country is uncertain but it is not hopeless. I am ready to fight for that future, no matter what it holds. Are you?”
 
-Thank you all for being here today, building this movement together. 
+Thank you all for being here today, building this movement together.
+
+<hr>
+
+Find out more about how you can take action as a part of [Public Media For All](https://www.publicmediaforall.com/) as well as in our work with [Vision25](2020-10-01-vision25-building-racial-equity-in-newsrooms) and the [DEI Coalition](/what/community/dei-coalition).
