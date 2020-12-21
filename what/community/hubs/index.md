@@ -20,6 +20,7 @@ News nerds from news organizations large and small find community and advice wit
 * [News Nerdery](http://newsnerdery.org/) - this Slack has over 3,000 members of the journalism-tech community from around the world, who chat in over 40 topical and geographic channels. 
 * [Lonely Coders Club](https://lcc-slack.herokuapp.com/) - this Slack has over 500 members who identify as "lonely coders," technologists who are alone or one of just a few folks in their newsroom who work with tech and data.
 * [Journalists of Color](https://journalistsofcolor.us/) - this Slack is for journalists of color to connect and support one another. The group includes many news nerds, and the volunteer admins of this group [received the 2019 ONA Community Award](https://awards.journalists.org/entries/journalists-of-color-slack-administrators/).
+* [Gather](https://letsgather.in/) - Gather is a space for community-minded journalists, with a very active [Slack and range of other ways to get involved](https://medium.com/lets-gather/ways-to-engage-with-gather-eb2e52e4a8b2).
 
 These groups provide important advice and support for community members, especially those who do not have mentors nearby in their newsroom (or even in their city). Members of OpenNews staff participate in each of these communities and we seek out ways to support their work, such as organizing a track of small-group conversations at the NICAR conference and hosting an annual in-person lunch for the Lonely Coders Club. 
 
