@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-permalink: /donate/index.html
+permalink: /donate/
 redirect_to:
  - https://opennews.networkforgood.com
 ---

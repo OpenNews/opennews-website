@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Moving Far Beyond “Diversity” and Pushing Directly for Social Change
+title: Moving far beyond “diversity” and pushing directly for social change
 date: 2020-10-02 10:00-04:00
 author: <a href="http://opennews.org/who/">Sisi Wei</a>, on October 2, 2020
 tags: OpenNews, Maynard, ONA, Vision25
