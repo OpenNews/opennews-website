@@ -44,7 +44,7 @@ Our committees:
   <li><strong>Safety and Moderation</strong> — led by <a href="https://twitter.com/sophanho">Sophie Ho</a></li>
   <li><strong>Membership</strong> — led by <a href="https://twitter.com/AshleyAlvarado">Ashley Alvarado</a></li>
   <li><strong>Slack Setup</strong> — led by <a href="https://twitter.com/hannahsbirch">Hannah Birch</a></li>
-  <li><strong>Welcome and Onboarding</strong> — led by <a href="https://twitter.com/alishasavson">Alisha Wang Savson</a></li>
+  <li><strong>Welcome and Onboarding</strong> — led by <a href="https://twitter.com/lishsavson">Alisha Wang Savson</a></li>
 </ul>
 
 Many more people have also signed up to help us spread the word when the community spaces are ready. If you'd like to do the same, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJncwQftMaZY_Z2-FKhmDg36K8CBPWcN00G3A0INSBwtePnQ/viewform">sign up here</a>.
