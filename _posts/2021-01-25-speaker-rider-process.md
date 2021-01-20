@@ -30,14 +30,14 @@ Before accepting an invitation to speak, send this site[link to rider] to the ev
 
 Here’s an example email:
 
-<blockquote><p>Hi [NAME],</p>
+<blockquote><p>Hi <strong>[NAME]</strong>,</p>
 <p>Thank you so much for the invitation to speak, and for thinking of me. I’d love to hear more about the event, and especially about work you’re doing to make it a meaningfully inclusive space. I found this list of criteria published by journalists that help define what that means more tangibly: <a href="https://opennews.org/speaker-rider">opennews.org/speaker-rider</a>.</p>
-<p>Can you let me know whether you’ve already accomplished at least [CHOOSE A NUMBER] of the criteria in this list? I’d love to hear about what actions you’ve already taken and read any links or other documentation of what you’ve accomplished.</p>
+<p>Can you let me know whether you’ve already accomplished at least <strong>[CHOOSE A NUMBER]</strong> of the criteria in this list? I’d love to hear about what actions you’ve already taken and read any links or other documentation of what you’ve accomplished.</p>
 <p>Thanks for considering and I look forward to hearing back.</p>
 <p>Sincerely,<br/>
-[NAME]</p></blockquote>
+<strong>[NAME]</strong></p></blockquote>
 
-Here are a few additional items to consider:
+### Here are a few additional items to consider:
 
 *   **Decide how many criteria an event must meet before you’d agree to speak.** For example, you may insist that an event meet all the criteria, or half. But decide for yourself what the number is before sending out the email. This lets you hold yourself accountable too for what you’re asking for. You can also choose to tell the organizer in the email how many criteria you need them to meet, before you say yes.
 *   **Add any additional criteria that are important to you!** Write them into your email along with the link to this list.
@@ -52,7 +52,7 @@ If you’re a first-time speaker, don’t consider yourself a speaking pro, or w
 *   **Band together.** If you know any other people who have been invited to speak at the event, consider partnering with them to send a joint email with the rider (or just a few selected criteria that are important to you). Working with a group helps insulate you from any individual, targeted repercussions — there’s strength in numbers!
 *   **Keep this in mind for next time.** Know that there is a community working to make sure that future speakers like you feel less vulnerable asking for fundamental and foundational equity.
 
-## More of the backstory (from Jan)
+## More of the backstory (From Jan Diehm)
 
 Right now, I’m lucky to be able to work for [The Pudding](https://pudding.cool/) where I feel like my voice is respected and elevated, and where I’m given time outside of the content churn to pursue projects around diversity, equity, and inclusion. Still, it’s not lost on me that as an openly queer woman journalist (with my small sliver of differentness because I benefit immensely from my cis white privilege), I’m one of the people here spearheading this work. I’ve both naturally gravitated toward DEI work and felt the burden of having to move it forward — and this weight is no doubt compounded for people more at the margins and intersections than I am.  
 
@@ -68,8 +68,4 @@ It was a privilege to work alongside these two women on this rider. Again, it’
 
 There’s lots of work still to do, but I hope this rider can be a small concrete piece that helps push our industry where we need it to be.
 
-Thank you all those who have pushed and continue to push for meaningfully inclusive events, including those linked in the rider and this blog post; to Emma Carew Grovum, Lena Groeger, S. Mitra Kalita, and John Keefe for providing invaluable feedback; and to our friends and colleagues for supporting this work.
-
-<style type="text/css">
-  <!-- strong { color: #252525; } -->
-</style>
+Thank you all those who have pushed and continue to push for meaningfully inclusive events, including those linked in the rider and this blog post; to [Emma Carew Grovum](https://emmacarewgrovum.com/), [Lena Groeger](https://lenagroeger.com/), [S. Mitra Kalita](http://mitrakalita.com/), and [John Keefe](https://johnkeefe.net/) for providing invaluable feedback; and to our friends and colleagues for supporting this work.
