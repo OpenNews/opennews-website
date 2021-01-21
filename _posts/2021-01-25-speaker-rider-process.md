@@ -5,12 +5,12 @@ date: 2021-01-25 12:00-04:00
 author: Jan Diehm, Sisi Wei, and Erika Owens
 tags: OpenNews, Pudding, events, speaking, diversity
 excerpt: Organizers, speakers, and attendees need to all work together to make events more inclusive.
+image: /projects/speaker-rider/assets/images/social-facebook.jpg
 ---
 
-<img src="/projects/speaker-rider/assets/images/social-facebook.jpg" style="width: 100%;" alt="Speaker rider for meaningful inclusive events"> 
-<p class="caption" style="margin-top: -15px; text-align: left;">Organizers, speakers, and attendees need to all work together to make events more inclusive.</p> 
+<p style="margin: 40px 0px 20px; border-bottom: 1px solid #d4d4d4;"></p>
 
-_We published this post in collaboration with [The Pudding](https://pudding.cool/process/speaker-rider)._
+_We published [this post](https://pudding.cool/process/speaker-rider) in collaboration with [The Pudding](https://pudding.cool)._
 
 Today, we’re publishing a Speaker Rider for Meaningfully Inclusive Events. It’s a framework aimed at two groups — speakers and events/organizations — to help create and maintain inclusive space for historically marginalized communities. 
 
@@ -30,7 +30,7 @@ Before accepting an invitation to speak, send this site[link to rider] to the ev
 
 Here’s an example email:
 
-<blockquote><p>Hi <strong>[NAME]</strong>,</p>
+<blockquote style="background-color: #ffa50014;"><p>Hi <strong>[NAME]</strong>,</p>
 <p>Thank you so much for the invitation to speak, and for thinking of me. I’d love to hear more about the event, and especially about work you’re doing to make it a meaningfully inclusive space. I found this list of criteria published by journalists that help define what that means more tangibly: <a href="https://opennews.org/speaker-rider">opennews.org/speaker-rider</a>.</p>
 <p>Can you let me know whether you’ve already accomplished at least <strong>[CHOOSE A NUMBER]</strong> of the criteria in this list? I’d love to hear about what actions you’ve already taken and read any links or other documentation of what you’ve accomplished.</p>
 <p>Thanks for considering and I look forward to hearing back.</p>
@@ -52,7 +52,11 @@ If you’re a first-time speaker, don’t consider yourself a speaking pro, or w
 *   **Band together.** If you know any other people who have been invited to speak at the event, consider partnering with them to send a joint email with the rider (or just a few selected criteria that are important to you). Working with a group helps insulate you from any individual, targeted repercussions — there’s strength in numbers!
 *   **Keep this in mind for next time.** Know that there is a community working to make sure that future speakers like you feel less vulnerable asking for fundamental and foundational equity.
 
-## More of the backstory (From Jan Diehm)
+<p style="margin: 40px 0px 20px; border-bottom: 1px solid #d4d4d4;"></p>
+
+## More of the backstory 
+
+<p style="color:darkgray; font-style: italic;">From <a href="https://pudding.cool/author/jan-diehm/">Jan Diehm</a></p>
 
 Right now, I’m lucky to be able to work for [The Pudding](https://pudding.cool/) where I feel like my voice is respected and elevated, and where I’m given time outside of the content churn to pursue projects around diversity, equity, and inclusion. Still, it’s not lost on me that as an openly queer woman journalist (with my small sliver of differentness because I benefit immensely from my cis white privilege), I’m one of the people here spearheading this work. I’ve both naturally gravitated toward DEI work and felt the burden of having to move it forward — and this weight is no doubt compounded for people more at the margins and intersections than I am.  
 
