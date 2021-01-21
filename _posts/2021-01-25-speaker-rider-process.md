@@ -8,7 +8,13 @@ excerpt: Organizers, speakers, and attendees need to all work together to make e
 image: /projects/speaker-rider/assets/images/social-facebook.jpg
 ---
 
-<p style="margin: 40px 0px 20px; border-bottom: 1px solid #d4d4d4;"></p>
+<style>
+  p.divider {
+    margin: 40px 0px 20px;
+    border-bottom: 1px solid #d4d4d4;
+  }
+</style>
+<p class="divider"></p>
 
 _We published [this post](https://pudding.cool/process/speaker-rider) in collaboration with [The Pudding](https://pudding.cool)._
 
@@ -52,7 +58,7 @@ If you’re a first-time speaker, don’t consider yourself a speaking pro, or w
 *   **Band together.** If you know any other people who have been invited to speak at the event, consider partnering with them to send a joint email with the rider (or just a few selected criteria that are important to you). Working with a group helps insulate you from any individual, targeted repercussions — there’s strength in numbers!
 *   **Keep this in mind for next time.** Know that there is a community working to make sure that future speakers like you feel less vulnerable asking for fundamental and foundational equity.
 
-<p style="margin: 40px 0px 20px; border-bottom: 1px solid #d4d4d4;"></p>
+<p class="divider"></p>
 
 ## More of the backstory 
 
@@ -72,4 +78,6 @@ It was a privilege to work alongside these two women on this rider. Again, it’
 
 There’s lots of work still to do, but I hope this rider can be a small concrete piece that helps push our industry where we need it to be.
 
-Thank you all those who have pushed and continue to push for meaningfully inclusive events, including those linked in the rider and this blog post; to [Emma Carew Grovum](https://emmacarewgrovum.com/), [Lena Groeger](https://lenagroeger.com/), [S. Mitra Kalita](http://mitrakalita.com/), and [John Keefe](https://johnkeefe.net/) for providing invaluable feedback; and to our friends and colleagues for supporting this work.
+<p class="divider"></p>
+
+_Thank you all those who have pushed and continue to push for meaningfully inclusive events, including those linked in the rider and this blog post; to [Emma Carew Grovum](https://emmacarewgrovum.com/), [Lena Groeger](https://lenagroeger.com/), [S. Mitra Kalita](http://mitrakalita.com/), and [John Keefe](https://johnkeefe.net/) for providing invaluable feedback; and to our friends and colleagues for supporting this work._
