@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: We created a speaker rider because journalism didn’t have one
-date: 2021-01-25 12:00-04:00
+date: 2021-01-27 10:00-04:00
 author: Jan Diehm, Sisi Wei, and Erika Owens
 tags: OpenNews, Pudding, events, speaking, diversity
 excerpt: Organizers, speakers, and attendees need to all work together to make events more inclusive.
@@ -30,9 +30,9 @@ Here’s how to use the rider as a speaker:
 
 ## Speakers: What You Can Do
 
-As [Tatiana Mac put it in her speaker rider](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552), speaking comes with immense privilege. Not everyone gets to be a speaker, but if you’re in a position to do so, we encourage you to use this privilege to check whether the event you’re speaking at shares your values, and/or ask that they make sure their event is a better and more inclusive space for historically marginalized communities.
+As [Tatiana Mac put it in her own speaker rider](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552), speaking comes with immense privilege. Not everyone gets to be a speaker, but if you’re in a position to do so, we encourage you to use this privilege to check whether the event you’re speaking at shares your values, and/or ask that they make sure their event is a better and more inclusive space for historically marginalized communities.
 
-Before accepting an invitation to speak, send this site[link to rider] to the event organizer and ask them how many criteria they meet. Got invited to an event that you don’t actually want to speak at? Send this to them anyway and help let others know which events are truly committed to this work.
+Before accepting an invitation to speak, [send this site](https://opennews.org/speaker-rider) to the event organizer and ask them how many criteria they meet. Got invited to an event that you don’t actually want to speak at? Send this to them anyway and help let others know which events are truly committed to this work.
 
 Here’s an example email:
 
@@ -45,7 +45,7 @@ Here’s an example email:
 
 ### Here are a few additional items to consider:
 
-*   **Decide how many criteria an event must meet before you’d agree to speak.** For example, you may insist that an event meet all the criteria, or half. But decide for yourself what the number is before sending out the email. This lets you hold yourself accountable too for what you’re asking for. You can also choose to tell the organizer in the email how many criteria you need them to meet, before you say yes.
+*   **Decide how many criteria an event must meet before you’d agree to speak.** For example, you may insist that an event meet all the criteria, or half. But decide for yourself what the number is before sending out the email. This lets you hold yourself accountable for what you’re asking for too. You can also choose to tell the organizer in the email how many criteria you need them to meet, before you say yes.
 *   **Add any additional criteria that are important to you!** Write them into your email along with the link to this list.
 *   **If you feel like the event you’re speaking with is trying to game your criteria**, or how many they need to meet, that’s a red flag and you should be prepared to say no.
 
