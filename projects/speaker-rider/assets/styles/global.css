@@ -77,3 +77,15 @@
 	width: 1em;
 	vertical-align: middle;
 }
+
+.acknowledgements p a {
+	color: var(--gray-dark);
+}
+
+.acknowledgements p a:hover {
+	color: var(--on-tan);
+}
+
+#wordmark {
+	padding: 0.25rem 0 0 0;
+}
