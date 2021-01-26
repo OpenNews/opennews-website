@@ -15,13 +15,9 @@ section: what we do
 
 ### When applications are open
 
-[Applications are open **right now** through midnight Eastern on Tuesday, Jan. 21](https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform), prioritizing events taking place through the first half of 2020. All applicants will hear back from us by Monday, Jan. 27.
+<!-- <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform">Apply for an event scholarship!</a>-->
 
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform">Apply for an event scholarship!</a>
-
-We'll open a second round of scholarship applications midyear, prioritizing events in the second half of 2020.
-
-If you'd like to get notifications about key dates in our scholarship program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date!
+Scholarship applications aren't open right now, but if you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
 ### What our scholarships offer
 
