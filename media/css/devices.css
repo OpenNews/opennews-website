@@ -430,6 +430,8 @@ h3.byline {
 
 h2.headline {
 	text-transform: none;
+	font-size: 2.5rem;
+	line-height: 3rem;
 }
 
 #nav {
