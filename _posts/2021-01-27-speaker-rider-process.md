@@ -6,6 +6,7 @@ author: Jan Diehm, Sisi Wei, and Erika Owens
 tags: OpenNews, Pudding, events, speaking, diversity
 excerpt: Organizers, speakers, and attendees need to all work together to make events more inclusive.
 image: /media/img/blog/2021-01-27-speaker-rider-process.jpg
+image-alt: A graphic with numbers 1-10 and the words 'Blog how to use Speaker Rider for Meaningfully Inclusive Events' overlaid on top of an image of an event audience.
 ---
 
 <style>

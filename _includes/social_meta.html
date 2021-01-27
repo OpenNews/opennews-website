@@ -11,10 +11,18 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" value="{{ page.title }}" />
     <meta name="twitter:description" value="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
+
+    <!-- If there's a meta image specified: -->
     {% if page.image %}
     <meta name="twitter:image" content="https://opennews.org{{ page.image }}" />
     {% else %}
     <meta property="twitter:image" content="https://opennews.org/media/img/opennews_logo_share.png" />
     {% endif %}
+
+    {% if page.image-alt %}
+    <!-- Meta image alt text -->
+    <meta name="twitter:image:alt" content="{{ page.image-alt }}">
+    {% endif %}
+
     <meta name="twitter:url" value="https://opennews.org{{ page.url }}" />
     <meta name="twitter:site" value="@opennews" />
