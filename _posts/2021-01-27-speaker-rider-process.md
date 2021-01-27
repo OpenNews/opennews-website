@@ -30,7 +30,7 @@ Here’s how to use the rider as a speaker:
 
 ## Speakers: What You Can Do
 
-As [Tatiana Mac put it in her own speaker rider](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552), speaking comes with immense privilege. Not everyone gets to be a speaker, but if you’re in a position to do so, we encourage you to use this privilege to check whether the event you’re speaking at shares your values, and/or ask that they make sure their event is a better and more inclusive space for historically marginalized communities.
+As [Tatiana Mac put it in their own speaker rider](https://gist.github.com/tatianamac/493ca668ee7f7c07a5b282f6d9132552), speaking comes with immense privilege. Not everyone gets to be a speaker, but if you’re in a position to do so, we encourage you to use this privilege to check whether the event you’re speaking at shares your values, and/or ask that they make sure their event is a better and more inclusive space for historically marginalized communities.
 
 Before accepting an invitation to speak, [send this site](https://opennews.org/speaker-rider) to the event organizer and ask them how many criteria they meet. Got invited to an event that you don’t actually want to speak at? Send this to them anyway and help let others know which events are truly committed to this work.
 
