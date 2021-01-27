@@ -13,6 +13,26 @@ image: /projects/speaker-rider/assets/images/social-facebook.jpg
     margin: 40px 0px 20px;
     border-bottom: 1px solid #d4d4d4;
   }
+  p.to-the-rider {
+    margin: 0 auto 40px;
+    width: 280px;
+  }
+  p.to-the-rider a {
+    padding: 18px;
+    background-color: orange;
+    border: 0;
+    border-radius: .25em;
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.3rem;
+    line-height: 1.2rem;
+    text-align: center;
+    display: block;
+    font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
+  }
+  p.to-the-rider a:hover{
+    background-color: #e89600;
+  }
 </style>
 <p class="divider"></p>
 
@@ -26,7 +46,7 @@ But this is not the type of work that you can put down and pick back up later. I
 
 It’s the product of previous work in this space by members of our community (seriously, dive into the links) and many emails, Zoom calls, Google searches, and open and honest conversations between Jan from The Pudding and Sisi and Erika at OpenNews. It’s not meant to be a definitive document, but rather an evolving and guiding light. It’s open source, so feel free to republish, remix, and build. And, please send us feedback and any other resources you use. 
 
-Here’s how to use the rider as a speaker: 
+<p class="to-the-rider"><a href="https://opennews.org/projects/speaker-rider/">👉 Take me to the rider</a></p>
 
 ## Speakers: What You Can Do
 
