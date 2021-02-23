@@ -9,9 +9,9 @@ section: what we do
 
 # {{ page.title }}
 
-Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward expenses that help you develop your work or career in journalism. You might want to attend an event or workshop, take a class, sign up for a leadership-development program or faciliation training. You know best what you need. If cost is a hardship, we want to help.
+Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward expenses that help you develop your work or career in journalism. You might want to attend an event or workshop, take a class, join a training, or sign up for a leadership-development program. You know best what you need. If cost is a hardship, we want to help.
 
-[New skills and new relationships can transform your work](https://opennews.org/blog/scholarships-networks/), and we offer programs like this to strengthen your support networks and open new doors no matter where you are in your career. Sharing knowledge between peers is [one of the key ways](https://opennews.org/what/community/survey/) our community builds expertise, and we know that helping one journalist —like you!—can help many journalists do better work.
+[New skills and new relationships can transform your work](https://opennews.org/blog/scholarships-networks/), and we offer programs like this to strengthen your support networks and open new doors no matter where you are in your career. Sharing knowledge between peers is [one of the key ways](https://opennews.org/what/community/survey/) our community builds expertise, and we know that helping one journalist —like you!—will help many journalists do better work.
 
 ## When applications are open
 
@@ -45,10 +45,10 @@ Our original scholarships program helped people attend journalism events, and th
 We added the "plus" to Scholarships+ because conference registration isn't the only way financial support can help fill the gaps for journalists. Maybe you're looking into a statistics course, a leadership-development program, a coding workshop, a career coach, some facilitation training. Maybe you want to study dataviz, newsroom collaboration, social justice, census data, poverty and inequality, or something competely different! We're excited to hear your ideas, and to imagine how your journalism will change.
 
 **Can people outside of the U.S. apply for the scholarship?**  
-Applications are open to everyone. We prioritize applications from journalists of color and journalists from regional/local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
+Applications are open to everyone. We prioritize applications from journalists of color and journalists from regional and local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
 
 **When will I receive my stipend?**  
-When we notify recipients, we will include information about how to receive funds. We'll ask you to fill out a stipend form and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
+When we notify recipients, we'll include information about how to receive funds. We'll ask you to fill out a stipend form and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
 
 **What if I need an amount other than $250?**  
 We're able to offer $250 stipends at this time. If the program you're applying to costs less than $250, that's totally fine! The balance of the stipend can be used to cover your time spent participating. If the program costs more than $250, you may be able to find additional support elsewhere: Many conferences, programs, and professional organizations offer their own scholarships or other discounts, and those are always worth looking into. Events may also have things like volunteering options to help cut down on costs.
@@ -57,7 +57,7 @@ We're able to offer $250 stipends at this time. If the program you're applying t
 We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we offer [Peer Data Review](/what/community/datareview/). If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:info@opennews.org).
 
 **How do you decide who will receive a stipend?**  
-OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
+OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to take part in a program where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**  
 We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://2020.srccon.org/scholarships/)
@@ -67,4 +67,4 @@ These stipends are made possible by a grant from the Democracy Fund and contribu
 
 ## Questions?
 
-If you have any additional questions that we didn't cover here, [please reach out!](mailto:info@opennews.org).
+If you have any additional questions that we didn't cover here, [please reach out!](mailto:info@opennews.org)
