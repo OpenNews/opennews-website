@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-title: Scholarships+&#58; Financial support toward journalism events and programs
+title: Scholarships+&#58; $250 toward events and programs that help develop your work
 section: what we do
 ---
 
