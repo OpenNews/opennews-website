@@ -23,7 +23,7 @@ Our [first round of applications for 2021 is open now](https://docs.google.com/f
 
 ## What this program offers
 
-* $250 to help develop your work in journalism through events and programs.
+* $250 toward events or program expenses that help you develop your work in journalism.
 * Our support in connecting you to other resources, people, and opportunities related to your work.
 
 ## Who should apply
