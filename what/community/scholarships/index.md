@@ -1,67 +1,72 @@
 ---
 layout: post_notitle
-title: Journalism code ticket + travel scholarships
+title: Scholarships+&#58; $250 toward events and programs that help develop your work
 section: what we do
-
 ---
+
 <img src="/media/img/index_opennewsphoto.jpg" class="topline">
 <p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
 
-<h2>{{ page.title }}</h2>
+# {{ page.title }}
 
-<p class="bodybig">Events are a great opportunity to collaborate and connect with peers, but travel costs can be a hardship. Whether you&rsquo;re a developer at a newsroom without much budget for professional development, or a freelancer eager to learn more about journalism and code, OpenNews offers scholarships that cover registration plus $500 toward helping you get to an event.</p>
+Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward events and program expenses that help you develop your work or career in journalism. You might want to attend a conference or workshop, take a class, join a training, or sign up for a leadership-development program. You know best what you need. If cost is a hardship, we want to help.
 
-<p>We offer scholarships because <a href="https://opennews.org/blog/scholarships-networks/">events help people build skills and relationships</a>—two things that transform how journalists work, strengthen their support networks, and open new doors no matter where they are in their career. Sharing knowledge between peers is <a href="https://opennews.org/what/community/survey/">one of the key ways</a> our community builds expertise, so helping one journalist attend an event can help many journalists do better work.</p>
+[New skills and new relationships can transform your work](https://opennews.org/blog/scholarships-networks/), and we offer programs like this to strengthen your support networks and open new doors no matter where you are in your career. Sharing knowledge between peers is [one of the key ways](https://opennews.org/what/community/survey/) our community builds expertise, and we know that helping one journalist —like you!—will help many journalists do better work.
 
-### When applications are open
+## How to apply
 
-<!-- <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform">Apply for an event scholarship!</a>-->
+Our [first round of applications for 2021 is open now](https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform) through the end of **Wednesday, March 17**. Applicants will hear back from us by **Friday, March 26**. We're planning to open a second round of applications this year in June.
 
-Scholarship applications aren't open right now, but if you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform">Apply for a journalism stipend!</a>
 
-### What our scholarships offer
+<!--Stipend applications aren't open right now. -->If you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
-* $500 toward the cost (travel, lodging, etc.) of attending an event on journalism and technology, or an open-source event where you’ll build new skills or bring a journalism connection to a new community
-* Full coverage of your event registration fee (capped at $1,000, but most events in the community cost much less)
+## What this program offers
 
-### Who should apply
+* $250 toward events or program expenses that help you develop your work in journalism.
+* Our support in connecting you to other resources, people, and opportunities related to your work.
 
-* Anyone who is part of the journalism-code community, such as developers, designers, and data analysts working in newsrooms.
-* Anyone interested in learning more about the journalism-code community, such as people working in other areas of technology who want to share their development, design, or analysis skills with journalists.
-* People of color, women, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
+## Who should apply
 
-### What happens after you apply
+* Anyone working at the intersection of journalism and tech: developers, designers, reporters, editors, audience experts, product thinkers, newsroom allies.
+* People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
+
+## What happens after you apply
 
 OpenNews staff reviews applications and notifies all applicants.
 
-### What happens after the conference
+## What happens after I receive a stipend
 
-You tell us how it went! We'll send you a short follow-up survey and will be excited to check out anything you write or build after participating in the event.
+You tell us how everything went! We'll send you a short follow-up survey, and we'll be excited to check out anything you write or build as part of the experience.
 
 ## FAQ
 
-**What types of events are covered for travel?**  
-We'd love to consider any event that you think would help increase your participation in the journalism-code community. There are so many national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are. Some of the events prior scholarship recipients attended include: NICAR, Internet Freedom Festival, Data Harvest, SND, ONA, IRE, NABJ, JAWS CAMP, AAJA, EIJ, New Now Next, TextAV, and TechRaking.
+**What kinds of things can I use a stipend for?**  
+Our original scholarships program helped people attend journalism events, and that's part of this program, too. Previous recipients have attended events like NICAR, Internet Freedom Festival, Data Harvest, SND, ONA, IRE, NABJ, AAJA, EIJ, Collaborative Journalism Summit, LION, SembraMedia, and Allied Media Conference. Program support isn't at all limited to this list, but we hope it helps you imagine the range of national, regional, and local opportunities to connect with people working on the same kinds of projects and problems that you are.
 
-The scholarship program isn't at all limited to this list, but we hope it gives you some ideas about the range of community events. We're also open to conferences and workshops on specific themes. Many of these events can help people improve their coding, data analysis and visualization, or newsroom collaboration, but we also hear from applicants who want to study topics like social justice, census data, poverty and inequality, or education, just to name a few.
+We added the "plus" to Scholarships+ because conference registration isn't the only way financial support can help fill the gaps for journalists. Maybe you're looking into a statistics course, a leadership-development program, a coding workshop, a career coach, some facilitation training. Maybe you want to study dataviz, newsroom collaboration, social justice, census data, poverty and inequality, or something competely different! We're excited to hear your ideas, and to imagine how your journalism will change.
 
 **Can people outside of the U.S. apply for the scholarship?**  
-Applications are open to everyone and we're open to events taking place anywhere. We prioritize applications from journalists of color and journalists from regional/local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
+Applications are open to everyone. We prioritize applications from journalists of color and journalists from regional and local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
 
-**When will I receive my scholarship?**  
-When we notify scholarship recipients, we will include information about how to receive the scholarship funds. We'll ask you to fill out a form to receive a stipend and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
- 
-**What if I need more than $500 for my travel?**  
-We’re able to offer $500 scholarships at this time. Many events and professional organizations offer their own scholarship programs as well. Or maybe your event has things like a room-share board to help cut down on costs.
+**When will I receive my stipend?**  
+When we notify recipients, we'll include information about how to receive funds. We'll ask you to fill out a stipend form and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
 
-**How do you decide who will receive a scholarship?**  
-OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to attend an event where they are speaking or otherwise making a major contribution.
+**What if I need an amount other than $250?**  
+We're able to offer $250 stipends at this time. If the program you want to participate in costs less than $250, that's totally fine! The rest of the stipend can be used to cover your time spent participating. If the program costs more than $250, you may be able to find additional support elsewhere: Many conferences, programs, and professional organizations offer their own scholarships or other discounts, and those are always worth looking into. Events may also have things like volunteering options to help cut down on costs.
+
+**What if I need something other than funding?**  
+We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we offer [Peer Data Review](/what/community/datareview/). If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:info@opennews.org).
+
+**How do you decide who will receive a stipend?**  
+OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to take part in a program where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**  
-We run a separate scholarship process for SRCCON events. You can find more details [on the SRCCON website](https://srccon.org/scholarships/)!
+We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://2020.srccon.org/scholarships/)
 
-**Who funds these scholarships?**  
-Our scholarships are made possible by grants from the Democracy Fund and News Integrity Initiative, and [donations from community members](https://opennews.networkforgood.com/).
+**Who funds this program?**  
+These stipends are made possible by a grant from the Democracy Fund and contributions from [OpenNews sustainers](https://opennews.networkforgood.com/).
 
-### Questions?
-If you have any additional questions that we didn't cover here, just [email us](mailto:info@opennews.org).
+## Questions?
+
+If you have any additional questions that we didn't cover here, [please reach out!](mailto:info@opennews.org)
