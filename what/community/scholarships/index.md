@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-title: Scholarships+&#58; $250 stipends toward your work in journalism
+title: Scholarships+&#58; Financial support toward journalism events and programs
 section: what we do
 ---
 
@@ -9,19 +9,21 @@ section: what we do
 
 # {{ page.title }}
 
-Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward expenses that help you develop your work or career in journalism. You might want to attend an event or workshop, take a class, join a training, or sign up for a leadership-development program. You know best what you need. If cost is a hardship, we want to help.
+Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward events and program expenses that help you develop your work or career in journalism. You might want to attend a conference or workshop, take a class, join a training, or sign up for a leadership-development program. You know best what you need. If cost is a hardship, we want to help.
 
 [New skills and new relationships can transform your work](https://opennews.org/blog/scholarships-networks/), and we offer programs like this to strengthen your support networks and open new doors no matter where you are in your career. Sharing knowledge between peers is [one of the key ways](https://opennews.org/what/community/survey/) our community builds expertise, and we know that helping one journalist —like you!—will help many journalists do better work.
 
-## When applications are open
+## How to apply
 
-<!-- <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdLUzoF4S8I4WHYKjCgHEzafIjmYSzLhlidar-pmxZxeEmk6w/viewform">Apply for a journalism stipend!</a>-->
+Our [first round of applications for 2021 is open now](https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform) through the end of **Wednesday, March 17**. Applicants will hear back from us by **Friday, March 26**. We're planning to open a second round of applications this year in June.
 
-Stipend applications aren't open right now, but if you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform">Apply for a journalism stipend!</a>
+
+<!--Stipend applications aren't open right now. -->If you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
 ## What this program offers
 
-* $250 to help improve your work in journalism, in whatever way works best for you.
+* $250 to help develop your work in journalism through events and programs.
 * Our support in connecting you to other resources, people, and opportunities related to your work.
 
 ## Who should apply
