@@ -9,7 +9,7 @@ section: what we do
 
 # {{ page.title }}
 
-Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward events and program expenses that help you develop your work or career in journalism. You might want to attend a conference or workshop, take a class, join a training, or sign up for a leadership-development program. You know best what you need. If cost is a hardship, we want to help.
+Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews offers $250 toward events and program expenses that help you develop your work at the intersection of journalism and tech. You might want to attend a conference or workshop, take a class, join a training, or sign up for a leadership program. You know best what you need. If cost is a hardship, we want to help.
 
 [New skills and new relationships can transform your work](https://opennews.org/blog/scholarships-networks/), and we offer programs like this to strengthen your support networks and open new doors no matter where you are in your career. Sharing knowledge between peers is [one of the key ways](https://opennews.org/what/community/survey/) our community builds expertise, and we know that helping one journalist —like you!—will help many journalists do better work.
 
@@ -23,7 +23,7 @@ Our [first round of applications for 2021 is open now](https://docs.google.com/f
 
 ## What this program offers
 
-* $250 toward events or program expenses that help you develop your work in journalism.
+* $250 toward events or program expenses that help you develop your work in journalism and tech.
 * Our support in connecting you to other resources, people, and opportunities related to your work.
 
 ## Who should apply
