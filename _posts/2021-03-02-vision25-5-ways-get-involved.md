@@ -4,7 +4,7 @@ title: Vision25&colon; 5 ways to get involved in the movement for racial equity 
 date: 2021-03-02 10:00
 author: <a href="http://opennews.org/who/">Sisi Wei</a>, on March 2, 2021
 tags: OpenNews, Maynard, ONA, Vision25
-excerpt: A collaboration between the Online News Association, the Maynard Institute, and OpenNews.
+excerpt: The past few months, we have worked behind the scenes scheming (the good kind) and strategizing new efforts through our Vision25 collaboration.
 ---
 
 <style>
