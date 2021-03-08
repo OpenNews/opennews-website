@@ -19,10 +19,22 @@ image: /media/img/srccon-2020-screenshot.png
     text-decoration: underline;
     color: #fc6d1f;
   }
-</style>
 
+  #app-form{
+    min-height: 2180px;
+    width: 100%;
+  }
+
+  @media screen and (max-width: 480px){
+    #app-form{
+      max-width: 300px;
+      min-height: 3380px;
+    }
+    
+  }
+</style>
 <img src="/media/img/srccon-2020-screenshot.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;">
-<p class="caption">We first announced the creation of the DEI Coalition for Anti-Racist, Equitable, and Just Newsrooms at <a href="https://2020.srccon.org/">SRCCON 2020</a>, our annual conference.</p>
+<p class="caption">THIS WILL BECOME THE ACTUAL ART WE WANT TO USE.</p>
 <h2>{{ page.title }}</h2>
 
 <p class="bodybig">To move toward a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities we’ve long ignored can trust in journalism, OpenNews is co-creating with the community two digital organizing spaces focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry.</p>
@@ -48,3 +60,6 @@ Our committees:
 </ul>
 
 Many more people have also signed up to help us spread the word when the community spaces are ready. If you'd like to do the same, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJncwQftMaZY_Z2-FKhmDg36K8CBPWcN00G3A0INSBwtePnQ/viewform">sign up here</a>.
+
+<h3>Testing the Google Form Embed</h3>
+<iframe id="app-form" src="https://docs.google.com/forms/d/e/1FAIpQLSdnntnLzI--Wkw4e9iTpHjsxrK7CZ-ZAlQvKvyt1U1qIpEN_Q/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
