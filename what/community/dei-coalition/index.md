@@ -30,31 +30,56 @@ image: /media/img/srccon-2020-screenshot.png
     color: #fc6d1f;
   }
 
-  #channels {
+  .channels {
     width: 100%;
-    table-layout: fixed;
+    display: flex;
+    /*flex-wrap: wrap;*/
   }
 
-  #channels tr {
-    border-bottom: 0px;
+  .channels .column {
+    width: 50%;
+    background-color: #fc6f1d29;
   }
 
-  #channels tr td {
-    text-align: left;
-    vertical-align: top;
-  }
-
-  #channels th {
+  .channels .column-head {
     font-family: 'sofia-pro','Open Sans', Helvetica, Verdana, Arial, sans-serif;
     font-size: 1.1rem;
-    background-color: #fc6f1d29;
+    background-color: #ffc2a5;
     padding: 10px;
+    text-align: center;
+    font-weight: bold;
   }
 
-  #channels th.filler {
-    width: 4px;
-    background-color: white;
-    padding: 0px;
+  .channels h5 {
+    font-family: 'sofia-pro','Open Sans', Helvetica, Verdana, Arial, sans-serif;
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .channels .column .content {
+    padding: 0 5px;
+  }
+
+  .staff-only {
+    border-right: 2px solid white;
+  }
+
+  .manager-only {
+    border-left: 2px solid white;
+  }
+
+  @media screen and (max-width: 500px){
+    .channels {
+      flex-wrap: wrap;
+    }
+
+    .channels .column {
+      width: 100%;
+    }
+
+    .staff-only, .manager-only {
+      border: 0px;
+    }
   }
 
   .membership li, .membership p {
@@ -69,7 +94,7 @@ image: /media/img/srccon-2020-screenshot.png
 
   @media screen and (max-width: 480px){
     #app-form{
-      max-width: 300px;
+      /*max-width: 300px;*/
       min-height: 3380px;
     }
   }
@@ -112,7 +137,7 @@ Many more people have also signed up to help us spread the word when the communi
     <li>You are who you say you are (verification process will like include social media and LinkedIn; reference) </li>
   </ul>
 
-  <p>This is likely not the place for you if:</p>
+  <p><strong>This is likely not the place for you if:</strong></p>
 
   <ul>
     <li>Journalism organizations probably think of you primarily as a vendor, for services such as technology or marketing</li>
@@ -133,72 +158,57 @@ Many more people have also signed up to help us spread the word when the communi
 
   <h4>ACCESS TO ADDITIONAL PRIVATE CHANNELS</h4>
 
-  <table id="channels">
-    <thead>
-      <tr>
-        <th>STAFF-ONLY channels</th>
-        <th class="filler"></th>
-        <th>MANAGER-ONLY channels</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>
-          <ul>
-            <li>People at your organization would not consider you a manager</li>
-            <li>You do not have direct reports </li>
-            <li>You primarily work for news organizations as a freelancer or contractor creating content, products or news reports</li>
-            <li>You do not have fire/hire power </li>
-            <li>You are an intern or fellow</li>
-            <li>You are a current student</li>
-            <li>You’ve left a management role and are not seeking another management role (a change-of-status process is being developed)</li>
-          </ul>
-        </td>
-        <td></td>
-        <td>
-          <ul>
-            <li>People at your organization would consider you a manager</li>
-            <li>You have hiring/firing power; say over employee salaries</li>
-            <li>You may have one or more direct reports</li>
-            <li>You primarily work for news organizations as a contractor in the capacity of helping make strategic decisions that could include hiring or firing</li>
-            <li>You’re required by organization to participate in manager training </li>
-            <li>You have budget oversight</li>
-            <li>You write performance evaluations</li>
-            <li>You could get legally fired for participating in formal labor organizing</li>
-            <li>Your job duties include enforcing company policy toward its employees</li>
-            <li>You are a professor or higher-ed instructor</li>
-            <li>You left your previous role and are actively seeking management roles</li>
-            <li>People expected to self-report if they are promoted into management (a change-of-status process is being developed)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <th>Main conversations in these channels</th>
-        <th class="filler"></th>
-        <th>Main conversations in these channels</th>
-      </tr>
-      <tr>
-        <td>
-          <ul>
-            <li>How to do diversity, inclusion, equity and belonging work — as a staff person</li>
-            <li>How to start or work in diversity committees, employee resource groups, unions</li>
-            <li>Best ways to convince others at your workplace (peers and managers) to contribute to this work</li>
-            <li>How can we better afford to do this work, in terms of compensation and time</li>
-          </ul>
-        </td>
-        <td></td>
-        <td>
-          <ul>
-            <li>How to coach my team through implementation of DEI changes</li>
-            <li>How to apply a DEI lens to business/fiscal practices</li>
-            <li>Work on retention, promotion, and development</li>
-            <li>Recruit a diverse newsroom and/or freelancers</li>
-            <li>Best ways to convince others at your workplace (your managers, peers, and other staff) to contribute to this work</li>
-          </ul>
-        </td>
-      </tr>
-    </tbody>
-  </table>
+  <div class="channels">
+    <div class="staff-only column">
+      <div class="column-head">STAFF-ONLY channels</div>
+      <div class="content">
+        <ul>
+          <li>People at your organization would not consider you a manager</li>
+          <li>You do not have direct reports </li>
+          <li>You primarily work for news organizations as a freelancer or contractor creating content, products or news reports</li>
+          <li>You do not have fire/hire power </li>
+          <li>You are an intern or fellow</li>
+          <li>You are a current student</li>
+          <li>You’ve left a management role and are not seeking another management role (a change-of-status process is being developed)</li>
+        </ul>
+        <h5>Main conversations in these channels</h5>
+        <ul>
+          <li>How to do diversity, inclusion, equity and belonging work — as a staff person</li>
+          <li>How to start or work in diversity committees, employee resource groups, unions</li>
+          <li>Best ways to convince others at your workplace (peers and managers) to contribute to this work</li>
+          <li>How can we better afford to do this work, in terms of compensation and time</li>
+        </ul>
+      </div>
+    </div>
+    <div class="manager-only column">
+      <div class="column-head">MANAGER-ONLY channels</div>
+      <div class="content">
+        <ul>
+          <li>People at your organization would consider you a manager</li>
+          <li>You have hiring/firing power; say over employee salaries</li>
+          <li>You may have one or more direct reports</li>
+          <li>You primarily work for news organizations as a contractor in the capacity of helping make strategic decisions that could include hiring or firing</li>
+          <li>You’re required by organization to participate in manager training </li>
+          <li>You have budget oversight</li>
+          <li>You write performance evaluations</li>
+          <li>You could get legally fired for participating in formal labor organizing</li>
+          <li>Your job duties include enforcing company policy toward its employees</li>
+          <li>You are a professor or higher-ed instructor</li>
+          <li>You left your previous role and are actively seeking management roles</li>
+          <li>People expected to self-report if they are promoted into management (a change-of-status process is being developed)</li>
+        </ul>
+        <h5>Main conversations in these channels</h5>
+        <ul>
+          <li>How to coach my team through implementation of DEI changes</li>
+          <li>How to apply a DEI lens to business/fiscal practices</li>
+          <li>Work on retention, promotion, and development</li>
+          <li>Recruit a diverse newsroom and/or freelancers</li>
+          <li>Best ways to convince others at your workplace (your managers, peers, and other staff) to contribute to this work</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
 </div>
 
 <h3>Testing the Google Form Embed</h3>
