@@ -32,6 +32,7 @@ image: /media/img/srccon-2020-screenshot.png
 
   #channels {
     width: 100%;
+    table-layout: fixed;
   }
 
   #channels tr {
