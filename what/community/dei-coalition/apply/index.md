@@ -12,7 +12,7 @@ image: /media/img/srccon-2020-screenshot.png
     color: black;
   }
 
-  .membership h2 {
+  .membership h2, .join {
     font-size: 1.8em;
   }
 
@@ -62,10 +62,13 @@ image: /media/img/srccon-2020-screenshot.png
     font-family: 'sofia-pro','Open Sans', Helvetica, Verdana, Arial, sans-serif;
     font-size: 1.1rem;
     text-align: center;
+    padding: 15px 10px 0;
+    margin: 0 15px;
+    border-top: 3px solid white;
   }
 
   .channels .column .content {
-    padding: 0 5px;
+    padding: 0 12px 0 0;
   }
 
   .staff-only {
@@ -156,7 +159,7 @@ image: /media/img/srccon-2020-screenshot.png
           <li>You are a current student</li>
           <li>You’ve left a management role and are not seeking another management role (a change-of-status process is being developed)</li>
         </ul>
-        <h5>Main conversations in these channels</h5>
+        <h5>Main conversations<br/>in these channels:</h5>
         <ul>
           <li>How to do diversity, inclusion, equity and belonging work — as a staff person</li>
           <li>How to start or work in diversity committees, employee resource groups, unions</li>
@@ -182,7 +185,7 @@ image: /media/img/srccon-2020-screenshot.png
           <li>You left your previous role and are actively seeking management roles</li>
           <li>People expected to self-report if they are promoted into management (a change-of-status process is being developed)</li>
         </ul>
-        <h5>Main conversations in these channels</h5>
+        <h5>Main conversations<br/>in these channels:</h5>
         <ul>
           <li>How to coach my team through implementation of DEI changes</li>
           <li>How to apply a DEI lens to business/fiscal practices</li>
@@ -196,7 +199,7 @@ image: /media/img/srccon-2020-screenshot.png
 
 </div>
 
-<h2>Join the DEI Coalition</h2>
+<h2 class="join">Join the DEI Coalition</h2>
 Before starting your application below, please make sure that you’ve reviewed:
 
 <ul>
