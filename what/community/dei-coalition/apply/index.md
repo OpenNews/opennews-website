@@ -206,7 +206,7 @@ Before filling out your membership request form below, please make sure that you
 
 <ul>
   <li>The Membership Criteria listed above</li>
-  <li>Our Community Agreements</li>
+  <li><a href="https://docs.google.com/document/d/1xzZlzvUkbGCb9EjYrLUx_QSpSGCAgSY8UuXqsxBGB3Q/edit">Our Community Agreements</a></li>
 </ul>
 
 We’ll be asking you to agree to both, so checking them out now will save you time.
