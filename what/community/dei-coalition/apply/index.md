@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-title: Apply to Join the DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
+title: Join the DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
 image: /media/img/srccon-2020-screenshot.png
 
@@ -112,10 +112,12 @@ image: /media/img/srccon-2020-screenshot.png
 </style>
 <!-- <img src="/media/img/srccon-2020-screenshot.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;">
 <p class="caption">THIS WILL BECOME THE ACTUAL ART WE WANT TO USE.</p> -->
-<h2>Apply to Join</h2>
+<h2>Join The DEI Coalition</h2>
 <h3>DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms</h3>
 
-<p>Stuff here about what the DEI coalition is and how to learn that if you somehow just got to this page. TKTKKTK.</p>
+<p>Membership in the DEI Coalition is free, and if you meet the membership criteria below, we'd love for you to join! Just fill out our membership request form at the bottom of this page.</p>  
+
+<p>Want to learn more about what the DEI Coalition is? <a href="/what/community/dei-coalition/">Get more information here.</a></p>
 
 <div class="membership">
   <h2>General Membership Criteria</h2>
@@ -199,8 +201,8 @@ image: /media/img/srccon-2020-screenshot.png
 
 </div>
 
-<h2 class="join">Join the DEI Coalition</h2>
-Before starting your application below, please make sure that you’ve reviewed:
+<h2 class="join">Membership Request Form</h2>
+Before filling out your membership request form below, please make sure that you’ve reviewed:
 
 <ul>
   <li>The Membership Criteria listed above</li>
