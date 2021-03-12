@@ -99,14 +99,14 @@ image: /media/img/srccon-2020-screenshot.png
   }
 
   #app-form{
-    min-height: 2180px;
+    min-height: 3200px;
     width: 100%;
     margin-top: 30px;
   }
 
   @media screen and (max-width: 480px){
     #app-form{
-      min-height: 3380px;
+      min-height: 4750px;
     }
   }
 </style>
