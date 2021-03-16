@@ -212,3 +212,14 @@ Before filling out your membership request form below, please make sure that you
 We’ll be asking you to agree to both, so checking them out now will save you time.
 
 <iframe id="app-form" src="https://docs.google.com/forms/d/e/1FAIpQLScLyf-gREURzPU50DiEGX5d79rNz8jmE6BM1ZAKnAg84jhZwA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
+
+<script type="text/javascript">
+  count = 0;
+  $('iframe#app-form').load(function(){
+    count++;
+    if (count > 1){
+      console.log('button pushed');
+      document.getElementById("app-form").scrollIntoView(); 
+    }
+  });
+</script>
