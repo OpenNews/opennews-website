@@ -218,7 +218,6 @@ We’ll be asking you to agree to both, so checking them out now will save you t
   $('iframe#app-form').load(function(){
     count++;
     if (count > 1){
-      console.log('button pushed');
       document.getElementById("app-form").scrollIntoView(); 
     }
   });
