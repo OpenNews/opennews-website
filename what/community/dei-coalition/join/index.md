@@ -124,7 +124,7 @@ image: /media/img/srccon-2020-screenshot.png
   <ul>
     <li>You identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism</li>
     <li>You are committed to fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities journalism has long harmed and/or ignored can trust in journalism again, or for the first time ever.</li>
-    <li>You are who you say you are (verification process will like include social media and LinkedIn; reference) </li>
+    <li>You are who you say you are (our membership request process includes verification) </li>
   </ul>
 
   <p><strong>This is likely not the place for you if:</strong></p>
@@ -138,7 +138,7 @@ image: /media/img/srccon-2020-screenshot.png
 
   <h2>Which private channels should I apply for?</h2>
 
-  <p>In your application, you’ll have the option to apply to join private staff-only channels, private manager-only channels, or choose to apply for neither, and by default join our coalition-wide public channels.</p>
+  <p>In your membership request form, you’ll have the option to apply to join private staff-only channels, private manager-only channels, or choose to apply for neither, and by default join our coalition-wide public channels.</p>
 
   <p>Folks who were laid off or are unemployed should look at the specific-to-space criteria/considerations based on your last role.</p>
 
