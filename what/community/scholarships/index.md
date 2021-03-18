@@ -15,11 +15,11 @@ Whether you’re a developer in a small newsroom without much budget for trainin
 
 ## How to apply
 
-Our [first round of applications for 2021 is open now](https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform) through the end of **Wednesday, March 17**. Applicants will hear back from us by **Friday, March 26**. We're planning to open a second round of applications this year in June.
+<!--Our [first round of applications for 2021 is open now](https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform) through the end of **Wednesday, March 17**. Applicants will hear back from us by **Friday, March 26**. We're planning to open a second round of applications this year in June.
 
 <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSc44yzxThSu6-lRW5PxDIxaLLlyn28YX6FHM6jL3eZIYzyrXg/viewform">Apply for a journalism stipend!</a>
-
-<!--Stipend applications aren't open right now. -->If you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
+-->
+Our first round of applications for 2021 is now closed, and we're planning to open a second round of applications in June. If you'd like to get notifications about key dates in this program, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
 ## What this program offers
 
