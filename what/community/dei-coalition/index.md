@@ -123,8 +123,8 @@ image: /media/img/srccon-2020-screenshot.png
   }
 
 </style>
-<img src="/media/img/srccon-2020-screenshot.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;">
-<p class="caption">We first announced the creation of the DEI Coalition for Anti-Racist, Equitable, and Just Newsrooms at <a href="https://2020.srccon.org/">SRCCON 2020</a>, our annual conference.</p>
+<!-- <img src="/media/img/srccon-2020-screenshot.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;">
+<p class="caption">We first announced the creation of the DEI Coalition for Anti-Racist, Equitable, and Just Newsrooms at <a href="https://2020.srccon.org/">SRCCON 2020</a>, our annual conference.</p> -->
 <h2>{{ page.title }}</h2>
 
 <p class="bodybig">Together, OpenNews and over 100 members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Together, members can use this shared community space, hosted on Slack, to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
