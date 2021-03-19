@@ -115,36 +115,36 @@ image: /media/img/srccon-2020-screenshot.png
 <h2>Join The DEI Coalition</h2>
 <h3>DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms</h3>
 
-<p>Membership in the DEI Coalition is free, and if you meet the membership criteria below, we'd love for you to join! Just fill out our membership request form at the bottom of this page.</p>  
+<p>Membership in the DEI Coalition is free, and if you meet the membership criteria below, we'd love for you to join! Just fill out our membership request form at the bottom of this page.</p>
 
 <p>Want to learn more about what the DEI Coalition is? <a href="/what/community/dei-coalition/">Get more information here.</a></p>
 
 <div class="membership">
   <h2>General Membership Criteria</h2>
   <ul>
-    <li>You identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism</li>
-    <li>You are committed to fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities journalism has long harmed and/or ignored can trust in journalism again, or for the first time ever.</li>
-    <li>You are who you say you are (our membership request process includes verification) </li>
+    <li>You identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism.</li>
+    <li>You are committed to fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, and just, and where the communities journalism has long harmed and/or ignored can trust in journalism again, or for the first time ever.</li>
+    <li>You are who you say you are (our membership request process includes verification).</li>
   </ul>
 
   <p><strong>This is likely not the place for you if:</strong></p>
 
   <ul>
-    <li>Journalism organizations probably think of you primarily as a vendor, for services such as technology or marketing</li>
-    <li>You do not believe in racism, systemic bias or oppression, and/or the concept of privilege, and often challenge or shut down conversations when these topics come up</li>
-    <li>You’re mostly seeking out a therapeutic experience</li>
-    <li>You are hoping to exclusively host your organization’s union in this space</li>
+    <li>Journalism organizations probably think of you primarily as a vendor, for services such as technology or marketing.</li>
+    <li>You do not believe in racism, systemic bias or oppression, and/or the concept of privilege, and often challenge or shut down conversations when these topics come up.</li>
+    <li>You’re mostly seeking out a therapeutic experience.</li>
+    <li>You are hoping to exclusively host your organization’s union in this space.</li>
   </ul>
 
   <h2>Which private channels should I apply for?</h2>
 
-  <p>In your membership request form, you’ll have the option to apply to join private staff-only channels, private manager-only channels, or choose to apply for neither, and by default join our coalition-wide public channels.</p>
+  <p>In your membership request form, you’ll have the option to apply to join private staff-only channels, private manager-only channels, or choose to apply for neither, and by default join our Coalition-wide public channels.</p>
 
   <p>Folks who were laid off or are unemployed should look at the specific-to-space criteria/considerations based on your last role.</p>
 
   <p>Foundation officers committed to DEI work should select neither.</p>
 
-  <p>These are the things that could be true about you in these spaces. These lists should help you decide which private channels you should apply to enter. You may want to choose access to staff-only or manager-only if: </p>
+  <p>Here are criteria that could be true about you in these spaces. These lists should help you decide which private channels you should apply to enter. (You’ll also be able to change which private channels you have access to if your job changes later.) You may want to choose access to staff-only or manager-only channels if:</p>
 
   <h4>Access to Additional Private Channels</h4>
 
@@ -155,16 +155,16 @@ image: /media/img/srccon-2020-screenshot.png
         <ul>
           <li>People at your organization would not consider you a manager</li>
           <li>You do not have direct reports </li>
-          <li>You primarily work for news organizations as a freelancer or contractor creating content, products or news reports</li>
-          <li>You do not have fire/hire power </li>
+          <li>You primarily work for news organizations as a freelancer or contractor creating content, products, or news reports</li>
+          <li>You do not have hiring/firing power </li>
           <li>You are an intern or fellow</li>
           <li>You are a current student</li>
-          <li>You’ve left a management role and are not seeking another management role (a change-of-status process is being developed)</li>
+          <li>You’ve left a management role and are not seeking another management role</li>
         </ul>
         <h5>Main conversations<br/>in these channels:</h5>
         <ul>
           <li>How to do diversity, inclusion, equity and belonging work — as a staff person</li>
-          <li>How to start or work in diversity committees, employee resource groups, unions</li>
+          <li>How to start or work in diversity committees, employee resource groups, and/or unions</li>
           <li>Best ways to convince others at your workplace (peers and managers) to contribute to this work</li>
           <li>How can we better afford to do this work, in terms of compensation and time</li>
         </ul>
@@ -176,16 +176,15 @@ image: /media/img/srccon-2020-screenshot.png
         <ul>
           <li>People at your organization would consider you a manager</li>
           <li>You have hiring/firing power; say over employee salaries</li>
-          <li>You may have one or more direct reports</li>
+          <li>You have one or more direct reports</li>
           <li>You primarily work for news organizations as a contractor in the capacity of helping make strategic decisions that could include hiring or firing</li>
-          <li>You’re required by organization to participate in manager training </li>
+          <li>You’re required to participate in manager training </li>
           <li>You have budget oversight</li>
           <li>You write performance evaluations</li>
           <li>You could get legally fired for participating in formal labor organizing</li>
-          <li>Your job duties include enforcing company policy toward its employees</li>
+          <li>Your job duties include enforcing company policy toward employees</li>
           <li>You are a professor or higher-ed instructor</li>
           <li>You left your previous role and are actively seeking management roles</li>
-          <li>People expected to self-report if they are promoted into management (a change-of-status process is being developed)</li>
         </ul>
         <h5>Main conversations<br/>in these channels:</h5>
         <ul>
