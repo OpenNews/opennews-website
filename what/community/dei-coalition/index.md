@@ -129,23 +129,23 @@ image: /media/img/srccon-2020-screenshot.png
 
 <p class="bodybig">Together, OpenNews and over 100 members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Together, members can use this shared community space, hosted on Slack, to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
 
-<p class="button"><a href="https://opennews.org/what/community/dei-coalition/join/">Join the DEI Coalition Slack</a></p>
+<p class="button"><a href="/what/community/dei-coalition/join/">Join the DEI Coalition Slack</a></p>
 
 Membership for the DEI Coalition Slack community space is free, and if you identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism, you’re eligible to join.
 
 
 <h3>Private Channels</h3>
-The DEI Coalition Slack includes channels for everyone — dedicated to conversations around anything from power to compensation equity to allyship— as well as private channels just for coalition members in staff and management roles. We acknowledge that different roles in organizations come with different challenges and different ways to create change. These private staff-only or manager-only channels serve as a way for people in similar positions of power to learn from each other’s actions and strategies. Our page on [joining the coalition](https://opennews.org/what/community/dei-coalition/join/) explains how to decide which private channels to apply for, and what the main conversations in each set of private channels will be about.
+The DEI Coalition Slack includes channels for everyone — dedicated to conversations around anything from power to compensation equity to allyship— as well as private channels just for coalition members in staff and management roles. We acknowledge that different roles in organizations come with different challenges and different ways to create change. These private staff-only or manager-only channels serve as a way for people in similar positions of power to learn from each other’s actions and strategies. Our page on [joining the coalition](/what/community/dei-coalition/join/) explains how to decide which private channels to apply for, and what the main conversations in each set of private channels will be about.
 
 
-<p class="button"><a href="https://opennews.org/what/community/dei-coalition/join/">Join the DEI Coalition Slack</a></p>
+<p class="button"><a href="/what/community/dei-coalition/join/">Join the DEI Coalition Slack</a></p>
 
 
 <h3>Find out more</h3>
 
 <p class="bodybig">
   👉🏼 <a href="TK">Read OUR TK BLOGPOST LINK</a>
-  <br>👉🏼 <a href="https://opennews.org/what/community/dei-coalition/join/">Read our membership criteria</a>
+  <br>👉🏼 <a href="/what/community/dei-coalition/join/">Read our membership criteria</a>
   <br>👉🏼 <a href="/blog/dei-coalition-announcement/">Read our original DEI Coalition announcement</a>
 </p>
 
