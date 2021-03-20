@@ -2,6 +2,7 @@
 layout: post_notitle
 title: Join the DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
+description: Become a member of the DEI Coalition Slack.
 image: /media/img/dei-coalition/dei-card-A1.png
 
 ---
