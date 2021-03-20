@@ -7,6 +7,7 @@ image: /media/img/dei-coalition/dei-card-A1.png
 
 ---
 <style>
+
   article h2 {
     font-size: 2.5em;
     font-weight: bold;
@@ -112,7 +113,7 @@ image: /media/img/dei-coalition/dei-card-A1.png
   }
 </style>
 
-<h2>Join The DEI Coalition</h2>
+<h2>Join the DEI Coalition Slack</h2>
 <h3>DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms</h3>
 
 <p>Membership in the DEI Coalition is free, and if you meet the membership criteria below, we'd love for you to join! Just fill out our membership request form at the bottom of this page.</p>
