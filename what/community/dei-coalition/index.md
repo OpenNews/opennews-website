@@ -2,7 +2,7 @@
 layout: post_notitle
 title: DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
-image: /media/img/srccon-2020-screenshot.png
+image: /media/img/dei-coalition/dei-card-A1.png
 
 ---
 <style>
@@ -105,9 +105,8 @@ image: /media/img/srccon-2020-screenshot.png
     max-width: 350px;
   }
   p.button a {
-    padding: 12px;
-    background-color: #ecb622;
-    border: 0;
+    padding: 18px 12px;
+    background-color: #dd9f40;
     border-radius: .25em;
     color: #fff;
     text-decoration: none;
@@ -116,20 +115,20 @@ image: /media/img/srccon-2020-screenshot.png
     text-align: center;
     display: block;
     font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
-    text-shadow: 0px 0px 6px #987917;
+    text-shadow: 0px 1px 2px #3e3e3e;
+    border: 1px solid #bd8329;
   }
   p.button a:hover{
-    background-color: #daa412;
+    background-color: #bf8d07;
   }
 
 </style>
-<!-- <img src="/media/img/srccon-2020-screenshot.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;">
-<p class="caption">We first announced the creation of the DEI Coalition for Anti-Racist, Equitable, and Just Newsrooms at <a href="https://2020.srccon.org/">SRCCON 2020</a>, our annual conference.</p> -->
-<h2>{{ page.title }}</h2>
+<p style="margin-bottom:0px;"><img src="/media/img/dei-coalition/dei-card-A1.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;"></p>
+<h2 style="margin-top: 15px;">{{ page.title }}</h2>
 
 <p class="bodybig">Together, OpenNews and over 100 members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Together, members can use this shared community space, hosted on Slack, to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
 
-<p class="button"><a href="/what/community/dei-coalition/join/">Join the DEI Coalition Slack</a></p>
+<p class="button"><a href="/what/community/dei-coalition/join/">👉 Join the DEI Coalition Slack</a></p>
 
 Membership for the DEI Coalition Slack community space is free, and if you identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism, you’re eligible to join.
 
@@ -138,15 +137,13 @@ Membership for the DEI Coalition Slack community space is free, and if you ident
 The DEI Coalition Slack includes channels for everyone — dedicated to conversations around anything from power to compensation equity to allyship— as well as private channels just for coalition members in staff and management roles. We acknowledge that different roles in organizations come with different challenges and different ways to create change. These private staff-only or manager-only channels serve as a way for people in similar positions of power to learn from each other’s actions and strategies. Our page on [joining the coalition](/what/community/dei-coalition/join/) explains how to decide which private channels to apply for, and what the main conversations in each set of private channels will be about.
 
 
-<p class="button"><a href="/what/community/dei-coalition/join/">Join the DEI Coalition Slack</a></p>
+<p class="button"><a href="/what/community/dei-coalition/join/">👉 Join the DEI Coalition Slack</a></p>
 
 
 <h3>Find out more</h3>
-
 <p class="bodybig">
-  👉🏼 <a href="TK">Read OUR TK BLOGPOST LINK</a>
-  <br>👉🏼 <a href="/what/community/dei-coalition/join/">Read our membership criteria</a>
-  <br>👉🏼 <a href="/blog/dei-coalition-announcement/">Read our original DEI Coalition announcement</a>
+  👉 <a href="/what/community/dei-coalition/join/">Read our membership criteria</a>
+  <br>👉 <a href="/blog/dei-coalition-announcement/">Read our original DEI Coalition announcement</a>
 </p>
 
 <h3>Creating the DEI Coalition Slack</h3>

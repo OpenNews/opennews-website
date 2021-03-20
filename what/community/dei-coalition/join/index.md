@@ -2,7 +2,7 @@
 layout: post_notitle
 title: Join the DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
-image: /media/img/srccon-2020-screenshot.png
+image: /media/img/dei-coalition/dei-card-A1.png
 
 ---
 <style>
@@ -110,8 +110,7 @@ image: /media/img/srccon-2020-screenshot.png
     }
   }
 </style>
-<!-- <img src="/media/img/srccon-2020-screenshot.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;">
-<p class="caption">THIS WILL BECOME THE ACTUAL ART WE WANT TO USE.</p> -->
+
 <h2>Join The DEI Coalition</h2>
 <h3>DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms</h3>
 
