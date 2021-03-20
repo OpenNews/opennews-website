@@ -144,10 +144,10 @@ image: /media/img/dei-coalition/dei-card-A1.png
     p.button a { font-size: 1.15rem; }
   }
       
-
-
 </style>
-<p style="margin-bottom:0px;"><img src="/media/img/dei-coalition/dei-card-A1.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;"></p>
+<p><img src="/media/img/dei-coalition/dei-card-A1.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;"></p>
+<p class="caption" style="text-align: right; margin-right: 0px; margin-top: -20px;">(<a href="https://iniwil.github.io/">William Lager</a> for OpenNews and the DEI Coalition)</p>
+
 <h2 style="margin-top: 15px;">{{ page.title }}</h2>
 
 <p class="bodybig">Together, OpenNews and over 100 members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Together, members can use this shared community space, hosted on Slack, to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
