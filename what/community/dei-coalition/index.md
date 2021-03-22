@@ -173,7 +173,7 @@ The DEI Coalition Slack includes channels for everyone — dedicated to conversa
 
 In July 2020, OpenNews first [announced](https://opennews.org/blog/dei-coalition-announcement/) the DEI Coalition at [SRCCON](https://2020.srccon.org/), our annual journalism conference. The core of the DEI Coalition project was to co-create with the community a digital space focused on creating anti-racist, equitable, and just newsrooms. Within a week, over 100 people had signed up to volunteer their time, perspective, and expertise, in service of creating this space.
 
-Every part of the DEI Coalition Slack space — from the application process to the community agreements to  the member guide — were all created collaboratively by volunteers who worked together for six months. In their work shaping the coalition, they brought with them a multiplicity of perspectives from each of their lived experiences, including what it’s like to move through the world based on their race, gender, sexual orientation, location, job title, perceived power, and so much more.  
+Every part of the DEI Coalition Slack space — from the application process to the community agreements to  the member guide — were all created collaboratively by volunteers who worked together for six months.  
 
 Volunteers served on four main committees, each tackling different questions to help us ensure both spaces are as safe as possible, and serve the community's goals.
 
