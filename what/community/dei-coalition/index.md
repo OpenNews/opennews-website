@@ -183,7 +183,7 @@ Our committees:
   <li><strong>Safety and Moderation</strong> — led by <a href="https://twitter.com/sophanho">Sophie Ho</a></li>
   <li><strong>Membership</strong> — led by <a href="https://twitter.com/AshleyAlvarado">Ashley Alvarado</a></li>
   <li><strong>Slack Setup</strong> — led by <a href="https://twitter.com/hannahsbirch">Hannah Birch</a></li>
-  <li><strong>Welcome and Onboarding</strong> — led by <a href="https://twitter.com/lishsavson">Alisha Wang Savson</a></li>
+  <li><strong>Welcome and Onboarding</strong> — led by <a href="https://twitter.com/lishsavson">Lish Wang Savson</a></li>
 </ul>
 
 On March 22, 2021, the DEI Coalition Slack formally launched and began accepting members.
