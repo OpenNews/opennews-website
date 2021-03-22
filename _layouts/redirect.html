@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <meta charset="utf-8">
+  <title>Redirecting&hellip;</title>
+  <link rel="canonical" href="{{ page.redirect.to }}">
+  <script>location="{{ page.redirect.to }}"</script>
+  <meta http-equiv="refresh" content="0; url={{ page.redirect.to }}">
+  <meta name="robots" content="noindex">
+  <meta property="og:url" content="{{ page.redirect.to }}" />
+  <meta name="twitter:url" value="{{ page.redirect.to }}" />
+  <meta name="twitter:site" value="@opennews" />
+
+  <meta name="twitter:card" content="summary_large_image">
+
+  {% if page.title %}
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta name="twitter:title" value="{{ page.title }}" />
+  {% endif %}
+  
+  {% if page.excerpt %}
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
+  <meta name="twitter:description" value="{% if page.excerpt %}{{ page.excerpt | strip_html }}{% else %}{% if page.description %}{{ page.description }}{% endif %}{% endif %}" />
+
+  {% endif %}
+  
+  {% if page.image %}
+  <meta property="og:image" content="https://opennews.org{{ page.image }}" />
+  {% else %}
+  <meta property="og:image" content="https://opennews.org/media/img/opennews_logo_share.png" />
+  {% endif %}
+
+  <!-- If there's a meta image specified: -->
+  {% if page.image %}
+  <meta name="twitter:image" content="https://opennews.org{{ page.image }}" />
+  {% else %}
+  <meta property="twitter:image" content="https://opennews.org/media/img/opennews_logo_share.png" />
+  {% endif %}
+
+  {% if page.image-alt %}
+  <!-- Meta image alt text -->
+  <meta name="twitter:image:alt" content="{{ page.image-alt }}">
+  {% endif %}
+
+
+  <h1>Redirecting&hellip;</h1>
+  <a href="{{ page.redirect.to }}">Click here if you are not redirected.</a>
+</html>
