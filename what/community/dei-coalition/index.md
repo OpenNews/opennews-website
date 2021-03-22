@@ -146,7 +146,7 @@ image: /media/img/dei-coalition/dei-card-A1.png
       
 </style>
 <p><img src="/media/img/dei-coalition/dei-card-A1.png" alt="A screenshot of participants at SRCCON 2020." style="width: 100%;"></p>
-<p class="caption" style="text-align: right; margin-right: 0px; margin-top: -20px;">(<a href="https://iniwil.github.io/">William Lager</a> for OpenNews and the DEI Coalition)</p>
+<p class="caption" style="text-align: right; margin-right: 0px; margin-top: -20px;">(Image by <a href="https://iniwil.github.io/">William Lager</a> for OpenNews and the DEI Coalition)</p>
 
 <h2 style="margin-top: 15px;">{{ page.title }}</h2>
 
