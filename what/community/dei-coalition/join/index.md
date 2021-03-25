@@ -209,7 +209,24 @@ Before filling out your membership request form below, please make sure that you
   <li><a href="https://docs.google.com/document/d/1xzZlzvUkbGCb9EjYrLUx_QSpSGCAgSY8UuXqsxBGB3Q/edit">Our Community Agreements</a></li>
 </ul>
 
-We’ll be asking you to agree to both, so checking them out now will save you time.
+We’ll be asking you to agree to both, so checking them out now will save you time. 
+
+<strong>Question Preview</strong>
+
+Here are the questions we'll be asking you to answer in the form below:
+- What's your name?
+- What email address would you like your Slack invite to go to?
+- How can we verify you are who you say are? (You’ll be given a series of concrete options for how to do this, and will provide us with a link to the verification option of your choice.)
+- This community Slack will include channels for everyone, as well as private channels just for Coalition members in staff and management roles. Do you think you'd be a better fit for the staff or management private channels (or neither)?
+- Tell us a little about why it’d make sense for you to join staff-only channels, manager-only channels, or neither?
+- Please describe your work and how it relates to journalism. Where do you work and what type of work do you do there? (This doesn't just have to be your day job, either.) (Optional)
+- What interests you about this community?
+- How do you approach uncomfortable and challenging conversations, such as when receiving feedback that your words or actions may have hurt another person? (Optional)
+- Meeting our membership criteria is required to receive an invitation, and our Community Agreements represent the commitments you are making to other members of the Coalition when you join. Please read each of the following statements and check each box if you agree. (All statements are from our Membership Criteria and Community Agreements, which are linked above.)
+
+<strong>What we're looking for</strong>
+
+As we read your answers, we’re looking to see that you are genuinely invested in this work and committed to taking action to make the journalism an anti-racist, equitable, and just industry. There are specific questions to help you share this with us; do so in whatever way feels most natural to you. Your answers don’t have to be long, but they need to give us a real sense of why you’re interested in joining. We may reach out and ask you to fill out the form again if we can’t get a sense of your interest from your answers.
 
 <iframe id="app-form" src="https://docs.google.com/forms/d/e/1FAIpQLScLyf-gREURzPU50DiEGX5d79rNz8jmE6BM1ZAKnAg84jhZwA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
 
