@@ -141,11 +141,18 @@ image: /media/img/dei-coalition/dei-card-A1.png
 
   <p>In your membership request form, you’ll have the option to apply to join private staff-only channels, private manager-only channels, or choose to apply for neither, and by default join our Coalition-wide public channels.</p>
 
-  <p>Folks who were laid off or are unemployed should look at the specific-to-space criteria/considerations based on your last role.</p>
+  <p>These private channels are only open to folks who currently identify as having one of the two types of roles — staff or manager — in the journalism industry, and exist to help create space for them to share their ideas and struggles with others in similar situations in their organizations.</p>
 
-  <p>Foundation officers committed to DEI work should select neither.</p>
+  <p>If you would like to join staff-only or manager-only channels, our next section has example criteria that could help you decide which space is right for you. These criteria should help you decide which private channels you should apply to enter, but if neither selection seems to fit, that’s okay — you might be best suited for access to coalition-wide channels only. If your job changes later and changing your private channel access would make sense, volunteer moderators can help you make that change. No one will be allowed to join both staff-only and manager-only channels.</p>
 
-  <p>Here are criteria that could be true about you in these spaces. These lists should help you decide which private channels you should apply to enter. (You’ll also be able to change which private channels you have access to if your job changes later.) You may want to choose access to staff-only or manager-only channels if:</p>
+  <p>Some additional guidance:</p>
+  <ul>
+    <li>Folks who were laid off or are unemployed should look at the specific-to-space criteria/considerations based on your last role.</li>
+    <li>Foundation officers committed to DEI work in journalism should select neither.</li>
+    <li>For those in education: fully tenured professors or adjunct professors in leadership roles should select manager-only, and students should select staff-only. Journalists who are adjunct professors in non-leadership roles, and have a different primary job should base their request off of their primary job instead.</li>
+  </ul>
+
+  <p>You may want to choose access to staff-only or manager-only channels if:</p>
 
   <h4>Access to Additional Private Channels</h4>
 
