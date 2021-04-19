@@ -47,6 +47,9 @@
     
     <header>
         <h1><a href="/"><img alt="OpenNews" src="/media/img/open-news-2017.png" /></a></h1>
+        {% if page.section == "homepage" %}
+        {% include homepage_quote.html %}
+        {% endif %}
     </header>
 
     <article>
