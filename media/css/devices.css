@@ -96,8 +96,8 @@ aside {
 }
 /* External links */
 .external {
-	background-color: #FFFFFF;
-	font-family: "freight-text-pro", Georgia;
+	background-color: #ffefe8;
+	font-family: 'sofia-pro','Open Sans', sans-serif;
 }
 .external h2 {
 	padding-top: 40px;
@@ -1293,6 +1293,10 @@ footer div.partner #partnerblock h3 {
 
 footer .col img {
 	width: auto;
+}
+
+footer img.logo {
+	max-width: 300px;
 }
 
 a.sidebar-button {
