@@ -1408,9 +1408,47 @@ h2 {
 	margin-top: 0px;
 }
 
+p.homepage-quote-big {
+	font-size: 1.3em;
+	line-height: 1.5;
+	font-family: "freight-text-pro", Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	margin: 10px 0px;
+	padding: 0 5px;
+}
+
 .main_col {
 	float: none; width: auto;
-	}
+}
+
+.col-right a.sidebar-button {
+	width: 100%;
+	box-sizing: border-box;
+}
+
+#mc_embed_signup form {
+	padding: 0px;
+	margin-bottom: 40px;
+}
+
+#mc_embed_signup input.email {
+	box-sizing: border-box;
+	width: 100%;
+	float: none;
+}
+
+#mc_embed_signup input.button {
+	background-color: #fc6e1f;
+	font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	font-size: 1.2rem;
+	padding: .67em;
+	line-height: 1.2rem;
+	min-height: 45px;
+	float: none;
+}
 
 #kissanenav {
 	height: 35px;

@@ -104,6 +104,14 @@ nav li {
 	padding: 1em 15px;
 
 }
+
+p.homepage-quote-big {
+  font-family: "freight-text-pro", Georgia, "Times New Roman", Times, serif;
+  line-height: 1.6;
+  font-size: 1.8rem;
+  font-style: italic;
+}
+
 /**= Overrides from devices.css */
 .busta {
 	max-width: 980px;
