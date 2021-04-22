@@ -1127,7 +1127,6 @@ abbr {
 	display: block;
 	line-height: 1;
 	margin: 0 auto;
-	padding: 16px 0;
 }
 
 #navblock a {
@@ -1148,17 +1147,18 @@ abbr {
 	padding-left: 0px;
 }
 #kissanenav li {
-	display: inline;
+	display: inline-block;
 	font-size: 1.2em;
+	padding: 16px 0;
 }
 #kissanenav li a {
 	color: white;
 	padding: 13px 16px;
 }
 #kissanenav li a:hover, #kissanenav li a:active {
-	text-decoration: none;
-	background-color: #ccc;
-	color: black;
+	text-decoration: underline;
+	background-color: black;
+	color: white;
 }
 
 body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li a.what, body.getinvolved.index #kissanenav li a.involved, body.blog.index #kissanenav li a.blog  {
@@ -1321,6 +1321,23 @@ a.sidebar-button:hover {
     margin: 0 3% 1.5em;
 }
 
+#kissanenav li.home-logo {
+	padding-top: 0px;
+}
+
+.home-logo img {
+	width: 30px;
+	position: relative;
+	top: 9px;
+}
+
+p.homepage-quote-big {
+  font-family: "freight-text-pro", Georgia, "Times New Roman", Times, serif;
+  line-height: 1.6;
+  font-size: 1.8rem;
+  font-style: italic;
+}
+
 
 @media screen and (max-width: 980px) {
 	article, header {
@@ -1353,6 +1370,7 @@ box-sizing: border-box;
 
 #kissanenav #navblock  {
 	margin: 0;
+	padding: 0px;
 }
 
 div.main_col {
@@ -1408,15 +1426,6 @@ h2 {
 	margin-top: 0px;
 }
 
-p.homepage-quote-big {
-	font-size: 1.3em;
-	line-height: 1.5;
-	font-family: "freight-text-pro", Georgia, "Times New Roman", Times, serif;
-	font-style: italic;
-	margin: 10px 0px;
-	padding: 0 5px;
-}
-
 .main_col {
 	float: none; width: auto;
 }
@@ -1458,11 +1467,26 @@ p.homepage-quote-big {
 
 #kissanenav #navblock  {
 	margin: 0;
-    padding: 12px 0;
+}
+
+.home-logo img {
+  width: 20px;
+  position: relative;
+  top: 6px;
+}
+
+p.homepage-quote-big {
+	line-height: 1.4;
+	font-size: 1.4rem;
+	margin: 10px 5px 0;
 }
 
 #navblock ul {
 	font-size: .7em;
+}
+
+#kissanenav li {
+	padding: 9px 0;
 }
 
 #kissanenav li a {
