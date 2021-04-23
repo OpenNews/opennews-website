@@ -1,35 +1,30 @@
 ---
 layout: post_notitle
-title: Community Support
+title: Our programs
 section: what we do
 
 ---
-<img src="/media/img/convening.jpg" class="topline">
-<p class="caption">Collaborating on election data at our 2014 California Civic Data Code Convening</p>
+<img src="/media/img/end-of-year-2020.png" class="topline" alt="25-square zoom photo array of people holding up their hands and smiling">
+<p class="caption">We seek out multiple ways to connect and celebrate each other.</p>
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">The news code community ships features, code libraries, and support systems at newsroom pace: fast. But much of the most innovative work to emerge from the community requires time spent on documentation and cross-organizational collaboration—which, in turn, requires time away from the daily grind. Our programs serve as community infrastructure, providing editorial, financial, and organizational support for this work. </p>
+<p class="bodybig">OpenNews supports a network of developers, designers, journalists, and editors by celebrating successes, documenting what works for making change, and connecting people with colleagues and resources in the field.</p>
+<p>Through our slate of programs, OpenNews provides capacity-building and infrastructural support to this network of leaders bringing technical innovation and a collaborative, equity-focused way of working to their news organizations.</p>
 
-### [Source](source)
-Source is half community hub, half magazine—a place for working journalist-coders to share experiments, case studies, and documentation. It also includes [Source Jobs](https://source.opennews.org/en-US/jobs/), where news organizations can list development, data-handling, and design jobs for free. [Check it out and start contributing](source).
+### Connecting through events 
+We love creating [events that are highly participatory and inclusive](/what/conferences), where participants come first so they can can feel comfortable digging into complex problems.
 
-### [Community Calls](calls)
+### Learning together
+We seek out ways to make it easy for members of this community to learn from each other, share successes and challenges, and get an understanding of what needs to change in the field. We publish [Source](https://source.opennews.org), a site where community members document their projects and the processes behind their work. Every other week, community members also share about their work on [an open community call](/what/community/calls/). The [News Nerd Survey](/what/community/survey/) has helped to understand the landscape, and unique perspective, of the technology community in journalism.
 
-Every two weeks, we host an open conference call for the international news code community. The Source community calls include discussions of specific, recently launched projects and tools, announcements of new events, grants, jobs, and other opportunities. They’re a perfect way to connect with new collaborators and learn more about the day-to-day work of newsroom developers. [Learn more and see when the next call is scheduled](calls).
+### Supporting each other
+We want to make it easy for community members to access resources that will help develop their careers, and support their colleagues as well. Through our [Scholarships+ program](/what/community/scholarships/) we offer stipends for events and other training opportunities. With [Peer Data Review](/what/community/datareview/), we bring visiblity to the informal sharing that already happens in many newsrooms and community spaces by helping match a journalist with a question with a peer with the experience to help them answer it together. From 2011-16, we also directly placed technologists in newsrooms to collaborate on projects: 33 [Knight-Mozilla Fellows](https://opennews.org/what/fellowships) worked with 19 news organizations in five countries.
 
-### [Community Survey](survey)
+### Taking collective action
+Together, OpenNews and over 100 members of the journalism community have co-created the [DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms](/what/community/dei-coalition/), a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable, and just journalism industry. 
 
-OpenNews conducts an annual survey to better understand the hiring and career landscape and skill-building needs of this community, plus gather insights into the supports of interest to smaller newsrooms. These “news nerds,” the developers, designers, editors, data analysts, and product folks who work in tech and journalism, have built vibrant online and in-person spaces to find new opportunities, build skills, and advocate for more inclusive news organizations. [Learn more about who they are.](/what/community/survey)
+### Gathering resources
+As we encounter resources in our daily work, we like to share them with the wider community. We've gathered up a [list of community Slacks and email lists](https://opennews.org/what/community/hubs), and in 2020 we developed a [COVID-19 Care Package](https://opennews.org/what/community/covid19-care-package).
 
-### [Ticket + Travel Scholarships](scholarships)
-
-We know events are an important part of how the journalism-code community learns and shares with one another. Money shouldn't get in the way of attending a great event, and we want to help. [Learn more about our travel scholarship program](scholarships).
-
-### [Hubs](hubs)
-
-In addition to in-person events, the journalism code-community gathers in Slack channels and list servs to compare notes and solve problems. [Learn more about these online hubs](hubs).
-
-### [Fellowships](/what/fellowships)
-
-The Knight-Mozilla Fellowship placed creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. From 2011-16, we placed 33 fellows with 19 news organizations in five countries.
-
+### Helping other organizations
+We even consult on the expertise we've developed running the above programs. [Reach out](team@opennews.org) if you would like any information about what we may be able to bring to your event or organization.
