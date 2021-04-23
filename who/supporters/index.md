@@ -17,7 +17,9 @@ Our work exists to support the community that is pushing to create more inclusiv
 <a id="faq" class="sidebar-button" href="https://opennews.networkforgood.com/">Support OpenNews Today</a>
 
 ### Donation FAQ
+
 #### How do I donate?
+
 You can contribute online through [our Network for Good page](https://opennews.networkforgood.com/). If you would like to make a donation by check or through another method, please [email us](mailto:info@opennews.org).
 
 #### Is OpenNews a nonprofit?
@@ -56,3 +58,5 @@ OpenNews' annual conference [SRCCON](https://srccon.org) brings together develop
 * [SRCCON:POWER Sponsors](https://power.srccon.org/sponsors/list/): Democracy Fund, News Integrity Initiative, Vox Media, JSK Fellowship
 * [2019 SRCCON Sponsors](https://srccon.org/sponsors/): The New York Times, WordPress.com VIP, Facebook Journalism Project, Google News Initiative, Craig Newmark Philanthropies, The Lenfest Institute for Journalism, Knight Foundation, Vox Media, Alley, JSK Fellowship, Democracy Fund, News Integrity Initiative, Minnesota Journalism Center, StarTribune, The Accountability Project
 * [SRCCON:LEAD Sponsors](https://lead.srccon.org/sponsors/): WordPressVIP, Facebook Journalism Project, Craig Newmark Philanthropies, The Lenfest Institute, The Gannett Foundation, Vox Media, Democracy Fund, JSK Fellowship, Independence Media Foundation
+* [SRCCON:PRODUCT Sponsors](https://product.srccon.org/sponsors/): Google News Initiative, University of Missouri School of Journalism, Craig Newmark Graduate School of Journalism, Temple University Klein College of Media and Communication, News Catalyst, Knight Foundation, Reynolds Journalism Institute, Alley
+* [2020 SRCCON Sponsors](https://2020.srccon.org/sponsors/): Craig Newmark Philanthropies, The New York Times, Alley, Democracy Fund, Knight Foundation, JSK Fellowship

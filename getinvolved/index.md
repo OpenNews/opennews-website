@@ -3,40 +3,37 @@ layout: post_notitle
 title: Get Involved
 section: getinvolved
 sub-section: index
-image: /media/img/newspartner.jpg
+image: /media/img/mozfest-session-choosing.jpg
 ---
-<img src="/media/img/newspartner.jpg" class="topline">
-<p class="caption">From Source to code convenings, it always comes back to the newsroom. (photo/Erin McCann)</p>
+<img src="/media/img/mozfest-session-choosing.jpg" class="topline" alt="three people with their backs to the camera in front of a bunch of big post its organized as a conference schedule">
+<p class="caption">Like selecting which session to attend during a conference, there's so many ways to get involved! (photo/Henry Kenyon)</p>
 
 <h2>{{ page.title }}</h2>
-<p class="bodybig">At OpenNews, we build <em>with</em> our community, not simply <em>for</em> it. OpenNews was created to support, strengthen, and expand the the community around open source code in journalism. Whether you’re part of an established news apps or data team, or brand new to the field, we have programs and resources to help you connect with peers and mentors, share your work, and make more fantastic projects.</p>
+<p class="bodybig">When a community of peers works together and learns from each other, journalism becomes more resilient and representative. No matter where you are in your career, we have programs to help you connect with peers, find support where you need it and offer support to others, and take part in collective action that's changing our industry from within.</p>
 
-<!--
-### [Apply for a Fellowship](/what/fellowships/)
-Knight-Mozilla Fellows spend 10 months working with a fantastic news organization in a paid position and traveling around the world to learn from and collaborate with news nerds. [Meet our 2015 fellows](what/fellowships/2015meet) and [learn more about the program](/what/fellowships/), then apply to become a [2016 Knight-Mozilla Fellow](/what/fellowships/apply).
--->
+## Share your work
 
-### [Support Our Work](/who/supporters/)
+* **[Source](http://source.opennews.org):** Our website where community members write about projects and case studies, post new job openings, walk through the ways we tell data stories, and share honest reflections about our work in journalism and how we can make it better. [Tell us about something you'd like to write](mailto:source@opennews.org)!
 
-As a nonprofit, OpenNews receives funding from donors, foundations, and sponsors. Join us as a [founding sustaining member](https://opennews.networkforgood.com/) of this community. Learn more about [our supporters](/who/supporters/).
+* **[Communty Calls](/what/community/calls):** These open calls every other Thursday are a chance for community members to talk about recent work we can learn from, share upcoming events, announce job openings, and find collaborators for new projects. You can think of these calls like a live podcast, with community members as guests each episode. [Every call has a community agenda](/what/community/calls/) where you can share your ideas and celebrate your peers!
 
-### [Share Your Work](http://source.opennews.org)
+## Build something together
 
-From visualization libraries to data extractors and presentation templates, newsrooms are creating some of the most exciting code on the internet right now. We highlight that work on [Source](http://source.opennews.org), our website dedicated to the code in journalism and the people who write it. On Source, news organizations share the code, process, and thinking behind news applications and interactives. The resources on the site are a direct result of the generosity and efforts of the developers, designers, and newsrooms who are willing to show their work. Join them by [sharing your contributions](https://source.opennews.org/en-US/contribute/) today.
+* **[SRCCON events](https://srccon.org/):** SRCCON events are for people who want to transform the ways journalism and tech work in their organizations and communities. Our highly participatory and inclusive conferences are organized around hands-on sessions, conversations, and workshops that put participants first, helping our community develop new skills and stronger relationships.
 
-### [Build Together at Convenings](/what/conferences/convenings)
+* **[Peer Data Review](/what/community/datareview/):** Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story and double-check their work. If you could use help on a data project, [tell us about it](/what/community/datareview/) and we'll work to pair you up with a peer coach. If you'd like to volunteer as a coach, [we'd love to hear from you too](mailto:ryan@opennews.org)!
 
-OpenNews [Code, Culture, and Leadership convenings](/what/conferences/convenings) are cohort-driven events where small groups come together to work and problem solve related to a common theme.  Code convening teams open-source newsroom code and build new applications and libraries to address journalistic problems. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more about how to participate](/what/conferences/convenings).
+* **[Scholarships+](/what/community/scholarships/):** We offer $250 stipends toward events and program expenses that help you develop your work at the intersection of journalism and tech. You know best what you need, and if cost is a hardship, [we want to help](/what/community/scholarships/). Also, if you run a conference, training, or event, and would be willing to make our event more accessible for our scholarship recipients, [let us know](mailto:team@opennews.org).
 
-<!--### [Become a News Partner](/getinvolved/newspartners)
-Are you a newsroom looking to get more involved in the community by running a hack day, joining a code convening, or sharing your organization's work on Source? [Learn how to become an OpenNews partner.](/getinvolved/newspartners)-->
+## Collectively work for change
 
-### [Find a Job in a Newsroom](https://source.opennews.org/en-US/jobs/)
-News organizations are hungry for skilled developers and data wranglers who want to do journalism development, data-wrangling, and visualization work full time—and many of the positions are open even to those with no prior newsroom experience. <a href="https://source.opennews.org/en-US/jobs/">Find a journalism code job at Source Jobs</a>.
+* **[DEI Coalition](/what/community/dei-coalition/):** We worked with more than 100 members of the journalism community in co-creating a space to share knowledge and take action in service of a more anti-racist, equitable, and just journalism industry. [Apply to join this Slack community](/what/community/dei-coalition/) to join us in tackling challenging conversations, creating new resources, becoming better allies and advocates, and changing newsroom policies, systems, and culture for the better.
 
-### Learn More about Code in Journalism
+## Help support our work
 
-* <a href="http://source.opennews.org">Check out Source</a>: Learn about new projects, dive into in-depth case studies, or find a journalism code project to fork on GitHub.
-* <a href="/what/community/calls">Join in a call</a>: We hold a Source community call every other Thursday at 12pm US Eastern Time where newsroom data and apps teams share their work, announce job openings, and find collaborators.
-* <a href="/what/community/scholarships">Participate in a journalism-tech event</a>: We offer scholarships to attend journalism and code related events around the world.
-* <a href="http://www.twitter.com/opennews">Follow us on Twitter</a>: ask questions, find out what we're up to, and let us know what you're doing.
+* **[Become a Sustainer](https://opennews.networkforgood.com/):** As a nonprofit, OpenNews receives [funding support](/who/supporters) from individuals, foundations, and sponsors in order to support our entire slate of events and programs. Community members contribute recurring donations as [OpenNews sustainers](https://opennews.networkforgood.com/).
+* **[Hire Us!](mailto:team@opennews.org)**: Part of how we sustain our organization is by consulting with other organization to share the expertise we've developed in running inclusive programs. [Reach out](mailto:team@opennews.org) if you would like any information about what we may be able to bring to your event or organization, or if you have a suggestion of an org you think we should work with.
+
+## Stay in touch
+
+<a href="https://twitter.com/opennews">Twitter</a> and <a href="http://eepurl.com/czSVTL">our newsletter</a> are great ways to keep up with program announcements and other ways to get involved and support this community.

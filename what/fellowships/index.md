@@ -9,7 +9,7 @@ section: fellowships
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The Knight-Mozilla Fellowship placed creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. From 2011-16, we placed 33 fellows with 19 news organizations in five countries.</p>
+<p class="bodybig">The Knight-Mozilla Fellowship placed creative technologists in newsrooms to work on open-source tools and support reporting that strengthens the web and changes people’s lives. From 2011-16, we placed 33 fellows with 19 news organizations in five countries. The fellowship <a href="/blog/fellowship-what-next/">has concluded</a>.</p>
 
 Meet our fellows: [2016](/what/fellowships/2016meet) / [2015](/what/fellowships/2015meet) / [2014](/what/fellowships/2014meet) / [2013](/what/fellowships/2013meet) / [2012](/what/fellowships/2011meet)
 

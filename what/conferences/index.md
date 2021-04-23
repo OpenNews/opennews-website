@@ -1,29 +1,20 @@
 ---
 layout: post_notitle
-title: Gatherings
+title: SRCCON Events
 section: what we do
 
 ---
-<img src="/media/img/srccon2015-francis-cathy-erik-westra.jpg" class="topline">
-<p class="caption">SRCCON 2015 (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<img src="/media/img/srccon2015-francis-cathy-erik-westra.jpg" class="topline" alt="two participants at a conference laughing and talking together">
+<p class="caption">Participants at SRCCON get to laugh, chat, and share ideas with everyone in the room. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
-<h2>{{ page.title }}</h2>
-<p class="bodybig">We create spaces where the journalism-code community can gather and focus on the informal skillshares and insightful conversations that are the best parts of conferences.</p>
+<p class="bodybig">We create events that are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems.
+</p> 
+ 
+### SRCCON Events - truly connecting at a conference
+SRCCON conferences are two days of community connection, collaborative sessions, and a ton of documentation. As one attendee put it, <em>“The structure of the program and the attention to detail and people’s needs is what makes this an exceptional and special event.”</em> We’ve been hosting SRCCON events since 2014, and [have gathered years of writing](https://srccon.org/our-resources#participant-experience) about how we create these inclusive, participatory spaces as well as session documentation, and resources that inspired us from the start. 
 
-We host events designed to provide space for those conversations and collaborations to bloom, surrounded by plentiful food, good coffee, and enthusiastic colleagues. We also host cohort-driven convenings to allow small groups of participants to really dig into questions and projects.</p>
+### Building meaningful events
+Part of how we've developed our SRCCON Events approach, is by being active participants at a ton of conferences ourselves and designing a range of other types of events. Through a series of small group [code, culture, and leadership convenings](/what/conferences/convenings/), we saw how teams working on separate projects still build relationships with each other, and how working side-by-side strengthens everyone’s projects. And from 2011-19 at the Mozilla Festival, we learned from our friends at Aspiration Tech and the Mozilla Foundation about designing interdisciplinary and interactive spaces, like this [journalism unconference we hosted](https://opennews.org/what/conferences/mozfest).
 
-<img src="/media/img/srccon-tiff-michael-erik-westra.jpg" class="topline section">
-<p class="caption">SRCCON 2015 (photo credit: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
-## [SRCCON Events](srccon)
-
-[SRCCON](srccon) is our largest event, a hands-on conference focused on the practical challenges news technology and data teams encounter every day. In August, we hosted our fourth SRCCON, and participants [tackled everything from hiring technical staff to caregiving](https://source.opennews.org/articles/tags/srccon-2017/). This year, we're hosting our first-ever SRCCON:WORK to explore how we as a community can help each other take on the hard work of journalism. [Find out more](srccon).
-
-<img src="/media/img/code-convening-postits.jpg" class="topline section">
-## [Code, Culture, and Leadership Convenings](/what/conferences/convenings)
-
-These cohort-driven convenings give a small group of participants a chance to explore tough questions and projects, together. Modeled off of our Code Convenings program, in 2017 the format will expand to include topics beyond code. [Learn more](/what/conferences/convenings).
-
-<img src="/media/img/mozfestpano.jpg" class="topline section">
-## [Journalism and the Mozilla Festival](mozfest)
-
-The OpenNews team organizes journalism sessions at and before the [Mozilla Festival](https://mozillafestival.org/), an annual festival of the open internet in London. These journalism sessions bring together journalists and developers from around the world for hands-on knowledge sharing and conversation. [Learn more.](mozfest)
+### Hire us
+We love helping other people host events with purpose and intention, too. [Contact us](mailto:team@opennews.org) if you'd like to learn about our consulting services.
