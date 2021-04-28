@@ -5,7 +5,7 @@ section: who we are
 sub-section: index
 ---
 
-<p class="bodybig">The OpenNews team is part of a community of journalists creating a future where we can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative. Learn more about <a href="/what">what we do</a> and find out how you can <a href="/getinvolved">get involved</a>.</p>
+<p class="bodybig">The OpenNews team is part of a community of journalists creating a future where we can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative. Learn more about <a href="/what/community">our programs</a> and how you can <a href="/getinvolved">get involved</a>.</p>
 
 ## Our Staff
 

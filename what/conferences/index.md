@@ -7,7 +7,7 @@ section: what we do
 <img src="/media/img/srccon2015-francis-cathy-erik-westra.jpg" class="topline" alt="two participants at a conference laughing and talking together">
 <p class="caption">Participants at SRCCON get to laugh, chat, and share ideas with everyone in the room. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
 
-<p class="bodybig">We create events that are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems.
+<p class="bodybig">We create events that are highly participatory and inclusive, where participants come first so they can can feel comfortable digging into complex problems. <a href="https://srccon.org/">Our SRCCON website has our latest event updates.</a>
 </p> 
  
 ### SRCCON Events - truly connecting at a conference
