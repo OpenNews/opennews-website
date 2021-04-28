@@ -1098,7 +1098,7 @@ ul.fellowcode {
 /******* UPDATED CSS STUFF BECAUSE JESUS CHRIST THIS IS A MESS *********/
 
 article, header, #navblock, #moztab {
-	width: 980px;
+	max-width: 980px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -1109,7 +1109,6 @@ article, header, #navblock, #moztab {
 header img {
 		max-width: 600px;
 		margin-top: 35px;
-		/*width: 100%;*/
 }
 
 #kissanenav {
@@ -1359,6 +1358,10 @@ padding: 15px;
 box-sizing: border-box;
 }
 
+header img {
+	width: 100%;
+}
+
 #moztab {
 	width: 100%;
 }
@@ -1428,6 +1431,11 @@ h2 {
 
 .main_col {
 	float: none; width: auto;
+}
+
+.external h3 {
+	text-transform: none;
+	font-size: 1.4em;
 }
 
 .col-right a.sidebar-button {

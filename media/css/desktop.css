@@ -40,6 +40,7 @@ Default template CSS - if you change anything here then updating will be a bit m
 .external .col a.sidebar-button {
 	max-width: 200px;
 	margin: 0;
+  box-sizing: border-box;
 }
 
 
@@ -59,6 +60,7 @@ Default template CSS - if you change anything here then updating will be a bit m
   box-sizing: border-box;
   min-height: 45px;
   float: left;
+  margin-right: 8px;
 }
 
 #mc_embed_signup input.button {
@@ -72,6 +74,29 @@ Default template CSS - if you change anything here then updating will be a bit m
 	line-height: 1.2rem;
 	min-height: 45px;
 	clear: none;
+}
+
+@media screen and (max-width: 930px) {
+
+	#mc_embed_signup input.email {
+		width: 100%;
+		float: none;
+	}
+	#mc_embed_signup input.button {
+		clear: both;
+		width: 100%;
+	}
+
+}
+
+@media screen and (max-width: 620px) {
+
+	.col {
+		float: none;
+		width: 100%;
+		padding: 0 0 20px 0;
+	}
+
 }
 
 /* Masthead */
@@ -108,7 +133,7 @@ nav li {
 /**= Overrides from devices.css */
 .busta {
 	max-width: 980px;
-	padding: 0 10px 150px;
+	padding: 0 20px 150px;
 	margin: 0 auto;
 }
 .partners h2 {
