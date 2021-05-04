@@ -28,6 +28,9 @@ image: /media/img/mozfest-session-choosing.jpg
 ## Collectively work for change
 
 * **[DEI Coalition](/what/community/dei-coalition/)**: We worked with more than 100 members of the journalism community in co-creating a space to share knowledge and take action in service of a more anti-racist, equitable, and just journalism industry. [Apply to join this Slack community](/what/community/dei-coalition/) to join us in tackling challenging conversations, creating new resources, becoming better allies and advocates, and changing newsroom policies, systems, and culture for the better.
+
+* **[Vision25: Building Racial Equity in Newsrooms](/blog/vision25-building-racial-equity-in-newsrooms/)**: In collaboration with the Online News Association and the Maynard Institute, OpenNews seeks to build journalistic institutions where newsrooms are actively anti-racist and collaborative, and journalists of color feel like they truly belong. We also know that this is work we need to do as an industry. If you're interested in joining us, [sign up here](https://journalists.org/%E2%80%8Bvision25-interest-form/).
+
 * **[Speaker Rider for Meaningfully Inclusive Events](/projects/speaker-rider/)**: 
 Together with The Pudding, we created this to help speakers and event organizers create and maintain inclusive space for historically marginalized communities. If you run an event or conference, show how you meet these criteria or pledge to do so within a specific timeframe. If you're a speaker, adapt [our e-mail template](https://opennews.org/blog/speaker-rider-process/) and send the rider to organizers before accepting an invitation to speak.
 
