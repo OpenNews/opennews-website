@@ -1,5 +1,5 @@
 ---
-layout: blogpost
+layout: blogpost_noimage
 title: We created a speaker rider because journalism didn’t have one
 date: 2021-01-27 10:00-04:00
 author: Jan Diehm, Sisi Wei, and Erika Owens
@@ -10,10 +10,6 @@ image-alt: A graphic with numbers 1-10 and the words 'Blog how to use Speaker Ri
 ---
 
 <style>
-  p.divider {
-    margin: 40px 0px 20px;
-    border-bottom: 1px solid #d4d4d4;
-  }
   p.to-the-rider {
     margin: 0 auto 40px;
     width: 280px;
@@ -35,7 +31,6 @@ image-alt: A graphic with numbers 1-10 and the words 'Blog how to use Speaker Ri
     background-color: #e89600;
   }
 </style>
-<p class="divider"></p>
 
 _We published [this post](https://pudding.cool/process/speaker-rider) in collaboration with [The Pudding](https://pudding.cool)._
 

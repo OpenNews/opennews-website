@@ -1,12 +1,12 @@
 ---
 layout: post
-title: OpenNews Updates
+title: Updates from OpenNews
 section: blog
 sub-section: index
 permalink: /blog/
 ---
 
-<p class="bodybig">Over the course of the year, we post event announcements, applications for scholarships and to participate in events, and lots more. Keep up by <a href="/feed.xml">grabbing our feed</a>, <a href="https://twitter.com/opennews">following us on Twitter</a>, or <a href="http://eepurl.com/czSVTL">joining our notifications list</a>. Or, you know, all of the above.</p>
+<p class="bodybig">Here's where we share what we're learning, talk about new programs, and post event announcements and application deadlines. If you’d like to get notifications, <a href="https://twitter.com/opennews">Twitter</a> and <a href="http://eepurl.com/czSVTL">our newsletter</a> are great ways to stay up-to-date.</p>
 
 <ul class="bloglist">
   {% for post in site.posts %}

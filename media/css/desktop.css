@@ -6,16 +6,99 @@ Default template CSS - if you change anything here then updating will be a bit m
 	margin-left: -10px;
 }
 .col {
+	box-sizing: border-box;
 	float: left;
-	padding: 10px;
-	width: 33%;
+	padding: 0px 30px 10px;
+	width: 50%;
+}
+.col-left {
+	padding-left: 0px;
 }
 .col img {
 	width: 100%;
 }
-.external .col:first-child {
-	padding-left: 0;
+
+/* Footer */
+
+.external .col-left p:first-child {
+	margin-top: 0px;
 }
+
+.external .col h3:first-child {
+	margin-top: 0px;
+}
+
+.external .col-right p {
+	margin-top: 0px;
+}
+
+.external h3 {
+	text-transform: none;
+	font-size: 1.4em;
+}
+
+.external .col a.sidebar-button {
+	max-width: 200px;
+	margin: 0;
+  box-sizing: border-box;
+}
+
+
+#mc_embed_signup{
+	background: transparent; 
+	clear:left; 
+	font:14px Helvetica,Arial,sans-serif; 
+}
+
+#mc_embed_signup form {
+	padding: 0px;
+}
+
+#mc_embed_signup input.email {
+  font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
+  width: 65%;
+  box-sizing: border-box;
+  min-height: 45px;
+  float: left;
+  margin-right: 8px;
+}
+
+#mc_embed_signup input.button {
+	background-color: #fc6e1f;
+	font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
+	width: 30%;
+	max-width: 200px;
+	margin: 0;
+	font-size: 1.2rem;
+	padding: .67em;
+	line-height: 1.2rem;
+	min-height: 45px;
+	clear: none;
+}
+
+@media screen and (max-width: 930px) {
+
+	#mc_embed_signup input.email {
+		width: 100%;
+		float: none;
+	}
+	#mc_embed_signup input.button {
+		clear: both;
+		width: 100%;
+	}
+
+}
+
+@media screen and (max-width: 620px) {
+
+	.col {
+		float: none;
+		width: 100%;
+		padding: 0 0 20px 0;
+	}
+
+}
+
 /* Masthead */
 
 #nav {
@@ -46,10 +129,11 @@ nav li {
 	padding: 1em 15px;
 
 }
+
 /**= Overrides from devices.css */
 .busta {
 	max-width: 980px;
-	padding: 0 10px;
+	padding: 0 20px 150px;
 	margin: 0 auto;
 }
 .partners h2 {

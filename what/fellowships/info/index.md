@@ -6,11 +6,12 @@ sub-section: fellows_info
 redirect_from:
 - /what/fellowships/details/index.html
 ---
-<p class="bodybig">The Knight-Mozilla Fellowships were an opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship is on hiatus for 2017.</p>
+<p class="bodybig">The Knight-Mozilla Fellowships were an opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship <a href="/blog/fellowship-what-next/">has closed</a>.</p>
 
 This page describes details of the program as it existed from 2011-16.
 
-###THE FELLOWSHIP
+### THE FELLOWSHIP
+
 **What is happening with the fellowship during 2017?**
 
 The fellowship will be on hiatus for 2017. After five cohorts of fellows, we've gathered a lot of data about how fellows help their newsrooms and the broader journalism-code community. During early 2017, we're going to review that data and chat with community members about what shape the fellowship could take going forward. If you'd like to learn more about this process, please [sign up here](https://docs.google.com/forms/d/e/1FAIpQLSeFQ4WhSW5r9-t-Ai9DDUXRQLfyuC3PHZaUuZV-M23tpRHd2g/viewform), and we'll be in touch.
@@ -50,7 +51,9 @@ Each news organization [described what they are looking for in a fellow](/blog/f
 
 Fellowships typically being in the first quarter of the calendar year. The fellowship is on hiatus for 2017.
 
-###STIPEND AND FINANCIAL BENEFITS
+<!--
+### STIPEND AND FINANCIAL BENEFITS
+
 The Knight-Mozilla Fellowship is designed to allow flexibility for both fellows and fellowship partners. **The standard fellowship offers a stipend of $60,000, paid in 10 monthly installments.** fellows are responsible for remitting all applicable taxes and other government payments as required.
 
 Mozilla may, in consultation with fellows and fellowship partners, elect to vary the amount and duration to accommodate the needs and availability of individual fellows and newsrooms.
@@ -60,6 +63,7 @@ To help offset cost of living, the fellowship also provides supplements for chil
 Supplements below listed as yearly maximums.
 
 <h3>Housing Supplement</h3>
+
 <table>
 <tr>
 <td>Single, married or partnered fellow
@@ -81,6 +85,7 @@ Supplements below listed as yearly maximums.
 
 
 <h3>Child-Care Supplement</h3>
+
 <table>
 <tr>
 <td>1 child age 12* or younger                                                     
@@ -106,6 +111,7 @@ Supplements below listed as yearly maximums.
 <small>* Age defined on March 31 of application year.</small>
 
 <h3>Health Insurance Supplement</h3>
+
 The fellowship pays a health insurance supplement for fellows and their families. Funds are provided by way of monthly reimbursement.
 
 <table>
@@ -136,7 +142,8 @@ The fellowship pays a health insurance supplement for fellows and their families
 </table>
 
 <h3>Moving Allowance</h3>
-Up to $2,000 for fellows moving between cities within their country of origin. Up to $4,000 for fellows moving outside their country of origin. The fellowship also offers a supplemental allowance for families with children of up to $2,000.
+
+<p>Up to $2,000 for fellows moving between cities within their country of origin. Up to $4,000 for fellows moving outside their country of origin. The fellowship also offers a supplemental allowance for families with children of up to $2,000.</p>
 
 <h3>Research & Equipment</h3>
 Up to $3,000 annually will be given towards the purchase of laptop computers, digital cameras, recorders, fees for continuing studies or other courses related to the fellowship, computer software, research fees or payments, and travel expenses for conferences or other research related to the fellow’s research or study.
@@ -148,6 +155,6 @@ Up to $250 to cover the server costs associated with deploying projects such as 
 All approved fellowship trips--domestic and international--are covered. Additional travel required by the fellowship partners will be covered by them.
 
 <h3>Visa Assistance</h3>
-Mozilla will work directly with fellowship partners to secure temporary work visas on behalf of fellows who require them.
+Mozilla will work directly with fellowship partners to secure temporary work visas on behalf of fellows who require them.-->
 
 <!--The application process is easy and brief. [Apply now](/what/fellowships/apply) or [learn more about how it works](/what/fellowships/faq).-->

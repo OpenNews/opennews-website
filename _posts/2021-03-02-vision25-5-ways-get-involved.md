@@ -1,5 +1,5 @@
 ---
-layout: blogpost
+layout: blogpost_noimage
 title: Vision25&colon; 5 ways to get involved in the movement for racial equity in newsrooms
 date: 2021-03-02 10:00
 author: <a href="http://opennews.org/who/">Sisi Wei</a>, on March 2, 2021
@@ -8,10 +8,6 @@ excerpt: The past few months, we have worked behind the scenes scheming (the goo
 ---
 
 <style>
-  p.divider {
-    margin: 40px 0px 20px;
-    border-bottom: 1px solid #d4d4d4;
-  }
   p.button {
     margin: 0 auto 60px;
     width: 100%;
@@ -33,13 +29,7 @@ excerpt: The past few months, we have worked behind the scenes scheming (the goo
   p.button a:hover{
     background-color: #e89600;
   }
-
-  .article_body h3{
-    font-size: 1.3em;
-  }
-
 </style>
-<p class="divider"></p>
 
 The Online News Association, the Maynard Institute for Journalism Education and OpenNews are committed to dismantling systemic racism in the journalism industry and transforming news organizations into institutions of belonging. 
 
