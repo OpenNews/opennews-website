@@ -9,14 +9,14 @@ section: what we do
 
 # {{ page.title }}
 
-Whether you’re a developer in a small newsroom without much budget for training, a data reporter figuring out your next step, or a freelancer eager to connect with the wider community, OpenNews can help you pay for events and programs that develop your work in journalism and tech. Attend a conference, take a class, join a training, sign up for a leadership program—you know best what you need. If cost is a hardship, we want to help.
+OpenNews can help you pay for events and programs that develop your work in journalism and tech. Attend a conference, take a class, join a training, sign up for a leadership program—you know best what you need. If cost is a hardship, we want to help.
 
-Key things to know:
+**Key things to know:**
 
-* **These scholarships are for journalists who work in data, code, or social justice (or all three!).** If you use data or design to help people understand their community and make it better, if you engage with audience to make your newsroom's work more meaningful, if you write code or work in product to help a news organization make good on its mission—or if you edit or manage a team with people who do any of these things—this program is for you. (And if you're not sure, [please reach out](mailto:team@opennews.org)!)
-* **This program is designed to do two things: help you learn something outside of your current comfort zone, and help you build new relationships with peers.** Our community gets stronger when people bring in new ideas, often through trainings in topics our newsrooms are missing. And we build a better support network by sharing those ideas with others—speaking or teaching at an event, for example, or showing colleagues how you changed the way you work. Helping one journalist—like you!—can help everyone you know, and we look for applications that give you an opportunity to amplify what you learn.
+* These scholarships are for journalists who work in data, code, or social justice (or all three!).
+* This program is designed to do two things: help you learn something outside of your current comfort zone, and help you build new relationships with peers.
 
-We can't wait to hear about the event or program you want to be part of. But what we're really looking for is _why_ you want to be there and _how_ you plan to use and share what you learn.
+We're excited to hear about the event or program you want to be part of. And what we're really looking for is **_why_ you want to be there and _how_ you plan to use and share what you learn.**
 
 ## How to apply
 
@@ -28,12 +28,12 @@ If you'd like to get notifications about key dates in this program, [Twitter](ht
 
 ## What this program offers
 
-* Financial support toward events or program expenses that help you develop your work in journalism and tech. We offer $250 and $500 stipends, depending on the cost of the program you'd like to attend.
+* $250 and $500 stipends, depending on the cost of the program you'd like to attend.
 * Connections with other people, resources, and opportunities related to your work.
 
 ## Who should apply
 
-* Anyone working at the intersection of journalism and tech: developers, designers, reporters, editors, audience experts, product thinkers, newsroom allies.
+* Journalists who work in data, code, or social justice: developers, designers, reporters, editors, audience experts, product thinkers, newsroom allies.
 * People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
 
 ## What happens after you apply
