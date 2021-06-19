@@ -31,9 +31,20 @@ If you'd like to get notifications about key dates in this program, [Twitter](ht
 * $250 and $500 stipends, depending on the cost of the program you'd like to attend.
 * Connections with other people, resources, and opportunities related to your work.
 
+## Why we give out these stipends
+
+Our community is building a more equitable future for journalism, and we offer programs like this one to help you be part of that change: [strengthening support networks](/blog/scholarships-networks/) and opening doors no matter where you are in your career. There are lots of ways scholarships can help you deepen your work and build up the people around you:
+
+* You've been attending tech conferences for years, and this is the year for you to go to an event like NABJ or AAJA, to both share _and_ learn.
+* You picked up exciting ideas at SRCCON and put them into practice on a project. Running a local workshop or leading a session at NICAR would help other journalists take on similar projects where they live.
+* You've been a data reporter or developer for years, and now you're ready to lead the team. What you feel like you're missing is a leadership-development course or management workshop.
+* You're the only one in your newsroom who works with data. A workshop on Census data would add to your toolkit and help you help other reporters cover your changing community.
+
+These are just a few examples, not an exhaustive list. We can't wait to hear the creative ideas you have to strengthen your work, your team, your organization, your community of peers.
+
 ## Who should apply
 
-* Journalists who work in data, code, or social justice: developers, designers, reporters, editors, audience experts, product thinkers, newsroom allies.
+* Journalists who work in data, code, or social justice: developers, designers, reporters, editors, product thinkers, and newsroom allies—people pushing for change in their newsrooms and helping them better reflect our communities.
 * People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
 
 ## What happens after you apply
@@ -51,6 +62,11 @@ Our original scholarships program helped people attend journalism events, and th
 
 We added the “plus” to Scholarships+ because conference registration isn’t the only way financial support can help fill the gaps for journalists. Maybe you’re looking into a leadership-development program, a coding workshop, or a career coach. You might want to study social justice, statistics, dataviz, or poverty and inequality. We’re excited to hear your ideas, and to imagine how your journalism will change.
 
+**How do you decide who will receive a stipend?**  
+OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to take part in a program where they are speaking or otherwise making a major contribution.
+
+We look for applications from journalists who use data or design to help people understand their community and make it better, who write code or work in product to help a news organization make good on its mission, who are pushing for change in their newsrooms and helping them better reflect their communities. And we look for applications that have a plan for bringing new ideas into your work and sharing them with peers.
+
 **Can people outside of the U.S. apply for the scholarship?**  
 Applications are open to everyone. We prioritize applications from journalists of color and journalists from regional and local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
 
@@ -62,9 +78,6 @@ You can tell us about additional registration costs in the application form. If 
 
 **What if I need something other than funding?**  
 We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we offer [Peer Data Review](/what/community/datareview/). If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:info@opennews.org).
-
-**How do you decide who will receive a stipend?**  
-OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that will allow the person to take part in a program where they are speaking or otherwise making a major contribution.
 
 **What about your conference, SRCCON?**  
 We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://2020.srccon.org/scholarships/)
