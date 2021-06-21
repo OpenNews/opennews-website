@@ -20,7 +20,7 @@ We're excited to hear about the event or program you want to be part of. And wha
 
 ## How to apply
 
-[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSeHTILFeeBwPn69Vr-JUt0nOMhdYIYCBHnHcgsDrIcQRgRgRA/viewform) through the end of **Monday, June 28**. Applicants will hear back from us by **Friday, July 9**.
+[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSeHTILFeeBwPn69Vr-JUt0nOMhdYIYCBHnHcgsDrIcQRgRgRA/viewform) through the end of **Tuesday, June 29**. Applicants will hear back from us by **Friday, July 9**.
 
 <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeHTILFeeBwPn69Vr-JUt0nOMhdYIYCBHnHcgsDrIcQRgRgRA/viewform">Apply for a journalism stipend!</a>
 
