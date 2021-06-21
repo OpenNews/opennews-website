@@ -14,7 +14,7 @@ OpenNews can help you pay for events and programs that develop your work in jour
 **Key things to know:**
 
 * These scholarships are for journalists who work in data, code, or social justice (or all three!).
-* This program is designed to do two things: help you learn something outside of your current comfort zone, and help you build new relationships with peers.
+* This program is designed to do two things: help you learn something outside of your current comfort zone, and strengthen your support network—deepening relationships with colleagues and building new ones with peers.
 
 We're excited to hear about the event or program you want to be part of. And what we're really looking for is **_why_ you want to be there and _how_ you plan to use and share what you learn.**
 
@@ -33,14 +33,9 @@ If you'd like to get notifications about key dates in this program, [Twitter](ht
 
 ## Why we give out these stipends
 
-Our community is building a more equitable future for journalism, and we offer programs like this one to help you be part of that change: [strengthening support networks](/blog/scholarships-networks/) and opening doors no matter where you are in your career. There are lots of ways scholarships can help you deepen your work and build up the people around you:
+Our community is building a more equitable future for journalism, and we offer programs like this because we believe in the [power of a network effect](/blog/scholarships-networks/). By helping one journalist develop and share their skills, we can help whole communities of practice. 
 
-* You've been attending tech conferences for years, and this is the year for you to go to an event like NABJ or AAJA, to both share _and_ learn.
-* You picked up exciting ideas at SRCCON and put them into practice on a project. Running a local workshop or leading a session at NICAR would help other journalists take on similar projects where they live.
-* You've been a data reporter or developer for years, and now you're ready to lead the team. What you feel like you're missing is a leadership-development course or management workshop.
-* You're the only one in your newsroom who works with data. A workshop on Census data would add to your toolkit and help you help other reporters cover your changing community.
-
-These are just a few examples, not an exhaustive list. We can't wait to hear the creative ideas you have to strengthen your work, your team, your organization, your community of peers.
+We love it when people take what they've learned at one event and bring it to another, or when people have identified just what they need next—a leadership training, a census workshop, a conference immersed with journalists who share their background—and we can help make that happen. We know cost can be a barrier to accessing these opportunities, and part of creating a more equitable industry is mitigating barriers like these as much as we can.
 
 ## Who should apply
 
