@@ -5,11 +5,11 @@ date: 2021-07-14 17:00
 author: <a href="http://opennews.org/who/">OpenNews Team</a>, on July 14, 2021
 tags: OpenNews
 excerpt: OpenNews is officially 10 years old! 
-image: /media/img/10-year-anniversary-srccon-2015.png
- 
+image: /media/img/10-year-anniversary-srccon-2015-v2.png
+
 ---
 
-<img src="/media/img/10-year-anniversary-srccon-2015.png" style="width: 100%;" alt="A collage of photos, all of participants talking, working on projects, or collaborating."> 
+<img src="/media/img/10-year-anniversary-srccon-2015-v2.png" style="width: 100%;" alt="A collage of photos, all of participants talking, working on projects, or collaborating."> 
 <p class="caption" style="margin-top: -15px; text-align: left;">Participants at our <a href="https://srccon.org/">SRCCON 2015</a>, held in Minneapolis, four years after OpenNews was founded. (Photos by <a href="http://www.westraco.com/">Erik Westra</a>)</p> 
 
 _OpenNews helps people strengthen relationships across organizations and build a more equitable future for journalism. [Sign up](http://opennews.org/newsletter/) for our bi-weekly community newsletter, where we celebrate the community and share ways to support one another, or [donate](http://opennews.org/donate) to sustain our work for another 10 years._
