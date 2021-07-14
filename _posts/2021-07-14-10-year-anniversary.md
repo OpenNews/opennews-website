@@ -9,12 +9,12 @@ image: /media/img/10-year-anniversary-srccon-2015.png
  
 ---
 
-<img src="/media/img/10-year-anniversary-srccon-2015.png" style="width: 100%;" alt=""> 
+<img src="/media/img/10-year-anniversary-srccon-2015.png" style="width: 100%;" alt="A collage of photos, all of participants talking, working on projects, or collaborating."> 
 <p class="caption" style="margin-top: -15px; text-align: left;">Participants at our <a href="https://srccon.org/">SRCCON 2015</a>, held in Minneapolis, four years after OpenNews was founded. (Photos by <a href="http://www.westraco.com/">Erik Westra</a>)</p> 
 
 _OpenNews helps people strengthen relationships across organizations and build a more equitable future for journalism. [Sign up](http://opennews.org/newsletter/) for our bi-weekly community newsletter, where we celebrate the community and share ways to support one another, or [donate](http://opennews.org/donate) to sustain our work for another 10 years._
 
-OpenNews is officially 10 years old! 🎉🎉🎉
+**OpenNews is officially 10 years old!** 🎉🎉🎉
 
 10 years of working to reshape the journalism industry for the better.
 
