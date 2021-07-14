@@ -51,3 +51,5 @@ We’re so excited to move into our second decade together, and over the next co
 We could not be more thankful for the community we serve: people tackling journalism’s most complex problems, and doing so in a way that is thoughtful, respectful, collaborative, and that takes deliberate steps to ensure that everyone can feel that they belong.
 
 [Join us in](https://opennews.org/newsletter/) reshaping journalism for the better, together.
+
+_Check out how our team [shared this announcement](https://mailchi.mp/opennews/10years-wow-srccon-sessions) with the OpenNews community, [sign up](http://opennews.org/newsletter/) for our community newsletter, or [donate](http://opennews.org/donate) to sustain this work for another 10 years!_
