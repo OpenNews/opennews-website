@@ -30,9 +30,25 @@ image: /media/img/photo-hire-us-collage.png
   }
 
   blockquote {
-    line-height: 2rem;
+    line-height: 1.8rem;
     font-size: 1.2rem;
     color: #5c5c5c;
+  }
+
+  @media screen and (max-width: 480px){
+    .hire.us article h2 {
+      font-size:  2em;
+    }
+
+    .hire.us article h3 {
+      font-size:  1.6em;
+    }
+
+    .bodybig {
+      line-height: 1.6;
+      font-size: 1.3rem;
+      margin-bottom: 0px;
+    }
   }
 </style>
 
