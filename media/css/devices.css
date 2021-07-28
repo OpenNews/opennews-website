@@ -1160,7 +1160,7 @@ abbr {
 	color: white;
 }
 
-body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li a.what, body.getinvolved.index #kissanenav li a.involved, body.blog.index #kissanenav li a.blog  {
+body.who.we.are.index #kissanenav li a.who, body.what.we.do.index #kissanenav li a.what, body.getinvolved.index #kissanenav li a.involved, body.blog.index #kissanenav li a.blog, body.hire.us.index #kissanenav li a.hire  {
 	background-color: white;
 	color: #3E3D3D
 }
