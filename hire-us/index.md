@@ -3,7 +3,7 @@ layout: post
 title: Hire Us
 section: hire us
 sub-section: index
-image: /media/img/photo-hire-us-collage.png
+image: /media/img/photo-hire-us-collage-social.png
 ---
 
 <style>
