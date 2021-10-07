@@ -29,7 +29,7 @@ These principles animate everything we do at OpenNews, and we take so much inspi
 We receive so much inspiration and knowledge from the leaders who have come before us, especially Black women, and we could not be more honored that Sisi will be the fifth Gwen Ifill award recipient since it was founded in 2017, and joining the ranks of [four incredible Black women](https://www.youtube.com/watch?v=ncwaHu9gZWk) who have broken barriers in the journalism industry. 
 
 <img src="/media/img/blog/data-institute-2021-group-photo.png" style="width: 100%;" alt="The Data Institute Class of 2021 poses for a virtual class photo."> 
-<p class="caption" style="margin-top: -15px; text-align: left;">Sisi Wei and Erika Owens, OpenNews, and Lena Greoger, ProPublica, celebrating with the Data Institute Class of 2021.</p> 
+<p class="caption" style="margin-top: -15px; text-align: left;">In 2021, the Data Institute was held virtually for the first time, and students gathered on Zoom for a one-week intensive workshop.</p> 
 
 If you’d like to join in celebrating not only Sisi’s work, but the work of all the grounded leaders who make a difference in our industry, we invite you to reach out to those you have learned from and tell them about the difference they’ve made in your life. 
 
