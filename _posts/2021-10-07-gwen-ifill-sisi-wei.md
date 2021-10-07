@@ -10,7 +10,7 @@ image: /media/img/blog/2021-10-07-sisi-data-institute-andrew-wang.jpg
 ---
 
 <img src="/media/img/blog/2021-10-07-sisi-data-institute-andrew-wang.jpg" style="width: 100%;" alt="A woman, Sisi, sitting in a chair and smiling as she looks at the class."> 
-<p class="caption" style="margin-top: -15px; text-align: left;">Sisi teaching at the Data Institute, an intensive workshop that teaches journalists how to use data, design and code. Each year, over 50% Data Institute students are women of color. Co-founded by Sisi Wei and Lena Groeger in 2016 while they worked together at ProPublica, it is currently hosted by the Ida B. Wells Society, ProPublica, and OpenNews. (Photo by Andrew Wang, Data Institute Class of 2017)</p>
+<p class="caption" style="margin-top: -15px; text-align: left;">Sisi teaching at the <a href="https://projects.propublica.org/graphics/ida-propublica-data-institute">Data Institute</a>, an intensive workshop that teaches journalists how to use data, design and code. Each year, over 50% Data Institute students are women of color. Co-founded by Sisi Wei and Lena Groeger in 2016 while they worked together at ProPublica, it is currently hosted by the Ida B. Wells Society, ProPublica, and OpenNews. (Photo by Andrew Wang, Data Institute Class of 2017)</p>
 
 We are thrilled to share that OpenNews co-executive director Sisi Wei [has been named](https://www.iwmf.org/2021/10/iwmf-names-sisi-wei-recipient-of-2021-gwen-ifill-award/) the recipient of the 2021 [Gwen Ifill award](https://www.iwmf.org/awards/gwen-ifill-award/), by the International Women’s Media Foundation.
 
