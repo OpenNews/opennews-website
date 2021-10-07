@@ -35,8 +35,15 @@ If you’d like to join in celebrating not only Sisi’s work, but the work of a
 
 If you’d like to join in taking concrete action in service of a more anti-racist, equitable and just journalism industry, [join the DEI Coalition Slack](https://opennews.org/what/community/dei-coalition/).
 
-###
+<p class="divider"></p>
 
-**About OpenNews**
+<div class="smaller" markdown="1">
+_**About OpenNews**_
 
-[OpenNews](https://opennews.org) helps people strengthen relationships across organizations and build a more equitable future for journalism. Through interactive events and programs, we help peers share knowledge and care for a community grappling with complex problems. OpenNews hosts the radically inclusive conference [SRCCON](https://srccon.org/), convenes the [DEI Coalition](https://opennews.org/what/community/dei-coalition/), and publishes how the community does its work on [Source](http://source.opennews.org/). OpenNews was incubated at the Mozilla Foundation, and is currently a project of Community Partners. Follow OpenNews on Twitter at [@opennews](https://twitter.com/opennews)**.**
+_[OpenNews](https://opennews.org) helps people strengthen relationships across organizations and build a more equitable future for journalism. Through interactive events and programs, we help peers share knowledge and care for a community grappling with complex problems. OpenNews hosts the radically inclusive conference [SRCCON](https://srccon.org/), convenes the [DEI Coalition](https://opennews.org/what/community/dei-coalition/), and publishes how the community does its work on [Source](http://source.opennews.org/). OpenNews was incubated at the Mozilla Foundation, and is currently a project of Community Partners. Follow OpenNews on Twitter at [@opennews](https://twitter.com/opennews)._
+</div>
+
+<style>
+p.divider { margin: 40px 0px 20px; border-bottom: 1px solid #d4d4d4; }
+.smaller p { font-size: 1.1em; }
+</style>
