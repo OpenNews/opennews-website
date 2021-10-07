@@ -5,7 +5,7 @@ date: 2021-10-07 11:00
 author: <a href="http://opennews.org/who/">Erika Owens</a> and <a href="http://opennews.org/who/">Sisi Wei</a>, on Oct. 7, 2021
 tags: OpenNews
 excerpt: OpenNews co-executive director Sisi Wei is the 2021 recipient of IWMF’s Gwen Ifill award for her innovative approach to advancing diversity, equity and inclusion in journalism through strengthening communities and data journalism.
-image: /media/img/10-year-anniversary-srccon-2015-v2.png
+image: /media/img/blog/2021-10-07-sisi-data-institute-andrew-wang.jpg
 
 ---
 
@@ -34,16 +34,3 @@ We receive so much inspiration and knowledge from the leaders who have come befo
 If you’d like to join in celebrating not only Sisi’s work, but the work of all the grounded leaders who make a difference in our industry, we invite you to reach out to those you have learned from and tell them about the difference they’ve made in your life. 
 
 If you’d like to join in taking concrete action in service of a more anti-racist, equitable and just journalism industry, [join the DEI Coalition Slack](https://opennews.org/what/community/dei-coalition/).
-
-<p class="divider"></p>
-
-<div class="smaller" markdown="1">
-_**About OpenNews**_
-
-_[OpenNews](https://opennews.org) helps people strengthen relationships across organizations and build a more equitable future for journalism. Through interactive events and programs, we help peers share knowledge and care for a community grappling with complex problems. OpenNews hosts the radically inclusive conference [SRCCON](https://srccon.org/), convenes the [DEI Coalition](https://opennews.org/what/community/dei-coalition/), and publishes how the community does its work on [Source](http://source.opennews.org/). OpenNews was incubated at the Mozilla Foundation, and is currently a project of Community Partners. Follow OpenNews on Twitter at [@opennews](https://twitter.com/opennews)._
-</div>
-
-<style>
-p.divider { margin: 40px 0px 20px; border-bottom: 1px solid #d4d4d4; }
-.smaller p { font-size: 1.1em; }
-</style>
