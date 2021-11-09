@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: Congrats, Sisi, on the IWMF’S 2021 Gwen Ifill award!
-date: 2021-10-07 11:00
+date: 2021-10-07 11:20
 author: <a href="http://opennews.org/who/">Erika Owens</a> and <a href="http://opennews.org/who/">Sisi Wei</a>, on Oct. 7, 2021
 tags: OpenNews
 excerpt: OpenNews co-executive director Sisi Wei is the 2021 recipient of IWMF’s Gwen Ifill award for her innovative approach to advancing diversity, equity and inclusion in journalism through strengthening communities and data journalism.
