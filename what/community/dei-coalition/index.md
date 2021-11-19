@@ -105,21 +105,33 @@ image: /media/img/dei-coalition/dei-card-A1.png
     width: 100%;
     max-width: 400px;
   }
+
   p.button a {
-    padding: 18px 12px 25px;
+    padding: 18px 25px 28px;
     background-color: #dd9f40;
     border-radius: .25em;
     color: #fff;
     text-decoration: none;
     font-size: 1.45rem;
     line-height: 1.8rem;
-    text-align: center;
+    text-align: left;
     display: block;
     font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
     text-shadow: 0px 1px 2px #3e3e3e;
   }
   p.button a:hover{
     background-color: #bf8d07;
+  }
+
+  p.button.first {
+    margin-bottom:  20px;
+  }
+
+  p.button.blue a {
+    background-color: #437e91;
+  }
+  p.button.blue a:hover{
+    background-color: #2a6173;
   }
 
   .slack-icon {
@@ -136,7 +148,7 @@ image: /media/img/dei-coalition/dei-card-A1.png
       margin: 0 10px -12px 0;
     }
     p.button a {
-      padding: 11px 5px 20px;
+      padding: 11px 10px 17px;
     }
   }
 
@@ -152,7 +164,9 @@ image: /media/img/dei-coalition/dei-card-A1.png
 
 <p class="bodybig">Together, OpenNews and over 100 members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Together, members can use this shared community space, hosted on Slack, to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
 
-<p class="button"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png">Join the DEI Coalition Slack</a></p>
+<p class="button first"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png">Join the DEI Coalition Slack</a></p>
+
+<p class="button blue"><a href="https://source.opennews.org/guides/dei-coalition/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-blue.png">Our Public Resources</a></p>
 
 Membership for the DEI Coalition Slack community space is free, and if you identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism, you’re eligible to join.
 
@@ -167,6 +181,7 @@ The DEI Coalition Slack includes channels for everyone — dedicated to conversa
 <p class="bodybig">
   👉 <a href="/what/community/dei-coalition/join/">Read our membership criteria</a>
   <br>👉 <a href="/blog/dei-coalition-announcement/">Read our original DEI Coalition announcement</a>
+  <br>👉 <a href="https://source.opennews.org/guides/dei-coalition/">Read the public resources we've published</a>
 </p>
 
 <h3>Creating the DEI Coalition Slack</h3>
