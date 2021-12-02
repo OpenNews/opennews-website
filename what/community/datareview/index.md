@@ -12,7 +12,7 @@ image: /media/img/peer_data_review.jpg
 
 <p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
 
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Apply for data review! This round: COVID-19 projects</a>
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Apply for data review! Tell us about your project or story</a>
 
 ## Why this program
 
