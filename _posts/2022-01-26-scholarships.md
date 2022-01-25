@@ -1,0 +1,34 @@
+---
+layout: blogpost_noimage
+title: Helping you strengthen your network and skills through the OpenNews Scholarships+ program
+date: 2022-01-26 11:00-04:00
+author: <a href="http://opennews.org/who/">Ryan Pitts</a>, on Jan. 26, 2022
+tags: OpenNews, Scholarships
+excerpt: If you're a journalist who works with data or code, our scholarships can help you pay for programs that advance your career and develop your support network. The first round of applications for this year opens January 31, 2022.
+---
+
+Our [Scholarships+ program](/what/community/scholarships/) is back for 2022, to help you find and attend programs that take your career down the paths you’re most excited about. If you already know about something you want to learn this year, our application form opens January 31. If you’d like to hear some ideas about how you could use scholarship funds (and how this program can broaden your network in journalism), read on!
+
+### How you can use our Scholarships+ program in 2022
+
+At OpenNews, [we believe in a network effect: Supporting one journalist can strengthen entire communities of practice](https://opennews.org/blog/scholarships-networks/). Helping journalists pay for professional development is one of the ways we make that community support more visible and available. If you’re new to our Scholarships+ program, it offers money toward events and trainings for journalists who work with data or code. This is one way we can help people in those roles build skills and relationships to make their newsrooms more equitable and just.
+
+This program focuses on participatory workshops and coaching because we love the way experiential learning connects you with _people_ along with new skills. Many journalists don’t have enough colleagues to turn to for ideas, answers, and support, so helping people develop their personal networks can be career-changing, too. We know it’ll take working together to make a better future for journalism, and our “together” gets a lot more powerful as we add deeper relationships to draw on.
+
+### Ideas for using our scholarships
+
+In 2021, Scholarships+ participants used stipends to take part in:
+
+* Professional journalism and affinity-group conferences like NICAR, AAJA, ONA, and the Association of Healthcare Journalists Conference
+* Journalism-adjacent and skill-building events like Allied Media Conference, PyCon, and Dataharvest
+* Leadership development with Poynter’s leadership academy for women and the Management Center's Online Managing to Change the World
+* Online workshops in accessibility, statistics, dataviz, and information verification
+* Focused work with a speaking coach and an expert in newsroom management
+
+### We want to give you money in 2022 (and other orgs do, too!)
+
+Our [scholarship applications](/what/community/scholarships/) open soon, and we’re not the only ones who want to help you get to events!
+
+Conferences, workshops, and other support organizations like us often build in financial aid to make professional development more accessible. If you’re thinking about attending NICAR this year, for example, there’s [a fellowship program just for that event](https://www.ire.org/training/conferences/nicar-2022/nicar22-fellowships/), open through January 31. You should apply! And as you encounter other opportunities, [please let us know](mailto:team@opennews.org). We’d love to spread the word about those too.
+
+__Applications for the first round of Scholarships+ this year open January 31. If you'd like to get notifications about programs like this one, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.__
