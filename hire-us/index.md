@@ -64,8 +64,10 @@ We work with our clients and partners in many different ways: You can hire us as
 
 For every type of coaching, consulting, and facilitation work we offer, our approach is always rooted in doing work that values equity, anti-racism, and belonging. 
 
-<p class="booked"><strong>OpenNews is completely booked for 2021!</strong><br/>If you’re looking for help in 2021, we’d love to refer you to the <a href="#referrals-to-training-and-education-by-our-community">excellent training and education</a> you can get from members of our community. If you’re interested in working with us on a project in 2022, <a href="mailto:team@opennews.org">send us a note</a>.</p>
+If you’re interested in working with us in 2022, <a href="mailto:team@opennews.org">send us a note</a>.
 
+<!-- <p class="booked"><strong>OpenNews is completely booked for 2021!</strong><br/>If you’re looking for help in 2021, we’d love to refer you to the <a href="#referrals-to-training-and-education-by-our-community">excellent training and education</a> you can get from members of our community. If you’re interested in working with us on a project in 2022, <a href="mailto:team@opennews.org">send us a note</a>.</p>
+ -->
 
 ### 1-on-1 Executive Coaching and Community Design Coaching
 
@@ -107,4 +109,4 @@ Our community members have built up decades of experience tackling tough challen
 
 If you’re interested in hiring someone to help you tackle these topics, <a href="mailto:team@opennews.org">let us know</a> and we’ll ask people in our community if they have capacity to help. 
 
-<em>OpenNews is booked for 2021, but you can still <a href="mailto:team@opennews.org">reach out</a> to talk more about how we might be able to help your work. Want to know more about OpenNews? <a href="/newsletter/">Subscribe to our community newsletter.</a></em>
+<!-- <em>OpenNews is booked for 2021, but you can still <a href="mailto:team@opennews.org">reach out</a> to talk more about how we might be able to help your work. Want to know more about OpenNews? <a href="/newsletter/">Subscribe to our community newsletter.</a></em> -->
