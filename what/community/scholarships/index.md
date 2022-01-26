@@ -20,7 +20,7 @@ We're excited to hear about the event or program you want to be part of. What we
 
 ## How to apply
 
-We had two rounds of applications during 2021, and applications are now closed. People who applied in June will hear back from us by July 9.
+We had two rounds of applications during 2021, and applications are now closed.
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
