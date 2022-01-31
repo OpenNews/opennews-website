@@ -20,7 +20,9 @@ We're excited to hear about the event or program you want to be part of. What we
 
 ## How to apply
 
-We had two rounds of applications during 2021, and applications are now closed.
+[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdWYAZ7gXsUGLq5SdCBF8WBerlWCSBrcKPUTPT9PqKlfw5mEg/viewform) through the end of **Friday, February 11**. Applicants will hear back from us by **Friday, February 18**.
+
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdWYAZ7gXsUGLq5SdCBF8WBerlWCSBrcKPUTPT9PqKlfw5mEg/viewform">Apply for a journalism stipend!</a>
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 

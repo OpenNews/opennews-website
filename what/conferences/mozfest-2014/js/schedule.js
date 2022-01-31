@@ -573,10 +573,10 @@ function Schedule(options) {
 }
 
 // settings for marked library, to allow markdown formatting in session details
-marked.setOptions({
-    tables: false,
-    smartypants: true
-});
+// marked.setOptions({
+//     tables: false,
+//     smartypants: true
+// });
 
 // instantiate the app
 new Schedule();
