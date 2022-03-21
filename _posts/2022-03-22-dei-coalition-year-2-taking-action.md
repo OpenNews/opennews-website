@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: "DEI Coalition Year 2: Taking Action"
+title: "DEI Coalition Year 2: Taking Action (Sign up and join!)"
 date: 2022-03-22 07:00
 author: Sisi Wei
 tags: OpenNews, DEI-Coalition
