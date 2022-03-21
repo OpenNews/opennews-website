@@ -50,7 +50,7 @@ If you want to be a part of a process to create real, touchable change in the jo
 
 Here’s what your experience will be like as we make a plan and follow through in taking action together:
 
-**Flexibility:** Most of our work will be asynchronous, so you can contribute in a way that works for you and your life. As Coalition members know from experience, any Zoom meetings will always include [asynchronous ways to participate](https://source.opennews.org/articles/redesigning-brainstorming-asynchronous/). When you sign up, you can also tell us what level of time commitment you’d like to make — ranging from 4 hrs/month, to completely tag-in-tag-out as works for you.
+**Flexibility:** Most of our work will be asynchronous, so you can contribute in a way that works for you and your life. As Coalition members know from experience, any video meetings will always include [asynchronous ways to participate](https://source.opennews.org/articles/redesigning-brainstorming-asynchronous/). When you sign up, you can also tell us what level of time commitment you’d like to make — ranging from 4 hrs/month, to completely tag-in-tag-out as works for you.
 
 **Joy and satisfaction:** We’ll be making as much space as we can for you to contribute in ways that bring you joy and satisfaction. Fighting for equity is often frustrating, stressful work. The beauty of being able to work alongside a community is that we can find ways for everyone to play different roles, and help everyone be able to do the things they love, all while helping move DEI forward in a meaningful way.  
 
