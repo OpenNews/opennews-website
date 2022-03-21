@@ -59,7 +59,7 @@ Here’s what your experience will be like as we make a plan and follow through 
 **Lifelong connections:** Many folks who participated in our initial work to design the Coalition Slack made deep connections and lasting friendships with one another. Our Year 2 process is even more likely to help you establish, broaden, or deepen these meaningful connections.
 
 **Starting in May, together with community members, we will:**
-* Do some of our focused work in guided, 6-week sprints
+* Try out “sprints,” aka 6-week periods where we do guided, focused work together
 * Have deep conversations with other Coalition members 1-1 about their situations 
 * Research specific topics to see what’s been done before, and find where the opportunities are
 * Have facilitated group brainstorms and conversations 
