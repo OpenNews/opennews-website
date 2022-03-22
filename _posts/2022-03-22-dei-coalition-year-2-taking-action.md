@@ -36,7 +36,7 @@ image: /media/img/dei-coalition/dei-card-A1.png
 <img src="/media/img/dei-coalition/dei-card-A1.png" style="width: 100%;" alt="Logo for the DEI Coalition for Anti-Racist, Equitable, and Just Newsrooms."> 
 <p class="caption" style="margin-top: -15px; text-align: left;">✨ It’s officially been one year since we launched the DEI Coalition Slack! ✨ (Image by <a href="https://iniwil.github.io/">William Lager</a> for OpenNews and the DEI Coalition)</p>
 
-One year ago on March 22, OpenNews and over 100 members of the journalism community launched the [DEI Coalition Slack](https://opennews.org/what/community/dei-coalition/), a dedicated digital space to share knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry.
+One year ago on March 22, OpenNews and over 100 members of the journalism community launched the [DEI Coalition Slack](https://opennews.org/what/community/dei-coalition/), a dedicated digital space to share knowledge and take concrete action in service of a more anti-racist, equitable and just journalism industry.
 
 Year 1 was about launching the space with [incredible](https://source.opennews.org/articles/slack-moderator-structures-power-and-burnout/) [intentionality](https://docs.google.com/document/d/1xzZlzvUkbGCb9EjYrLUx_QSpSGCAgSY8UuXqsxBGB3Q/edit), getting to [know one another](https://source.opennews.org/articles/redesigning-brainstorming-asynchronous/) and the [challenges](https://source.opennews.org/articles/community-q-white-manager-building-trust-allyship/) we’re [working](https://docs.google.com/document/d/13FpmjzpOOVjI8lkr4X-YhIz5E2ebOmVfsCelGUvNIME/edit) through, [creating public resources with transparency and consent](https://docs.google.com/document/d/1o5tBPOK7stnuzS_1yWTrMST1aBFUce2cqTU-beqTFxI/edit#), and growing organically. As we conclude year 1, we’ve grown to nearly 1,000 members.
 
@@ -60,8 +60,8 @@ Here’s what your experience will be like as we make a plan and follow through 
 
 **Starting in May, together with community members, we will:**
 * Try out “sprints,” aka 6-week periods where we do guided, focused work together
-* Have deep conversations with other Coalition members 1-1 about their situations 
-* Research specific topics to see what’s been done before, and find where the opportunities are
+* Have deep conversations with other Coalition members 1-1 about their challenges 
+* Research specific topics to see what’s been done before and find where the opportunities are
 * Have facilitated group brainstorms and conversations 
 * Synthesize what we learn and collaboratively pick what actions to take together
 * Stress test asks we can make through research and 1-1 interviews
