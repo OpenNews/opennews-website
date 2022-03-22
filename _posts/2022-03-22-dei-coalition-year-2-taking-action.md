@@ -1,10 +1,10 @@
 ---
 layout: blogpost
 title: "DEI Coalition Year 2: Taking Action (Sign up and join!)"
-date: 2022-03-22 07:00
+date: 2022-03-22 13:30
 author: Sisi Wei
 tags: OpenNews, DEI-Coalition
-excerpt: If you want to be a part of a process to create real, touchable change in the journalism industry, we invite you to join us, or deepen your work with us, in our DEI Coalition work this year.
+excerpt: If you want to be a part of a joyful process to create real, systemic change in the journalism industry, I can’t wait to welcome you to join, or deepen your work, with the DEI Coalition this year.
 image: /media/img/dei-coalition/dei-card-A1.png
 ---
 
