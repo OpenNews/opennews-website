@@ -7,13 +7,15 @@ tags: OpenNews
 excerpt: "We asked the prize committee to add one requirement starting in 2024: In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics."
 ---
 
-On April 22, OpenNews and more than 50 organizations representing journalists across the U.S. called on the Pulitzer Prizes to help improve diversity and transparency in the news industry. We asked the prize committee to add one requirement starting in 2024: **In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics.** News organizations could report their data through a survey from the News Leaders Association, or in another industry reporting system.
+On April 22, OpenNews and more than 50 organizations representing journalists across the U.S. [called on the Pulitzer Prizes](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit) to help improve diversity and transparency in the news industry. We asked the prize committee to add one requirement starting in 2024: **In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics.** News organizations could report their data through a survey from the News Leaders Association, or in another industry reporting system.
 
 We're calling for action because right now, many news organizations are failing at this kind of accountability. [Nieman Lab reported](https://www.niemanlab.org/2022/04/crushing-resistance-yet-again-newsrooms-arent-showing-up-to-the-industrys-largest-diversity-survey/) on April 12 that there was “crushing resistance” to participation in the NLA's annual diversity survey: The group planned to gather data from 2,500 organizations, and in the end, only 303 completed this important survey.
 
-At OpenNews, we know how powerful data can be in holding the powerful to account. Many newsrooms have said they want to address racial injustice, but if we aren't even willing to measure where we're at, how can we build a more equitable future for journalism? As an industry, we demand transparency and accountability from the institutions we cover — we cannot hold ourselves to a lesser standard.
+At OpenNews, we know how powerful [data can be](https://postguild.org/2022-pay-study/) in holding the powerful to account. Many newsrooms have said they want to address racial injustice, but if we aren't even willing to measure where we're at, how can we build a more equitable future for journalism? As an industry, we demand transparency and accountability from the institutions we cover — we cannot hold ourselves to a lesser standard.
 
-We invite organizations and individuals to continue to [join us as co-signers](https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform). We are helping to regularly update the full list of co-signers in the [Google Doc version of the letter](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit).
+Individual signers and organizations can join the effort to push for diversity transparency in the news industry. [Add your name or organization here](https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform). 
+
+<em>For questions, contact [Sisi Wei](mailto:sisi@opennews.org), co-executive director of OpenNews.</em>
 
 <blockquote>
 <h2>To: The Pulitzer Prizes</h2>
