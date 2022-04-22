@@ -111,4 +111,5 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Whong Community Media
 <br>Writers Guild of America, East
 <br>WURD Radio
-</em></p></blockquote>
+</em></p>
+<p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform">Let us know if you want to add your name or organization.</a></p></blockquote>
