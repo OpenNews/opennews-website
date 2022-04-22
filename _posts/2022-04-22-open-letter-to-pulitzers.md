@@ -5,6 +5,7 @@ date: 2022-04-22 08:00-04:00
 author: OpenNews, on April 22, 2022
 tags: OpenNews
 excerpt: "We asked the prize committee to add one requirement starting in 2024: In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics."
+image: /media/img/blog/2022-04-22-letter.png
 ---
 
 On April 22, OpenNews and more than 50 organizations representing journalists across the U.S. [called on the Pulitzer Prizes](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit) to help improve diversity and transparency in the news industry. We asked the prize committee to add one requirement starting in 2024: **In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics.** News organizations could report their data through a survey from the News Leaders Association, or in another industry reporting system.
@@ -51,37 +52,58 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 </p>
 <p>
 Sincerely,
-<em><br>AIR (Association of Independents in Radio)
+<em>
+<br>100 Days in Appalachia
+<br>Africa Institute for International ReportIng (AIIR), Minnesota
+<br>AIR (Association of Independents in Radio)
+<br>Anchor media 
 <br>Asian American Journalists Association
+<br>Bay City News Foundation
 <br>California Health Report
 <br>The Center for Investigative Reporting 
 <br>Center for Public Integrity
-<br>Connecticut Health I-Team
+<br>Center for Public Integrity
+<br>Cityside Journalism Initiative        
+<br>Connecticut Health I-Team 
+<br>Dallas Free Press
+<br>Georgia News Lab
+<br>Get Current Studio
 <br>The Ida B. Wells Society 
 <br>Indigenous Media Freedom Alliance
 <br>Institute for Nonprofit News
 <br>International Women's Media Foundation
+<br>Investigate Midwest
+<br>Investigative Newsource dba inewsource
 <br>LION Publishers
 <br>The Marshall Project
 <br>Media Bridge Partners
 <br>Milwaukee Neighborhood News Service
+<br>MindSite News
 <br>National Association of Black Journalists
 <br>National Association of Hispanic Journalists (NAHJ)
 <br>Native American Journalists Association (NAJA)
 <br>Native News Online
 <br>News Revenue Hub
-<br>The NewsGuild-CWA
+<br>The NewsGuild of New York
 <br>The Objective
-<br>OpenNews
+<br>OnlySky Media, Inc.
 <br>OpenSecrets
 <br>Our Body Politic
+<br>Outlier Media 
 <br>Prism
+<br>Prison Journalism Project
+<br>Racine County Eye
+<br>Renaissance Journalism
+<br>Reporte Hispano
+<br>Robert C. Maynard Institute for Journalism Education
+<br>Sahan Journal
 <br>Society of Professional Journalists
+<br>Spotlight PA
 <br>Trans Journalists Association
 <br>Tucson Sentinel
 <br>URL Media
 <br>Vision25: Building Racial Equity in Newsrooms
-<br>Vox Media
+<br>Vox Media 
 <br>Writers Guild of America, East
 <br>WURD Radio
 </em></p></blockquote>
