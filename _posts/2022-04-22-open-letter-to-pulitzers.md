@@ -59,13 +59,16 @@ Sincerely,
 <br>Anchor media 
 <br>Asian American Journalists Association
 <br>Bay City News Foundation
+<br>Black Video News
 <br>California Health Report
 <br>The Center for Investigative Reporting 
 <br>Center for Public Integrity
-<br>Center for Public Integrity
 <br>Cityside Journalism Initiative        
+<br>Colorado Media Project
 <br>Connecticut Health I-Team 
 <br>Dallas Free Press
+<br>EDM Publications
+<br>FMB Radio
 <br>Georgia News Lab
 <br>Get Current Studio
 <br>The Ida B. Wells Society 
@@ -77,8 +80,10 @@ Sincerely,
 <br>LION Publishers
 <br>The Marshall Project
 <br>Media Bridge Partners
+<br>The Mendocino Voice
 <br>Milwaukee Neighborhood News Service
 <br>MindSite News
+<br>Mojatu Foundation (Mojatu Magazine)
 <br>National Association of Black Journalists
 <br>National Association of Hispanic Journalists (NAHJ)
 <br>Native American Journalists Association (NAJA)
@@ -104,6 +109,8 @@ Sincerely,
 <br>URL Media
 <br>Vision25: Building Racial Equity in Newsrooms
 <br>Vox Media 
+<br>West View Media
+<br>Whong Community Media
 <br>Writers Guild of America, East
 <br>WURD Radio
 </em></p></blockquote>
