@@ -50,10 +50,8 @@ By implementing this new criteria, the Pulitzers would honor not only great jour
 <p>
 Journalists have an ethical duty to be accountable and transparent. We must be accountable to our readers and our workers by making sure our newsrooms reflect the demographics of our readers. And we must be transparent with that data to improve the diversity of our newsrooms so they can operate at their full potential. 
 </p>
-<p>
-Sincerely,
-<em>
-<br>100 Days in Appalachia
+<p>Sincerely,</p>
+<p><em>100 Days in Appalachia
 <br>Africa Institute for International ReportIng (AIIR), Minnesota
 <br>AIR (Association of Independents in Radio)
 <br>Anchor media 
