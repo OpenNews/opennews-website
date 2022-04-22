@@ -4,12 +4,14 @@ title: Open Letter to Pulitzer Prize Awards
 date: 2022-04-22 08:00-04:00
 author: OpenNews, on April 22, 2022
 tags: OpenNews
-excerpt: TK
+excerpt: "We asked the prize committee to add one requirement starting in 2024: In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics."
 ---
 
-On April 22, OpenNews and more than 50TKTKTK organizations representing journalists across the U.S. called on the Pulitzer Prizes to make participation in an annual, public diversity survey a condition of eligibility for awards.
+On April 22, OpenNews and more than 50 organizations representing journalists across the U.S. called on the Pulitzer Prizes to help improve diversity and transparency in the news industry. We asked the prize committee to add one requirement starting in 2024: In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics. News organizations could report their data through a survey from the News Leaders Association, or in another industry reporting system.
 
-At OpenNews, we believe that news organizations have an ethical duty to be transparent and accountable.
+We're calling for action because right now, many news organizations are failing at this kind of accountability. [Nieman Lab reported](https://www.niemanlab.org/2022/04/crushing-resistance-yet-again-newsrooms-arent-showing-up-to-the-industrys-largest-diversity-survey/) on April 12 that there was “crushing resistance” to participation in the NLA's annual diversity survey: The group planned to gather data from 2,500 organizations, and in the end, only 303 completed this important survey.
+
+At OpenNews, we know how powerful data can be in holding the powerful to account. Many newsrooms have said they want to address racial injustice, but if we aren't even willing to measure where we're at, how can we build a more equitable future for journalism? As an industry, we demand transparency and accountability from the institutions we cover — we cannot hold ourselves to a lesser standard.
 
 We invite organizations and individuals to continue to [join us as co-signers](https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform). We are helping to regularly update the full list of co-signers in the [Google Doc version of the letter](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit).
 
