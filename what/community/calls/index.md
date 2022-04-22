@@ -20,8 +20,8 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** March 25, 2021 [call agenda](https://etherpad.opennews.org/p/communitycall-Mar25) <br />
-**[Join Online](https://www.uberconference.com/opennews)** or use our **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.uberconference.com/international)<br />
+**Next Scheduled Call:** May 5, 2022 [call agenda](https://etherpad.opennews.org/p/communitycall-May5) <br />
+**[Join Online](https://meetings.dialpad.com/room/opennews)** or use our **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.dialpad.com/features/international-conference-calls/)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
@@ -32,6 +32,23 @@ You can participate by calling in and listening, reading along on the etherpad d
   <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Apr21">April 21, 2022 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar24">March 24, 2022 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb24">February 24, 2022 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb10">February 10, 2022 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan27">January 27, 2022 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan13">January 13, 2022 call</a></li><li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec16">December 16, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec2">December 2, 2021 call</a></li> 
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov18">November 18, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov4">November 4, 2021 call</a></li>
+     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct21">October 21, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct7">October 7, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept9">September 9, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-July15">July 15, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-July1">July 1, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May20">May 20, 2021 call</a></li>
+  <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May6">May 6, 2021 call</a></li>
+  <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar25">March 25, 2021 call</a></li>
   <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar11">March 11, 2021 call</a></li>
   <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb25">February 25, 2021 call</a></li>
   <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb11">February 11, 2021 call</a></li>
