@@ -57,26 +57,35 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>American Press Institute
 <br>Anchor media 
 <br>The Appeal
+<br>Arizona Press Club
 <br>Asian American Journalists Association
 <br>Bay City News Foundation
 <br>Black Video News
 <br>California Health Report
+<br>CalMatters
 <br>Capital B
 <br>Center for Cooperative Media
 <br>Center for Ethical Leadership in Media
 <br>The Center for Investigative Reporting 
 <br>Center for Public Integrity
 <br>Cityside Journalism Initiative        
+<br>Colorado Community Media
 <br>Colorado Media Project
 <br>The Columbia Journalism Review
+<br>Community Info Coop
 <br>Connecticut Health I-Team 
+<br>The Conversation U.S.
 <br>The Current Media 
 <br>Dallas Free Press
 <br>EDM Publications
 <br>The #FightToWrite Initiative
 <br>FMB Radio
+<br>Free Press
+<br>Fresnoland
+<br>Geena Davis Institute on Gender in Media
 <br>Georgia News Lab
 <br>Get Current Studio
+<br>Grist
 <br>Health Stuff TO Know
 <br>The Ida B. Wells Society 
 <br>Indigenous Media Freedom Alliance
@@ -86,7 +95,9 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Investigative Newsource dba inewsource
 <br>The Kansas City Defender
 <br>LION Publishers
+<br>Making Contact (aka International Media Project)
 <br>The Marshall Project
+<br>Media 2070
 <br>Media Bridge Partners
 <br>The Mendocino Voice
 <br>Milwaukee Neighborhood News Service
@@ -96,24 +107,33 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>National Association of Hispanic Journalists (NAHJ)
 <br>Native American Journalists Association (NAJA)
 <br>Native News Online
+<br>News Catalyst
 <br>News Product Alliance
 <br>News Revenue Hub
 <br>The NewsGuild of New York
+<br>The NewsGuild-CWA
+<br>North Carolina Local News Workshop
 <br>The Objective
 <br>OnlySky Media, Inc.
+<br>OpenNews
 <br>OpenSecrets
 <br>Our Body Politic
 <br>Outlier Media 
 <br>Philadelphia Association of Black Journalists
 <br>Prism
 <br>Prison Journalism Project
+<br>PublicSource
+<br>Quartz
+<br>Racial Equity in Journalism Fund
 <br>Racine County Eye
 <br>Reality Team
 <br>Renaissance Journalism
 <br>Reporte Hispano
 <br>Robert C. Maynard Institute for Journalism Education
 <br>Sahan Journal
+<br>Scalawag
 <br>Society of Professional Journalists
+<br>Society of Professional Journalists, Oregon Pro Chapter
 <br>Southern California Public Radio (KPCC + LAist + LAist Studios)
 <br>Spotlight PA
 <br>Trans Journalists Association
