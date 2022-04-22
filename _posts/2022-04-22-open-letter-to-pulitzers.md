@@ -5,7 +5,7 @@ date: 2022-04-22 08:00-04:00
 author: OpenNews, on April 22, 2022
 tags: OpenNews
 excerpt: "We asked the prize committee to add one requirement starting in 2024: In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics."
-image: /media/img/blog/2022-04-22-letter.png
+image: /media/img/blog/open-letter-pulitzer-large.png
 ---
 
 On April 22, OpenNews and more than 50 organizations representing journalists across the U.S. [called on the Pulitzer Prizes](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit) to help improve diversity and transparency in the news industry. We asked the prize committee to add one requirement starting in 2024: **In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics.** News organizations could report their data through a survey from the News Leaders Association, or in another industry reporting system.
