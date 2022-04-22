@@ -54,31 +54,41 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <p><em>100 Days in Appalachia
 <br>Africa Institute for International ReportIng (AIIR), Minnesota
 <br>AIR (Association of Independents in Radio)
+<br>American Press Institute
 <br>Anchor media 
+<br>Appeal
 <br>Asian American Journalists Association
 <br>Bay City News Foundation
 <br>Black Video News
 <br>California Health Report
-<br>The Center for Investigative Reporting 
+<br>Capital B
+<br>Center for Cooperative Media
+<br>Center for Ethical Leadership in Media
+<br>Center for Investigative Reporting 
 <br>Center for Public Integrity
 <br>Cityside Journalism Initiative        
 <br>Colorado Media Project
+<br>Columbia Journalism Review
 <br>Connecticut Health I-Team 
+<br>Current Media 
 <br>Dallas Free Press
 <br>EDM Publications
+<br>#FightToWrite Initiative
 <br>FMB Radio
 <br>Georgia News Lab
 <br>Get Current Studio
-<br>The Ida B. Wells Society 
+<br>Health Stuff TO Know
+<br>Ida B. Wells Society 
 <br>Indigenous Media Freedom Alliance
 <br>Institute for Nonprofit News
 <br>International Women's Media Foundation
 <br>Investigate Midwest
 <br>Investigative Newsource dba inewsource
+<br>Kansas City Defender
 <br>LION Publishers
-<br>The Marshall Project
+<br>Marshall Project
 <br>Media Bridge Partners
-<br>The Mendocino Voice
+<br>Mendocino Voice
 <br>Milwaukee Neighborhood News Service
 <br>MindSite News
 <br>Mojatu Foundation (Mojatu Magazine)
@@ -86,21 +96,25 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>National Association of Hispanic Journalists (NAHJ)
 <br>Native American Journalists Association (NAJA)
 <br>Native News Online
+<br>News Product Alliance
 <br>News Revenue Hub
-<br>The NewsGuild of New York
-<br>The Objective
+<br>NewsGuild of New York
+<br>Objective
 <br>OnlySky Media, Inc.
 <br>OpenSecrets
 <br>Our Body Politic
 <br>Outlier Media 
+<br>Philadelphia Association of Black Journalists
 <br>Prism
 <br>Prison Journalism Project
 <br>Racine County Eye
+<br>Reality Team
 <br>Renaissance Journalism
 <br>Reporte Hispano
 <br>Robert C. Maynard Institute for Journalism Education
 <br>Sahan Journal
 <br>Society of Professional Journalists
+<br>Southern California Public Radio (KPCC + LAist + LAist Studios)
 <br>Spotlight PA
 <br>Trans Journalists Association
 <br>Tucson Sentinel
