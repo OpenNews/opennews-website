@@ -31,6 +31,7 @@ You can participate by calling in and listening, reading along on the etherpad d
       
   <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
 
+
   <ul>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Apr21">April 21, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar24">March 24, 2022 call</a></li>
