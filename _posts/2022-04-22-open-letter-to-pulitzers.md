@@ -57,18 +57,24 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>American Press Institute
 <br>Anchor media 
 <br>The Appeal
+<br>The Arab & Middle Eastern Journalists Association (AMEJA)
+<br>Arizona Luminaria 
 <br>Arizona Press Club
 <br>Asian American Journalists Association
+<br>Asian American Journalists Association, Philadelphia chapter
 <br>Bay City News Foundation
+<br>The Beacon (The Kansas City Beacon and The Wichita Beacon)
 <br>Black Video News
 <br>California Health Report
 <br>CalMatters
 <br>Capital B
 <br>Center for Cooperative Media
 <br>Center for Ethical Leadership in Media
+<br>The Center for Independent Journalists
 <br>The Center for Investigative Reporting 
 <br>Center for Public Integrity
 <br>Cityside Journalism Initiative        
+<br>The Coalition For Women In Journalism (CFWIJ)
 <br>Colorado Community Media
 <br>Colorado Media Project
 <br>The Columbia Journalism Review
@@ -80,39 +86,53 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>EDM Publications
 <br>The #FightToWrite Initiative
 <br>FMB Radio
+<br>Four Points Media
 <br>Free Press
 <br>Fresnoland
+<br>GALECA: The Society of LGBTQ Entertainment Critics
 <br>Geena Davis Institute on Gender in Media
 <br>Georgia News Lab
 <br>Get Current Studio
 <br>Grist
 <br>Health Stuff TO Know
 <br>The Ida B. Wells Society 
+<br>Indiegraf
 <br>Indigenous Media Freedom Alliance
 <br>Institute for Nonprofit News
 <br>International Women's Media Foundation
 <br>Investigate Midwest
 <br>Investigative Newsource dba inewsource
 <br>The Kansas City Defender
+<br>Lede New Orleans
 <br>LION Publishers
+<br>Madison Minutes
 <br>Making Contact (aka International Media Project)
 <br>The Marshall Project
 <br>Media 2070
+<br>Media Alliance
+<br>Media and Democracy Project
 <br>Media Bridge Partners
+<br>Media Innovation Collaboratory/TrollBusters 
 <br>The Mendocino Voice
+<br>Military Veterans in Journalism
 <br>Milwaukee Neighborhood News Service
+<br>Milwaukee Newspaper Guild
 <br>MindSite News
 <br>Mojatu Foundation (Mojatu Magazine)
+<br>The Morning Call Guild
 <br>National Association of Black Journalists
 <br>National Association of Hispanic Journalists (NAHJ)
 <br>Native American Journalists Association (NAJA)
 <br>Native News Online
+<br>New York Public Radio
 <br>News Catalyst
 <br>News Product Alliance
 <br>News Revenue Hub
 <br>The NewsGuild of New York
 <br>The NewsGuild-CWA
+<br>NLGJA: The Association of LGBTQ Journalists
 <br>North Carolina Local News Workshop
+<br>NuestroEstado.com
 <br>The Objective
 <br>OnlySky Media, Inc.
 <br>OpenNews
@@ -122,6 +142,8 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Philadelphia Association of Black Journalists
 <br>Prism
 <br>Prison Journalism Project
+<br>ProPublica
+<br>Public News Service
 <br>PublicSource
 <br>Quartz
 <br>Racial Equity in Journalism Fund
@@ -129,21 +151,29 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Reality Team
 <br>Renaissance Journalism
 <br>Reporte Hispano
+<br>Resolve Philly
 <br>Robert C. Maynard Institute for Journalism Education
 <br>Sahan Journal
+<br>San Antonio Association of Hispanic Journalists
 <br>Scalawag
 <br>Society of Professional Journalists
 <br>Society of Professional Journalists, Oregon Pro Chapter
+<br>Solidarity Journalism Initiative 
+<br>South Asian Journalists Association
 <br>Southern California Public Radio (KPCC + LAist + LAist Studios)
 <br>Spotlight PA
+<br>The Texas Tribune
 <br>Trans Journalists Association
 <br>Tucson Sentinel
+<br>United Media Guild - CWA 36047
 <br>URL Media
 <br>Vision25: Building Racial Equity in Newsrooms
 <br>Vox Media 
+<br>Washington-Baltimore News Guild
 <br>West View Media
 <br>Whong Community Media
 <br>Writers Guild of America, East
 <br>WURD Radio
+<br>YR Media
 </em></p>
 <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform">Let us know if you want to add your name or organization.</a></p></blockquote>
