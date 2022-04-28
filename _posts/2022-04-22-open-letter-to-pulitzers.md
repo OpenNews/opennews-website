@@ -62,9 +62,13 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Arizona Press Club
 <br>Asian American Journalists Association
 <br>Asian American Journalists Association, Philadelphia chapter
+<br>The Baltimore Banner
+<br>Bay Area Reporter
 <br>Bay City News Foundation
 <br>The Beacon (The Kansas City Beacon and The Wichita Beacon)
 <br>Black Video News
+<br>Bridge Michigan
+<br>BridgeDetroit
 <br>California Health Report
 <br>CalMatters
 <br>Capital B
@@ -73,6 +77,7 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>The Center for Independent Journalists
 <br>The Center for Investigative Reporting 
 <br>Center for Public Integrity
+<br>Central Current
 <br>Cityside Journalism Initiative        
 <br>The Coalition For Women In Journalism (CFWIJ)
 <br>Colorado Community Media
@@ -83,6 +88,8 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>The Conversation U.S.
 <br>The Current Media 
 <br>Dallas Free Press
+<br>Democracy Fund
+<br>Documented
 <br>EDM Publications
 <br>The #FightToWrite Initiative
 <br>FMB Radio
@@ -95,9 +102,11 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Get Current Studio
 <br>Grist
 <br>Health Stuff TO Know
+<br>High Country News
 <br>The Ida B. Wells Society 
 <br>Indiegraf
 <br>Indigenous Media Freedom Alliance
+<br>Independence Public Media Foundation
 <br>Institute for Nonprofit News
 <br>International Women's Media Foundation
 <br>Investigate Midwest
@@ -105,6 +114,7 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>The Kansas City Defender
 <br>Lede New Orleans
 <br>LION Publishers
+<br>Los Angeles Times Guild
 <br>Madison Minutes
 <br>Making Contact (aka International Media Project)
 <br>The Marshall Project
@@ -112,20 +122,24 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Media Alliance
 <br>Media and Democracy Project
 <br>Media Bridge Partners
+<br>Media Guild of the West, The NewsGuild-CWA Local 39213
 <br>Media Innovation Collaboratory/TrollBusters 
 <br>The Mendocino Voice
 <br>Military Veterans in Journalism
 <br>Milwaukee Neighborhood News Service
 <br>Milwaukee Newspaper Guild
 <br>MindSite News
+<br>MLK50: Justice Through Journalism
 <br>Mojatu Foundation (Mojatu Magazine)
 <br>The Morning Call Guild
 <br>National Association of Black Journalists
 <br>National Association of Hispanic Journalists (NAHJ)
+<br>National Association of Science Writers, Inc.
 <br>Native American Journalists Association (NAJA)
 <br>Native News Online
 <br>New York Public Radio
 <br>News Catalyst
+<br>News Media Guild
 <br>News Product Alliance
 <br>News Revenue Hub
 <br>The NewsGuild of New York
@@ -146,13 +160,17 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Public News Service
 <br>PublicSource
 <br>Quartz
+<br>rabble.ca
 <br>Racial Equity in Journalism Fund
 <br>Racine County Eye
+<br>The Record Community News
 <br>Reality Team
 <br>Renaissance Journalism
 <br>Reporte Hispano
 <br>Resolve Philly
+<br>The Roanoke Rambler
 <br>Robert C. Maynard Institute for Journalism Education
+<br>SAG-AFTRA
 <br>Sahan Journal
 <br>San Antonio Association of Hispanic Journalists
 <br>Scalawag
@@ -163,10 +181,15 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Southern California Public Radio (KPCC + LAist + LAist Studios)
 <br>Spotlight PA
 <br>The Texas Tribune
+<br>The Tiny News Collective
+<br>The Trace
 <br>Trans Journalists Association
 <br>Tucson Sentinel
+<br>UnbiastheNews.org
 <br>United Media Guild - CWA 36047
+<br>The UpTake
 <br>URL Media
+<br>Verified News Network (VNN)
 <br>Vision25: Building Racial Equity in Newsrooms
 <br>Vox Media 
 <br>Washington-Baltimore News Guild
