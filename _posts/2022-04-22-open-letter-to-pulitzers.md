@@ -8,6 +8,10 @@ excerpt: "We asked the prize committee to add one requirement starting in 2024: 
 image: /media/img/blog/open-letter-pulitzer-large.png
 ---
 
+**Update, April 29:** **We have asked that the Pulitzer Prizes plan to announce its intent on or before the 2022 award announcement on May 9, 2022**, and highlighted that our appeal gives the Pultizers more than a year to figure out the exact details of implementation. We also offered our support to help make this commitment a reality.
+
+--
+
 On April 22, OpenNews and more than 50 organizations representing journalists across the U.S. [called on the Pulitzer Prizes](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit) to help improve diversity and transparency in the news industry. We asked the prize committee to add one requirement starting in 2024: **In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics.** News organizations could report their data through a survey from the News Leaders Association, or in another industry reporting system.
 
 We're calling for action because right now, many news organizations are failing at this kind of accountability. [Nieman Lab reported](https://www.niemanlab.org/2022/04/crushing-resistance-yet-again-newsrooms-arent-showing-up-to-the-industrys-largest-diversity-survey/) on April 12 that there was “crushing resistance” to participation in the NLA's annual diversity survey: The group planned to gather data from 2,500 organizations, and in the end, only 303 completed this important survey.
@@ -22,19 +26,12 @@ The most up-to-date list of organization and individuals signers is on [our shar
 
 <blockquote>
 <h2>To: The Pulitzer Prizes</h2>
-<p>Update: April 29, 2022</p>
+<p>April 22, 2022</p>
 <p>
 Marjorie Miller
 <br>Administrator
 <br>The Pulitzer Prizes
 </p>
-<p>Dear Marjorie,</p>
-<p>In just one week more than 100 additional journalism organizations have added their name to the letter you received, and more than 220 individuals have also signed onto this appeal.</p>
-<p>It’s clear that the news industry would like to see more diversity transparency in news organizations and believe the Pulitzer Prizes should join this effort by adding our proposed criteria to the selection process of prizes in journalism.</p>
-<p>We hope that the Pulitzers will not be silent in this request and that the awards commit to adding this criteria to the awards for 2024, which also gives the Pulitzers more than a year to figure out how to implement the criteria.</p> 
-<p>We ask that the Pulitzer Prizes plan to announce its intent on or before the 2022 award announcement on May 9, 2022. If you need our support in any way to help make this a reality, please let us know.</p>
-<hr>
-<p>April 22, 2022</p>
 <p>
 Dear Marjorie,
 </p>
