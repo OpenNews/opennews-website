@@ -124,6 +124,7 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>International Women's Media Foundation
 <br>Investigate Midwest
 <br>Investigative Newsource dba inewsource
+<br>The James B. McClatchy Foundation
 <br>Journalism Funding Partners
 <br>The Kansas City Defender
 <br>Lede New Orleans
