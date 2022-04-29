@@ -16,16 +16,25 @@ At OpenNews, we know how powerful [data can be](https://postguild.org/2022-pay-s
 
 Individual signers and organizations can join the effort to push for diversity transparency in the news industry. [Add your name or organization here](https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform). 
 
+The most up-to-date list of organization and individuals signers is on [our shared open letter](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit).
+
 <em>For questions, contact [Sisi Wei](mailto:sisi@opennews.org), co-executive director of OpenNews.</em>
 
 <blockquote>
 <h2>To: The Pulitzer Prizes</h2>
-<p>April 22, 2022</p>
+<p>Update: April 29, 2022</p>
 <p>
 Marjorie Miller
 <br>Administrator
 <br>The Pulitzer Prizes
 </p>
+<p>Dear Marjorie,</p>
+<p>In just one week more than 100 additional journalism organizations have added their name to the letter you received, and more than 220 individuals have also signed onto this appeal.</p>
+<p>It’s clear that the news industry would like to see more diversity transparency in news organizations and believe the Pulitzer Prizes should join this effort by adding our proposed criteria to the selection process of prizes in journalism.</p>
+<p>We hope that the Pulitzers will not be silent in this request and that the awards commit to adding this criteria to the awards for 2024, which also gives the Pulitzers more than a year to figure out how to implement the criteria.</p> 
+<p>We ask that the Pulitzer Prizes plan to announce its intent on or before the 2022 award announcement on May 9, 2022. If you need our support in any way to help make this a reality, please let us know.</p>
+<hr>
+<p>April 22, 2022</p>
 <p>
 Dear Marjorie,
 </p>
@@ -54,6 +63,7 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <p><em>100 Days in Appalachia
 <br>Africa Institute for International ReportIng (AIIR), Minnesota
 <br>AIR (Association of Independents in Radio)
+<br>American Journalism Project
 <br>American Press Institute
 <br>Anchor media 
 <br>The Appeal
@@ -78,7 +88,9 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>The Center for Investigative Reporting 
 <br>Center for Public Integrity
 <br>Central Current
-<br>Cityside Journalism Initiative        
+<br>City Limits
+<br>Cityside Journalism Initiative
+<br>Clarisel Media     
 <br>The Coalition For Women In Journalism (CFWIJ)
 <br>Colorado Community Media
 <br>Colorado Media Project
@@ -88,10 +100,12 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>The Conversation U.S.
 <br>The Current Media 
 <br>Dallas Free Press
+<br>Define American 
 <br>Democracy Fund
 <br>Documented
 <br>EDM Publications
 <br>The #FightToWrite Initiative
+<br>Flatwater Free Press
 <br>FMB Radio
 <br>Four Points Media
 <br>Free Press
@@ -103,14 +117,17 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Grist
 <br>Health Stuff TO Know
 <br>High Country News
+<br>The Hofstra Chronicle
 <br>The Ida B. Wells Society 
 <br>Indiegraf
 <br>Indigenous Media Freedom Alliance
 <br>Independence Public Media Foundation
+<br>Institute for Media and Public Trust, California State University, Fresno
 <br>Institute for Nonprofit News
 <br>International Women's Media Foundation
 <br>Investigate Midwest
 <br>Investigative Newsource dba inewsource
+<br>Journalism Funding Partners
 <br>The Kansas City Defender
 <br>Lede New Orleans
 <br>LION Publishers
@@ -154,11 +171,13 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Our Body Politic
 <br>Outlier Media 
 <br>Philadelphia Association of Black Journalists
+<br>The Pivot Fund
 <br>Prism
 <br>Prison Journalism Project
 <br>ProPublica
 <br>Public News Service
 <br>PublicSource
+<br>Puerto Rico Sun Communications
 <br>Quartz
 <br>rabble.ca
 <br>Racial Equity in Journalism Fund
@@ -174,9 +193,11 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>Sahan Journal
 <br>San Antonio Association of Hispanic Journalists
 <br>Scalawag
+<br>Shoresides
 <br>Society of Professional Journalists
 <br>Society of Professional Journalists, Oregon Pro Chapter
 <br>Solidarity Journalism Initiative 
+<br>Solutions Journalism Network
 <br>South Asian Journalists Association
 <br>Southern California Public Radio (KPCC + LAist + LAist Studios)
 <br>Spotlight PA
@@ -196,6 +217,7 @@ Journalists have an ethical duty to be accountable and transparent. We must be a
 <br>West View Media
 <br>Whong Community Media
 <br>Writers Guild of America, East
+<br>WRHU
 <br>WURD Radio
 <br>YR Media
 </em></p>
