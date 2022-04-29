@@ -2,7 +2,7 @@
 layout: blogpost_noimage
 title: Open Letter to Pulitzer Prize Awards
 date: 2022-04-22 08:00-04:00
-author: OpenNews, on April 22, 2022
+author: OpenNews, on April 22, 2022, updated April 29, 2022
 tags: OpenNews
 excerpt: "We asked the prize committee to add one requirement starting in 2024: In order to be eligible for a Pulitzer Prize, a news organization must publicly share data about staff demographics."
 image: /media/img/blog/open-letter-pulitzer-large.png
