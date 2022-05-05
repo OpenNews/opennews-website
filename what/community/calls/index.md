@@ -20,7 +20,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** May 5, 2022 [call agenda](https://etherpad.opennews.org/p/communitycall-May5) <br />
+**Next Scheduled Call:** June 2, 2022 [call agenda](https://etherpad.opennews.org/p/communitycall-June2) (May 19 call canceled) <br />
 **[Join Online](https://meetings.dialpad.com/room/opennews)** or use our **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.dialpad.com/features/international-conference-calls/)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
@@ -33,6 +33,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May5">May 5, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Apr21">April 21, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar24">March 24, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb24">February 24, 2022 call</a></li>
