@@ -2,7 +2,7 @@
 layout: post_notitle
 title: DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
-excerpt: OpenNews and 100+ members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry.
+excerpt: OpenNews and 100+ members of the journalism community co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry.
 image: /media/img/dei-coalition/dei-card-A1.png
 
 ---
@@ -162,7 +162,7 @@ image: /media/img/dei-coalition/dei-card-A1.png
 
 <h2 style="margin-top: 15px;">{{ page.title }}</h2>
 
-<p class="bodybig">Together, OpenNews and over 100 members of the journalism community have co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Together, members can use this shared community space, hosted on Slack, to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
+<p class="bodybig">In March 2021, OpenNews and over 100 members of the journalism community launched the DEI Coalition Slack, a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Since then, the Slack has grown to more than 1000 members, who use this shared community space to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
 
 <p class="button first"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png">Join the DEI Coalition Slack</a></p>
 
