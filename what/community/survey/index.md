@@ -1,3 +1,10 @@
+---
+layout: post_notitle
+title: News Nerd Survey
+section: what we do
+
+---
+
 <img src="/media/img/survey-page.jpg" class="topline" alt="a pile of OpenNews wooden coins">
 <p class="caption">This survey helps us understand the needs of the news nerd community.</p>
 <h2>{{ page.title }}</h2>
