@@ -12,7 +12,7 @@ image: /media/img/blog/opennews-source-sticker-button.jpg
 <p class="caption" style="margin-top: -15px; text-align: left;">(Photo by Alyson McClaran for Colorado Media Project with <a href="https://creativecommons.org/licenses/by/3.0/us/">CC attribution license</a>)</p>
 
 
-OpenNews has brought back its community survey: [The News Nerd Survey is open for your input](https://www.research.net/r/2022_OpenNewsSurvey). 
+OpenNews has brought back its community survey: **[The News Nerd Survey is open for your input](https://www.research.net/r/2022_OpenNewsSurvey)**. 
 
 The [News Nerd Survey began several years ago](https://opennews.org/what/community/survey/) in conversations with community members, seeking to answer questions like "Who are 'news nerds'?" "What changes need to happen in journalism?" 
 
