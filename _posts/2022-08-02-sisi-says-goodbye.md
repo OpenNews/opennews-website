@@ -12,8 +12,6 @@ image: /media/img/blog/2021-10-07-sisi-data-institute-andrew-wang.jpg
 <img src="/media/img/blog/2021-10-07-sisi-data-institute-andrew-wang.jpg" style="width: 100%;" alt="Sisi sitting and laughing as she listens to the class."> 
 <p class="caption" style="margin-top: -15px; text-align: left;">Sisi teaching at the Data Institute, an intensive workshop that teaches journalists how to use data, design and code. (Photo by Andrew Wang, Data Institute Class of 2017)</p>
 
-<!-- Yay, no errors, warnings, or alerts! -->
-
 After two and a half extraordinary years, my time at OpenNews is coming to a close. In a few weeks, I’ll be starting my [next role at The Markup as their new editor-in-chief](https://themarkup.org/press-release-20220802), and I’ll be bringing with me all the values we live everyday here at OpenNews and in our community. 
 
 Being at OpenNews has been transformative — I’ve learned deeply about how to create change, worked with so many of you to lead calls for change, and at a time when the world felt so full of uncertainty and hate, I found hope and a home in OpenNews, where my incredible colleagues Erika Owens and Ryan Pitts made me feel always safe, always supported, and always like I genuinely belong.
