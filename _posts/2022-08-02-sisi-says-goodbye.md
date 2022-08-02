@@ -1,7 +1,7 @@
 ---
 layout: blogpost
 title: Stepping into values-first leadership, in a new way
-date: 2022-08-02 08:00-04:00
+date: 2022-08-02 10:30-04:00
 author: Sisi Wei, on August 2, 2022
 tags: OpenNews
 excerpt: Sisi Wei will leave OpenNews to carry forward her change making work as editor-in-chief at The Markup.
