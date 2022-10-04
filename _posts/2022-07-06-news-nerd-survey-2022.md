@@ -1,5 +1,5 @@
 ---
-layout: blogpost_noimage
+layout: blogpost
 title: OpenNews surveys the journalism landscape, future
 date: 2022-07-06 08:00-04:00
 author: Erika Owens, on July 6, 2022

@@ -54,9 +54,10 @@ image: /media/img/photo-hire-us-collage-black-bkgd.png
 
 <p class="bodybig"><strong>We sweat the small stuff, because it’s not small.</strong> We work with care and intention, using “small,” thoughtful details to create meaningful, inclusive experiences that people look back on for years to come. With a decade of experience designing inclusive events, processes, and programs, we can help change your notion of what's possible — for yourself, for your event, and for your attendees.</p>
 
+{% comment %}
 <img src="/media/img/photo-hire-us-collage.png" class="topline" alt="a collage of three photos, each with a person speaking to a group">
 <p class="caption">For every type of coaching, consulting, and facilitation work we offer, our approach is always rooted in doing work that values equity, anti-racism, and belonging. (Photo of Erika Owens and Sisi Wei (left, right) by <a href="http://paulclarke.com/">Paul Clarke</a> for Mozilla Festival. Photo of Ryan Pitts (center), by <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
-
+{% endcomment %}
 
 ## What we offer
 
