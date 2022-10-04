@@ -20,7 +20,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** October 6, 2022 [call agenda](https://etherpad.opennews.org/p/communitycall-Oct6) (September 22 call is canceled) <br />
+**Next Scheduled Call:** November 3, 2022 [call agenda](https://etherpad.opennews.org/p/communitycall-Nov3) (October 20 call is canceled) <br />
 **[Join Online](https://meetings.dialpad.com/room/opennews)** or use our **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.dialpad.com/features/international-conference-calls/)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
