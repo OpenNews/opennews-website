@@ -20,13 +20,13 @@ We're excited to hear about the event or program you want to be part of. What we
 
 ## How to apply
 
-{% comment %}
-Applications for our second round of 2022 scholarships are closed. We plan to offer another round of scholarships next year.
-{% endcomment %}
-
 [Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSeN7kbtC71W6WeNJlCaIrTK9CH4pw2w7YtH_6_215l1DrfVCA/viewform) through the end of **Wednesday, January 25**. Applicants will hear back from us by **Friday, February 3**.
 
 <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeN7kbtC71W6WeNJlCaIrTK9CH4pw2w7YtH_6_215l1DrfVCA/viewform">Apply for a journalism stipend!</a>
+
+{% comment %}
+Applications for our second round of 2022 scholarships are closed. We plan to offer another round of scholarships next year.
+{% endcomment %}
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
