@@ -235,7 +235,7 @@ Here are the questions we'll be asking you to answer in the form below:
 
 As we read your answers, we’re looking to see that you are genuinely invested in this work and committed to taking action to make journalism an anti-racist, equitable, and just industry. There are specific questions to help you share this with us; do so in whatever way feels most natural to you. Your answers don’t have to be long, but they need to give us a real sense of why you’re interested in joining. We may reach out and ask you to fill out the form again if we can’t get a sense of your interest from your answers.
 
-<iframe id="app-form" src="https://docs.google.com/forms/d/e/1FAIpQLScLyf-gREURzPU50DiEGX5d79rNz8jmE6BM1ZAKnAg84jhZwA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
+<iframe id="app-form" src="https://docs.google.com/forms/d/e/1FAIpQLSecI4AUYN7ZVxjvfhASYxa0Xhjcg9sC_o9jG8sMLukQGlO9nw/viewform?usp=sf_link" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
 
 <script type="text/javascript">
   count = 0;
