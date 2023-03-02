@@ -8,17 +8,18 @@ section: what we do
 <img src="/media/img/survey-page.jpg" class="topline" alt="a pile of OpenNews wooden coins">
 <p class="caption">This survey helps us understand the needs of the news nerd community.</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">In order to strengthen and sustain this community, we need to understand its needs. News nerds play many roles as they push for technical and cultural innovation in journalism, and this data helps us figure out how to help each other. </p> 
+<p class="bodybig">In order to strengthen and sustain this community, we need to understand its needs. News nerds play many roles as they push for technical and cultural innovation in journalism, and this data helps us figure out how to help each other. <a href="https://source.opennews.org/articles/2022-news-nerd-survey-overall-findings/">Check out the latest edition of the survey</a>.</p> 
 
-We're working on tabulating the results from the 2022 survey. Thank you to the more than 600 people who filled out the survey in July 2022. We plan to release results from the survey later in the year. If you have any questions abut the survey, [reach out to Erika](mailto:erika@opennews.org) or look out for details [in our newsletter](http://eepurl.com/czSVTL).
+<!-- We're working on tabulating the results from the 2022 survey. Thank you to the more than 600 people who filled out the survey in July 2022. We plan to release results from the survey later in the year. If you have any questions abut the survey, [reach out to Erika](mailto:erika@opennews.org) or look out for details [in our newsletter](http://eepurl.com/czSVTL). -->
 
 ### Why have we invested in this survey?
 This survey helps us understand the community affectionately known as the “news nerds,” the developers, designers, editors, data analysts, and product folks who work in tech and journalism. These folks seek out opportunities to support one another, to build technical and managerial skills, and to create inclusive organizations. This survey helps news nerds, and the organizations like OpenNews that support them, to push for more responsive, equitable news organizations that are better able to serve their communities. Funding from Democracy Fund makes this survey possible.
 
 ### 2022 Survey 
-After a few quiet years, we've brought the survey back to gather new data on how the field of journalism is evolving, as well as who makes up the news nerd community and other groups served by OpenNews. We expect this iteration of the survey will help inform future work and will help us devise a plan for more regular community surveying, especially in the context of much more data about the field [from other sources](https://datajournalism.com/survey/2021/), too.
+After a few quiet years, we've brought the survey back to gather new data on how the field of journalism is evolving, as well as who makes up the news nerd community and other groups served by OpenNews. We expect this iteration of the survey will help inform future work and will help us devise a plan for more regular community surveying, especially in the context of much more data about the field [from other sources](https://datajournalism.com/survey/2022/), too.
 
-A full analysis, including of salary data, will be available in early 2023. We've released [an early look at the findings](/blog/survey-first-look/).
+We've released [the overall survey findings](https://source.opennews.org/articles/2022-news-nerd-survey-overall-findings/) and will release the salary analysis soon as well.
+
 
 ### 2017 Survey
 In 2017, we expanded the survey with the support of Google News Lab and the contributions of a community advisory group including Soo Oh, John S. Knight Fellow; Jennifer Lee, Google News Lab; and Liam Andrew, The Texas Tribune. Network Impact again developed and administered the survey which received 756 responses. We gathered [highlights of the data in a visualization](/projects/2017-newsnerd-survey/) made by Google and [shared the findings and next steps](/blog/news-nerd-survey-2017). 
