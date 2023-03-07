@@ -49,7 +49,10 @@ Why yes, thank you for asking!
 
 [SRCCON events](https://srccon.org) bring together developers, designers, journalists, editors, and allies: the practitioners and leaders who are transforming their newsrooms into more representative and innovative places to work. From the very first SRCCON in 2014, the generosity of sponsors has helped underwrite the cost of things like travel scholarships, transcription, and even super tasty coffee.
 
-* [SRCCON:❤️ Sponsors](https://product.srccon.org/sponsors/): Craig Newmark Philanthropies
+* [SRCCON:CARE Sponsors](https://srccon.org/srccon-care-2022/sponsors/): Demcoracy Fund, Knight Foundation, Hearken, Civic Exchange
+* [2022 SRCCON Sponsors](https://2022.srccon.org/sponsors/): The New York Times, Alley, Craig Newmark Philanthropies, Donald W. Reynolds Journalism Institute, Gannett: USA Today Network, The Pudding, Democracy Fund, Knight Foundation
+* [2021 SRCCON Sponsors](https://2021.srccon.org/sponsors/): Craig Newmark Philanthropies, The New York Times, Vox Media, Alley, The Pudding, Democracy Fund, Knight Foundation
+* [SRCCON:❤️ Sponsors](https://srccon.org/srccon-heart-2020/): Craig Newmark Philanthropies
 * [2020 SRCCON Sponsors](https://2020.srccon.org/sponsors/): Craig Newmark Philanthropies, The New York Times, Alley, Democracy Fund, Knight Foundation, JSK Fellowship
 * [SRCCON:PRODUCT Sponsors](https://product.srccon.org/sponsors/): Google News Initiative, University of Missouri School of Journalism, Craig Newmark Graduate School of Journalism, Temple University Klein College of Media and Communication, News Catalyst, Knight Foundation, Reynolds Journalism Institute, Alley
 * [SRCCON:LEAD Sponsors](https://lead.srccon.org/sponsors/): WordPressVIP, Facebook Journalism Project, Craig Newmark Philanthropies, The Lenfest Institute, The Gannett Foundation, Vox Media, Democracy Fund, JSK Fellowship, Independence Media Foundation
