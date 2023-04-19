@@ -38,6 +38,6 @@ We close these highlights with the recognition that none of this would be possib
 
 <em>This [News Nerd Survey](/what/community/survey/) is the third iteration of a survey designed by Network Impact and informed by community input to understand more about the people who work at the intersection of journalism and technology, and how together we can strengthen and make better our organizations and work environments.
 
-<em>In the next couple of months we will share more detailed findings along with a specific analysis on salary, conducted by Dilcia Mercedes and edited by Soo Oh.
+<em>In the next couple of months we will share [more detailed findings](https://source.opennews.org/articles/2022-news-nerd-survey-overall-findings/) along with a specific [analysis on salary](https://source.opennews.org/articles/how-newsrooms-pay-journalist-coders-2023/), conducted by Dilcia Mercedes and edited by Soo Oh.
 
 <em>Mago Torres is working with OpenNews as Research Project Director to help with the News Nerd Survey analysis.</em>
