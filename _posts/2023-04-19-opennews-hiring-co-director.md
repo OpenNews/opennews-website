@@ -48,7 +48,7 @@ OpenNews benefits:
 
 
 ## How To Apply
-If you’re intrigued by this position, but don’t feel like you have the precise background listed, please still do apply. You can reach out with any questions or if you need any further information to feel able to apply.  As a small team, we're excited to hire another generalist and in order to do our work well, we need to ensure there are multiple backgrounds and experiences present. We especially encourage people of color, people with disabilities, immigrants, women, and members of other marginalized groups in journalism and technology to apply.
+If you’re intrigued by this position, but don’t feel like you have the precise background listed, please still do apply. You can reach out with any questions or if you need any further information to feel able to apply.  As a small team, we're excited to hire another generalist and in order to do our work well, we need to ensure there are multiple backgrounds and experiences present. We especially encourage people of color, people with disabilities, immigrants, women, and members of other marginalized groups in journalism and technology to apply. At this time, we are only able to hire people who are based in the U.S. and who already hold authorization to work in the U.S.
 
 **[Submit your resume and cover letter through this form](https://airtable.com/shriDJTVyVwh2BKbR)**. We’ll review these applications on a rolling basis. There’s no fixed deadline to apply. If you have any questions, feel free to [contact Erika Owens](mailto:erika@opennews.org).
 
