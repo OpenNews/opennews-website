@@ -50,7 +50,7 @@ OpenNews benefits:
 ## How To Apply
 If you’re intrigued by this position, but don’t feel like you have the precise background listed, please still do apply. You can reach out with any questions or if you need any further information to feel able to apply. We especially encourage people of color, people with disabilities, immigrants, women, and members of other marginalized groups in journalism and technology to apply.
 
-**[Submit your resume and cover letter through this form](https://airtable.com/shriDJTVyVwh2BKbR)**. We’ll review these applications on a rolling basis. There’s no fixed deadline to apply. If you have any questions, feel free to [contact Erika Owens](mailto:erika@opennews.org).
+**[Submit your resume and cover letter through this form](https://airtable.com/shriDJTVyVwh2BKbR)**. We’ll review these applications on a rolling basis. There’s no fixed deadline to apply. If you have any questions, feel free to [contact Erika Owens](mailto:erika@opennews.org). We also gathered up some questions we've received and [answered them over here](/blog/hiring-co-director-more/).
 
 We’ve set a priority deadline for applications of Friday, May 19. The application will remain open until the position is filled, but we will begin reviewing and interviewing applicants after that date so it’s the best time to apply. 
 
