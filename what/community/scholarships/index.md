@@ -4,8 +4,8 @@ title: Scholarships+&#58; Stipends toward programs that develop your work
 section: what we do
 ---
 
-<img src="/media/img/index_opennewsphoto.jpg" class="topline">
-<p class="caption">The joyful crowd at the Hacks/Hackers Buenos Aires Media Party. (photo/Ramiro Chanes)</p>
+<img src="/media/img/scholarships_2023.jpg" class="topline">
+<p class="caption">Events can help you build relationships with other journalists. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 # {{ page.title }}
 
