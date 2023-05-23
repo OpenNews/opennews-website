@@ -13,20 +13,20 @@ OpenNews can help you pay for events and programs that develop your work as a jo
 
 **Key things to know:**
 
-* These scholarships are for journalists who work in data or code. This program is one way we can help people in those roles build skills and connections to make their newsrooms more equitable and just.
-* This program is designed to do two things: help you learn something outside of your current comfort zone, and strengthen your support network of colleagues and peers.
+* These scholarships are for U.S.-based journalists who work in data or code. This program is one way we can help people in those roles build skills and connections to make their newsrooms more equitable and just.
+* This program is designed to do two things: help you expand your comfort zone and strengthen your support network of colleagues and peers.
 
 We're excited to hear about the event or program you want to be part of. What we want to know most is **_why_ you want to be there and _how_ you plan to use and share what you learn.**
 
 ## How to apply
 
+[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSd-W5t3koQrgT-7DPJn5Q3HOAWjXJNXWixbh3XjitAtydtdEw/viewform) through the end of **Friday, June 2**. Applicants will hear back from us by **Friday, June 16**.
+
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSd-W5t3koQrgT-7DPJn5Q3HOAWjXJNXWixbh3XjitAtydtdEw/viewform">Apply for a journalism stipend!</a>
+
 {% comment %}
-[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSeN7kbtC71W6WeNJlCaIrTK9CH4pw2w7YtH_6_215l1DrfVCA/viewform) through the end of **Wednesday, January 25**. Applicants will hear back from us by **Friday, February 3**.
-
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSeN7kbtC71W6WeNJlCaIrTK9CH4pw2w7YtH_6_215l1DrfVCA/viewform">Apply for a journalism stipend!</a>
+**Applications for our first round of 2023 scholarships are now closed.** If you applied for a scholarship in this round, we will get back to you by June 16. We plan to offer another round of scholarships later this year.
 {% endcomment %}
-
-**Applications for our first round of 2023 scholarships are now closed.** If you applied for a scholarship in this round, we will get back to you by February 3. We plan to offer another round of scholarships later this year.
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
@@ -35,24 +35,26 @@ If you'd like to get notifications about key dates in this program, such as the 
 * $250 and $500 stipends, depending on the cost of the program you'd like to attend.
 * Connections with other people, resources, and opportunities related to your work.
 
+## What we ask of you
+
+* Tell us how your program went! We'll send you a short follow-up survey, and we'll also be excited to check out anything you write or build.
+* After your program, get together with a friend or colleague and share something cool you learned, or something they'd appreciate about the experience.
+
 ## Why we give out these stipends
 
-Our community is building a more equitable future for journalism, and we offer programs like this because we believe in the [power of a network effect](/blog/scholarships-networks/). By helping one journalist develop and share their skills, we can help whole communities of practice. 
+Our community is building a more equitable future for journalism, and we offer programs like this because we believe in the [power of a network effect](/blog/scholarships-networks/). By helping one journalist develop and share their skills, we can help whole communities of practice.
 
 We love it when we can help people take what they've learned to an event to share, or take their next career step in a leadership training, an advanced workshop, a conference with other journalists who share their background. We know cost can keep people from accessing these opportunities, and part of creating a more equitable industry is mitigating barriers like these as much as we can.
 
 ## Who should apply
 
-* Journalists who work in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
+* U.S.-based journalists who work in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
 * People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
 
 ## What happens after you apply
 
 OpenNews staff reviews applications and notifies all applicants.
 
-## What happens after I receive a stipend
-
-You tell us how everything went! We'll send you a short follow-up survey, and we'll be excited to check out anything you write or build as part of the experience.
 
 ## FAQ
 
@@ -67,7 +69,7 @@ OpenNews staff reviews all applications. We prioritize applications from members
 We look for applications from journalists who use data or design to help people understand their community and make it better, who write code or work in product to help a news organization make good on its mission, who are pushing for change in their newsrooms and helping them better reflect their communities. And we look for applications that have a plan for bringing new ideas into your work and sharing them with peers.
 
 **Can people outside of the U.S. apply for the scholarship?**  
-Applications are open to everyone. We prioritize applications from journalists of color and journalists from regional and local news organizations, but we're open to applications from anyone working at the intersection of journalism and technology.
+This program is available to U.S.-based applicants. We support international journalism in other ways, but the funding we have for this program is intended to support U.S. organizations.
 
 **When will I receive my stipend?**  
 When we notify recipients, we'll include information about how to receive funds. We'll ask you to fill out a stipend form and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
