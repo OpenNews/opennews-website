@@ -175,7 +175,6 @@ div[role="main"] a {
 }
 div[role="main"] h1,
 div[role="main"] h2 {
-	text-transform: capitalize;
 	/*color: #fc6e1f;*/
 	font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
 	font-weight: bold;
@@ -1181,7 +1180,6 @@ article a {
 }
 article h1,
 article h2 {
-	text-transform: capitalize;
 	font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
 	font-weight: bold;
 	color: black;

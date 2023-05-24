@@ -6,7 +6,7 @@ image: /media/img/peer_data_review.jpg
 
 ---
 <img src="/media/img/peer_data_review.jpg" class="topline">
-<p class="caption">Sign up to review your data project with a peer coach. (photo/<a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
+<p class="caption">Sign up to review your data project with a peer coach. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 <h2>{{ page.title }}</h2>
 
