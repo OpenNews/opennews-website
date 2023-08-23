@@ -12,7 +12,7 @@ sub-section: index
 
 ### Jessica Morrison, Co-Director 
 
-<img src="/media/img/staff/Morrison.jpg" class="headshot"> Jessica Morrison is Co-Director of OpenNews, where she works on fundraising, community partnerships, and supporting journalists who are changing the way their newsrooms operate for the better. Previously, she was a science policy reporter and then led product strategy and development at Chemical & Engineering News. With a background in chemistry and journalism, her career has followed her curiosity and enthusiasm to connect with ideas and people. Jessica is based in Nashville, Tenn., where she founded the [Baking Notification Project](https://www.thebakingnotificationproject.com/), a network of home bakers buiding community with their neighbors through baked goods. (<a href="mailto:jessica@opennews.org">jessica@opennews.org</a>)
+<img src="/media/img/staff/Morrison.jpg" class="headshot"> Jessica Morrison is Co-Director of OpenNews, where she works on fundraising, community partnerships, and supporting journalists who are changing the way their newsrooms operate for the better. Previously, she was a science policy reporter and then led product strategy and development at [Chemical & Engineering News](https://cen.acs.org/). With a background in chemistry and journalism, her career has followed her curiosity and enthusiasm to connect with ideas and people. Jessica is based in Nashville, Tenn., where she founded the [Baking Notification Project](https://www.thebakingnotificationproject.com/), a network of home bakers buiding community with their neighbors through baked goods. (<a href="mailto:jessica@opennews.org">jessica@opennews.org</a>)
 
 ### John Hernandez, Co-Director 
 
