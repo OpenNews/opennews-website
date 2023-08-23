@@ -9,13 +9,25 @@ sub-section: index
 
 ## Our Staff
 
-### Erika Owens, Executive Director
 
-<img src="/media/img/staff/owens.jpg" class="headshot"> Erika Owens is Executive Director of OpenNews, where she convenes people and projects across journalism and technology to move the industry forward. Erika and the OpenNews team seek ways to build enduring connections by supporting a thriving network of creating inclusive, caring spaces for the journalism-tech community. Her adroit community work has been instrumental in establishing OpenNews as a leader in how to foster and sustain networks. Erika also serves on the board of the [Movement Alliance Project](https://mediamobilizing.org/category/media/) (formerly Media Mobilizing Project) and has trained as a donor organizer through the Giving Project at Bread and Roses Community Fund. Previously, Erika was web editor at the [Philadelphia Public School Notebook](http://thenotebook.org/). She is based in Philadelphia and loves nonprofit journalism, people watching, and laughing heartily. (<a href="mailto:erika@opennews.org">erika@opennews.org</a>)
+### Jessica Morrison, Co-Director 
 
-### Ryan Pitts, Director of Network Development
+<img src="/media/img/staff/Morrison.jpg" class="headshot"> Jessica Morrison is Co-Director of OpenNews, where she works on fundraising, community partnerships, and supporting journalists who are changing the way their newsrooms operate for the better. Previously, she was a science policy reporter and then led product strategy and development at [Chemical & Engineering News](https://cen.acs.org/). With a background in chemistry and journalism, her career has followed her curiosity and enthusiasm to connect with ideas and people. Jessica is based in Nashville, Tenn., where she founded the [Baking Notification Project](https://www.thebakingnotificationproject.com/), a network of home bakers building community with their neighbors through baked goods. (<a href="mailto:jessica@opennews.org">jessica@opennews.org</a>)
 
-<img src="/media/img/staff/pitts-2020.jpg" class="headshot"> Ryan Pitts is Director of Network Development at OpenNews, where he helps community members develop collaborative, inclusive programs for journalism events, and connects people with resources (and each other!) in ways that make local newsrooms more effective and representative of their communities. (Sometimes he also writes little scrapers and bots that make it easier for us to publish our work.) Previously, he was a local reporter and editor before managing news apps and product development as Senior Editor for Digital Media at [The Spokesman-Review](http://www.spokesman.com/). Ryan's team won ONA, SND, and regional awards for its data journalism and innovative narrative work. He is also a board member, developer, and trainer for [Census Reporter](http://censusreporter.org/), a project that makes census data easier for journalists to use. Ryan is based in Spokane, Wash., where he volunteers with a small-but-growing community-driven newsroom. (<a href="mailto:ryan@opennews.org">ryan@opennews.org</a>)
+### John Hernandez, Co-Director 
+
+<img src="/media/img/staff/Hernandez.jpg" class="headshot"> John Hernandez is Co-Director of OpenNews, where he focuses on connecting journalists to one another to support the cross-pollination of ideas and advancing discourse in the field to inspire more action. Previously, he worked as assistant director of audience at [The Texas Tribune](https://www.texastribune.org/) where he supported the development of community engagement practices and Latino/a/e/x outreach strategies. John is based in Austin, Texas and enjoys photographing live music, finding secret swimming spots and exploring Texas’ state parks. (<a href="mailto:john@opennews.org">john@opennews.org</a>)
+
+### Ryan Pitts, Co-Director 
+
+<img src="/media/img/staff/pitts-2020.jpg" class="headshot"> Ryan Pitts is Co-Director of OpenNews, where he helps community members develop collaborative, inclusive programs for journalism events, and connects people with resources (and each other!) in ways that help make their newsrooms better places to work. (Sometimes he also writes little scrapers and bots that make it easier for us to publish our work.) Previously, he worked in many roles in local newsrooms before managing news apps and product development at [The Spokesman-Review](http://www.spokesman.com/). He is also a board member, developer, and trainer for [Census Reporter](http://censusreporter.org/), a project that makes census data easier for journalists to use. Ryan is based in Spokane, Wash., where he volunteers with a small-but-growing community-driven newsroom. (<a href="mailto:ryan@opennews.org">ryan@opennews.org</a>)
+
+
+
+### Erika Owens, Co-Director (on leave September 2023-June 2024)
+
+<img src="/media/img/staff/owens.jpg" class="headshot"> Erika Owens is Co-Director of OpenNews, where she convenes people and projects across journalism and technology to move the industry forward. Erika and the OpenNews team seek ways to build enduring connections by supporting a thriving network of creating inclusive, caring spaces for the journalism-tech community. Her adroit community work has been instrumental in establishing OpenNews as a leader in how to foster and sustain networks. Erika also serves on the board of the [Movement Alliance Project](https://mediamobilizing.org/category/media/) (formerly Media Mobilizing Project) and has trained as a donor organizer through the Giving Project at Bread and Roses Community Fund. Previously, Erika was web editor at the [Philadelphia Public School Notebook](http://thenotebook.org/). She is usually based in Philadelphia, but will temporarily be in the Bay Area for the [JSK Fellowship](https://jsk.stanford.edu/fellows/). She loves nonprofit journalism, people watching, and laughing heartily. (<a href="mailto:erika@opennews.org">erika@opennews.org</a>)
+
 
 
 
