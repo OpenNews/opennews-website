@@ -21,7 +21,9 @@ And we love how we get to imagine that future together. We're looking forward to
 
 ## Meet our four co-directors: 
 
-### Jessica
+<a id="jessica"></a>
+### Jessica Morrison - based in Nashville, TN
+
 For the better part of the last decade, OpenNews has been teaching me how to be a more empathetic and conscientious journalist, team member, and leader. I’m excited to join OpenNews as co-director with Erika and Ryan and alongside John to continue that work personally and with the OpenNews community.
 
 Together we've already started to dig into the critical work of OpenNews: things like fundraising, exploring community partnerships, and supporting journalists who are changing the way their newsrooms operate for the better. I can’t help but reflect on the ways that I’ve been training for this exact job.
@@ -37,12 +39,13 @@ Coming off a two-year break, I’m ready to support a community of journalists w
 
 When you see me online in Slack (News Nerdery, News Product Alliance) or [on email](mailto:jessica@opennews.org), or in person at SRCCON, please talk to me about remote work, creating new roles in journalism, building teams, shredding our org charts, taking a career break, new parenthood, baking, running, ashtanga yoga, or boxing.
 
-### John
+<a id="john"></a>
+### John Hernandez - based in Austin, TX
 As I started to message people close to me about moving into this role, the overwhelming response was something like, “That’s such a great fit. I’m so excited for you.” They’re right. It makes a lot of sense for me to work here because I wouldn’t be here without Open News. I'm excited to join the cause as co-director because it means I can invite others to benefit from the community we've fostered at Open News.
 
 Togetherness is a value I hold dear because solving the problems that plague journalism and our democracy requires collective understanding and action. But the news industry can be excruciatingly lonely. As newsrooms struggle to find their way, careers are derailed and the relationship between us and the public gets increasingly tense and fractured. It's during those tough times when we need to have others to lift us up or be honest with us.
 
-Open News has served that role in my professional life. Every community call, SRCCON event and conversation I've engaged in through the DEI Coalition has restored me in some way. Nothing else I've witnessed in journalism has offered that same sense of clarity or purpose, and I couldn't imagine myself as a leader without Open News. I remember when I stepped into one of my first SRCCON sessions, on leading with influence instead of formal power, and I was amazed at the audacious new doors it opened for me. Why hadn't anyone told me about these possibilities for our work before?
+Open News has served that role in my professional life. Every [community call](https://opennews.org/what/community/calls/),  [SRCCON event](https://opennews.org/what/conferences/) and conversation I’ve engaged in through the [DEI Coalition](https://opennews.org/what/community/dei-coalition/) has restored me in some way. Nothing else I've witnessed in journalism has offered that same sense of clarity or purpose, and I couldn't imagine myself as a leader without Open News. I remember when I stepped into one of my first SRCCON sessions, on leading with influence instead of formal power, and I was amazed at the audacious new doors it opened for me. Why hadn't anyone told me about these possibilities for our work before?
 
 I haven't stopped thinking about the possibilities since then. As a Colombian immigrant growing up in Queens, New York, I was surrounded by all sorts of people who made me value empathy and different perspectives. I also got my journalism degree at the ripe age of 31, occupied in my 20s by working in grocery stores, startups, and city government, which prepared me for journalism’s attempts to inculcate its systemic myopia within me. When I think of the reality that many thought leaders in our field occupy, sometimes one of unspoken privilege and backward reasoning, I'm reminded of that kid walking to and from public school in Richmond Hill, Queens. The problems that journalism tends to favor and cover don't resonate with many of the people who made up my life before I became a journalist.
 
@@ -50,9 +53,8 @@ In my eyes, that's who all of this is for. The community that made me who I am. 
 
 I can’t wait to see what we can do together. [Reach out](mailto:john@opennews.org) if you want to chat and start making some of our dreams into realities. I’m here to help make that happen.
 
-
-
-### Ryan
+<a id="ryan"></a>
+### Ryan Pitts - based in Spokane, WA
 We've hit some really fun OpenNews milestones lately, from more than [10 years as an organization](https://opennews.org/blog/10-year-anniversary/) to now this, the [10th year of SRCCON](https://2023.srccon.org/) too. I feel amazed and so very lucky to have been able to grow and change along with our work over that time—from an organization helping people figure out how tech could change journalism into an organization that supports the people changing journalism themselves.
 
 At times it's felt hard to articulate exactly what that work looks like. But the longer we've been together at OpenNews, the clearer things have become: We're part of a community that won't wait for this industry to get better—we'll make it better ourselves. We don't need permission from leaders, because from reporting practices to managing with care to resource sharing to prioritizing inclusion and belonging, there are so many actions we can take that we _already_ have control over. Our relationships with each other make change feel possible: We get to figure out what each of us needs, and then be the people who meet those needs for each other.
@@ -61,7 +63,8 @@ In the past couple years I've gotten really into this concept of [prefigurative 
 
 Sometimes I've wondered, then, if one of the products we create at OpenNews might be "dissatisfaction." I'm grateful to have created some dissatisfaction—the good kind!—with Erika over the years. And I'm so stoked to create some dissatisfaction with Jessica and John now too. If you'd like to chat more about any of this, [reach out to me](mailto:ryan@opennews.org).
 
-### Erika
+<a id="erika"></a>
+### Erika Owens - based in Philadelphia, PA
 I'm excited about this latest iteration of the OpenNews team, and the opportunity to share leadership even more broadly while expanding our ability to serve this wonderful community of nerds, changemakers, and journalists dissatisfied with the status quo.
 
 It's been amazing to work alongside all of you over the past 10+ years and [see how we have changed and evolved](https://source.opennews.org/articles/2022-news-nerd-survey-overall-findings/). This community that began with a focus on open source technology is now reshaping organizations to be more open, inclusive, and responsive to the needs of the people we serve. The need for change around diversity, equity, and inclusion, to build news organizations where journalists of color and from all backgrounds feel a sense of belonging and opportunity, has been a priority for this community [for a long time](https://opennews.org/blog/news-nerd-survey/) and has been inspired by the leadership of communities of color inside and outside of news, too. 
