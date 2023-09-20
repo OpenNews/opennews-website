@@ -41,7 +41,7 @@ You can participate by calling in and listening, reading along on the etherpad d
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-June15-23">June 15, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-June1-23">June 1, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May18-23">May 18, 2023 call</a></li>
-     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May4-23">May 4, 2023 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May4-23">May 4, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Apr20">April 20, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Apr6">April 6, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar23">March 23, 2023 call</a></li>
