@@ -5,3 +5,5 @@ image: /media/img/blog/opennews-source-sticker-button.jpg
 permalink: /surveyresults2022/
 redirect_to:
  - https://source.opennews.org/articles/how-newsrooms-pay-journalist-coders-2023
+---
+

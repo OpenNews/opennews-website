@@ -16,7 +16,7 @@ image: /media/img/blog/nashville-skyline.jpg
 
 ## Opportunities to expand your network
 
-We love creating easy ways for people to get to know each other a little better. 
+We love creating easy ways for people to get to know each other a little better. We've got a few activities planned this year, and they may already be full by the time you read this, but they are also ideas we're planning to replicate at other events so you might have another chance later in the year.
 
 * **Wednesday night welcome dinners** These dinners are back! We're organizing a few small group meals (with a mix of indoor and outdoor options) as people get into town on Wednesday. [Email Ryan](mailto:ryan@opennews.org) for details.
 * **Relationship-building meals** We love small group conversations, but we also wanted to make it a little easier to have a one-on-one lunch chat too (which can be hard in the intensity of the conference!). So we're experimenting this year with lunch gift cards to reduce a bit of that friction in inviting a colleague out to lunch. [Email Erika](mailto:erika@opennews.org) for details. 
