@@ -20,7 +20,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** September 21, 2023 [call agenda](https://etherpad.opennews.org/p/communitycall-Sept21-23) <br />
+**Next Scheduled Call:** October 5, 2023 [call agenda](https://etherpad.opennews.org/p/communitycall-Oct5-23) <br />
 **[Join Online](https://meetings.dialpad.com/room/opennews)** or use our **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.dialpad.com/features/international-conference-calls/)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
@@ -33,6 +33,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept21-23">September 21, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept7-23">September 7, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Aug24-23">August 24, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Aug10-23">August 10, 2023 call</a></li>
