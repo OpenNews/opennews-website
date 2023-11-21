@@ -20,7 +20,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** November 16, 2023 [call agenda](https://etherpad.opennews.org/p/communitycall-Nov16-23) <br />
+**Next Scheduled Call:** November 30, 2023 [call agenda](https://etherpad.opennews.org/p/communitycall-Nov30-23) <br />
 **[Join Online](https://meetings.dialpad.com/room/opennews)** or use our **Conference Number:** 312-967-0970 and [International toll-free numbers are available](https://www.dialpad.com/features/international-conference-calls/)<br />
 
 [Follow us on Twitter](https://twitter.com/opennews) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
@@ -33,6 +33,7 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov16-23">November 16, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov2-23">November 2, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct5-23">October 5, 2023 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept21-23">September 21, 2023 call</a></li>
@@ -67,7 +68,8 @@ You can participate by calling in and listening, reading along on the etherpad d
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb24">February 24, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb10">February 10, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan27">January 27, 2022 call</a></li>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan13">January 13, 2022 call</a></li><li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec16">December 16, 2021 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan13">January 13, 2022 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec16">December 16, 2021 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec2">December 2, 2021 call</a></li> 
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov18">November 18, 2021 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov4">November 4, 2021 call</a></li>
