@@ -21,12 +21,12 @@ We're excited to hear about the event or program you want to be part of. What we
 ## How to apply
 
 {% comment %}
-[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSd-W5t3koQrgT-7DPJn5Q3HOAWjXJNXWixbh3XjitAtydtdEw/viewform) through the end of **Friday, June 2**. Applicants will hear back from us by **Friday, June 16**.
+[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform) through the end of **Wednesday, January 24**. Applicants will hear back from us by **Friday, February 2**.
 
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSd-W5t3koQrgT-7DPJn5Q3HOAWjXJNXWixbh3XjitAtydtdEw/viewform">Apply for a journalism stipend!</a>
+<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform">Apply for a journalism stipend!</a>
 {% endcomment %}
 
-**Applications for our second round of 2023 scholarships are now closed.** If you applied for a scholarship in this round, we will get back to you by June 16.{% comment %} We plan to offer another round of scholarships later this year.{% endcomment %}
+{% comment %}**Applications for our first round of 2024 scholarships are now closed.** If you applied for a scholarship in this round, we will get back to you by February 2.{% endcomment %}{% comment %} We plan to offer another round of scholarships later this year.{% endcomment %}
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
 
@@ -44,7 +44,7 @@ If you'd like to get notifications about key dates in this program, such as the 
 
 Our community is building a more equitable future for journalism, and we offer programs like this because we believe in the [power of a network effect](/blog/scholarships-networks/). By helping one journalist develop and share their skills, we can help whole communities of practice.
 
-We love it when we can help people take what they've learned to an event to share, or take their next career step in a leadership training, an advanced workshop, a conference with other journalists who share their background. We know cost can keep people from accessing these opportunities, and part of creating a more equitable industry is mitigating barriers like these as much as we can.
+We love to help people participate in programs where they share something they've learned, or take their next career step in a leadership training, an advanced workshop, or a conference with other journalists who share their background. We know cost can keep people from accessing these opportunities, and part of creating a more equitable industry is mitigating barriers like these as much as we can.
 
 ## Who should apply
 
@@ -72,16 +72,16 @@ We look for applications from journalists who use data or design to help people 
 This program is available to U.S.-based applicants. We support international journalism in other ways, but the funding we have for this program is intended to support U.S. organizations.
 
 **When will I receive my stipend?**  
-When we notify recipients, we'll include information about how to receive funds. We'll ask you to fill out a stipend form and a form to gather your W-9 details, and then our administrators will process the payment. It may take a month or so for check processing.
+When we notify recipients, we'll include information about how to receive funds. We'll ask you to fill out a stipend form and a form to gather your W-9 details, and then our administrators will process the payment. It may take a few weeks for processing.
 
 **What if I need an amount other than $250 or $500?**  
 If the program you want to participate in costs less than $250, we're happy for you to use the rest to cover your time spent participating. For programs that cost more, you may be able to find additional support elsewhere: Many conferences, programs, and professional organizations offer their own scholarships or other discounts, and those are always worth looking into. Events may also have opportunities like volunteering to help cut down on costs.
 
 **What if I need something other than funding?**  
-We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we offer [Peer Data Review](/what/community/datareview/). If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:info@opennews.org).
+We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we can help connect you with a peer coach. If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:team@opennews.org).
 
 **What about your conference, SRCCON?**  
-We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://2020.srccon.org/scholarships/)
+We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://2023.srccon.org/scholarships/)
 
 **Who funds this program?**  
 These stipends are made possible by a grant from the Democracy Fund and contributions from [OpenNews sustainers](https://opennews.networkforgood.com/).
