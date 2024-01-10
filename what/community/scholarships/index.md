@@ -26,7 +26,7 @@ We're excited to hear about the event or program you want to be part of. What we
 
 {% comment %}**Applications for our first round of 2024 scholarships are now closed.** If you applied for a scholarship in this round, we will get back to you by February 2.{% endcomment %}{% comment %} We plan to offer another round of scholarships later this year.{% endcomment %}
 
-If you'd like to get notifications about key dates in this program, such as the next time applications are open, [Twitter](https://twitter.com/opennews) and [our newsletter](http://eepurl.com/czSVTL) are great ways to stay up-to-date.
+If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](http://eepurl.com/czSVTL) is a great way to stay up-to-date.
 
 ## What this program offers
 
