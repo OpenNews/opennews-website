@@ -21,7 +21,7 @@ We're excited to hear about the event or program you want to be part of. What we
 ## How to apply
 
 {% comment %}
-[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform) through the end of **Wednesday, January 24**. Applicants will hear back from us by **Friday, February 2**.
+[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform) through the end of **Monday, January 22**. Applicants will hear back from us by **Friday, February 2**.
 
 <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform">Apply for a journalism stipend!</a>
 {% endcomment %}
