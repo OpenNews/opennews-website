@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hire Us
+title: Hire us
 section: hire us
 sub-section: index
 ---
@@ -12,7 +12,6 @@ sub-section: index
   }
 
   .hire.us article h3 {
-    text-transform: capitalize;
     font-family: "sofia-pro", "Open Sans", Helvetica, Verdana, Arial, sans-serif;
     font-weight: bold;
     color: black;
