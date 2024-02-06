@@ -53,6 +53,10 @@ sub-section: index
 
 <p class="bodybig">The OpenNews community is building the future we all want for journalism, and we can help you do it, too. Our small but impactful team has backgrounds in editorial, technology, product, and audience. Whether you’re planning a small event or building a cross-functional team, let us handle the details so you can focus on what you and your team do best. <a href="https://airtable.com/appdaxYotl8OFHNMq/pagglZpzMuJhFkycJ/form">Send us a note to get started</a>.</p>
 
+
+<img src="/media/img/hire_us_postit_planning.jpg" class="topline" alt="a set of post-it notes on the wall, showing the brainstorming process for a community event">
+<p class="caption">Let's brainstorm together, and figure out the best version of your next project. (Photo by <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
+
 ## What we offer
 
 **We sweat the small stuff, because it’s not small.** We work with care and intention to create meaningful experiences that people look back on for years to come, and support the people who are driving newsroom transformation from all parts of the org chart.
