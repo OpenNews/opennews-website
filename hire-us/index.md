@@ -55,7 +55,7 @@ sub-section: index
 
 
 <img src="/media/img/hire_us_postit_planning.jpg" class="topline" alt="a set of post-it notes on the wall, showing the brainstorming process for a community event">
-<p class="caption">Let's brainstorm together, and figure out the best version of your next project. (Photo by <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
+<p class="caption">Let's figure out the best version of your next project together. (Photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 ## What we offer
 
