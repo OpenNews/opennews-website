@@ -20,11 +20,12 @@ We're excited to hear about the event or program you want to be part of. What we
 
 ## How to apply
 
-[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform) through the end of **Monday, January 22**. Applicants will hear back from us by **Friday, February 2**.
+{% comment %}[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform) through the end of **Monday, January 22**. Applicants will hear back from us by **Friday, February 2**.
 
 <a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform">Apply for a journalism stipend!</a>
+{% endcomment %}
 
-{% comment %}**Applications for our first round of 2024 scholarships are now closed.** If you applied for a scholarship in this round, we will get back to you by February 2.{% endcomment %}{% comment %} We plan to offer another round of scholarships later this year.{% endcomment %}
+**Applications for our first round of 2024 scholarships are now closed.** {% comment %}If you applied for a scholarship in this round, we will get back to you by February 2.{% endcomment %}We plan to offer another round of scholarships later this year.
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](http://eepurl.com/czSVTL) is a great way to stay up-to-date.
 
