@@ -8,11 +8,14 @@ image: /media/img/peer_data_review.jpg
 <img src="/media/img/peer_data_review.jpg" class="topline">
 <p class="caption">Sign up to review your data project with a peer coach. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
+
+<blockquote><em><strong>NOTE:</strong> The Peer Data Review program is no longer active. We loved being able to organize it, and wanted to keep this page available for reference. Thank you to everyone who coached and participated!</em></blockquote>
+
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Tell us about your data and what you hope to do with it</a>, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
+<p class="bodybig">Our data-review program connects people in local newsrooms with fellow journalists who can help them think through a data story. Tell us about your data and what you hope to do with it, and we'll do our best to pair you up with a peer coach who's worked on similar projects. Your request and story idea will stay private, and we have an awesome group of volunteers ready to help out.</p>
 
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform">Apply for data review! Tell us about your project or story</a>
+<!--<a class="sidebar-button">Apply for data review! Tell us about your project or story</a>-->
 
 ## Why this program
 
@@ -30,7 +33,7 @@ Coaches will exchange emails with you and set up times to meet on a voice or vid
 
 ## How to get started
 
-1. [Use this form to tell us about your project](https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform).
+1. Use this form to tell us about your project.
 2. OpenNews will review requests and reach out to coaches to see who can help. We can't promise that someone will be available to work with you, but we'll let you know either way.
 3. If there's a coach who's a good fit for your project, they'll reach out with some followup questions. You'll probably trade a few emails back and forth.
 4. Coaches will set aside time for a call so you can dig into the data together and talk through any questions. These calls shouldn't last more than an hour. (If emails answer all the questions you have, that's great too!)
@@ -38,7 +41,7 @@ Coaches will exchange emails with you and set up times to meet on a voice or vid
 
 Participation is free and for data journalists on small teams, from local or regional newsrooms, and from underrepresented backgrounds in journalism. These conversations [will be one-on-one and private](#agreement), so you don't need to worry about giving up a scoop or feeling awkward about any questions you have.
 
-This program is one of the ways we're building sustainable frameworks for peer support in the journalism-tech community. (And if you're interested in helping out as a coach, please [reach out](mailto:ryan@opennews.org)!)
+This program is one of the ways we're building sustainable frameworks for peer support in the journalism-tech community. (And if you're interested in helping out as a coach, [please reach out](mailto:info@opennews.org)!)
 
 ## Frequently Asked Questions
 
@@ -57,7 +60,7 @@ And it's for projects where you:
 
 ### When can I apply?
 
-If you have a project that you think would be a good candidate for peer review, [tell us about it now](https://docs.google.com/forms/d/e/1FAIpQLSfEeIMKNff-unwgayinVkPjmHIbLoxSluUfjsCJIvHDKOD9FA/viewform)!
+If you have a project that you think would be a good candidate for peer review, tell us about it now!
 
 ### Does this cost anything?
 
@@ -105,4 +108,4 @@ These may feel a little bit formal for a program that's very explicitly an exper
 
 ## Contact us
 
-If you’re curious whether your project would be a good fit, if you’d like to volunteer as a coach, or if you have any other questions at all about this data-review program, [please reach out](mailto:ryan@opennews.org)! We can't wait to see what kinds of projects people want to work on.
+If you’re curious whether your project would be a good fit, if you’d like to volunteer as a coach, or if you have any other questions at all about this data-review program, [please reach out](mailto:info@opennews.org)! We can't wait to see what kinds of projects people want to work on.
