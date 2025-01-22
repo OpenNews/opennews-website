@@ -20,12 +20,13 @@ We're excited to hear about the event or program you want to be part of. What we
 
 ## How to apply
 
-{% comment %}[Applications are open now](https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform) through the end of **Monday, January 22**. Applicants will hear back from us by **Friday, February 2**.
+[Applications are open now](https://forms.gle/YTNXEYpWobuN13vUA) through the end of **Thursday, February 6**. Applicants will hear back from us by **Monday, February 17**.
 
-<a class="sidebar-button" href="https://docs.google.com/forms/d/e/1FAIpQLSdO_4XE9fYkZzIx1Se-9cLpSlDFFHmDs3IfsE1i7UP3jcik5Q/viewform">Apply for a journalism stipend!</a>
-{% endcomment %}
+<a class="sidebar-button" href="https://forms.gle/YTNXEYpWobuN13vUA">Apply for a journalism stipend!</a>
 
-**Applications for our first round of 2024 scholarships are now closed.** {% comment %}If you applied for a scholarship in this round, we will get back to you by February 2.{% endcomment %}We plan to offer another round of scholarships later this year.
+{% comment %}**Applications for our first round of 2025 scholarships are now closed.** {% endcomment %}If you applied for a scholarship in this round, we will get back to you by February 17.
+
+We plan to offer another round of scholarships later this year.
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](http://eepurl.com/czSVTL) is a great way to stay up-to-date.
 
@@ -47,7 +48,7 @@ We love to help people participate in programs where they share something they'v
 
 ## Who should apply
 
-* U.S.-based journalists who work in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
+* U.S.-based journalists, especially those who work or have worked in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
 * People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
 
 ## What happens after you apply
@@ -80,7 +81,7 @@ If the program you want to participate in costs less than $250, we're happy for 
 We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we can help connect you with a peer coach. If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:team@opennews.org).
 
 **What about your conference, SRCCON?**  
-We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://2023.srccon.org/scholarships/)
+We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://srccon.org/)
 
 **Who funds this program?**  
 These stipends are made possible by a grant from the Democracy Fund and contributions from [OpenNews sustainers](https://opennews.networkforgood.com/).
