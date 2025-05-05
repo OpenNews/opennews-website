@@ -8,7 +8,7 @@
 <!--<li><a href="/what/fellowships/apply" id="partners">APPLY NOW</a></li>-->
 </ul>
 
-<select id="fellowselect" onchange="window.location.assign(this.options[this.selectedIndex].value)">
+<select id="fellowselect" onchange="validateAndNavigate(this)">
   <option value="">learn about...</option>
   <option value="/what/fellowships">Fellowships</option>
   <option value="/what/fellowships/info">Program Details</option>
@@ -17,4 +17,21 @@
   <option value="/what/fellowships/partners">Fellowship Partners</option>
 <!--  <option value="/what/fellowships/apply">APPLY NOW</option> -->
 </select>
+<script>
+function validateAndNavigate(selectElement) {
+  const allowedUrls = [
+    "/what/fellowships",
+    "/what/fellowships/info",
+    "/what/fellowships/community",
+    "/what/fellowships/faq",
+    "/what/fellowships/partners"
+  ];
+  const selectedValue = selectElement.options[selectElement.selectedIndex].value;
+  if (allowedUrls.includes(selectedValue)) {
+    window.location.assign(selectedValue);
+  } else {
+    console.error("Invalid navigation attempt:", selectedValue);
+  }
+}
+</script>
 </div>
