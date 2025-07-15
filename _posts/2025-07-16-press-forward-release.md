@@ -31,8 +31,6 @@ Contact: Jessica Morrison, jessica@opennews.org
 
 Press Forward award recipients are working to protect a free and independent press, ensuring newsrooms have safety protocols in place, mental health services to help reporters heal from trauma and burnout and legal resources to face challenges to their reporting. Others are strengthening newsrooms’ sustainability – tackling revenue and operations challenges so the field can thrive long-term.
 
-The full list of recipients is available online at pressforward.news/infrastructure25.
-
 Launched in the fall of 2023, Press Forward is working to reimagine local news nationwide. Together, more than 90 funders – from local community foundations to national foundations – have invested more than $200 million in the sector, including in news outlets in every state.
 
 For more information, visit [pressforward.news/infrastructure25](http://pressforward.news/infrastructure25).
