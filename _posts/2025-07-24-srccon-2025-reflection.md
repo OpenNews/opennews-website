@@ -17,16 +17,14 @@ We set the scene here because although we came into SRCCON 2025  feeling anxious
 We always believed in the need for the space we created this year: The real work of progress can't happen without collective deliberation, vulnerability and time we set aside at SRCCON. It’s a two-day escape to put our heads together and lean into the shared complexity and humanity of the situation we're in.  
    
 We love that SRCCON sets itself apart with its attention to care, resilience and breaking the mold for how conferences work. One 2025 participant summed up our intentions nicely in their feedback, "As always, SRCCON is a gift of time and attention."
-
-\_\_\_
    
 >"Usually, I consider it a good conference day if I connected with one person deeply enough to follow up – at SRCCON there's 4-5 people each day with whom this happens." — **SRCCON 2025 participant**
    
 Our ambitions for SRCCON are fairly simple:
 
-    1. Build real connections  
-    2. Spark ideas, big and small  
-    3. Do it in a human, authentic way
+1. Build real connections  
+2. Spark ideas, big and small  
+3. Do it in a human, authentic way
 
 When we asked attendees to tell us what they wanted to bring back to their workplace, the sessions they named in their feedback forms confronted the same journalistic challenges we saw in the call for participation forms people filled out to attend SRCCON in the first place. That "synergy" is amazing and intentional. It's the reason why community reviewers help build the program and why we encourage participatory, interactive sessions. When a discussion hits home, when a SRCCON participant gets to chat deeply with a few people about something they're confronting and walks away with connections, resources and the lightness of being that comes with knowing they're not alone — that's the backbone of the SRCCON model. It starts with the CFP forms, gets affirmed by reviewers, is channeled through session facilitators and ends with the effervescence of cool, brilliant journalists dreaming, working and hanging together.  
    
