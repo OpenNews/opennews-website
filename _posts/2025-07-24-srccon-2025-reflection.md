@@ -27,15 +27,15 @@ Our ambitions for SRCCON are fairly simple:
 2. Spark ideas, big and small  
 3. Do it in a human, authentic way
    
-"Usually, I consider it a good conference day if I connected with one person deeply enough to follow up – at SRCCON there's 4-5 people each day with whom this happens." — SRCCON 2025 participant  
+>"Usually, I consider it a good conference day if I connected with one person deeply enough to follow up – at SRCCON there's 4-5 people each day with whom this happens." — SRCCON 2025 participant  
    
 When we asked attendees to tell us what they wanted to bring back to their workplace, the sessions they named in their feedback forms confronted the same journalistic challenges we saw in the call for participation forms people filled out to attend SRCCON in the first place. That "synergy" is amazing and intentional. It's the reason why community reviewers help build the program and why we encourage participatory, interactive sessions. When a discussion hits home, when a SRCCON participant gets to chat deeply with a few people about something they're confronting and walks away with connections, resources and the lightness of being that comes with knowing they're not alone — that's the backbone of the SRCCON model. It starts with the CFP forms, gets affirmed by reviewers, is channeled through session facilitators and ends with the effervescence of cool, brilliant journalists dreaming, working and hanging together.  
    
-"Isn't it interesting, how many people say they feel tired or ‘good depleted’ on Friday afternoon? That's because it's so personal and important to us, so close to our hearts\!" — SRCCON 2025 participant  
+>"Isn't it interesting, how many people say they feel tired or ‘good depleted’ on Friday afternoon? That's because it's so personal and important to us, so close to our hearts\!" — SRCCON 2025 participant  
    
 But it’s hard to dream with the veil of shattered expectations and broken promises hanging over us — news avoidance, mistrust, layoffs, and a genuine authoritarian threat are just some of the things we’re all contending with. What's the happy middle between despair and denial then? We're looking for it at SRCCON. The reason we go up on stage and try to set an honest, open tone has everything to do with making our time together as productive as possible. It requires rejecting the expectation that we're journalists first and humans second. Many participants mentioned how they appreciated the tone of our comments, especially at the opening of the conference, and we're here to thank all SRCCON 2025 attendees for taking up that spirit in Minneapolis and at home. Being "good depleted" at the end of Friday at SRCCON has everything to do with embracing the reality that while we may be vulnerable alone, we're still powerful together.  
    
-"The distinguishing feature of this conference vs. all others is its reflectiveness and adaptiveness to feedback over time. Great opportunity to get off the donor-/audience-/breaking-news-driven treadmill and take on the existential challenges of our work."  — SRCCON 2025 participant  
+>"The distinguishing feature of this conference vs. all others is its reflectiveness and adaptiveness to feedback over time. Great opportunity to get off the donor-/audience-/breaking-news-driven treadmill and take on the existential challenges of our work."  — SRCCON 2025 participant  
    
 And we're going to keep working on it. Maybe our aspirations will always outpace our capacity, but we're always looking to improve.  
    
