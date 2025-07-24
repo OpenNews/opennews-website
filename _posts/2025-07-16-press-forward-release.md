@@ -8,7 +8,7 @@ excerpt: OpenNews is one of 22 organizations sharing $22.7 million to meet the u
 
 ---
 
-<img src="/media/img/blog/srccon2025.jpg" style="width: 100%;" alt="An overhead view of Memorial Hall at Source-con 2025 in Minneapolis with conference attendees sitting around tables under the skylights of the main seating area.">
+<img src="/media/img/blog/srccon2025.jpg" style="width: 100%;" alt="A group of 10 conference participants having a deep roundtable discussion in Memorial Hall at Source-con 2025 in Minneapolis.">
 <p class="caption" style="margin-top: -15px; text-align: left;">A spirited meeting of SRCCON 2025 attendees in Memorial Hall during the two-day conference. (Photo by John Hernandez)</p>
 
 JULY 16, 2025 – OpenNews, NC Local, and Newspack will create “Emergency Mode for News,” which equips local newsrooms with a plan and support to keep their communities informed when disasters happen, with funding from Press Forward, a national initiative to reimagine local news.
