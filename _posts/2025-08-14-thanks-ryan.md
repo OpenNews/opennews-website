@@ -8,7 +8,7 @@ excerpt: After over a decade with OpenNews, Ryan Pitts leaves to join Big Local 
 
 ---
 
-<img src="/media/img/blog/ryan-SRCCON25.jpg" style="width: 75%;" alt="Ryan (a bespectacled white person with a beard) is leaning against a podium, holding a microphone in front of an orange sign that says SRCCN">
+<img src="/media/img/blog/ryan-SRCCON25.jpg" style="width: 75%;" alt="Ryan (a bespectacled white person with a beard) is leaning against a podium, holding a microphone in front of an orange sign that says SRCCON">
 <p class="caption" style="margin-top: -15px; text-align: left;">Ryan welcomes folks to SRCCON 2025. (Photo by Andrew Losowsky)</p>
 
 As Ryan Pitts joins [the team at Big Local News](https://biglocalnews.org/content/news/2025/08/11/new-managing-director.html), I wanted to take a moment to reflect on how he shaped the work of OpenNews.
