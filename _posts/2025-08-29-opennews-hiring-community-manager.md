@@ -44,6 +44,6 @@ You might be a part of this community already, or you may bring a perspective fr
 ## How To Apply
 If you’re intrigued by this position, but don’t feel like you have the precise background listed, please still do apply. You can reach out with any questions or if you need any further information to feel able to apply.  As a small team, we're excited to bring on someone interested in building community and in order to do our work well, we need to ensure there are multiple backgrounds and experiences present. We especially encourage people of color, people with disabilities, immigrants, women, and members of other marginalized groups in journalism and technology to apply. At this time, we are only able to hire people who are based in the U.S. and who already hold authorization to work in the U.S.
 
-If you have any questions, feel free to [contact the team](mailto:team@opennews.org).
+If you have any questions, feel free to [contact the team](mailto:team@opennews.org). You can apply below or [here](https://airtable.com/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form) (to open the application in a new page).
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="2500" style="min-height: 2400px; height: 2400px !important; background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="2500" style="min-height: 2200px; height: 2200px !important; background: transparent; border: 1px solid #ccc;"></iframe>
