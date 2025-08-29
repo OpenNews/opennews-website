@@ -8,17 +8,17 @@ excerpt: We're looking for someone to deepen ties within the OpenNews community!
 
 ---
 
-OpenNews supports journalists pushing for technical and cultural change in newsrooms. Our purpose is to provide spaces where journalists can join a community, learn from each other, and take lessons back to their news organizations.
+We’re excited to expand our small team and share this job opening! OpenNews serves a community of journalists seeking to transform newsroom culture and the way we use technology in our field. Our purpose is to provide spaces where journalists can join a community, learn from each other, and take lessons back to their news organizations.
 
-A community manager will support the journalistic audience for [Emergency Mode for News](https://opennews.org/blog/press-forward-release/), a project funded by Press Forward, and OpenNews’ community initiatives. This will include but is not limited to audience engagement, outreach, and facilitation for community or project-related events. 
+This is a part-time, temporary role that we hope to make permanent as funding allows. The person who joins our team as community manager will support our work on [Emergency Mode for News](https://opennews.org/blog/press-forward-release/), a project funded by Press Forward, as well as OpenNews’ community initiatives. This will include but is not limited to audience engagement, outreach, and facilitation for community or project-related events.
 
 ## About The Work
-**Emergency Mode (60% of time or ~9 hours per week)**
+**Emergency Mode (60% of time)**
 * Support Emergency Mode team with project outreach and engagement efforts
 * Develop and maintain engagement efforts for Emergency Mode peer learning cohort and assist peer learning leader with cohort logistics
 * Support with in-person Emergency Mode events (based on availability)
 
-**OpenNews / SRCCON Community Support (40% of time or ~6 hours per week)**
+**OpenNews / SRCCON Community Support (40% of time)**
 * Coordinate with team to establish organizational and independent goals for community-building role
 * Research, surface and help us highlight community-aligned projects and resources for OpenNews newsletter and community calls
 * Schedule, agenda setting and monthly / bi-weekly logistics for community call
@@ -46,4 +46,4 @@ If you’re intrigued by this position, but don’t feel like you have the preci
 
 If you have any questions, feel free to [contact the team](mailto:team@opennews.org).
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="2500" style="min-height: 2500px; height: 2500px !important; background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="2500" style="min-height: 2400px; height: 2400px !important; background: transparent; border: 1px solid #ccc;"></iframe>
