@@ -46,4 +46,4 @@ If you’re intrigued by this position, but don’t feel like you have the preci
 
 If you have any questions, feel free to [contact the team](mailto:team@opennews.org).
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="2500" style="height: 2500px !important; background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="2500" style="min-height: 2500px; height: 2500px !important; background: transparent; border: 1px solid #ccc;"></iframe>
