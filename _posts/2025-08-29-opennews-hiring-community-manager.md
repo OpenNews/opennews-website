@@ -10,7 +10,7 @@ excerpt: We're looking for someone to deepen ties within the OpenNews community!
 
 OpenNews supports journalists pushing for technical and cultural change in newsrooms. Our purpose is to provide spaces where journalists can join a community, learn from each other, and take lessons back to their news organizations.
 
-A community manager will support the journalistic audience for [“Emergency Mode for News,”](https://opennews.org/blog/press-forward-release/), a project funded by Press Forward, and OpenNews’ community initiatives. This will include but is not limited to audience engagement, outreach, and facilitation for community or project-related events. 
+A community manager will support the journalistic audience for [Emergency Mode for News](https://opennews.org/blog/press-forward-release/), a project funded by Press Forward, and OpenNews’ community initiatives. This will include but is not limited to audience engagement, outreach, and facilitation for community or project-related events. 
 
 ## About The Work
 **Emergency Mode (60% of time or ~9 hours per week)**
@@ -46,7 +46,7 @@ If you’re intrigued by this position, but don’t feel like you have the preci
 
 If you have any questions, feel free to [contact the team](mailto:team@opennews.org).
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="900" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/app0dvefggv8qcESX/pag3fftpghUqq4dyv/form" frameborder="0" onmousewheel="" width="100%" height="3000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 
