@@ -4,7 +4,7 @@ title: How to build a butterfly
 date: 2025-11-20 10:30
 author: Jessica Morrison
 tags: OpenNews
-excerpt: A lot can happen in a chrysalis.
+excerpt: A lot can happen in a chrysalis. Jessica Morrison reflects on a year of growth for OpenNews ahead of our 15th birthday in 2026.
 
 ---
 
