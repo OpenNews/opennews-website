@@ -4,7 +4,7 @@ title: How to build a butterfly
 date: 2025-11-20 10:30
 author: Jessica Morrison
 tags: OpenNews
-excerpt: We're looking for someone to deepen ties within the OpenNews community!
+excerpt: A lot can happen in a chrysalis.
 
 ---
 

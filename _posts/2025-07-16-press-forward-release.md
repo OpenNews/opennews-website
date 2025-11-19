@@ -4,7 +4,7 @@ title: OpenNews receives Press Forward funding to develop emergency preparedness
 date: 2025-07-16 09:00
 author: The OpenNews Team
 tags: OpenNews
-excerpt: OpenNews is one of 22 organizations sharing $22.7 million to meet the urgent challenges local newsrooms face
+excerpt: OpenNews is one of 22 organizations sharing $22.7 million to meet the urgent challenges local newsrooms face.
 
 ---
 
