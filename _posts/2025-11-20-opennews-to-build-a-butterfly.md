@@ -11,6 +11,8 @@ excerpt: A lot can happen in a chrysalis. Jessica Morrison reflects on a year of
 <img src="/media/img/blog/metamorphosis-notes.jpeg" style="width: 75%;" alt="A snapshot from Jessica’s notes at NICAR 2025 including the first sketch of a proposed structure for OpenNews programming that includes images about plant growth related to how we seed, grow and root our work.">
 <p class="caption" style="margin-top: -15px; text-align: left;"></p>
 
+*Editor’s Note: We’re fundraising and hoping to raise $15,000 by the end of the year. We grew this year, and [we need your help to keep going](https://opennews.networkforgood.com/).* 
+
 I’ll level with you. When the training wheels came off late in 2024, John and I found ourselves leading OpenNews with funding through October of this year and few prospects. Looking down the line, and feeling completely wrung out after working a dozen years in an industry that doesn’t know how to rest, I thought this might be the end of OpenNews. 
 
 After spending our first year as co-directors running on parallel tracks, producing two SRCCONs, stepping into consulting projects, and learning the inner workings of small nonprofit leadership as quickly as possible, John and I still hardly knew each other. Encouraged by our departing co-director, we took [a chrysalis period](https://alliedmedia.org/news/chrysalis-year). We had to look inward and reconnect if we were going to lead OpenNews into its next era together. 
@@ -38,4 +40,4 @@ Then we were awarded $1.2 million from Press Forward [to lead and build Emergenc
 
 OpenNews turns 15 (\!\!) in 2026\. That’s 15 years of stewarding a community of optimistic doers who take care of one another, challenge one another, respect one another, learn from one another, and have fun doing it. Stay tuned for more about how we’ll celebrate and continue our shared vision for a community of journalists who understand and leverage their power to support one another.
 
-\*A note on funding: I wish that renewed funds from Democracy Fund were enough, but we are on the precipice of a funding gap of $85,000 for the coming year. OpenNews operates with a mix of grants, consulting, and community support–that’s where you come in\! [Help us meet our community-driven match up to $3,000 toward our goal of $15,000.](https://opennews.networkforgood.com/)
+\*A note on funding: I wish that grant funds were enough, but we are on the precipice of a funding gap of $85,000 for the coming year. OpenNews operates with a mix of grants, consulting, and community support–that’s where you come in\! [Help us meet our community-driven match up to $3,000 toward our goal of $15,000.](https://opennews.networkforgood.com/)
