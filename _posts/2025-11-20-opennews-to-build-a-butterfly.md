@@ -9,7 +9,7 @@ excerpt: A lot can happen in a chrysalis. Jessica Morrison reflects on a year of
 ---
 <p style="text-align:center; margin:0;">
     <img src="/media/img/blog/metamorphosis-notes.jpeg" style="width:75%; display:block; margin:0 auto;" alt="A snapshot from Jessica’s notes at NICAR 2025 including the first sketch of a proposed structure for OpenNews programming that includes images about plant growth related to how we seed, grow and root our work.">
-</p>
+</p> <br>
 <p class="caption" style="text-align: center;">A snapshot from Jessica’s notes at NICAR 2025.</p>
 
 *Editor’s Note: We’re fundraising and hoping to raise $15,000 by the end of the year. We grew this year, and [we need your help to keep going](https://opennews.networkforgood.com/).* 
@@ -32,7 +32,7 @@ We dug into [OpenNews’ history](https://opennews.org/who/history/) and the pro
 While we were doubting our relevance and answering questions about OpenNews’ purpose in 2025, we gave $25,000 in scholarships, sponsored pickup basketball at NICAR, covered meals for nearly 80 people at peer conferences, and hosted our third SRCCON in two years with more than fifty percent of responses to our call for proposals this year coming from people who had never attended SRCCON before.
 <p style="text-align:center; margin:0;">
     <img src="/media/img/blog/nicar25-basketball.jpeg" style="width:75%; display:block; margin:0 auto;" alt="A group of 8 journalists attending NICAR 2025 lined up for a team photo at the halfcourt line of an indoor basketball court in Minneapolis.">
-</p>
+</p><br>
 <p class="caption" style="text-align: center;">Put this one in the yearbook, our basketball team at NICAR 2025.</p>
 
 Then we were awarded $1.2 million from Press Forward [to lead and build Emergency Mode for News](https://opennews.org/blog/press-forward-release/) with Newspack and NC Local. Meanwhile, Democracy Fund bet on the power of our relationship-building programs for newsroom technologists and renewed our funding for three years.\* Our team added three part-time roles, including a community manager that we’ll announce next week. 
