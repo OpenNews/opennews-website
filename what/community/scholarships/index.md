@@ -9,24 +9,21 @@ section: what we do
 
 # {{ page.title }}
 
-OpenNews can help you pay for events and programs that develop your work as a journalist with data and code. Attend a conference, take a class, join a training, sign up for a leadership program—you know best what you need. If cost is a hardship, we want to help.
+OpenNews can help you pay for events and programs that develop your work as a journalist. Attend a conference, take a class, join a training, sign up for a leadership program—you know best what you need. If cost is a hardship, we want to help.
 
 **Key things to know:**
 
-* These scholarships are for U.S.-based journalists who work in data or code. This program is one way we can help people in those roles build skills and connections to make their newsrooms more equitable and just.
+* These scholarships are for U.S.-based journalists, especially those working with data, tech or code. This program is one way we can help people in those roles build skills and connections to make their newsrooms more equitable and just.
 * This program is designed to do two things: help you expand your comfort zone and strengthen your support network of colleagues and peers.
 
-We're excited to hear about the event or program you want to be part of. What we want to know most is **_why_ you want to be there and _how_ you plan to use and share what you learn.**
+We're excited to hear about the event or program you want to be part of. Most importantly, what we want to know most is **_why_ you want to be there and _how_ you plan to use and share what you learn.**
 
 ## How to apply
 
-[Applications are open now](https://forms.gle/YTNXEYpWobuN13vUA) through the end of **Thursday, February 6**. Applicants will hear back from us by **Monday, February 17**.
+[Applications are open now](https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form) through the end of **Monday, February 2**. Applicants will hear back from us by **Wednesday, January 11**.
 
-<a class="sidebar-button" href="https://forms.gle/YTNXEYpWobuN13vUA">Apply for a journalism stipend!</a>
+<a class="sidebar-button" href="https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form">Apply for a journalism stipend!</a>
 
-{% comment %}**Applications for our first round of 2025 scholarships are now closed.** {% endcomment %}If you applied for a scholarship in this round, we will get back to you by February 17.
-
-We plan to offer another round of scholarships later this year.
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](http://eepurl.com/czSVTL) is a great way to stay up-to-date.
 
@@ -49,7 +46,7 @@ We love to help people participate in programs where they share something they'v
 ## Who should apply
 
 * U.S.-based journalists, especially those who work or have worked in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
-* People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism and technology are strongly encouraged to apply.
+* People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism, technology and leadership are strongly encouraged to apply.
 
 ## What happens after you apply
 
@@ -66,7 +63,7 @@ We added the “plus” to Scholarships+ because conference registration isn’t
 **How do you decide who will receive a stipend?**  
 OpenNews staff reviews all applications. We prioritize applications from members of communities underrepresented in journalism and technology and journalists from small and non-coastal newsrooms. We also prioritize applications that help someone take part in a program where they are speaking or otherwise making a major contribution.
 
-We look for applications from journalists who use data or design to help people understand their community and make it better, who write code or work in product to help a news organization make good on its mission, who are pushing for change in their newsrooms and helping them better reflect their communities. And we look for applications that have a plan for bringing new ideas into your work and sharing them with peers.
+We look for applications from journalists who use data or design to help people understand their community and make it better, who write code or work in product to help a news organization make good on its mission or who are pushing for change in their newsrooms and helping them better reflect their communities. And we look for applications that have a plan for bringing new ideas into your work and sharing them with peers.
 
 **Can people outside of the U.S. apply for the scholarship?**  
 This program is available to U.S.-based applicants. We support international journalism in other ways, but the funding we have for this program is intended to support U.S. organizations.
@@ -78,7 +75,7 @@ When we notify recipients, we'll include information about how to receive funds.
 If the program you want to participate in costs less than $250, we're happy for you to use the rest to cover your time spent participating. For programs that cost more, you may be able to find additional support elsewhere: Many conferences, programs, and professional organizations offer their own scholarships or other discounts, and those are always worth looking into. Events may also have opportunities like volunteering to help cut down on costs.
 
 **What if I need something other than funding?**  
-We have lots of ways to connect you with peer support from the journalism community! If you could use some help with a data story, we can help connect you with a peer coach. If you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:team@opennews.org).
+We have lots of ways to connect you with peer support from the journalism community! For example, if you need resources for making your newsroom more anti-racist, equitable, and just, check out the [DEI Coalition](/what/community/dei-coalition/). If you're working on another type of project and you wonder if we can help, [we'd love to hear from you](mailto:team@opennews.org).
 
 **What about your conference, SRCCON?**  
 We run a separate scholarship process for SRCCON events. You can find more details about how we approached scholarships for our most recent conference [on the SRCCON website](https://srccon.org/)
