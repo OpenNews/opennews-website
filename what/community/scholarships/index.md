@@ -20,7 +20,7 @@ We're excited to hear about the event or program you want to be part of. Most im
 
 ## How to apply
 
-[Applications are open now](https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form) through the end of **Monday, February 2**. Applicants will hear back from us by **Wednesday, January 11**.
+[Applications are open now](https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form) through the end of **Monday, February 2**. Applicants will hear back from us by **Wednesday, February 11**.
 
 <a class="sidebar-button" href="https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form">Apply for a journalism stipend!</a>
 
