@@ -20,8 +20,8 @@ You can participate by calling in and listening, reading along on the etherpad d
 
 ### Call-in Details
 
-**Next Scheduled Call:** Aug. 28, 2025 [call agenda](https://etherpad.opennews.org/p/CC-January-2026)<br/>
-**[Join Online via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **Conference Number** in the [Community Call Google Calendar] meeting description (https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)<br />
+**Next Scheduled Call:** January 29, 2026 [call agenda](https://etherpad.opennews.org/p/CC-January-2026)<br/>
+**[Join Online via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **Conference Number** in the [Community Call Google Calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)<br />
 
 [Follow us on Bluesky](https://bsky.app/profile/opennews.bsky.social) and [LinkedIn](https://www.linkedin.com/company/15401949/admin/dashboard/) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
