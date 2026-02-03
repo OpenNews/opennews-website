@@ -32,9 +32,7 @@ You can participate by calling in and listening, reading along on the etherpad d
   <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
 
   <ul>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May-25">May 15, 2025 call</a></li>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-April-25">April 24, 2025 call</a></li>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-March-25">March 13, 2025 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-January-2026">January 29, 2026 call</a> with the <a ref="nofollow" class="external text" href="https://www.tlvoice.org/introducing-the-tenderloin-voice/">Tenderloin Voice</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb20-25">February 20, 2025 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan23-25">January 23, 2025 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-May16-24">May 16, 2024 call</a></li>
