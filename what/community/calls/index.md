@@ -1,6 +1,6 @@
 ---
 layout: post_notitle
-title: Community Calls
+title: Community Calls and Standups
 section: what we do
 
 ---
@@ -9,24 +9,37 @@ section: what we do
 img.topline { border: none; }
 </style>
 
-<img src="/media/img/community-call-image.png" class="topline">
-<p class="caption">Our calls use a shared writing space where we take collective notes and ask questions.</p>
+<img src="/media/img/communitycall.png" class="topline">
+<p class="caption">Our calls allow you to show up as you are, video on or off, to share experiences, take collective notes and connect with peers.</p>
 
 <h2>{{ page.title }}</h2>
 
-<p class="bodybig">The Source community calls are a monthly community check-in for anyone in journalism or coding world who wants to announce new projects, events, grants, and job openings, and solicit contributors.</p>
+### Community Call
 
-You can participate by calling in and listening, reading along on the etherpad during or after the call, or by [submitting your own ideas for a future call](https://forms.gle/4CgLuuitVvgCcLHF7) to get onto the agenda as a speaker. The calls are informal and friendly and a great way to ease into the wider conversation.
+The OpenNews community calls are a bi-monthly community check-in for anyone in journalism who wants to announce new projects, events, grants, and job openings; solicit contributors and co-conspirators; and discuss problems, big and small, in a community setting.
 
-### Call-in Details
+You can participate by listening in, offering your thoughts, asking questions, reading the etherpad, or by [submitting your own ideas for a future call](https://forms.gle/4CgLuuitVvgCcLHF7) to get onto the agenda as a speaker. The calls are an informal and welcoming way to ease into wider community conversations and projects.
 
-**Next Scheduled Call:** January 29, 2026 [call agenda](https://etherpad.opennews.org/p/CC-January-2026)<br/>
-**[Join Online via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **Conference Number** in the [Community Call Google Calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)<br />
+#### How to Join a Community Call
+
+The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled call dates to be let in.
+
+**Next Scheduled Call:** February 12, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-February-12-2026)
+
+**[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
 [Follow us on Bluesky](https://bsky.app/profile/opennews.bsky.social) and [LinkedIn](https://www.linkedin.com/company/15401949/admin/dashboard/) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
+### Community Daily Standups
+
+A daily off-the-record standup meeting at 9:30 a.m. ET for people who don't necessarily work together but who miss the discipline and camaraderie of a daily "here's what I'm up to" meeting. It's for solopreneurs, remote staffers, teamless ICs and anybody else with a teamwork-shaped hole in their hearts that only a good standup can fill.
+
+#### How to Join Community Standups
+
+Standups happen on Zoom and require registration before you can join. Sign up via this [Google form](https://docs.google.com/forms/d/e/1FAIpQLSfiEx1GLspHQb8Lu1QbRknJRCVU1Ua-5Rv-obvu3B9nzwni8g/viewform) and give us at least 24 hours to get you registered. You'll receive access to the call calendar on Google so you can join in daily!
+
 <div class="calllist closed">
-  <h3><span class="mw-headline" id="Call_Archives">Call Archives</span></h3>
+  <h3><span class="mw-headline" id="Call_Archives">Community Call Archives</span></h3>
   <p>We use Etherpad to take full, participatory notes during our calls.</p>
       
   <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
