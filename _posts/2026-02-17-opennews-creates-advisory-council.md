@@ -11,7 +11,7 @@ excerpt: To meet persistent journalism, career & tech changes our Board will bec
 <p style="text-align:center; margin:0;">
     <img src="/media/img/blog/2026_Advisory-Council_SRCCON-participants.jpg" style="width:95%; display:block; margin:0 auto;" alt="A row of Source-con participants sit on or near benches in front of the McNamara Alumni Center, the conference venue, to co-work.">
 </p> 
-<p class="caption" style="text-align: center;margin-top:15px;">OpenNews community members, like these SRCCON 2017 participants, work together.</p>
+<p class="caption" style="text-align: center;margin-top:15px;">OpenNews community members, like these SRCCON 2017 participants, work together. (Photo by Erik Westra)</p>
 
 2025 was a lot and 2026 is off to similar “lotness,” if I can use a nonsense word in serious moments. However, a bright point in 2025 was the engagement, support and persistence of OpenNews community members. If you missed [Jessica’s heartfelt end-of-year post celebrating this community](https://opennews.org/blog/opennews-to-build-a-butterfly/), please take a moment to reconnect (and boost up) now as we head deeper into 2026\.
 
