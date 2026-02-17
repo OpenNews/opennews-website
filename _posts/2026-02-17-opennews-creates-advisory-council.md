@@ -1,6 +1,6 @@
 ---
 layout: blogpost
-title: Our next step in community-driven leadership: an Advisory Council
+title: Our next step in community-driven leadership&#58; an Advisory Council
 date: 2026-02-17 12:00
 author: Tiff Fehr, former board member & interim council lead
 tags: OpenNews
