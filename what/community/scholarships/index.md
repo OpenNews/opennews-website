@@ -4,7 +4,8 @@ title: Scholarships+&#58; Stipends toward programs that develop your work
 section: what we do
 ---
 
-<img src="/media/img/scholarships_2023.jpg" class="topline">
+<img src="/media/img/scholarships_2023.jpg" class="topline"
+alt="Journalists gather at a conference event, smiling and conversing in a bright, welcoming indoor space. The image conveys a sense of community, connection, and professional camaraderie among attendees.">
 <p class="caption">Events can help you build relationships with other journalists. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 # {{ page.title }}
@@ -20,10 +21,7 @@ We're excited to hear about the event or program you want to be part of. Most im
 
 ## How to apply
 
-[Applications are open now](https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form) through the end of **Monday, February 2**. Applicants will hear back from us by **Wednesday, February 11**.
-
-<a class="sidebar-button" href="https://airtable.com/appRHdmjblqvfwrOx/pagTK0XiZJbYDyZyr/form">Apply for a journalism stipend!</a>
-
+Applications are closed for 2026.
 
 If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](http://eepurl.com/czSVTL) is a great way to stay up-to-date.
 
@@ -51,7 +49,6 @@ We love to help people participate in programs where they share something they'v
 ## What happens after you apply
 
 OpenNews staff reviews applications and notifies all applicants.
-
 
 ## FAQ
 
