@@ -8,11 +8,16 @@ excerpt: To meet persistent journalism, career & tech changes our Board will bec
 
 ---
 
+<p style="text-align:center; margin:0;">
+    <img src="/media/img/blog/2026_Advisory-Council_SRCCON-participants.jpg" style="width:95%; display:block; margin:0 auto;" alt="A row of Source-con participants sit on or near benches in front of the McNamara Alumni Center, the conference venue, to co-work.">
+</p> 
+<p class="caption" style="text-align: center;margin-top:15px;">OpenNews community members, like these SRCCON 2017 participants, work together.</p>
+
 2025 was a lot and 2026 is off to similar “lotness,” if I can use a nonsense word in serious moments. However, a bright point in 2025 was the engagement, support and persistence of OpenNews community members. If you missed [Jessica’s heartfelt end-of-year post celebrating this community](https://opennews.org/blog/opennews-to-build-a-butterfly/), please take a moment to reconnect (and boost up) now as we head deeper into 2026\.
 
 Building on work started in 2025, today we are happy to announce a transition that usually happens behind the scenes: a move from an Advisory Board to an Advisory Council for OpenNews. Within this org-charty-sounding change there’s a good bit of detail and intention, so please continue reading our synopsis of what this change means.
 
-## A Deep Bow of Gratitude to Our Advisory Board
+## A bow of gratitude to our Advisory Board
 
 First and foremost, we want to extend a deep and heartfelt thanks to the members of our Advisory Board. Through many changes, the Board has dedicated its time and expertise to guiding OpenNews directors and staff as they have jumped endless hurdles to keep the dream of OpenNews alive. The support of this Advisory group has played a foundational role in the success and stability of this community of optimistic doers.
 
