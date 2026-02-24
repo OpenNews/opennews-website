@@ -45,6 +45,7 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
   <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-February-12-2026">February 26, 2026 call</a> on<a ref="nofollow" class="external text" href="https://source.opennews.org/articles/journalism-lost-sharing-culture/">Open source and sharing in news</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-January-2026">January 29, 2026 call</a> with the <a ref="nofollow" class="external text" href="https://www.tlvoice.org/introducing-the-tenderloin-voice/">Tenderloin Voice</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb20-25">February 20, 2025 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan23-25">January 23, 2025 call</a></li>
