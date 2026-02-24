@@ -24,7 +24,7 @@ You can participate by listening in, offering your thoughts, asking questions, r
 
 The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled call dates to be let in.
 
-**Next Scheduled Call:** February 12, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-February-12-2026)
+**Next Scheduled Call:** February 26, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-February-26-2026)
 
 **[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
