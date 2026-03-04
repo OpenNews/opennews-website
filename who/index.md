@@ -18,9 +18,9 @@ sub-section: index
 
 <img src="/media/img/staff/Hernandez.jpg" class="headshot"> John Hernandez is Co-Director of OpenNews, where he focuses on connecting journalists to one another to support the cross-pollination of ideas and advancing discourse in the field to inspire more action. Previously, he worked as assistant director of audience at [The Texas Tribune](https://www.texastribune.org/) where he supported the development of community engagement practices and Latino/a/e/x outreach strategies. John is based in Austin, Texas and enjoys photographing live music, finding secret swimming spots and exploring Texas’ state parks. (<a href="mailto:john@opennews.org">john@opennews.org</a>)
 
-## Our Advisory Board
+## Our Advisory Council
 
-* Emma Carew Grovum, Dan Sinker, Candice Fortman, Cordelia Yu
+* Emma Carew Grovum
 * Dan Sinker
 * Candice Fortman
 * Andrew Losowsky
