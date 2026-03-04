@@ -1,0 +1,29 @@
+# Build outputs
+_site/
+.jekyll-cache/
+.sass-cache/
+
+# Dependencies
+vendor/
+node_modules/
+.bundle/
+
+# Lock files (generated)
+Gemfile.lock
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment
+.env
+.env.local
+tmp/
+temp/

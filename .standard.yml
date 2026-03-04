@@ -1,0 +1,16 @@
+ruby_version: 3.2.6
+
+ignore:
+  - "_site/**/*"
+  - ".jekyll-cache/**/*"
+  - "vendor/**/*"
+  - "node_modules/**/*"
+  - ".bundle/**/*"
+  - "tmp/**/*"
+  - "temp/**/*"
+  - "tasks/**/*" # Prettier handles formatting for Rake task files
+  - "Rakefile" # Prettier handles formatting for main Rakefile
+
+
+# Note: Rake files (.rake and Rakefile) are formatted by Prettier with @prettier/plugin-ruby
+# StandardRB is excluded from these files to avoid formatting conflicts
