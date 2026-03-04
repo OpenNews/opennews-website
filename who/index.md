@@ -20,13 +20,13 @@ sub-section: index
 
 ## Our Advisory Board
 
-* Trei Brundrett
-* Tiff Fehr
-* Candice Fortman
-* Dawn Garcia
-* Aron Pilhofer
+* Emma Carew Grovum, Dan Sinker, Candice Fortman, Cordelia Yu
 * Dan Sinker
-* Aaron Williams
+* Candice Fortman
+* Andrew Losowsky
+* Luisa Ortiz Pérez
+* Tiff Fehr
+* Cordelia Yu
 
 ## Our Former Staff
 Team members who shaped OpenNews and have since moved on to other pursuits.
