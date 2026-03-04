@@ -43,7 +43,7 @@ Cordelia Yu also joins our Advisory Council.
 
 Tiff Fehr, Principal at Gasworks Data, ex-NYT
 
-- “OpenNews staff showed up on the nerd-filled floor of The NYT one day to film news nerd interviews and a teammate’s absence moved me — a relatively new hire — into the list. So my introduction to OpenNews was caught on film. Long hours on the London 2012 Olympics newsapp had me in glasses and full-on project myopia, but it was a joy to share that work and hear *real* engagement and encouragement from OpenNews staff. That carried over into the first SRCCON and beyond.”
+- “OpenNews staff showed up on the nerd-filled floor of The NYT one day to film news nerd interviews and a teammate’s absence moved me — a relatively new hire — into the list. So my introduction to OpenNews was caught on <a href="https://youtu.be/8GOWLNWifxc?si=xb2GE40ZjnhPSSjV">film</a>. Long hours on the London 2012 Olympics newsapp had me in glasses and full-on project myopia, but it was a joy to share that work and hear *real* engagement and encouragement from OpenNews staff. That carried over into the first SRCCON and beyond.”
 
 Candice Fortman 
 
