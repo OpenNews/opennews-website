@@ -9,7 +9,7 @@ excerpt: They each bring a passion for developing community, uplifting others, a
 ---
 
 <p style="text-align:center; margin:0;">
-    <img src="/media/img/blog/advisory council.png" style="width:95%; display:block; margin:0 auto;" alt="A row of Source-con participants sit on or near benches in front of the McNamara Alumni Center, the conference venue, to co-work.">
+    <img src="/media/img/blog/advisory council.png" style="width:95%; display:block; margin:0 auto;" alt="A series of headshots of the new OpenNews advisory council members displayed in two rows.">
 </p> 
 <p class="caption" style="text-align: center;margin-top:15px;">OpenNews Advisory Council from top left: Emma Carew Grovum, Tiff Fehr, Candice Fortman, Andrew Losowsky, Luisa Ortiz Pérez, Dan Sinker, Cordelia Yu</p>
 
