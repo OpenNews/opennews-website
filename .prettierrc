@@ -1,0 +1,42 @@
+{
+  "printWidth": 80,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "always",
+  "proseWrap": "preserve",
+  "endOfLine": "lf",
+  "plugins": ["@prettier/plugin-ruby"],
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "printWidth": 1000
+      }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "preserve",
+        "printWidth": 80
+      }
+    },
+    {
+      "files": ["*.yml", "*.yaml"],
+      "options": {
+        "tabWidth": 2,
+        "printWidth": 80
+      }
+    },
+    {
+      "files": ["*.rb", "Rakefile", "*.rake"],
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 2
+      }
+    }
+  ]
+}
