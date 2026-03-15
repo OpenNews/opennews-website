@@ -1,0 +1,55 @@
+name: Test
+
+on:
+  pull_request:
+  push:
+    branches-ignore:
+      - main
+      - staging
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2.6"
+          bundler-cache: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: |
+          bundle install
+          npm ci
+
+      - name: Validate YAML files
+        run: bundle exec rake validate_yaml
+
+      - name: Run configuration checks
+        run: bundle exec rake check
+
+      - name: Build Jekyll site
+        run: bundle exec rake build
+
+      - name: Test HTML with htmlproofer
+        run: |
+          bundle exec htmlproofer ./_site \
+            --disable-external \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/" \
+            --allow-hash-href \
+            --swap-urls "^https?\:\/\/www\.opennews\.org:"
+
+      - name: Test deployment command (dry run)
+        run: DRYRUN=true bundle exec rake deploy:staging
+        env:
+          AWS_REGION: us-east-1

@@ -1,0 +1,93 @@
+name: Health Check
+
+on:
+  schedule:
+    # Run every Monday at 9am UTC
+    - cron: "0 9 * * 1"
+  workflow_dispatch:
+
+permissions:
+  issues: write
+  contents: read
+
+jobs:
+  health-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.2.6"
+          bundler-cache: true
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install dependencies
+        run: |
+          bundle install
+          npm ci
+
+      - name: Check for outdated gems
+        id: outdated_gems
+        continue-on-error: true
+        run: |
+          echo "## Outdated Ruby Gems" >> $GITHUB_STEP_SUMMARY
+          bundle outdated --strict || echo "outdated=true" >> $GITHUB_OUTPUT
+          bundle outdated >> $GITHUB_STEP_SUMMARY 2>&1 || true
+
+      - name: Check for outdated npm packages
+        id: outdated_npm
+        continue-on-error: true
+        run: |
+          echo "## Outdated npm Packages" >> $GITHUB_STEP_SUMMARY
+          npm outdated || echo "outdated=true" >> $GITHUB_OUTPUT
+          npm outdated >> $GITHUB_STEP_SUMMARY 2>&1 || true
+
+      - name: Create issue if dependencies are outdated
+        if: steps.outdated_gems.outputs.outdated == 'true' || steps.outdated_npm.outputs.outdated == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = '🔔 Weekly Health Check: Outdated Dependencies';
+            const body = `### Health Check Report
+
+            This is an automated weekly health check. Some dependencies may be outdated.
+
+            **Date:** ${new Date().toISOString().split('T')[0]}
+
+            Please review the [workflow run](${context.payload.repository.html_url}/actions/runs/${context.runId}) for details.
+
+            #### Actions to take:
+            1. Review the outdated dependencies
+            2. Update dependencies as needed
+            3. Test the changes locally
+            4. Create a PR with the updates
+            `;
+
+            // Check if an issue already exists
+            const issues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'health-check'
+            });
+
+            const existingIssue = issues.data.find(issue => issue.title === title);
+
+            if (!existingIssue) {
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: title,
+                body: body,
+                labels: ['health-check', 'dependencies']
+              });
+            }
