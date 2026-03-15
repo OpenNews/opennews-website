@@ -4,15 +4,15 @@ title: Hosting a Knight-Mozilla Fellow in 2016
 date: 2015-4-1 16:15
 author: Erika Owens
 tags: fellowship announcements
-excerpt: Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, <a href="http://opennews.org/what/fellowships/partnerguidelines/#form">fill out this form</a> by April 24.
+excerpt: Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, <a href="https://opennews.org/what/fellowships/partnerguidelines/">fill out this form</a> by April 24.
 ---
+
 <img src="/media/img/2015_fellows_latimes3.jpg" style="width: 100%;">
 <p class="caption">We're looking for news organizations to welcome inquisitive folks like this for 10 months.</p>
 
+Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, [fill out this form](/what/fellowships/partnerguidelines/) by April 24.
 
-Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, [fill out this form](/what/fellowships/partnerguidelines/#form) by April 24.
-
-Over the last four years of the program, we've worked with news organizations on several continents, in multiple languages, and with various areas of editorial focus. We're grateful to the news organizations that have [hosted 26 fellows](http://opennews.org/what/fellowships/community/) and offered the space and support for fellows to spend 10 months exploring, collaborating, and sharing with colleagues throughout the newsroom and beyond.
+Over the last four years of the program, we've worked with news organizations on several continents, in multiple languages, and with various areas of editorial focus. We're grateful to the news organizations that have [hosted 26 fellows](https://opennews.org/what/fellowships/community/) and offered the space and support for fellows to spend 10 months exploring, collaborating, and sharing with colleagues throughout the newsroom and beyond.
 
 Hosting a fellow is a chance to bring a new perspective to your newsroom. Fellows bring creativity and expertise on a range of technical topics to collaborate on those projects that you've always wanted to build, but have had trouble carving out time for between deadlines. News organizations who host fellows also join a small cohort--just like the fellows do--with the potential for collaboration and camaraderie between partners.
 

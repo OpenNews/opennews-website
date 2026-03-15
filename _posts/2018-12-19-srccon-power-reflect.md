@@ -21,7 +21,7 @@ We organize SRCCON events with a lot of space for conversation and emergent idea
 
 Several folks also mentioned that they appreciated the topical theme for this event including that the theme "meant everyone had some common interest, even if we had super different job titles." Participants to this event were tied together by the fact that they were all working to shift power dynamics in journalism. One attendee mentioned, "in particular, I found this conference did a fantastic job of pushing difficult conversations in kind and supportive ways."
 
-With this shared grounding, we also put a lot of intention into helping folks think about takeaways from the event and how to [keep the work and conversations moving forward](/blog/srccon-power-forward/) after these two days. It's been great to see ideas flowing in for ways we can support people’s work, and a bunch of notes about takeaways that are exactly what we hoped for—including:
+With this shared grounding, we also put a lot of intention into helping folks think about takeaways from the event and how to [keep the work and conversations moving forward](https://opennews.org/blog/srccon-power-forward/) after these two days. It's been great to see ideas flowing in for ways we can support people’s work, and a bunch of notes about takeaways that are exactly what we hoped for—including:
 
 - "There is a community in journalism that wants to reform power structures and it makes me feel heard and safe."
 - "Some strong connections with others in the industry I hadn't gotten to know before, a plan for a write-up and a personal sense of obligation to use my own power more often!"
@@ -35,7 +35,7 @@ In addition to feedback from our anonymous attendee survey, several attendees to
 - "Lots of meaningful discussions and so many ideas to bring back to @Reveal." - [@achabel](https://twitter.com/achabel/status/1074135669411319808)
 - "Thank you for making #srcconpower amazing. I’m bringing your values and spirit home with me." - [@wmariano](https://twitter.com/wmariano/status/1073722976409915393)
 - "thank you @erika_owens @source & my new pals from #SRCCONPOWER for holding space, sharing and listening" - [@chenkx](https://twitter.com/chenkx/status/1073736012008955905)
-- "My first thought is that this was the best @SRCCON yet." - [@britrenee_](https://twitter.com/BritRenee_/status/1073938855470993410)
+- "My first thought is that this was the best @SRCCON yet." - [@britrenee\_](https://twitter.com/BritRenee_/status/1073938855470993410)
 - "Thank you @SRCCON #SRCCONPOWER for having me and feeding my soul!" - [@webjournalist](https://twitter.com/webjournalist/status/1073726973871046658)
 - "#SRCCONPOWER hands down the best conference I've ever been to. Thank you for making time & space for these conversations about power" - [@mandicai](https://twitter.com/MandiCai/status/1073710645734985728)
 - "So inspired by the people I met at #SRCCONPOWER and also renewed in my energy around transforming journalism." - [@LewisPants](https://twitter.com/LewisPants/status/1073701372598632450)

@@ -4,6 +4,7 @@ title: Meet the 2013 Knight-Mozilla Fellows
 section: fellowships
 sub-section: fellows_2013
 ---
+
 <p class="bodybig">Our 2013 Fellows are spread across the globe, building innovative new approaches to news at the New York Times, the BBC, the Guardian, Zeit Online, Spiegel Online, the Boston Globe, ProPublica and La Nacion. Not simply talented developers and technologists, they are also emerging as members the next generation of thought leaders in journalism.</p>
 <ul class="fellowslist">
 <li><a href="#brian">Brian Abelson </a>
@@ -24,7 +25,7 @@ Brian Abelson is a statistician, journalist, and hacker. He lives in New York an
 <img src="/media/img/fellows/manuel.jpg" class="meet" alt="">
 <h3 id="manuel">Manuel Aristarán | La Nacion</h3>
 
-Manuel Aristarán is a coder-slash-musician. He's worked on big websites, recommendation engines, logistics and provisioning systems, public data tools and satellite ground station software...all while still trying to play bass and get good music gigs. In 2010, he independently developed <a href="http://www.GastoPublicoBahiense.org">GastoPublicoBahiense.org</a>, a tool to browse, visualize, and open the expenditure data published by the municipality of Bahía Blanca, Argentina, his hometown.
+Manuel Aristarán is a coder-slash-musician. He's worked on big websites, recommendation engines, logistics and provisioning systems, public data tools and satellite ground station software...all while still trying to play bass and get good music gigs. In 2010, he independently developed <a href="https://www.GastoPublicoBahiense.org">GastoPublicoBahiense.org</a>, a tool to browse, visualize, and open the expenditure data published by the municipality of Bahía Blanca, Argentina, his hometown.
 
 <img src="/media/img/fellows/annabel.jpg" class="meet" alt="">
 <h3 id="annabel">Annabel Church | Zeit Online</h3>
@@ -34,12 +35,12 @@ Annabel Church is a web developer who has worked in a variety of digital media a
 <img src="/media/img/fellows/stijn.jpg" class="meet" alt="">
 <h3 id="stijn">Stijn Debrouwere | the Guardian</h3>
 
-Stijn Debrouwere is a technologist trying to figure out how we can innovate our way out of the news industry's crisis. In his work as a freelancer and media consultant, he thinks about how information gets created and stored, how it travels around, and how to meaningfully present all that information to users. His work fits somewhere in between UX design, software architecture, taxonomy, and process management. He writes a blog about the future of news at <a href="http://stdout.be">stdout.be</a>.
+Stijn Debrouwere is a technologist trying to figure out how we can innovate our way out of the news industry's crisis. In his work as a freelancer and media consultant, he thinks about how information gets created and stored, how it travels around, and how to meaningfully present all that information to users. His work fits somewhere in between UX design, software architecture, taxonomy, and process management. He writes a blog about the future of news at <a href="https://stdout.be">stdout.be</a>.
 
 <img src="/media/img/fellows/friedrich.jpg" class="meet" alt="">
 <h3 id="friedrich">Friedrich Lindenberg | Spiegel Online</h3>
 
-Friedrich Lindenberg is a media scientist turned coder working on open government and transparency initiatives. As a developer and evangelist for the Open Knowledge Foundation, he works on  OpenSpending, a platform that aims to make government finance more accessible to citizens around the world. He has also been involved in training journalists to use data and advocating for open government data. Before joining the OKF, Friedrich worked on Adhocracy, a collaborative policy drafting software, now used by a commission of the German parliament and several political organizations.
+Friedrich Lindenberg is a media scientist turned coder working on open government and transparency initiatives. As a developer and evangelist for the Open Knowledge Foundation, he works on OpenSpending, a platform that aims to make government finance more accessible to citizens around the world. He has also been involved in training journalists to use data and advocating for open government data. Before joining the OKF, Friedrich worked on Adhocracy, a collaborative policy drafting software, now used by a commission of the German parliament and several political organizations.
 
 <img src="/media/img/fellows/sonya.jpg" class="meet" alt="">
 <h3 id="sonya">Sonya Song | Boston Globe</h3>
@@ -54,4 +55,4 @@ Mike Tigas is a web developer who currently works at the Spokesman-Review in Spo
 <img src="/media/img/fellows/noah.jpg" class="meet" alt="">
 <h3 id="noah">Noah Veltman | BBC</h3>
 
-Noah Veltman created his first website when he was 12 years old; it had an animated background, a MIDI soundtrack, and lots of ```<blink>``` tags. He's been creating visualizations, tools, and games for the web ever since, with a focus on making sense out of complex data. He has worked as a web developer, UI designer, and product manager for a variety of Silicon Valley startups, and previously worked with leading tech policy organizations on issues such as online privacy, free speech, and net neutrality.
+Noah Veltman created his first website when he was 12 years old; it had an animated background, a MIDI soundtrack, and lots of `<blink>` tags. He's been creating visualizations, tools, and games for the web ever since, with a focus on making sense out of complex data. He has worked as a web developer, UI designer, and product manager for a variety of Silicon Valley startups, and previously worked with leading tech policy organizations on issues such as online privacy, free speech, and net neutrality.

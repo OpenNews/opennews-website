@@ -5,11 +5,10 @@ date: 2023-11-15 8:00
 author: The OpenNews Team
 tags: OpenNews
 excerpt: When we get together with care and intention, the relationships that emerge help us start to see possibilities for a better future.
-
 ---
 
 <img src="/media/img/blog/srccon_2023_looking_ahead.jpg" style="width: 100%;" alt="A facilitator listens to participant discussion during a session at SRCCON 2023.">
-<p class="caption" style="margin-top: -15px; text-align: left;">One of the many, many moments where we got to listen to and learn from each other at SRCCON 2023. (Photo by <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption" style="margin-top: -15px; text-align: left;">One of the many, many moments where we got to listen to and learn from each other at SRCCON 2023. (Photo by <a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 As SRCCON 2023 ended, we could sense how many of you wanted to keep going by how many of you stuck around to keep talking with each other after our closing remarks. We sensed it in your post-SRCCON feedback, which often praised the opportunities to connect at the conference while looking for more. That’s one thing that doesn't change about SRCCON whether it's virtual or in person: doing our best to meet the need for connection.
 
@@ -29,21 +28,21 @@ Our 10 social sessions on Tuesday night were people-first too: We got outside fo
 
 Creating that space to talk about journalism _and_ build friendships only works when the SRCCON audience includes the entire community. We came together from all sorts of places and backgrounds, and from very small organizations, very large organizations, and everything in between. Among our session facilitators this year:
 
-* More than 40% were people of color
-* Nearly two-thirds were women
-* Almost half were leading a SRCCON session for the first time
+- More than 40% were people of color
+- Nearly two-thirds were women
+- Almost half were leading a SRCCON session for the first time
 
 And across all participants in 2023:
 
-* More than 35% were people of color
-* Almost 60% were women
-* 60% were at their first in-person SRCCON, and nearly half were at the first SRCCON of any kind!
+- More than 35% were people of color
+- Almost 60% were women
+- 60% were at their first in-person SRCCON, and nearly half were at the first SRCCON of any kind!
 
 ## What you told us
 
-* "I really really loved this conference — I’ve been telling loads of people about it since coming home. This was my first SRCCON. The whole thing worked so well … the downtimes, the name-only badges, the required masking (thank you for making it not have to be a decision), the interactive nature of the sessions, the thoughtfulness of the program as a whole, the welcoming feel of the whole thing."
-* "I authentically connected with more than 15 people and at least 5 of them I plan to follow up with — for me, that felt like a ton! I really appreciate how the small-group discussions facilitate connection. At this point in my career (the middle) I want to talk to other journalists about problems more than I need to hear lessons from a speaker."
-* "You didn’t just say you cared about everyone there, you SHOWED it and demonstrated it. The attention to detail and how you thought of small ways of making it more welcoming for everyone… each of those decisions was noticed and appreciated. That was the best part for me."
+- "I really really loved this conference — I’ve been telling loads of people about it since coming home. This was my first SRCCON. The whole thing worked so well … the downtimes, the name-only badges, the required masking (thank you for making it not have to be a decision), the interactive nature of the sessions, the thoughtfulness of the program as a whole, the welcoming feel of the whole thing."
+- "I authentically connected with more than 15 people and at least 5 of them I plan to follow up with — for me, that felt like a ton! I really appreciate how the small-group discussions facilitate connection. At this point in my career (the middle) I want to talk to other journalists about problems more than I need to hear lessons from a speaker."
+- "You didn’t just say you cared about everyone there, you SHOWED it and demonstrated it. The attention to detail and how you thought of small ways of making it more welcoming for everyone… each of those decisions was noticed and appreciated. That was the best part for me."
 
 ## What we're taking away
 

@@ -2,12 +2,12 @@
 layout: post_notitle
 title: Event Support
 section: what we do
-
 ---
-<img src="/media/img/hackdays.jpg" class="topline">
+
+<img src="/media/img/hackdays.jpg" class="topline" alt="Hackdays attendees">
 <p class="caption">Conversing at the Chicago Crime Hack Day (photo/Daniel X O'Neil)</p>
 <h2>{{ page.title }}</h2>
-<p class="bodybig">From 2012-2016, we sponsored over 100 journalism hack days and events around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more.</p> 
+<p class="bodybig">From 2012-2016, we sponsored over 100 journalism hack days and events around the world where journalists and developers have worked with data from censuses, elections, campaign finance, and more.</p>
 
 We no longer offer event sponsorships, but instead created a [travel scholarship program](/what/community/scholarships) for participants to attend events. If you have other ideas about ways to collaborate on events, feel free [to reach out](mailto:erika@opennews.org).</p>
 
@@ -34,7 +34,7 @@ That's it! You want to hack, we want to help.
 
 Some projects that got their start at hack days or via project sponsorships include:
 <ul class="fellowcode">
-<li><a href="http://www.civomega.com/" class="fellowhack">CivOmega</a>: Project allowing people to ask questions of legislative data and was recently awarded a Sunlight Foundation OpenGov Grant.</li>
+<li><a href="https://www.civomega.com/" class="fellowhack">CivOmega</a>: Project allowing people to ask questions of legislative data and was recently awarded a Sunlight Foundation OpenGov Grant.</li>
 <li><a href="http://hackdash.org/" class="fellowhack">HackDash</a>: A tool for organizing hackathon projects originally developed at the 2012 Hacks/Hackers Buenos Aires Media Party.</li>
 <li><a href="http://newsdiffs.org/" class="fellowhack">NewsDiffs</a>: Tool for tracking and archiving changes to articles on five major news sites.</li>
 <li><a href="http://treasury.io/" class="fellowhack">Treasury.io</a>: Tool developed by the CSV Soundsystem hacker team, which includes 2013 Knight-Mozilla Fellow Brian Abelson, to help track the US government's virtual checkbook.</li>

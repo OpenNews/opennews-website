@@ -6,6 +6,7 @@ section: what we do
 
 <img src="/media/img/scholarships_2023.jpg" class="topline"
 alt="Journalists gather at a conference event, smiling and conversing in a bright, welcoming indoor space. The image conveys a sense of community, connection, and professional camaraderie among attendees.">
+
 <p class="caption">Events can help you build relationships with other journalists. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 # {{ page.title }}
@@ -14,8 +15,8 @@ OpenNews can help you pay for events and programs that develop your work as a jo
 
 **Key things to know:**
 
-* These scholarships are for U.S.-based journalists, especially those working with data, tech or code. This program is one way we can help people in those roles build skills and connections to make their newsrooms more equitable and just.
-* This program is designed to do two things: help you expand your comfort zone and strengthen your support network of colleagues and peers.
+- These scholarships are for U.S.-based journalists, especially those working with data, tech or code. This program is one way we can help people in those roles build skills and connections to make their newsrooms more equitable and just.
+- This program is designed to do two things: help you expand your comfort zone and strengthen your support network of colleagues and peers.
 
 We're excited to hear about the event or program you want to be part of. Most importantly, what we want to know most is **_why_ you want to be there and _how_ you plan to use and share what you learn.**
 
@@ -23,17 +24,17 @@ We're excited to hear about the event or program you want to be part of. Most im
 
 Applications are closed for 2026.
 
-If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](http://eepurl.com/czSVTL) is a great way to stay up-to-date.
+If you'd like to get notifications about key dates in this program, such as the next time applications are open, [our newsletter](https://eepurl.com/czSVTL) is a great way to stay up-to-date.
 
 ## What this program offers
 
-* $250 and $500 stipends, depending on the cost of the program you'd like to attend.
-* Connections with other people, resources, and opportunities related to your work.
+- $250 and $500 stipends, depending on the cost of the program you'd like to attend.
+- Connections with other people, resources, and opportunities related to your work.
 
 ## What we ask of you
 
-* Tell us how your program went! We'll send you a short follow-up survey, and we'll also be excited to check out anything you write or build.
-* After your program, get together with a friend or colleague and share something cool you learned, or something they'd appreciate about the experience.
+- Tell us how your program went! We'll send you a short follow-up survey, and we'll also be excited to check out anything you write or build.
+- After your program, get together with a friend or colleague and share something cool you learned, or something they'd appreciate about the experience.
 
 ## Why we give out these stipends
 
@@ -43,8 +44,8 @@ We love to help people participate in programs where they share something they'v
 
 ## Who should apply
 
-* U.S.-based journalists, especially those who work or have worked in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
-* People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism, technology and leadership are strongly encouraged to apply.
+- U.S.-based journalists, especially those who work or have worked in data or code: developers, designers, reporters, editors, product thinkers, and newsroom allies. We want to see more people in these roles pushing for change in their newsrooms and helping them better reflect our communities.
+- People of color, women, journalists from local and regional news organizations, and other underrepresented groups in journalism, technology and leadership are strongly encouraged to apply.
 
 ## What happens after you apply
 

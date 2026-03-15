@@ -9,8 +9,8 @@ published: true
 ---
 
 <img src="/media/img/blog/srccon-2019-themes.jpg" style="width: 100%;"  alt="Session participants exchange ideas at SRCCON 2018"> 
-<p class="caption" style="margin-top: 5px;">So much learning at SRCCON happens as we listen to peers. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)
-</p> 
+<p class="caption" style="margin-top: 5px;">So much learning at SRCCON happens as we listen to peers. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)
+</p>
 
 There are a few things [we can count on at every SRCCON](https://opennews.org/blog/srccon-different-leadership/): People who just met for the first time, working together with purpose. Leftover post-it notes hinting at amazing conversations from the session before. Phones and laptops that never seem to turn on, as people stay in the moment together.
 
@@ -24,9 +24,9 @@ The process [gives us a chance to listen](https://opennews.org/blog/srccon-sessi
 
 **How do we ensure our relationships with communities are healthy and ethical?** This is a movement in journalism, and SRCCON 2019 gets to build on [research into sharing power](https://membershippuzzle.org/articles-overview/redistributing-power), guidelines on [engaging with an audience](https://www.citybureau.org/notebook/2019/6/18/introducing-city-bureaus-community-engagement-guidelines), and projects emerging from events like [People Powered Publishing](https://www.ilhumanities.org/program/people-powered-publishing-conference/). We'll be talking about strategies for doing journalism _with_ communities who rely on our work.
 
-**We’re living in 2019, as journalists and as people.** The census and elections are coming, and we need to decide now how to provide true public service in 2020. We also need to be honest with ourselves about what it means to do this work in hard times, and find ways to support and sustain one another through 2020 and beyond. 
+**We’re living in 2019, as journalists and as people.** The census and elections are coming, and we need to decide now how to provide true public service in 2020. We also need to be honest with ourselves about what it means to do this work in hard times, and find ways to support and sustain one another through 2020 and beyond.
 
-**Learning from each other is an art, and this community is _good_ at it.** Participatory sessions are effective when peers open up their process to each other in descriptive, not prescriptive ways. Throughout SRCCON we’ll take techniques that are already working somewhere and imagine how to apply them more widely. We’ll trade teaching strategies too—and as a companion to sessions, this year we're excited to launch a toolkit developed by [Emma Carew Grovum](https://twitter.com/emmacarew/) for taking what you learn in Minneapolis home to your newsroom. 
+**Learning from each other is an art, and this community is _good_ at it.** Participatory sessions are effective when peers open up their process to each other in descriptive, not prescriptive ways. Throughout SRCCON we’ll take techniques that are already working somewhere and imagine how to apply them more widely. We’ll trade teaching strategies too—and as a companion to sessions, this year we're excited to launch a toolkit developed by [Emma Carew Grovum](https://twitter.com/emmacarew/) for taking what you learn in Minneapolis home to your newsroom.
 
 ## A program with room to make connections
 

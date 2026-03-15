@@ -4,8 +4,8 @@ title: DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
 excerpt: OpenNews and 100+ members of the journalism community co-created a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry.
 image: /media/img/dei-coalition/dei-card-A1.png
-
 ---
+
 <style>
   article h2 {
     font-size: 2em;
@@ -164,18 +164,16 @@ image: /media/img/dei-coalition/dei-card-A1.png
 
 <p class="bodybig">In March 2021, OpenNews and over 100 members of the journalism community launched the DEI Coalition Slack, a digital community space dedicated to sharing knowledge and taking concrete action in service of a more anti-racist, equitable and just journalism industry. Since then, the Slack has grown to more than 1000 members, who use this shared community space to tackle challenging conversations, create new resources, equip themselves to be better allies and advocates, and together, change newsroom policies, systems, and culture for the better.</p>
 
-<p class="button first"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png">Join the DEI Coalition Slack</a></p>
+<p class="button first"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png" alt="DEI Coalition logo">Join the DEI Coalition Slack</a></p>
 
-<p class="button blue"><a href="https://source.opennews.org/guides/dei-coalition/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-blue.png">Our Public Resources</a></p>
+<p class="button blue"><a href="https://source.opennews.org/guides/dei-coalition/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-blue.png" alt="DEI Coalition Slack icon">Our Public Resources</a></p>
 
 Membership for the DEI Coalition Slack community space is free, and if you identify as a journalist, work in the journalism industry, and/or work in a space that directly supports journalism, you’re eligible to join.
-
 
 <h3>Private Channels</h3>
 The DEI Coalition Slack includes channels for everyone — dedicated to conversations around anything from power to compensation equity to allyship— as well as private channels just for coalition members in staff and management roles. We acknowledge that different roles in organizations come with different challenges and different ways to create change. These private staff-only or manager-only channels serve as a way for people in similar positions of power to learn from each other’s actions and strategies. Our page on [joining the coalition](/what/community/dei-coalition/join/) explains how to decide which private channels to apply for, and what the main conversations in each set of private channels will be about.
 
-
-<p class="button"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png">Join the DEI Coalition Slack</a></p>
+<p class="button"><a href="/what/community/dei-coalition/join/"><img class="slack-icon" src="/media/img/dei-coalition/dei-slack-icon-10.png" alt="DEI Coalition Slack icon">Join the DEI Coalition Slack</a></p>
 
 <h3>Find out more</h3>
 <p class="bodybig">
@@ -188,7 +186,7 @@ The DEI Coalition Slack includes channels for everyone — dedicated to conversa
 
 In July 2020, OpenNews first [announced](https://opennews.org/blog/dei-coalition-announcement/) the DEI Coalition at [SRCCON](https://2020.srccon.org/), our annual journalism conference. The core of the DEI Coalition project was to co-create with the community a digital space focused on creating anti-racist, equitable, and just newsrooms. Within a week, over 100 people had signed up to volunteer their time, perspective, and expertise, in service of creating this space.
 
-Every part of the DEI Coalition Slack space — from the application process to the community agreements to  the member guide — were all created collaboratively by volunteers who worked together for six months.  
+Every part of the DEI Coalition Slack space — from the application process to the community agreements to the member guide — were all created collaboratively by volunteers who worked together for six months.
 
 Volunteers served on four main committees, each tackling different questions to help us ensure both spaces are as safe as possible, and serve the community's goals.
 

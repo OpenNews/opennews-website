@@ -5,26 +5,29 @@ date: 2017-12-05 12:05
 author: Erika Owens
 tags: newsnerdsurvey
 excerpt: We’re excited to share the results from a survey of 756 folks who work in journalism technology. Their answers help us understand who are we, how do we learn and support one another, and where do we go next?
-
 ---
+
 <img src="/media/img/survey-announcement.jpg" style="width: 100%;">
-<p class="caption" style="margin-top: 5px;">Thanks so much to those of you who raised your hand and shared your experience in this survey. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption" style="margin-top: 5px;">Thanks so much to those of you who raised your hand and shared your experience in this survey. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 The 2017 News Nerd Survey helps us build a clearer picture of who is part of the journalism tech community and what we can do to support each other in our work. We heard from 756 news nerds from 192 organizations. Last year, we conducted the [first-ever news nerd survey](/blog/news-nerd-survey/) to help build baseline understanding of who is in this community, what we need, and how we can support one another. The responses were so helpful, we decided to make it an annual event, and this year we heard from 47% more respondents than last year—it seems you are just as curious as we are about how we work together in journalism tech!
 
-The News Nerd Survey was made possible by the support of Google News Lab and the contributions of a community advisory group including Soo Oh, John S. Knight Fellow; Jennifer Lee, Google News Lab; and Liam Andrew, The Texas Tribune. Again, the research firm Network Impact designed the survey and cleaned, coded, and analyzed the data. We also got support from Google News Lab, which [built this interactive to explore the data](/projects/2017-newsnerd-survey/). 
+The News Nerd Survey was made possible by the support of Google News Lab and the contributions of a community advisory group including Soo Oh, John S. Knight Fellow; Jennifer Lee, Google News Lab; and Liam Andrew, The Texas Tribune. Again, the research firm Network Impact designed the survey and cleaned, coded, and analyzed the data. We also got support from Google News Lab, which [built this interactive to explore the data](/projects/2017-newsnerd-survey/).
 
 ## Let’s get to the data
+
 You probably want to dive right into the data yourself! We've got a few different opportunities for you to check out the data this time:
 
-* [Data visualization and analysis from Polygraph and Google News Lab](/projects/2017-newsnerd-survey/)
-* [Analysis of the salary-related data from Soo](/blog/salaries-2017-survey/)
-* [The data itself](https://drive.google.com/open?id=1hBmHTQGo0dAXZqEd3qWk4lz3kwKnQKhVWAqPzSHfWFs), and an [overview of the findings from Network Impact](https://drive.google.com/open?id=1tICCNq5B6CzoPMURWmWdX4s6cUBcS2WB)
+- [Data visualization and analysis from Polygraph and Google News Lab](/projects/2017-newsnerd-survey/)
+- [Analysis of the salary-related data from Soo](/blog/salaries-2017-survey/)
+- [The data itself](https://drive.google.com/open?id=1hBmHTQGo0dAXZqEd3qWk4lz3kwKnQKhVWAqPzSHfWFs), and an [overview of the findings from Network Impact](https://drive.google.com/open?id=1tICCNq5B6CzoPMURWmWdX4s6cUBcS2WB)
 
 Thank you to all of the respondents for sharing feedback on so much related to their career, background, current work, and hopes for the future. We are so grateful to get to spend time with this data and share it back with you for application in your work.
 
 ## Themes and possible next steps
-We found a lot that intrigued us in the survey, and encourage you to dig in and explore the data as well. Last year, Brian Hamman, who co-designed the first survey with us, [pointed out how](http://www.niemanlab.org/2017/03/a-new-opennews-survey-creates-a-baseline-for-what-we-can-do-to-broaden-the-news-nerd-community/) “There’s not a clear career path for where to go next” for folks in this community. Again this year, the survey reveals that truth, but we're also seeing hints of where that trajectory might be.
+
+We found a lot that intrigued us in the survey, and encourage you to dig in and explore the data as well. Last year, Brian Hamman, who co-designed the first survey with us, [pointed out how](https://www.niemanlab.org/2017/03/a-new-opennews-survey-creates-a-baseline-for-what-we-can-do-to-broaden-the-news-nerd-community/) “There’s not a clear career path for where to go next” for folks in this community. Again this year, the survey reveals that truth, but we're also seeing hints of where that trajectory might be.
+
 <p>
 <ul><li><strong>Communication and cultural challenges continue to create stumbling blocks for technical work.</strong><br>
 News nerds may be best positioned to move into the formal leadership and management roles that would help institutionalize culture change and streamline communications. News nerds are often positioned working across teams and training colleagues to help spread tech skills. They see “overload of projects” (52% of respondents), “balancing own stories verses supporting the newsroom” (50%), and a need for "editors who are qualified to supervise the work of technologists" (39%) as the biggest challenges to using technology as a core journalistic practice. Their multidisciplinary position allows them to understand the dynamics that lead to these challenges as well as provide them with the broad base of experience to be successful at solving them. <br>
@@ -54,11 +57,11 @@ Soo will continue working with the salary and career data as part of her JSK fel
 And right now, we have such a chance. For [the next two days at SRCCON:WORK](/blog/srccon-work-open), we're going to be delving into many of these themes. Several talks and sessions will involve what we've covered in the survey and participants will have a chance to use the data immediately in their sessions and conversations.
 
 ## Acknowledgements
+
 Thank you to everyone who participated in the survey. And thanks again to the whole team:
-The News Nerd Survey was organized by [OpenNews](https://opennews.org), with the guidance of a community advisory group, the survey design and development of [Network Impact](http://www.networkimpact.org/), and the support of [Google News Lab](https://newslab.withgoogle.com/).
+The News Nerd Survey was organized by [OpenNews](https://opennews.org), with the guidance of a community advisory group, the survey design and development of [Network Impact](https://www.networkimpact.org/), and the support of [Google News Lab](https://newslab.withgoogle.com/).
 
-* The community advisory group includes Soo Oh, John S. Knight Fellow; Jennifer Lee, Google News Lab; and Liam Andrew, The Texas Tribune
-* The Network Impact team includes Anne Whatley, Madeleine Taylor, Amanda Rounsaville Welsh
-* Project management from OpenNews by Erika Owens
-* The data visualization was made by [Polygraph](http://polygraph.cool/), advised by Alberto Cairo and Simon Rogers
-
+- The community advisory group includes Soo Oh, John S. Knight Fellow; Jennifer Lee, Google News Lab; and Liam Andrew, The Texas Tribune
+- The Network Impact team includes Anne Whatley, Madeleine Taylor, Amanda Rounsaville Welsh
+- Project management from OpenNews by Erika Owens
+- The data visualization was made by [Polygraph](https://polygraph.cool/), advised by Alberto Cairo and Simon Rogers

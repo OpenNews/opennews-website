@@ -5,10 +5,10 @@ date: 2017-09-06 14:00
 author: Ryan Pitts
 tags: srccon srcconwork
 excerpt: Our December conference will focus on three ways to strengthen newsrooms. Your ideas will help us build a program for the full community.
-
 ---
+
 <img src="/media/img/srccon2017-session.jpg" style="width: 100%;">
-<p class="caption" style="margin-top: 5px;">SRCCON-style collaborative, community-led sessions will be at the heart of SRCCON:WORK. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption" style="margin-top: 5px;">SRCCON-style collaborative, community-led sessions will be at the heart of SRCCON:WORK. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 We're thrilled to announce the opening of the [call for proposals for SRCCON:WORK](https://work.srccon.org), a two-day event this December that explores how we as a community can help each other take on the hard work of journalism.
 
@@ -27,4 +27,4 @@ The program at SRCCON:WORK will follow SRCCON's peer-driven approach, with colla
 
 We also want this event to be a place where work starts, not ends, and we’ll be looking for opportunities to support facilitators in sharing new resources and continuing conversations once SRCCON:WORK is over. We’re excited to hear about the outcomes you want to see from your session.
 
-Our [call for proposals](https://work.srccon.org/sessions/proposals/pitch/) closes at midnight Eastern time on Monday, September 18. We'll have a lot more to share later this month about the participant experience at SRCCON:WORK, and we plan to announce our conference program the first week of October. We hope you’ll [keep in touch](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc), and help us make this the kind of event that renews the energy and resolve we need for an inclusive, representative, and responsive journalism community.
+Our [call for proposals](https://work.srccon.org/sessions/proposals/pitch/) closes at midnight Eastern time on Monday, September 18. We'll have a lot more to share later this month about the participant experience at SRCCON:WORK, and we plan to announce our conference program the first week of October. We hope you’ll [keep in touch](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc), and help us make this the kind of event that renews the energy and resolve we need for an inclusive, representative, and responsive journalism community.

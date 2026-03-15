@@ -3,11 +3,10 @@ layout: post_notitle
 title: Peer data review&#58; Get feedback about your data stories
 section: what we do
 image: /media/img/peer_data_review.jpg
-
 ---
-<img src="/media/img/peer_data_review.jpg" class="topline">
-<p class="caption">Sign up to review your data project with a peer coach. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
+<img src="/media/img/peer_data_review.jpg" class="topline" alt="Attendees signing up for peer data review" />
+<p class="caption">Sign up to review your data project with a peer coach. (photo: <a href="https://creativecommons.org/licenses/by/3.0/us/">Alyson McClaran for Colorado Media Project</a>)</p>
 
 <blockquote><em><strong>NOTE:</strong> The Peer Data Review program is no longer active. We loved being able to organize it, and wanted to keep this page available for reference. Thank you to everyone who coached and participated!</em></blockquote>
 
@@ -49,14 +48,14 @@ This program is one of the ways we're building sustainable frameworks for peer s
 
 This is for journalists who:
 
-* are part of a local or regional newsroom,
-* come from an underrepresented background in data journalism,
-* or otherwise don't have many colleagues who do data journalism
+- are part of a local or regional newsroom,
+- come from an underrepresented background in data journalism,
+- or otherwise don't have many colleagues who do data journalism
 
 And it's for projects where you:
 
-* already have data but aren't sure what to do next,
-* or have the data and think you've got the story too, and would really like to verify that your analysis is correct
+- already have data but aren't sure what to do next,
+- or have the data and think you've got the story too, and would really like to verify that your analysis is correct
 
 ### When can I apply?
 
@@ -74,7 +73,7 @@ Our volunteer coaches come from a variety of backgrounds, disciplines, and sizes
 
 No, we have a [privacy agreement](#agreement) in place, and all sessions are one-on-one.
 
-### How much time will this take? 
+### How much time will this take?
 
 We anticipate a couple hours spread across emails and/or calls, based on what works best for your project and the questions you have.
 
@@ -82,8 +81,8 @@ We anticipate a couple hours spread across emails and/or calls, based on what wo
 
 This program is not:
 
-* A place to ask "where can I find data for a story I want to do?"
-* A place to find a reporter/developer/editor to share a project with.
+- A place to ask "where can I find data for a story I want to do?"
+- A place to find a reporter/developer/editor to share a project with.
 
 These are fantastic goals, and [the communities in](/what/community/hubs) the News Nerdery, Journalists of Color, and Lonely Coders Slacks are great places to find help with both! We're also excited to help you find collaborators at [OpenNews events](https://srccon.org), or by connecting you with additional [resources](https://propublica.gitbook.io/collaborative/) and [organizations](https://centerforcooperativemedia.org/) here to support your work.
 
@@ -97,12 +96,12 @@ This program will connect journalists to talk about work that's still in progres
 
 By submitting a request for help or taking part in this program as a coach, you're agreeing to participate according to these guidelines:
 
-* **Confidentiality.** No one will publicly discuss participants' or coaches' names, organizations, or work unless both parties give permission. We are 100% in favor of giving credit and celebrating people’s work, but there are many reasons why someone might want to keep their participation private. Be sure to check in with everyone involved before sharing.
-* **Credit.** There is no requirement to credit coaches or this program in any published stories. If participants want to, that’s awesome. Just make sure it’s OK with anyone who’d be named!
-* **Conflicts of interest.** If a match between participant and coach raises any conflicts of interest, these should be raised with OpenNews so we can figure out a more appropriate fit.
-* **Conduct.** Coaches will create a positive, welcoming, and inclusive experience for participants. Everyone should feel able to ask questions without worrying about criticism or judgment.
-* **Responsibility.** Coaches are rooting for participants and their organizations to tell important stories with data, and they’ll provide the best advice they can. It’s important to note that ultimately, though, coaches aren’t responsible for what participants publish.
-* **Time.** Check-ins will work best if everyone has the same expectations around time commitment. Emails, chats, video calls—each project should count on a couple hours of overall coaching time.
+- **Confidentiality.** No one will publicly discuss participants' or coaches' names, organizations, or work unless both parties give permission. We are 100% in favor of giving credit and celebrating people’s work, but there are many reasons why someone might want to keep their participation private. Be sure to check in with everyone involved before sharing.
+- **Credit.** There is no requirement to credit coaches or this program in any published stories. If participants want to, that’s awesome. Just make sure it’s OK with anyone who’d be named!
+- **Conflicts of interest.** If a match between participant and coach raises any conflicts of interest, these should be raised with OpenNews so we can figure out a more appropriate fit.
+- **Conduct.** Coaches will create a positive, welcoming, and inclusive experience for participants. Everyone should feel able to ask questions without worrying about criticism or judgment.
+- **Responsibility.** Coaches are rooting for participants and their organizations to tell important stories with data, and they’ll provide the best advice they can. It’s important to note that ultimately, though, coaches aren’t responsible for what participants publish.
+- **Time.** Check-ins will work best if everyone has the same expectations around time commitment. Emails, chats, video calls—each project should count on a couple hours of overall coaching time.
 
 These may feel a little bit formal for a program that's very explicitly an experiment, but we want to make sure people feel comfortable participating and confident that we'll protect their privacy.
 

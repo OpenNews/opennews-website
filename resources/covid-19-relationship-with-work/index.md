@@ -3,6 +3,7 @@ layout: layout_resource
 title: Rethinking our relationship with work during a pandemic
 description: A resource guide based on our shared values as a community, for teams and newsrooms adapting practices around COVID-19.
 ---
+
 <link rel="stylesheet" href="https://use.typekit.net/bmm7xbg.css">
 <style>
   h1.big-type {
