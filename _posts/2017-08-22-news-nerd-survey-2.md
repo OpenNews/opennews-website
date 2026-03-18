@@ -7,7 +7,7 @@ tags: news nerd survey
 excerpt: Our annual survey of the journalism tech community is back, with the support of Google News Lab, and we can't wait to see your responses.
 ---
 
-<img src="/media/img/blog/srccon_wall.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon_wall.jpg" style="width: 100%;" alt="Ideas wall" />
 <p class="caption" style="margin-top: 5px;">We love your feedback in both Post-it and survey form. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 Hundreds of journalists working in technology gather each year at SRCCON, NICAR, ONA, on list servs, and in Slack groups. These "news nerds," the developers, designers, editors, data analysts, and product folks who work in tech and journalism, have built vibrant online and in-person spaces to find new opportunities, build skills, and advocate for more inclusive news organizations. At OpenNews, we strengthen the connections between those spaces and create room for the technical skill building and personal self-care necessary to sustain these journalists so they can better serve their communities.

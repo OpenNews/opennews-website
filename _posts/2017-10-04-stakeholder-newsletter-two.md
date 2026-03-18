@@ -7,7 +7,7 @@ tags: stakeholdernewsletter
 excerpt: In our second stakeholder newsletter, details about SRCCON:WORK, perspective from Brittany Mayes, and looking ahead to Source's 5-year anniversary and upcoming events.
 ---
 
-<img src="/media/img/blog/brittany-srccon.jpg" style="width: 100%;">
+<img src="/media/img/blog/brittany-srccon.jpg" style="width: 100%;" alt="Brittany Mayes at SRCCON" />
 <p class="caption" style="margin-top: 5px;">Brittany Mayes, who shared a bit about her path to news nerdom, during this year's SRCCON. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 (_This is the second of a series of monthly newsletters to stakeholders providing an overview of what OpenNews has been working on and showcasing folks in the community._)
@@ -28,7 +28,7 @@ As we continue with the planning for SRCCON:WORK, we're seeking other partners a
 
 ## Perspectives from the Community
 
-[Brittany Mayes](https://brmayes.github.io/) is an Associate News Apps Developer on the NPR Visuals team, who will facilitate a session at SRCCON:WORK about the importance of internships. Brittany tells of her experience joining the news nerd community:
+[Brittany Mayes](https://web.archive.org/web/20200515000000*/https://brmayes.github.io) is an Associate News Apps Developer on the NPR Visuals team, who will facilitate a session at SRCCON:WORK about the importance of internships. Brittany tells of her experience joining the news nerd community:
 
 <blockquote>
 I am where I am because of a combination of hard work and good people. My passion started at UNC when my first journalism class happened to be a coding class; from that moment, I fell in love with code and refused to look back. From there, I was lucky to be surrounded by people who inspired me and lifted me up to be the best I could be.<br><br>
@@ -45,7 +45,7 @@ We're lucky to be able to connect with people with a passion for journalism code
 
 - This month marks the [5-year anniversary for Source](https://source.opennews.org), our website to amplify the impact of journalism code and the community of developers, designers, journalists, and editors who make it. Through hundreds of project writeups, process explanations, and code repos, journalists from around the world have shared their work and learned from one another. Next time, we'll share special anniversary features and more details about Source's influence on this community.
 
-- We're working on a cohort-driven leadership convening event for November. Many newsrooms don't reflect the communities they serve, and decision-makers often ignore suggestions from journalists of color and women that would make coverage more responsive and respectful of their communities. At this event, we'll bring together two-person teams from newsrooms to brainstorm strategies and best practices for more inclusive journalism. This event comes directly [from a workshop at SRCCON this year](https://schedule.srccon.org/#_session-privileges-allies-lab) hosted by Gabriela Rodriguez Beron and Sydette Harry.
+- We're working on a cohort-driven leadership convening event for November. Many newsrooms don't reflect the communities they serve, and decision-makers often ignore suggestions from journalists of color and women that would make coverage more responsive and respectful of their communities. At this event, we'll bring together two-person teams from newsrooms to brainstorm strategies and best practices for more inclusive journalism. This event comes directly [from a workshop at SRCCON this year](https://2017.srccon.org/sessions/#proposal-739950) hosted by Gabriela Rodriguez Beron and Sydette Harry.
 
 - At the end of the month, we're also heading back to the [Mozilla Festival](https://mozillafestival.org/). This year, we're hosting a journalism tech unconference as part of a whole week of MozFest festivities, with journalism events each day in London. Amanda Hickman will facilitate a security for journalists session that [builds from the security convening](https://source.opennews.org/articles/training-colleagues-digital-security/) we co-hosted earlier this year. We'll share the digital security training guide with you in an upcoming newsletter as well.
 

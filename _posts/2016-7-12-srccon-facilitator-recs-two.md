@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: As the SRCCON organizers reminded us, our job was to *facilitate* a session, and our topic in particular felt like it was meant to be a conversation (rather than, say, a skill-share or lesson). We had some thoughts and past experience to share, but we by no means considered ourselves experts. In a group setting, we could all learn from *each other* about ways—as individuals, as managers, as teams, as organizations—folks are dealing with burnout and job satisfaction now, and maybe devise new strategies to try in the future.
 ---
 
-<img src="/media/img/blog/srccon2015-photocredit-erik-westra-15.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon2015-photocredit-erik-westra-15.jpg" style="width: 100%;" alt="Mid-discussion at SRCCON" />
 <p class="caption" style="margin-top: 5px;">Mid-discussion at SRCCON 2015. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 For SRCCON in 2015, [Tiff Fehr](https://twitter.com/tiffehr) and I presented a session about [burnout](https://source.opennews.org/en-US/articles/surviving-news-business/).

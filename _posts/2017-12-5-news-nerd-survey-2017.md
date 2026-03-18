@@ -7,7 +7,7 @@ tags: newsnerdsurvey
 excerpt: We’re excited to share the results from a survey of 756 folks who work in journalism technology. Their answers help us understand who are we, how do we learn and support one another, and where do we go next?
 ---
 
-<img src="/media/img/survey-announcement.jpg" style="width: 100%;">
+<img src="/media/img/survey-announcement.jpg" style="width: 100%;" alt="Hands raised at a prior SRCCON" />
 <p class="caption" style="margin-top: 5px;">Thanks so much to those of you who raised your hand and shared your experience in this survey. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 The 2017 News Nerd Survey helps us build a clearer picture of who is part of the journalism tech community and what we can do to support each other in our work. We heard from 756 news nerds from 192 organizations. Last year, we conducted the [first-ever news nerd survey](/blog/news-nerd-survey/) to help build baseline understanding of who is in this community, what we need, and how we can support one another. The responses were so helpful, we decided to make it an annual event, and this year we heard from 47% more respondents than last year—it seems you are just as curious as we are about how we work together in journalism tech!

@@ -7,7 +7,7 @@ tags: srcconwork
 excerpt: We’re back in Philadelphia to double down on a culture of inclusive journalism.
 ---
 
-<img src="/media/img/srccon-work-happening.jpg" style="width: 100%;">
+<img src="/media/img/srccon-work-happening.jpg" style="width: 100%;" alt="Round-table participants at SRCCON:Work" />
 <p class="caption" style="margin-top: 5px;">Participants chatting at SRCCON 2016. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 <p>Today is the start of <a href="https://work.srccon.org">SRCCON:WORK</a>, our conference that explores how we as a community can make journalism more inclusive, representative, and responsive. Our second SRCCON of 2017, and our first to focus exclusively on the topic of changing newsroom culture, SRCCON:WORK brings 125 journalists to Philadelphia to do the work of making journalism better, together.</p>

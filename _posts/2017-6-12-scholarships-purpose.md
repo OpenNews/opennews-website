@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: Our Ticket+Travel scholarship application is open again and we wanted to tell you more about why and how we created this program.
 ---
 
-<img src="/media/img/blog/hhba2016.jpg" style="width: 100%;">
+<img src="/media/img/blog/hhba2016.jpg" style="width: 100%;" alt="Damp attendees of Hacks/Hackers Buenos Aires" />
 <p class="caption" style="margin-top: 5px;">At events like the Hacks/Hackers Buenos Aires Media Party, participants become friends so quickly that they'll even stand in the rain together for photos. (photo/ramiro c.)</p>
 
 It sometimes seems that you could go to a journalism conference every day of the year. This is not a field that lacks for opportunities to attend panels, teach at workshops, and swap notes in hallway conversations. But funds to attend conferences remain a barrier to participation for many members of the journalism-tech community.
@@ -22,11 +22,11 @@ That testimonial describes exactly why we offer this scholarship program: to hel
 
 ### Building from existing resources
 
-We drew the structure and reasoning behind this scholarship program from looking at other models. I benefitted hugely from an [event scholarship program provided by the Center for Public Interest Journalism](https://cpijournalism.org/2014/01/16/apply-now-the-2014-cpij-journalism-conference-sponsorship-program/) in Philadelphia. It supported my attendance at ONA and other community events where I learned digital skills that immediately helped my work in a small news org and allowed me to build relationships both with Philly journalists and colleagues across the country. These events also turned into defining moments in my career as I met collaborators that eventually led me to OpenNews.
+We drew the structure and reasoning behind this scholarship program from looking at other models. I benefitted hugely from an [event scholarship program provided by the Center for Public Interest Journalism](https://web.archive.org/web/20140806211533/http://cpijournalism.org/2014/01/16/apply-now-the-2014-cpij-journalism-conference-sponsorship-program/) in Philadelphia. It supported my attendance at ONA and other community events where I learned digital skills that immediately helped my work in a small news org and allowed me to build relationships both with Philly journalists and colleagues across the country. These events also turned into defining moments in my career as I met collaborators that eventually led me to OpenNews.
 
 In addition to this personal experience, I also did a survey of similar scholarship programs in the tech community, especially seeking out ones that were not related to a particular event, but open for applicants to decide what they'd like to attend. I knew that OpenNews wasn't the first to plan a scholarship program and that I could draw from the experience of other groups in developing our program.
 
-Ana Diaz Hernandez had a blog post rounding up scholarship programs for tech events that were working in diversity. I used that and searching for particular communities to find examples from [Google](https://edu.google.com/scholarships/google-travel-and-conference-grants/), [Wikimedia](https://meta.wikimedia.org/wiki/Grants:TPS), [Python](https://www.python.org/psf/grants/), and [Linux](https://www.linuxfoundation.org/programs/developer/travel).
+Ana Diaz Hernandez had a blog post rounding up scholarship programs for tech events that were working in diversity. I used that and searching for particular communities to find examples from [Google](https://edu.google.com/scholarships/google-travel-and-conference-grants/), [Wikimedia](https://meta.wikimedia.org/wiki/Grants:TPS), [Python](https://www.python.org/psf/grants/), and [Linux](https://web.archive.org/web/20160121164350/https://www.linuxfoundation.org/programs/developer/travel).
 
 These resources showed me a variety of application styles and grant or scholarship amounts and helped me narrow down a list of questions about constructing our own application and process.
 

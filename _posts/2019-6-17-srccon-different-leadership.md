@@ -34,7 +34,7 @@ With long breaks, group meals, and social activities, [there's ample opportunity
 
 Creating an inclusive space requires proactively including _everyone_, in particular people of color, people with disabilities, immigrants, and members of other marginalized groups who for generations have been leading the work for change to ensure that journalism does serve everyone. This leadership has shown that the journalism ecosystem must be diverse, inclusive, and interdependent.
 
-Lewis Wallace of Press On will be [hosting a pre-conference session](https://www.presson.media/press-on-srccon/) that will share some of this historic grounding, which will carry forward [in sessions throughout SRCCON](https://srccon.org/sessions/).
+Lewis Wallace of Press On will be [hosting a pre-conference session](https://web.archive.org/web/20250418215326/https://www.presson.media/press-on-srccon/) that will share some of this historic grounding, which will carry forward [in sessions throughout SRCCON](https://srccon.org/sessions/).
 
 SRCCON is made special by everyone who participates. Each year, our conference plan is informed by feedback from the prior year and the leadership and session proposals of community members. Your feedback helped us [create a new approach to tickets](https://srccon.org/participation/#a-new-approach-to-ticket-prices) and to create new parts of the schedule like a science fair to share about a bunch of community projects and gather your feedback about how they can better support your work.
 

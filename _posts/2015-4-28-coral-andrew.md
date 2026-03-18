@@ -9,7 +9,7 @@ excerpt: Exciting things are happening at <a href="https://twitter.com/coralproj
 
 [The Coral Project](https://www.coralproject.net) is building an open-source content and commenting platform. It will allow audiences to more deeply engage with media coverage and help news organizations everywhere better manage user comments and contributions.
 
-The project [was announced in June 2014](https://www.knightfoundation.org/press-room/press-release/mozilla-new-york-times-and-washington-post-launch-/). It is being created by a new group made up of staff from Knight-Mozilla OpenNews, The New York Times, and The Washington Post, and funded by a grant from the John S. and James L. Knight Foundation.
+The project [was announced in June 2014](https://web.archive.org/web/20140626064349/http://www.knightfoundation.org/press-room/press-release/mozilla-new-york-times-and-washington-post-launch-/). It is being created by a new group made up of staff from Knight-Mozilla OpenNews, The New York Times, and The Washington Post, and funded by a grant from the John S. and James L. Knight Foundation.
 
 Since the announcement, exciting things have been happening at the Coral Project (now tweeting [@coralproject](https://twitter.com/coralproject)), and we thought you should know about them.
 
@@ -43,7 +43,7 @@ You can follow [Francis](https://twitter.com/frnsys) and [Tara](https://twitter.
 
 ###We’re on the road
 
-In the coming months, you can catch the Coral team at several events including [Digital Journalism World](https://www.djwsummit.com/) in Singapore; the [WAN-IFRA World News Media Conference](https://www.wan-ifra.org/events/67th-world-news-media-congress-22nd-world-editors-forum-25th-world-advertising-forum) in Washington, D.C.; [Reporter-Workshop](https://www.reporter-forum.de/index.php?id=4) in Hamburg, Germany, and [SRCCON](https://srccon.org/) in Minneapolis, Minnesota. We talked about comments and community at the [International Journalism Festival](https://www.journalismfestival.com/) in Perugia, Italy, earlier this month.
+In the coming months, you can catch the Coral team at several events including [Digital Journalism World](https://web.archive.org/web/20190819012010/https://www.djwsummit.com/) in Singapore; the [WAN-IFRA World News Media Conference](https://web.archive.org/web/20160515000000*/https://www.wan-ifra.org/events/67th-world-news-media-congress-22nd-world-editors-forum-25th-world-advertising-forum) in Washington, D.C.; [Reporter-Workshop](https://archiv.reporter-forum.de/index.php%3Fid=225.html) in Hamburg, Germany, and [SRCCON](https://srccon.org/) in Minneapolis, Minnesota. We talked about comments and community at the [International Journalism Festival](https://www.journalismfestival.com/) in Perugia, Italy, earlier this month.
 
 Keep up with our travels by following [Greg Barber on Twitter](https://twitter.com/gjbarb) or [emailing him](mailto:greg.barber@washpost.com). If there is an event that you’d like us to attend, please let Greg know.
 

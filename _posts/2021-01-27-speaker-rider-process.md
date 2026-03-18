@@ -96,4 +96,4 @@ There’s lots of work still to do, but I hope this rider can be a small concret
 
 <p class="divider"></p>
 
-_Thank you all those who have pushed and continue to push for meaningfully inclusive events, including those linked in the rider and this blog post; to [Emma Carew Grovum](https://emmacarewgrovum.com/), [Lena Groeger](https://lenagroeger.com/), [S. Mitra Kalita](https://mitrakalita.com/), and [John Keefe](https://johnkeefe.net/) for providing invaluable feedback; and to our friends and colleagues for supporting this work._
+_Thank you all those who have pushed and continue to push for meaningfully inclusive events, including those linked in the rider and this blog post; to [Emma Carew Grovum](https://emmacarewgrovum.com/), [Lena Groeger](https://lenagroeger.com/), [S. Mitra Kalita](http://mitrakalita.com/), and [John Keefe](https://johnkeefe.net/) for providing invaluable feedback; and to our friends and colleagues for supporting this work._

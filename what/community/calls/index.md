@@ -42,7 +42,8 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
   <h3><span class="mw-headline" id="Call_Archives">Community Call Archives</span></h3>
   <p>We use Etherpad to take full, participatory notes during our calls.</p>
       
-  <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
+  <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls.</p>
+  <p id="details"><strong><a href="#details" class="showall more">Show full call archive</a> <a href="#details" class="showall less">Hide full call archive</a></strong></p>
 
   <ul>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-February-12-2026">February 26, 2026 call</a> on<a ref="nofollow" class="external text" href="https://source.opennews.org/articles/journalism-lost-sharing-culture/">Open source and sharing in news</a></li>

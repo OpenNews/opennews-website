@@ -12,7 +12,7 @@ Twenty six people have had the chance to become Knight-Mozilla Fellows. They've 
 
 We've asked those folks to share their experiences so you can get the details directly from the people who have been there.
 
-Livia Labate, the Knight-Mozilla Fellow at NPR, [led off this year's series of blog posts](https://livialabate.com/says/so-you-think-you-can-dance/), which each current fellow will publish over this week and next. Livia reflected on the 11 major projects she's worked on already (and can you believe it, she's only halfway through the fellowship?). She also laid out how she manages her day to day work and how she has approached her fellowship overall:
+Livia Labate, the Knight-Mozilla Fellow at NPR, [led off this year's series of blog posts](https://web.archive.org/web/20160328040419/http://livialabate.com/says/so-you-think-you-can-dance/), which each current fellow will publish over this week and next. Livia reflected on the 11 major projects she's worked on already (and can you believe it, she's only halfway through the fellowship?). She also laid out how she manages her day to day work and how she has approached her fellowship overall:
 
 <blockquote>To me, how the fellow approaches the fellowship can be seen (and planned) from these three perspectives. (I framed these as questions tso myself to make it easier to remember and answer):
 <br>Q1: What/how am I doing towards my main objective/reason for doing this?
@@ -22,9 +22,9 @@ You can use this to plan how you're going to tackle these brief 10 months as wel
 
 Livia knew that "the fellowship was the right thing at the right time" for her and how to make the most of it. She's [documented that process](https://livialabate.com/) so you can benefit from it as well.
 
-Francis Tseng, one of the fellows with [The Coral Project](https://coralproject.net/), has also [documented his work and process](https://spaceandtim.es/opennews/fellowship_status) throughout his fellowship. With Tara Adiseshan, the other fellow with The Coral Project, he has conducted research into online communities. And his research has grown from there:
+Francis Tseng, one of the fellows with [The Coral Project](https://coralproject.net/), has also [documented his work and process](https://web.archive.org/web/20161204021138/https://spaceandtim.es/opennews/fellowship_status) throughout his fellowship. With Tara Adiseshan, the other fellow with The Coral Project, he has conducted research into online communities. And his research has grown from there:
 
-<blockquote>A huge part of the fellowship is <em>learning</em>, which is something I love but have had to carve out my own time for. Here, it's part of the package. I've had ample opportunity to really dig into the sprawling landscape of machine learning and AI (<a href="https://spaceandtim.es/assets/stuff/mlai.pdf">my in-progress notes are here</a>), something I've long wanted to do but never had the space for.
+<blockquote>A huge part of the fellowship is <em>learning</em>, which is something I love but have had to carve out my own time for. Here, it's part of the package. I've had ample opportunity to really dig into the sprawling landscape of machine learning and AI (<a href="https://web.archive.org/web/20160801000000*/%20https://spaceandtim.es/assets/stuff/mlai.pdf">my in-progress notes are here</a>), something I've long wanted to do but never had the space for.
 <br>
 The applications for the 2016 fellowship are open, and I encourage you to apply. Rub shoulders with fantastic and talented folks from a variety of backgrounds. Pursue the questions that conventional employment prohibits you from. Explore topics and skills you've never had time for. It's really what you make of it. At the very least, it's a unique opportunity to be deliberate about where your work takes you.</blockquote>
 

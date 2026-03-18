@@ -25,7 +25,7 @@ Brian Abelson is a statistician, journalist, and hacker. He lives in New York an
 <img src="/media/img/fellows/manuel.jpg" class="meet" alt="">
 <h3 id="manuel">Manuel Aristarán | La Nacion</h3>
 
-Manuel Aristarán is a coder-slash-musician. He's worked on big websites, recommendation engines, logistics and provisioning systems, public data tools and satellite ground station software...all while still trying to play bass and get good music gigs. In 2010, he independently developed <a href="https://www.GastoPublicoBahiense.org">GastoPublicoBahiense.org</a>, a tool to browse, visualize, and open the expenditure data published by the municipality of Bahía Blanca, Argentina, his hometown.
+Manuel Aristarán is a coder-slash-musician. He's worked on big websites, recommendation engines, logistics and provisioning systems, public data tools and satellite ground station software...all while still trying to play bass and get good music gigs. In 2010, he independently developed <a href="https://web.archive.org/web/20161012014117/https://www.gastopublicobahiense.org/">GastoPublicoBahiense.org</a>, a tool to browse, visualize, and open the expenditure data published by the municipality of Bahía Blanca, Argentina, his hometown.
 
 <img src="/media/img/fellows/annabel.jpg" class="meet" alt="">
 <h3 id="annabel">Annabel Church | Zeit Online</h3>

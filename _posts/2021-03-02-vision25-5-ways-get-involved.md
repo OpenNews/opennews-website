@@ -63,7 +63,7 @@ Over the last several months, over 100 community volunteers have worked to creat
 
 The **#ONAinfoequity** database provides resources for journalists to engage communities that are historically under- or misrepresented in the media and ensure equitable access to information. Free Press’ Vanessa Maria Graber and ONA Board member Anita Li led over a dozen journalists to collaborate on this project through an ONA Community Circle. It’s a one-stop shop with guidance for identifying gaps in information access, making the case for community engagement to newsroom leadership and discovering ways to improve existing efforts.
 
-<p class="button"><a href="https://journalists.org/resources/information-equity-database/">👉 Explore and share the #ONAinfoequity database</a></p>
+<p class="button"><a href="https://web.archive.org/web/20251015115328/https://journalists.org/resources/information-equity-database//">👉 Explore and share the #ONAinfoequity database</a></p>
 
 ### Support Vision25
 

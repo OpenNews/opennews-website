@@ -7,7 +7,7 @@ tags: srccon srcconwork
 excerpt: Our December conference will focus on three ways to strengthen newsrooms. Your ideas will help us build a program for the full community.
 ---
 
-<img src="/media/img/srccon2017-session.jpg" style="width: 100%;">
+<img src="/media/img/srccon2017-session.jpg" style="width: 100%;" alt="Community session focal point" />
 <p class="caption" style="margin-top: 5px;">SRCCON-style collaborative, community-led sessions will be at the heart of SRCCON:WORK. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 We're thrilled to announce the opening of the [call for proposals for SRCCON:WORK](https://work.srccon.org), a two-day event this December that explores how we as a community can help each other take on the hard work of journalism.

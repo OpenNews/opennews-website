@@ -53,7 +53,7 @@ The selection process was extremely challenging: We got 126 session proposals an
 
 We split up the actual review process into a few stages. All OpenNews staff did a first pass, logging impressions and doing a first ranking. At the same time, we invited a small number of community numbers to review the sessions and share their five favorite sessions. We selected this group to represent a range of different backgrounds and types of news organizations.
 
-Ryan Pitts and I then did a more granular review. Testing the limits of our understanding of [Screendoor](https://www.dobt.co/screendoor/), the submission system we use, we tagged sessions for topic area, style, and ranking by the community reviewers, and we diligently got to a list of sessions to suggest we accept. We discussed those recommendations again as a staff and came up with a list of accepted sessions, including a few mergers and a small list of sessions we were still thinking about how to involve outside of the official schedule.
+Ryan Pitts and I then did a more granular review. Testing the limits of our understanding of Screendoor, the submission system we use, we tagged sessions for topic area, style, and ranking by the community reviewers, and we diligently got to a list of sessions to suggest we accept. We discussed those recommendations again as a staff and came up with a list of accepted sessions, including a few mergers and a small list of sessions we were still thinking about how to involve outside of the official schedule.
 
 In the end, we crafted a mix of hands-on and discussion-oriented sessions. Our schedule covered both culture and code, a range of different topics, and a list of sessions that showcased the brilliance of 70 community members.
 

@@ -1,5 +1,5 @@
 ---
-layout: layout_resource
+layout: layout_new
 title: Rethinking our relationship with work during a pandemic
 description: A resource guide based on our shared values as a community, for teams and newsrooms adapting practices around COVID-19.
 ---
@@ -132,7 +132,7 @@ description: A resource guide based on our shared values as a community, for tea
 
 <ul>
   <li><a href="https://www.poynter.org/reporting-editing/2020/how-journalists-can-fight-stress-from-covering-the-coronavirus/">How journalists can fight stress from covering the coronavirus</a></li>
-  <li><a href="https://gijn.org/2020/03/24/how-journalists-can-deal-with-trauma-while-reporting-on-covid-19/">How journalists can deal with trauma while reporting on COVID&#8211;19</a></li>
+  <li><a href="https://gijn.org/stories/how-journalists-can-deal-with-trauma-while-reporting-on-covid-19/">How journalists can deal with trauma while reporting on COVID&#8211;19</a></li>
   <li><a href="https://fdafdaa5-78a3-4b52-a60c-bbc1ed5e8667.filesusr.com/ugd/d4e6d3_e6d1e88990374bd59c9de2b3b273e47f.pdf?index=true">Best ways to talk to young children about coronavirus</a></li>
   <li><a href="https://www.stayhometakecare.com/">Stay Home, Take Care</a> makes recommendations based on what you’d like to do (“I want to feel comforted,” “I want to entertain my kids,” or “I want to take care of myself”)</li>
   <li>There are lots of ways to stay active from home—<a href="https://darebee.com/">Darebee</a> and <a href="https://www.bustle.com/p/24-free-livestream-workouts-at-home-workout-app-trials-22628328">this list of free livestream workouts</a> are good places to start</li>
@@ -153,10 +153,10 @@ description: A resource guide based on our shared values as a community, for tea
 
 <ul>
   <li><a href="https://opennews.org/what/community/calls/">OpenNews community calls</a>, a bi-weekly open conference call with the news-nerd community to talk about projects, careers, and events (like <a href="https://etherpad.opennews.org/p/communitycall-Mar19">this one</a>)</li>
-  <li><a href="https://lcc-slack.herokuapp.com/">Lonely Coder&#8217;s Club Slack</a>, a community for news nerds on small teams. Channels to join: #covid&#8211;19, #remote</li>
+  <li><a href="https://web.archive.org/web/20190809044942/http://lcc-slack.herokuapp.com/">Lonely Coder&#8217;s Club Slack</a>, a community for news nerds on small teams. Channels to join: #covid&#8211;19, #remote</li>
   <li><a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, a community for journalists of color. Channels to join: #covid&#8211;19, #remote, #move, #mental-health</li>
   <li><a href="https://newsnerdery.org/">News Nerdery Slack</a>, a large journalism community for collaboration and knowledge-sharing. Channels to join: #covid&#8211;19, #remote, #selfcare</li>
-  <li><a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a>, virtual discussion groups that can connect you with others in the community</li>
+  <li><a href="https://www.journalists.org/programs#:~:text=round%20options.-,Community%20Circles,-ONA%20Community%20Circles">ONA Community Circles</a>, virtual discussion groups that can connect you with others in the community</li>
 </ul>
 
 <p class="question-section">FREELANCING</p>
@@ -164,7 +164,7 @@ description: A resource guide based on our shared values as a community, for tea
 <p class="question">As a freelance journalist, how do I navigate sudden changes affecting me <em>and</em> the organizations I work with?</p>
 
 <ul>
-  <li><a href="https://www.leapers.co/articles/2020-03-09/freelance-tips-for-coronavirus">Key things to consider if you&#8217;re freelance and worried about coronavirus</a></li>
+  <li><a href="https://web.archive.org/web/20200501123640/https://www.leapers.co/articles/2020-03-09/freelance-tips-for-coronavirus">Key things to consider if you&#8217;re freelance and worried about coronavirus</a></li>
   <li><a href="https://www.leapers.co/">Community of support: &#8220;Leapers supports the mental health of freelancers and the self-employed&#8221;</a></li>
   <li><a href="https://fortune.com/2020/04/09/freelance-coronavirus-advice-covid-19/">With work drying up, here&#8217;s how freelancers can pivot to make it through the coronavirus pandemic</a></li>
   <li><a href="https://www.poynter.org/business-work/2020/working-as-a-freelance-journalist-right-now-is-hard-but-not-impossible-heres-some-advice/">Working as a freelance journalist right now is hard but not impossible. Here&#8217;s some advice.</a></li>
@@ -186,7 +186,7 @@ description: A resource guide based on our shared values as a community, for tea
 
 <ul>
   <li><a href="https://twitter.com/chrisalbon/status/1239927980450697218">“All this is not normal” and how you’d like to handle it</a></li>
-  <li><a href="https://academy.nobl.io/going-remote-overnight-preparing-for-the-coronavirus/">Going remote overnight: Preparing for the Coronavius</a> when it comes to your policies, systems, and people.</li>
+  <li><a href="https://nobl.io/changemaker/going-remote-overnight-preparing-for-the-coronavirus/">Going remote overnight: Preparing for the Coronavius</a> when it comes to your policies, systems, and people.</li>
 </ul>
 
 <p class="question">How do I even start thinking about a plan?</p>
@@ -195,7 +195,7 @@ description: A resource guide based on our shared values as a community, for tea
   <li><a href="https://about.gitlab.com/company/culture/all-remote/remote-work-emergency-plan">“For leaders who are suddenly managing work-from-home teams, there are five things you can focus on right now to maximize stability.”</a></li>
 </ul>
 
-<p class="callout small">&rarrhk; It can be really helpful to talk this stuff through. You can find other managers and editors talking with each other about shared challenges in the <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://journalists.org/programs/community-circles/">ONA Community Circles</a>.</p>
+<p class="callout small">&rarrhk; It can be really helpful to talk this stuff through. You can find other managers and editors talking with each other about shared challenges in the <a href="https://journalistsofcolor.us/">Journalists of Color Slack</a>, <a href="https://newsnerdery.org/">News Nerdery Slack</a>, and <a href="https://web.archive.org/web/20220802233110/https://journalists.org/programs/community-circles/">ONA Community Circles</a>.</p>
 
 <p class="question-section">LEADERSHIP</p>
 
@@ -231,7 +231,7 @@ description: A resource guide based on our shared values as a community, for tea
 <p class="question">What expectations do I need to change now that my entire team works from home?</p>
 
 <ul>
-  <li><a href="https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf">Trello&#8217;s Ultimate Guide to Remote Work</a> dispels myths about remote workers and helps you set the right expectations.</li>
+  <li><a href="https://web.archive.org/web/20200411140441/https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf">Trello&#8217;s Ultimate Guide to Remote Work</a> dispels myths about remote workers and helps you set the right expectations.</li>
   <li><a href="https://zapier.com/blog/build-trust-remote-work/">How to build trust on a remote team</a></li>
 </ul>
 
@@ -240,18 +240,18 @@ description: A resource guide based on our shared values as a community, for tea
 <p class="question">Where can I find guidance on covering COVID&#8211;19 as a newsroom?</p>
 
 <ul>
-  <li><a href="https://training.npr.org/2020/04/14/during-the-pandemic-cover-those-weve-left-out/">During the pandemic, cover those we’ve left out</a> is a guide from NPR on framing coverage around our most vulnerable neighbors, people who have the fewest resources for navigating the pandemic</li>
-  <li><a href="https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
+  <li><a href="https://web.archive.org/web/20250505171844/https://training.npr.org/web/20250505171844/https://training.npr.org/2020/04/14/during-the-pandemic-cover-those-weve-left-out/">During the pandemic, cover those we’ve left out</a> is a guide from NPR on framing coverage around our most vulnerable neighbors, people who have the fewest resources for navigating the pandemic</li>
+  <li><a href="https://web.archive.org/web/20200502121228/https://covid19.ops.guide/general-guidance">The Newsroom Guide to COVID&#8211;19</a> is a wide-ranging resource created by volunteers from the journalism community</li>
   <li><a href="https://dartcenter.org/resources/covering-coronavirus-resources-journalists">Covering Coronavirus: Resources for Journalists</a> from the DART Center has tips on “covering disease, interviewing victims and survivors, and working with colleagues exposed to traumatic events”</li>
-  <li><a href="https://trello.com/b/IPF2Zyz1/gathering-covid-19-resources">The folks from Gather created a guide of guides</a>, covering everything from “Reporting Tools and Frameworks” to “Disinformation” to “Earning trust from the communities you serve.”</li>
+  <li><a href="https://web.archive.org/web/20250705021026/https://info.trello.com/hubfs/How_To_Embrace_Remote_Work_Trello_Ultimate_Guide.pdf">The folks from Gather created a guide of guides</a>, covering everything from “Reporting Tools and Frameworks” to “Disinformation” to “Earning trust from the communities you serve.”</li>
 </ul>
 
 <p class="question">Where can I find a good general guide for working from home?</p>
 
 <ul>
-  <li><a href="https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
+  <li><a href="https://web.archive.org/web/20250214125240/https://18f.gsa.gov/2015/10/15/best-practices-for-distributed-teams/">18F’s best practices for making distributed teams work</a></li>
   <li><a href="https://medium.com/better-programming/29-tips-for-very-effective-remote-managers-and-workers-3b20d897ceb3">29 tips for very effective remote managers and workers</a> is framed in a lot of thoughtful &amp; empathetic ways</li>
-  <li><a href="https://teamsuccess.io/remoteteam">Not everything on this checklist applies to newsroom teams, but it’s a nice starting point</a></li>
+  <li><a href="https://web.archive.org/web/20200312163627/https://teamsuccess.io/remoteteam">Not everything on this checklist applies to newsroom teams, but it’s a nice starting point</a></li>
   <li>From the news-nerd community
     <ul>
       <li style="list-style: none; font-style: italic;">&#8220;Remote work, for all of its challenges, can force you and your company to become more intentional, more thoughtful, and more resilient to the challenges of change.&#8221;</li>

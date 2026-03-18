@@ -25,7 +25,7 @@ Participants in the fellowship program—fellows, alumni, partner newsroom hosts
 
 Over the course of the fellowship, and since then, we have seen [that network take shape](/what/community/survey/). This approach to connection allows [journalists to learn new skills and access resources](https://source.opennews.org/articles/what-local-coders-can-tell-us-about-our-industry/), and embeds the network's values of openness and inclusion into everything that participants do.
 
-In addition to strengthening the work of technologists in journalism, the program also informed the development of [fellowships throughout the Mozilla Foundation](https://foundation.mozilla.org/en/fellowships/). Our organization [has since left Mozilla](/blog/new-opennews/), but what we learned during the fellowship about the power of cohorts continues to shape our work and how we organize events like SRCCON.
+In addition to strengthening the work of technologists in journalism, the program also informed the development of [fellowships throughout the Mozilla Foundation](https://web.archive.org/web/20190521204051/https://foundation.mozilla.org/en/fellowships/). Our organization [has since left Mozilla](/blog/new-opennews/), but what we learned during the fellowship about the power of cohorts continues to shape our work and how we organize events like SRCCON.
 
 ## Continuing the work
 

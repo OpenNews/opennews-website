@@ -7,7 +7,7 @@ tags: Fellowship
 excerpt: During the onboarding week with our new 2015 Knight-Mozilla fellows, we spent a couple days working with the California Civic Data Coalition on an open-source news app. Here's what our goals were, and here's what we learned.
 ---
 
-<img src="/media/img/blog/2015_onboarding_hackday.jpg" style="width: 100%;">
+<img src="/media/img/blog/2015_onboarding_hackday.jpg" style="width: 100%;" alt="Onboarding hack day" />
 
 Before we gathered the 2015 Knight-Mozilla OpenNews fellows for an onboarding week in Los Angeles this month, we thought a lot about the themes that run through a successful fellowship year. As a fellow, you get the time and opportunity to explore new skills and roles, you discover that collaboration has an outsized effect as you work through problems, and you make the whole community stronger when you share what you learn.
 

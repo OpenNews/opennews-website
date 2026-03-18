@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: We wanted the attendees of SRCCON to be able to focus on the conference itself—sessions, activities, and other official stuff, but also the conversations in hallways and corners that are usually a highlight of gatherings of enthusiastic colleagues. To make that possible, we tried to arrange the SRCCON schedule, space, and life-support systems to be as accommodating and supportive as possible.
 ---
 
-<img src="/media/img/blog/srccon_switches.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon_switches.jpg" style="width: 100%;" alt="Dials and switches at the Chemical Heritage Foundation" />
 <p class="caption">Dials and switches at the Chemical Heritage Foundation, home of SRCCON 2014</p>
 
 In our first year of planning [SRCCON](https://srccon.org/), we knew we wanted attendees be able to focus completely on the conference experience itself: sessions, activities, and other official stuff, but also the conversations in hallways and corners that are usually a highlight of gatherings of enthusiastic colleagues. To make that possible, we tried to arrange the SRCCON schedule, space, and life-support systems to be as accommodating and helpful as possible. And to be clear, that's not the same thing as being _fancy_. We ran the conference on a nonprofit budget, and nothing we did was geared toward luxury—instead, we tried to just handle the basics thoughtfully so that attendees could relax and enjoy the work and socializing.
@@ -46,7 +46,7 @@ In addition to holding SRCCON in a wheelchair-accessible space, we brought in a 
 
 #### Notes for Next Time
 
-This year, we are taking a big step forward on childcare and offering licensed on-site care to all SRCCON attendees in a friendly space at the conference hotel next door, for free. We'll also post meeting information for local AA chapters and other peer support groups so that it's easy to find, and we're absolutely taking the [Ada Initiative's suggestion](https://adainitiative.org/2013/07/another-way-to-attract-women-to-conferences-photography-policies/) to use color-coded lanyards to visually mark photo policy preferences.
+This year, we are taking a big step forward on childcare and offering licensed on-site care to all SRCCON attendees in a friendly space at the conference hotel next door, for free. We'll also post meeting information for local AA chapters and other peer support groups so that it's easy to find, and we're absolutely taking the [Ada Initiative's suggestion](https://web.archive.org/web/20130708014959/https://adainitiative.org/2013/07/another-way-to-attract-women-to-conferences-photography-policies/) to use color-coded lanyards to visually mark photo policy preferences.
 
 ### Onward/Upward
 

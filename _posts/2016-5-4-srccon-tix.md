@@ -7,8 +7,6 @@ tags: SRCCON
 excerpt: Ticket sales for SRCCON are coming soon and we're making some changes to how we sell them this year.
 ---
 
-<img src="https://dl.dropboxusercontent.com/u/6682410/lets-ride.gif" style="width: 100%;">
-
 When we started [SRCCON](https://srccon.org) in 2014, we were unsure how popular it would be. Journalism as an industry was pretty packed with conferences already and we had no idea if the types of journalism-code folks we were thinking about making the conference for could cram another into their schedule.
 
 Well, in 2014, we sold out SRCCON in three minutes. It sold so fast, in fact, that we thought that our ticketing system had broken.

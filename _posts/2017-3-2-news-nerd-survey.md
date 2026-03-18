@@ -11,7 +11,7 @@ published: true
 <img src="/media/img/news-nerd-brainstorm-srccon2015.jpg" style="width: 100%;" alt="SRCCON participants with plentiful post its">
 <p class="caption" style="margin-top: 5px;">SRCCON 2015 participants brainstorm topics for the news nerd survey.</p>
 
-As hundreds of members of the journalism-tech community descend on Jacksonville for the [National Institute for Computer-Assisted Reporting](https://www.ire.org/conferences/nicar2017/) conference, we wanted to share results from a recent community survey.
+As hundreds of members of the journalism-tech community descend on Jacksonville for the [National Institute for Computer-Assisted Reporting](https://web.archive.org/web/20170809002622/http://ire.org/conferences/nicar2017/schedule/) conference, we wanted to share results from a recent community survey.
 
 Affectionately referred to as “news nerds,” 514 folks who work at the intersection of journalism and technology responded to a survey last year to help us get a better sense of who we are, what the heck we call this work, and what we do. Thank you to everyone who took part in the survey--the data gathered has given us a baseline of understanding about this community, so we can hold ourselves accountable to goals on inclusion, representation, and what it takes to do amazing journalism together.
 

@@ -41,7 +41,7 @@ Team members who shaped OpenNews and have since moved on to other pursuits.
 
 ### Sisi Wei, Co-Executive Director
 
-<img src="/media/img/staff/wei.jpg" class="headshot" alt="Sisi Wei" /> Sisi Wei was Co-Executive Director of OpenNews, creating and leading initiatives to make the journalism industry more inclusive and equitable, especially for journalists of color and local journalists. Sisi [won the Gwen Ifill Award](https://opennews.org/blog/gwen-ifill-sisi-wei/) in 2021, and has won numerous journalism awards for her watchdog, design, and data work. Previously, she was the Assistant Managing Editor at ProPublica, has served as an adjunct professor at several colleges and universities, and is the co-founder of [_Code with me_](https://codewithme.us/), a nonprofit workshop that teaches journalists how to code. Sisi is the editor in chief at [The Markup](https://themarkup.org/).
+<img src="/media/img/staff/wei.jpg" class="headshot" alt="Sisi Wei" /> Sisi Wei was Co-Executive Director of OpenNews, creating and leading initiatives to make the journalism industry more inclusive and equitable, especially for journalists of color and local journalists. Sisi [won the Gwen Ifill Award](https://opennews.org/blog/gwen-ifill-sisi-wei/) in 2021, and has won numerous journalism awards for her watchdog, design, and data work. Previously, she was the Assistant Managing Editor at ProPublica, has served as an adjunct professor at several colleges and universities, and is the co-founder of [_Code with me_](https://web.archive.org/web/20190718235857/https://codewithme.us/), a nonprofit workshop that teaches journalists how to code. Sisi is the editor in chief at [The Markup](https://themarkup.org/).
 
 ### Dan Sinker, Director
 
@@ -53,7 +53,7 @@ Team members who shaped OpenNews and have since moved on to other pursuits.
 
 ### B Cordelia Yu, Program and Communications Coordinator
 
-<img src="/media/img/staff/cordelia.jpg" class="headshot" alt="B Cordelia Yu" /> B Cordelia Yu is a content & editorial strategist and independent researcher at the intersection of social justice, civic tech, public policy, and digital design. They help organizations build inclusive editorial teams and products to foster democratic communities and expanding access to communities of knowledge. Their [research](https://tinyletter.com/thebestsophist) is in creating models for open governance and technology-mediated deliberative democratic practices. They joined OpenNews for the second half of 2017.
+<img src="/media/img/staff/cordelia.jpg" class="headshot" alt="B Cordelia Yu" /> B Cordelia Yu is a content & editorial strategist and independent researcher at the intersection of social justice, civic tech, public policy, and digital design. They help organizations build inclusive editorial teams and products to foster democratic communities and expanding access to communities of knowledge. Their [research](https://web.archive.org/web/20170716133055/http://tinyletter.com/thebestsophist/archive) is in creating models for open governance and technology-mediated deliberative democratic practices. They joined OpenNews for the second half of 2017.
 
 ### Lindsay Muscato, Editor for Source
 

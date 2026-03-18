@@ -24,7 +24,7 @@ image: /media/img/blog/2020-03-30-community-care.jpg
 <p><strong>COMMUNITY PROJECTS WE&rsquo;RE SUPPORTING</strong><br/>
 <ul style="margin: 0 0 3em;">
     <li><a href="https://microloansforjournalists.org/">Microloans for Journalists</a></li>
-    <li><a href="https://covid19.ops.guide/">The Newsroom Guide to COVID-19</a></li>
-    <li><a href="https://community.isolated.life/">Isolated creative community and online magazine</a></li>
+    <li><a href="https://web.archive.org/web/20200502121228/https://covid19.ops.guide/">The Newsroom Guide to COVID-19</a></li>
+    <li><a href="https://web.archive.org/web/20201105173829/https://community.isolated.life/">Isolated creative community and online magazine</a></li>
 </ul>
 </p>

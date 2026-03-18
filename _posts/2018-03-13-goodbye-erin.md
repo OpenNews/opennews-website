@@ -8,7 +8,7 @@ excerpt: After five years of amazing work, we say goodbye to OpenNews' Erin Kiss
 published: true
 ---
 
-<img src="/media/img/blog/source_postits.jpg" style="width: 100%;">
+<img src="/media/img/blog/source_postits.jpg" style="width: 100%;" alt="Post-its on a whiteboard" />
 <p class="caption" style="margin-top: 5px;">Post-its from the original Source brainstorming session.</p>
 
 Six years ago I stood with Erin Kissane in front of a large whiteboard placing post-its outlining ideas for a publication that would feature the work of journalism technologists. In helping with this project, Erin was the first person I'd hired to work on what was still a few months away from being rechristened OpenNews.

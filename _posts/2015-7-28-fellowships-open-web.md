@@ -9,7 +9,7 @@ excerpt: When we talk about the Knight-Mozilla Fellowships, and the work we do a
 
 When we talk about the Knight-Mozilla Fellowships, and the work we do at OpenNews, we often talk about the influence the values of the open web have on journalism. [As we gear up for the final push to find our 2016 fellows (deadline August 21!)](/what/fellowships/apply/), we wanted to dive a little further into what we're talking about. And so, as we often do, we asked folks from the news-dev community to think out loud about how journalism and the web work together.
 
-[Our pals at the BBC News Lab get historical when they say](https://bbcnewslabs.co.uk/2015/07/22/why-journalism-matters-the-web/):
+[Our pals at the BBC News Lab get historical when they say](https://web.archive.org/web/20151003102622/http://bbcnewslabs.co.uk/2015/07/22/why-journalism-matters-the-web/):
 
 <blockquote>The act of doing journalism has always been tied to the medium it’s delivered on. Whether it’s print, radio, broadcast television, the internet, podcasts on demand, and so on, the media can leverage the special features of whatever platform its message is distributed on to do better storytelling. To deliver the news in ways that can reach further globally or locally, to contextualize and explain complex or amusing topics."</blockquote>
 
@@ -17,7 +17,7 @@ That's why the BBC is experimenting with structured journalism, because "having 
 
 The web empowers experimentation, but it also allows you to "meet people where they are," the BBC News Lab team writes, "which requires experimenting without being bogged down with the legacy generations of past formats."
 
-[Meeting people where they are has transformed how the La Nacion Data team approaches their data journalism](https://blogs.lanacion.com.ar/projects/data/how-community-and-open-source-code-drive-lndata/). Through their VozData project, they have worked "together with more than 1,100 volunteers from universities and NGOs," to process and transform "more than 10,000 PDF" documents of Argentinian Senate expenses. By collaborating with the public and using open-source tools, the La Nacion team were able to have a real impact: "these datasets produced front page stories and even judicial investigations of public servants."
+[Meeting people where they are has transformed how the La Nacion Data team approaches their data journalism](https://web.archive.org/web/20161026182551/https://blogs.lanacion.com.ar/projects/data/how-community-and-open-source-code-drive-lndata). Through their VozData project, they have worked "together with more than 1,100 volunteers from universities and NGOs," to process and transform "more than 10,000 PDF" documents of Argentinian Senate expenses. By collaborating with the public and using open-source tools, the La Nacion team were able to have a real impact: "these datasets produced front page stories and even judicial investigations of public servants."
 
 La Nacion sees the potential for open web technologies to "surprise journalism with incredible discoveries in large volumes of data, platforms of entity extraction, machine learning, interactive visualizations that cross all platforms and intelligent ways of solving problems."
 

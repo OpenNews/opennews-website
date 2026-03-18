@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: Our evening program at SRCCON is designed to offer the "life" part of the work/life balance. We've iterated on it every year--here's how we did it this year.
 ---
 
-<img src="/media/img/blog/origami.jpg" style="width: 100%;">
+<img src="/media/img/blog/origami.jpg" style="width: 100%;" alt="Making origami as a mental break at SRCCON" />
 <p class="caption" style="margin-top: 5px;">A group showing off their origami at a SRCCON Hobby Workshop.</p>
 
 Evenings at conferences can be tough. After spending a day attending keynotes and panels, the people you were hoping to run into are suddenly nowhere to be found. You heard something about a sponsor's party at a restaurant near the Hyatt--or was it the Hilton--and there are those folks from the panel earlier who invited you to dinner. Maybe you'll just go back to your room and probably folks will end up at the hotel bar at some point, which isn't the best because you don't drink, but you will see people so I guess so.

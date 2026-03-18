@@ -7,7 +7,7 @@ tags: fellowship announcements
 excerpt: Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, <a href="https://opennews.org/what/fellowships/partnerguidelines/">fill out this form</a> by April 24.
 ---
 
-<img src="/media/img/2015_fellows_latimes3.jpg" style="width: 100%;">
+<img src="/media/img/2015_fellows_latimes3.jpg" style="width: 100%;" alt="Past fellows visit the LA Times" />
 <p class="caption">We're looking for news organizations to welcome inquisitive folks like this for 10 months.</p>
 
 Next year will be the fifth year of the Knight-Mozilla Fellowship program and we're looking for our next group of fellowship partners. If your news organization is interested in hosting a fellow next year, [fill out this form](/what/fellowships/partnerguidelines/) by April 24.

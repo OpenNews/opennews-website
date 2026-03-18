@@ -14,7 +14,7 @@ Our code convening that starts Sunday will be our first embedded within a larger
 This code convening is also our biggest so far. Seven projects will join the Write The Docs sprint on Sunday:
 
 - **[Web component](https://github.com/seattletimes/component-sort-table) [CSV charts](https://github.com/seattletimes/component-simple-graph), The Seattle Times:** Custom elements that generate flat charts from CSV input, intended to reduce the load on graphics staff for boilerplate web graphics.
-- **[Driveshaft](https://newsdev.github.io/driveshaft/), The New York Times:** A publishing pipeline for sending data from Google Drive documents into S3 in JSON format.
+- **[Driveshaft](https://github.com/newsdev/driveshaft), The New York Times:** A publishing pipeline for sending data from Google Drive documents into S3 in JSON format.
 - **[Developer documentation for Largo](https://github.com/INN/Largo/milestones/Write%20The%20Docs), INN:** Largo is a responsive WordPress theme framework developed by the Investigative News Network specifically for news publishers.
 - **[Donation Builder](https://github.com/texastribune/donations-app), The Texas Tribune:** A framework to help organizations, especially nonprofit newsrooms, seek new members and support for funding their projects.
 - **[Geomancer](https://github.com/associatedpress/geomancer), DataMade/Associated Press:** A tool to help journalists join datasets based on shared geography.

@@ -9,7 +9,7 @@ published: true
 ---
 
 <img src="/media/img/blog/srccon_session_values_frames.jpg" style="width: 100%;" alt="Facilitators and session participants work together and learn from each other.">
-<p class="caption" style="margin-top: 5px;">Facilitators and session participants work together and learn from each other. (photo/<a href="https://www.bonfire.coop/">Bonfire Media Collective</a>)</p>
+<p class="caption" style="margin-top: 5px;">Facilitators and session participants work together and learn from each other. (photo/<a href="https://web.archive.org/web/20240517061821/https://www.bonfire.coop/">Bonfire Media Collective</a>)</p>
 
 One question we hear a lot in the leadup to SRCCON is "what kind of session proposals are you looking for this year?" And it's a great thing to ask! But also so hard to answer. The truth is, we don't have a secret list of topics—not even tucked away in our brains somewhere—that we feel like HAVE to be on the SRCCON program.
 
@@ -19,7 +19,7 @@ Listening makes sure SRCCON is a responsive conference. Instead of a checklist o
 
 We want to make it as easy as possible for you to join us in Minneapolis, so our [call for participation form](https://srccon.org/participation/form/) is open till April 24 to collect your session proposals, apply for a scholarship, or just tell us that you’d like to attend. We’ve also got a [proposal guide](https://srccon.org/sessions/proposal-guide/) and [CFP walkthrough](/blog/srccon2019-participation-howto/) to help you think through how to approach the form, and if you’re curious about what sessions to pitch (or the types of sessions you might encounter at SRCCON!), we’ve collected some of the themes we’ve noticed.
 
-## So how _do_ you figure out what kind of session to propose? 
+## So how _do_ you figure out what kind of session to propose?
 
 In five-plus years of running this conference, we've learned that it takes two things for a session idea to come together in the most compelling way: A subject that's deeply important to you as a session leader, and an experience that draws participants in.
 
@@ -27,14 +27,14 @@ The first part, well, it really _is_ up to you. Creating a participatory experie
 
 And just like SRCCON is built around a set of values, crafting a session that operates like that usually starts with a values statement itself. Here are some shorthand ways to describe sessions that we’ve seen connect with the community over and over again:
 
-* **"We were the news nerds on this project, and here's why that was so important."** People working at the intersection of journalism and tech are uniquely positioned to lead, and they make a newsroom's most innovative and engaging work possible.
-* **"The journalism we do is missing THIS, but we can make it better."** Important conversations at SRCCON put the needs of people at the center—the people doing the work as well as the people we're doing it for.
-* **"Our newsrooms need to change. Let's start with THIS."** The people at this conference are pushing journalism to become more inclusive and equitable, inside our organizations and in relationship with the communities we cover.
-* **"Journalism is hard—but THIS makes it easier to work together."** From building healthy teams to breaking out of organizational silos, we have a LOT to learn by sharing what works (and doesn't).
-* **"Journalism is hard—how can we do it as real, complicated people?"** SRCCON makes room for sessions that elevate our professional practice, side by side with frank conversations about the lives we bring into this work.
-* **"I learned how to do something cool, and I can teach you how to do it too."** We don't look for starter sessions like, say, an HTML primer or a scraping tutorial—those are super important, but conferences like NICAR already do them SO WELL. At SRCCON we look for technical sessions that push at the edges of what a "lab" might look like, and these skill-building sessions are best when they're rooted in examples from your own work.
+- **"We were the news nerds on this project, and here's why that was so important."** People working at the intersection of journalism and tech are uniquely positioned to lead, and they make a newsroom's most innovative and engaging work possible.
+- **"The journalism we do is missing THIS, but we can make it better."** Important conversations at SRCCON put the needs of people at the center—the people doing the work as well as the people we're doing it for.
+- **"Our newsrooms need to change. Let's start with THIS."** The people at this conference are pushing journalism to become more inclusive and equitable, inside our organizations and in relationship with the communities we cover.
+- **"Journalism is hard—but THIS makes it easier to work together."** From building healthy teams to breaking out of organizational silos, we have a LOT to learn by sharing what works (and doesn't).
+- **"Journalism is hard—how can we do it as real, complicated people?"** SRCCON makes room for sessions that elevate our professional practice, side by side with frank conversations about the lives we bring into this work.
+- **"I learned how to do something cool, and I can teach you how to do it too."** We don't look for starter sessions like, say, an HTML primer or a scraping tutorial—those are super important, but conferences like NICAR already do them SO WELL. At SRCCON we look for technical sessions that push at the edges of what a "lab" might look like, and these skill-building sessions are best when they're rooted in examples from your own work.
 
-These approaches (and many others!) are built around values, and they’re intentionally open to all kinds of topics that you find meaningful—take a look through our previous schedules and you’ll see them everywhere. They work because SRCCON is participatory. Session facilitators work _with_ participants, and participants show up with their own experience and expertise to share. 
+These approaches (and many others!) are built around values, and they’re intentionally open to all kinds of topics that you find meaningful—take a look through our previous schedules and you’ll see them everywhere. They work because SRCCON is participatory. Session facilitators work _with_ participants, and participants show up with their own experience and expertise to share.
 
 So we aren’t kidding about not having a list of ideas in mind. Some might carry forward from previous SRCCONs and other events, others will be new for 2019, and if you've never seen it on a journalism conference schedule before, that's a session pitch we want to read. Individual passions and interests are what make SRCCON such an exciting, transformative experience, and what makes it a true joy to read so many proposals every year. We hope we get to read one of yours this time.
 

@@ -66,7 +66,7 @@ To know how to the answer this I feel like I would have to know what journalism 
 <h3 id="laurian">Laurian Gridinoc | BBC</h3>
 <ul class = "fellowstats">
 <li><a href="https://www.twitter.com/gridinoc">@gridinoc</a>
-<li><a href="https://namebound.com">website</a>
+<li><a href="https://gridinoc.com/">website</a>
 <li><a href="https://github.com/laurian">github</a>
 </ul>
 
@@ -90,7 +90,7 @@ The reader is transforming and I don't think we understand yet where this transf
 <h3 id="nicola">Nicola Hughes | Guardian</h3>
 <ul class = "fellowstats">
 <li><a href="https://www.twitter.com/dataminerUK">@dataminerUK</a>
-<li><a href="https://datamineruk.com/">website</a>
+<li><a href="https://web.archive.org/web/20210803122623/http://datamineruk.com/">website</a>
 <li><a href="https://github.com/DataMinerUK">github</a>
 </ul>
 
@@ -109,7 +109,7 @@ News is all about people. People speak to people, not programmes. People inform 
 
 _How do you think journalism is transforming?_
 
-I don't know. It's one of these things where we only know the answer in retrospect. Only when we know what it has become will we hazard a guess at the process that caused it. But here's a <a href="https://datamineruk.com/2012/03/01/so-what-is-open-journalism-doxa-hyperplanes-and-the-intersection-of-journalism-and-technology/">blog</a> with some of my thoughts.
+I don't know. It's one of these things where we only know the answer in retrospect. Only when we know what it has become will we hazard a guess at the process that caused it. But here's a <a href="https://web.archive.org/web/20120404081343/http://datamineruk.com/2012/03/01/so-what-is-open-journalism-doxa-hyperplanes-and-the-intersection-of-journalism-and-technology/">blog</a> with some of my thoughts.
 
 <img src="/media/img/fellows/dan.jpg" class="meet" alt="">
 <h3 id="dan">Dan Schultz | Boston Globe</h3>

@@ -41,10 +41,10 @@ Our fellowship locations for 2016 are:
 
 - The [Los Angeles Times Data Desk](https://datadesk.github.io/2015-08-12-open-news/)—Los Angeles, CA
 - [NPR](https://blog.apps.npr.org/2015/08/10/knight-mozilla.html)—Washington, DC
-- [Vox Media](https://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow)—Austin, TX; New York, NY; or Washington, DC
+- [Vox Media](https://https://web.archive.org/web/20221208233210/https://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow)—Austin, TX; New York, NY; or Washington, DC
 - [Frontline](https://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/)—Boston, MA
-- [Correct!v](https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/)—Berlin, Germany
-- The [Coral Project](https://coralproject.net/fellows.html)—New York, NY (a partnership of the New York Times, the Washington Post, and Mozilla, based out of the New York Times)
+- [Correct!v](https://web.archive.org/web/20150918205159/https://web.archive.org/web/20150918205159/https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/)—Berlin, Germany
+- The [Coral Project](https://web.archive.org/web/collections/20150501000000*/https://coralproject.net/fellows.html)—New York, NY (a partnership of the New York Times, the Washington Post, and Mozilla, based out of the New York Times)
 
 Each news organization [described what they are looking for in a fellow](/blog/fellowships-news-partners) and the types of projects they are excited to work on with a fellow.
 

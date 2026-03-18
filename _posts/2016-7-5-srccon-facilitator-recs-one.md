@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: If you've never presented at a conference with facilitators instead of speakers before, you're in for a treat. Facilitation is a much more interactive way of running sessions at conferences, and when done well, both the facilitator and the attendees walk away feeling inspired, motivated, and like they've learned a lot from everyone in the room.
 ---
 
-<img src="/media/img/blog/srccon2015-photocredit-erik-westra.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon2015-photocredit-erik-westra.jpg" style="width: 100%;" alt="Mid-discussion at SRCCON " />
 <p class="caption" style="margin-top: 10px;">Mid-discussion at SRCCON 2015. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 If you've never presented at a conference with facilitators instead of speakers before, you're in for a treat. Facilitation is a much more interactive way of running sessions at conferences, and when done well, both the facilitator and the attendees walk away feeling inspired, motivated, and like they've learned a lot from everyone in the room.

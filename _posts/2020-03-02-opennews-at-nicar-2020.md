@@ -60,7 +60,7 @@ We love this community and love _being a part_ of this community. Here are some 
 
 ## If we won’t see you in New Orleans
 
-For folks who won’t be at NICAR this week, there’s an amazing [remote unconference coming together](https://www.unconference.community/) thanks to [Heather Bryant](https://twitter.com/hbcompass) of News Catalyst. Shared video conversations will give you a chance to connect with other journalists and talk about the projects you’re working on, right from your desk (or favorite laptop spot so everyone else can enjoy the backdrop). [Sign up to join here](https://airtable.com/shrlTGHFWHXagBSzW)!
+For folks who won’t be at NICAR this week, there’s an amazing [remote unconference coming together](https://web.archive.org/web/20191115072251/http://www.unconference.community//) thanks to [Heather Bryant](https://twitter.com/hbcompass) of News Catalyst. Shared video conversations will give you a chance to connect with other journalists and talk about the projects you’re working on, right from your desk (or favorite laptop spot so everyone else can enjoy the backdrop). [Sign up to join here](https://airtable.com/shrlTGHFWHXagBSzW)!
 
 Our plans for [SRCCON 2020](https://srccon.org/) this July 16-17 in Minneapolis are coming together too, and we’ll have lots more information to share in the coming weeks. We’re developing a remote plan to respond to any travel limitations that come up, and you can stay in touch [through Twitter](https://twitter.com/srccon) or [the OpenNews newsletter](https://eepurl.com/czSVTL) to keep track of our call for session proposals and updates about participation and logistics.
 

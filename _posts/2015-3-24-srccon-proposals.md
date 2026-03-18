@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: <a href="https://srccon.org">SRCCON is back in 2015</a> for another two days of building better newsroom code, culture, and process, this time in beautiful Minneapolis. And now it's time for you to <a href="https://srccon.org/sessions/">propose a session</a>.
 ---
 
-<img src="/media/img/blog/srcconscreen.jpg" style="width: 100%;">
+<img src="/media/img/blog/srcconscreen.jpg" style="width: 100%;" alt="SRCCON banner for 2015 in Minneapolis" />
 
 [SRCCON is back in 2015](https://srccon.org) for another two days of building better newsroom code, culture, and process, this time in beautiful Minneapolis. The conference will take place June 25 and 26, and tickets go on sale April 29.
 

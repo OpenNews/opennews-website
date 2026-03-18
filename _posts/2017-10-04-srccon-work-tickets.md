@@ -7,7 +7,7 @@ tags: srccon srcconwork
 excerpt: As we prepare for SRCCON:WORK, we want to share the confirmed sessions so far and details about the ticket process.
 ---
 
-<img src="/media/img/blog/srccon-conversation.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon-conversation.jpg" style="width: 100%;" alt="Small group conversation" />
 <p class="caption" style="margin-top: 5px;">Small group conversations will abound during our time in Philly, just like at this year's SRCCON. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 As we vacillate from one crisis to another, from one disaster, one series of buyouts, one tough day/week/month/year, our challenges compound and our resilience is taxed. I [spoke about this](https://source.opennews.org/articles/acknowledging-our-full-selves/) at SRCCON and in the months since, the danger and exhaustion for many of us has become even more acute. In December, we intend to create time and space for us to care for and challenge one another.

@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: SRCCON sessions are interactive and collaborative, and if you've never led one, it can be hard to know what to expect. Here are some strategies to help you lead a discussion or skillshare that gets everyone involved and leaves everyone energized.
 ---
 
-<img src="/media/img/blog/srccon_2014_session_sro.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon_2014_session_sro.jpg" style="width: 100%;" alt="Attendees at the Chemical Heritage Foundation" />
 <p class="caption">Standing-room only during a session at SRCCON 2014. (OpenNews Photo)</p>
 
 So you want to run a session at SRCCON? High-five, it's going to be great! You'll be in a room full of other smart developers, designers, and journalists, all of whom are going to help you make the most of your time together.

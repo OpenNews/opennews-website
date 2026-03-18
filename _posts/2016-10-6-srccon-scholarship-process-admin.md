@@ -7,7 +7,7 @@ tags: SRCCON
 excerpt: One part of how we make SRCCON accessible is through travel scholarships. This is how we administer the program.
 ---
 
-<img src="/media/img/blog/srccon16-1.jpg" style="width: 100%;">
+<img src="/media/img/blog/srccon16-1.jpg" style="width: 100%;" alt="Well-populated tables in Philadelphia" />
 <p class="caption" style="margin-top: 5px;">Helping as many people as we can join the SRCCON crowd. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 At OpenNews, our one big event each year is SRCCON. We [put a tremendous amount of effort into](https://www.poynter.org/2016/how-to-throw-an-intentional-inclusive-journalism-conference/429805/) making it as inclusive and accessible as possible, considering everything from how to allocate tickets to the food to natural light in the session rooms. As organizers, we think about these details in order to free up the brain space of attendees to do what they come to SRCCON to do--have great conversations.

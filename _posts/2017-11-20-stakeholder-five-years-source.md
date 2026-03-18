@@ -7,7 +7,7 @@ tags: stakeholdernewsletter
 excerpt: In our third stakeholder newsletter, celebrating five years of Source, perspective from Rachel Schallom, and looking ahead to SRCCON:WORK and the news nerd survey.
 ---
 
-<img src="/media/img/blog/rachel-srccon-2015.jpg" style="width: 100%;">
+<img src="/media/img/blog/rachel-srccon-2015.jpg" style="width: 100%;" alt="Rachel Schallom presenting during SRCCON 2015" />
 <p class="caption" style="margin-top: 5px;">Rachel Schallom, who shared about her experience writing for Source, during SRCCON 2015. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 (_This is the third of a series of monthly newsletters to stakeholders providing an overview of what OpenNews has been working on and showcasing folks in the community._)
