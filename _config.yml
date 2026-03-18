@@ -40,4 +40,7 @@ defaults:
       path: ""
     values:
       excerpt: ""
+      # description: this value is only used for meta tags
       description: OpenNews connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism. Alongside our community, our mission includes fighting for a future where newsrooms are anti-racist, equitable, inclusive, and collaborative.
+      # google_analytics_id: GA4 measurement ID for opennews.org only (srccon has its own set)
+      google_analytics_id: G-RQ3XHZL1GM
