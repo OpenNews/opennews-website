@@ -17,10 +17,17 @@ namespace :test do
         {
           disable_external: true,
           enforce_https: true,
-          ignore_urls: [%r{^http://(localhost|127\.0\.0\.1)}],
           allow_hash_href: true,
           log_level: :error,
-          ignore_files: [%r{blog/}], # too many odd patterns to check
+          ignore_files: [
+            # %r{blog/}
+          ],
+          ignore_urls: [
+            "http://localhost",
+            "http://127.0.0.1",
+            # only http
+            /mitrakalita\.com/
+          ],
         },
       ).run
     ensure
