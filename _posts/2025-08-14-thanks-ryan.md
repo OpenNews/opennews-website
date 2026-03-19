@@ -5,7 +5,6 @@ date: 2025-08-14 10:00
 author: Erika Owens
 tags: OpenNews
 excerpt: After over a decade with OpenNews, Ryan Pitts leaves to join Big Local News.
-
 ---
 
 <img src="/media/img/blog/ryan-SRCCON25.jpg" style="width: 75%;" alt="Ryan (a bespectacled white person with a beard) is leaning against a podium, holding a microphone in front of an orange sign that says SRCCON">
@@ -24,4 +23,3 @@ And now, the news nerd community will get to benefit from Ryan's support in his 
 If you're as excited as I am to support Ryan in this next chapter, [please consider donating to OpenNews](/donate) or to [RANGE Media](https://rangemedia.co/support-us/), where Ryan is a board member. Your donation will join Ryan's 10+ years of contributions in strengthening and sustaining this network.
 
 Thanks, Ryan!!
-

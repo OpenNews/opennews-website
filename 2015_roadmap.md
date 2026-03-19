@@ -33,11 +33,10 @@ Integrate into our wider community while keeping our work streamlined. Make our 
 Continue evolving as a communications tool and relationship-building program, while integrating more tightly and clearly with other OpenNews programs and wider community.
 
 ###Coral Project—a new collaboration between Mozilla, the New York Times, and the Washington Post
-Play a leadership role as the project staffs up, conducts research, establishes immediate and long-term goals, and begins to create tools to strengthen online communities around journalism. 
+Play a leadership role as the project staffs up, conducts research, establishes immediate and long-term goals, and begins to create tools to strengthen online communities around journalism.
 
 ###Mozilla-wide collaboration in 2015
 In addition to the diversity and inclusion work noted above, we need to work closely with teams across Mozilla to develop a vision for Mozilla Fellows, share recruitment and program lessons with nascent fellowship programs, keep the Coral Project connected with Mozilla's resources and principles throughout the year, collaborate more extensively with other groups at MozFest, and communicate out the work we're doing, both within Mozilla and externally.
-
 
 ##Quarterly Milestones
 **In Q1,** we launch the Coral Project, onboard the 2015 fellows, kick off the search for our 2016 fellowship news organizations, and produce our first Code Convening of the year. We'll also rework our comms strategy and relaunch the OpenNews site, and prepare for SRCCON and the 2016 fellowship search. This quarter lays the foundation for our year as we lead hiring for Coral Project staff, re-order our internal systems, and prepare more extensive outreach plans for all our major programs of the year.
@@ -55,46 +54,46 @@ In addition to unchanging principles like “support the community” and “do 
 
 Areas of central focus in 2015 across OpenNews activities:
 
-* Community facet: Non-elite news organizations 
-* Cross-program effort: Diversity and inclusion
-* Cross-program effort: Telling our story/comms strategy
-* Internal: Staff role clarity
-* Internal: Internal systems, documentation, and evaluation
+- Community facet: Non-elite news organizations
+- Cross-program effort: Diversity and inclusion
+- Cross-program effort: Telling our story/comms strategy
+- Internal: Staff role clarity
+- Internal: Internal systems, documentation, and evaluation
 
 Areas of ongoing focus:
 
-* Community facet: People and organizations we don't know
-* Community facet: Core newsroom coders 
-* Community facet: Knight-Mozilla fellows
-* Community facet: Our fellowship partners
-* Cross-program effort: Mozilla-wide collaboration
-* Cross-program effort: Better understanding our community's needs (listening)
-* Internal: Better connection between our programs
+- Community facet: People and organizations we don't know
+- Community facet: Core newsroom coders
+- Community facet: Knight-Mozilla fellows
+- Community facet: Our fellowship partners
+- Cross-program effort: Mozilla-wide collaboration
+- Cross-program effort: Better understanding our community's needs (listening)
+- Internal: Better connection between our programs
 
 Areas of secondary focus:
 
-* Community facet: Local community near our events
-* Community facet: Organizations outside journalism/wider technology industry
-* Community facet: International organizations (setting this up to be a P1 in 2016)
-* Community facet: Fellow alums
-* Community facet: Fellow applicants not selected for the program
-* Cross-program effort: Documenting others' work/archives from ephemeral events
+- Community facet: Local community near our events
+- Community facet: Organizations outside journalism/wider technology industry
+- Community facet: International organizations (setting this up to be a P1 in 2016)
+- Community facet: Fellow alums
+- Community facet: Fellow applicants not selected for the program
+- Cross-program effort: Documenting others' work/archives from ephemeral events
 
 ##Measures of success
 We're focused more on qualitative measures than quantitative ones, and our targets include:
- 
+
 Recruiting a diverse and highly qualified pool of fellowship applicants
 Producing events with diverse participation—demographically and across the spectrum of news organizations—at which attendees feel welcome, productive, safe, and inspired
 Guiding the Coral Project through its initial staff growth, research, and goal-setting, and seeing it begin producing open-source code
-Relaunching our flagship websites and telling our story clearly for multiple audiences 
+Relaunching our flagship websites and telling our story clearly for multiple audiences
 Ending the year with a healthy, happy OpenNews team
 
 ##2015 goals
 Many of our programs are intentionally not designed for rapid growth. SRCCON, for example, is a success because it meets specific needs in a focused way for core community members. Still, there are areas within some of our programs in which quantitative growth is a good measure of success, and we're noting them for closer evaluation throughout 2015.
 
-* High-quality applicants for Knight-Mozilla Fellowships: 175, a 33% increase from 2014 (on a target of 500 total applications in 2015, up from 419 in 2014)
-* Source readership: 350K annual users (doubling our 2014 numbers)
-* Participants on the OpenNews community call: 650 (a new metric, but we estimate that this is a modest but significant increase from 2014)
-* Percentage of our staff outreach aimed at underrepresented groups: 50%
-* Percentage of our work that requires all hands on deck: less than 50%
-* People touched by code we helped create or open source: 1 million. (Our goal is to start estimating how many people are affected by journalism built with open code that we helped make possible. That's a big number—quite possibly much bigger than 1 million, based on the organizations we work with—but we are in the early phases of tracking it. Most importantly, it's a reminder that supporting this developer community has an outsized effect on the way human beings understand the news, and the world they live in. We'll continue to think through this measure over the course of 2015.)
+- High-quality applicants for Knight-Mozilla Fellowships: 175, a 33% increase from 2014 (on a target of 500 total applications in 2015, up from 419 in 2014)
+- Source readership: 350K annual users (doubling our 2014 numbers)
+- Participants on the OpenNews community call: 650 (a new metric, but we estimate that this is a modest but significant increase from 2014)
+- Percentage of our staff outreach aimed at underrepresented groups: 50%
+- Percentage of our work that requires all hands on deck: less than 50%
+- People touched by code we helped create or open source: 1 million. (Our goal is to start estimating how many people are affected by journalism built with open code that we helped make possible. That's a big number—quite possibly much bigger than 1 million, based on the organizations we work with—but we are in the early phases of tracking it. Most importantly, it's a reminder that supporting this developer community has an outsized effect on the way human beings understand the news, and the world they live in. We'll continue to think through this measure over the course of 2015.)

@@ -5,10 +5,9 @@ date: 2023-09-20 8:00
 author: The OpenNews Team
 tags: OpenNews
 excerpt: OpenNews has joined a coalition of journalism organizations calling on funders of the Press Forward Initiative to explicitly prioritize equity in their investments.
-
 ---
 
-<img src="/media/img/blog/2023-09-20-open-letter-press-forward.png" style="width: 100%;" alt="Graphic with logos of AAJA, IJA, NABJ, NAHJ, Maynard Institute, ONA and OpenNews"> 
+<img src="/media/img/blog/2023-09-20-open-letter-press-forward.png" style="width: 100%;" alt="Graphic with logos of AAJA, IJA, NABJ, NAHJ, Maynard Institute, ONA and OpenNews">
 
 _OpenNews has joined a coalition of journalism organizations calling on funders of the [Press Forward initiative](https://www.pressforward.news/) to explicitly prioritize equity in their investments. The coalition includes OpenNews’s [Vision25 partners](https://opennews.org/blog/vision25-building-racial-equity-in-newsrooms/) the Maynard Institute and ONA, and the Asian American Journalists Association, Indigenous Journalists Association, National Association of Black Journalists and National Association of Hispanic Journalists._
 
@@ -32,9 +31,9 @@ We are pleased to see that the funding priorities of the Press Forward initiativ
 
 ### What we mean by this is:
 
-* Align funding priorities with the demographic shifts occurring across our nation by investing in trusted leaders, publishers, journalists and organizations serving communities of color.
-* Consider as a foundational criteria for all newsrooms that their organizations, including leadership, are reflective of the communities they serve.
-* Break the cycle of disinvestment and the disproportionate investment in white leaders and organizations with under-representation of people of color.
+- Align funding priorities with the demographic shifts occurring across our nation by investing in trusted leaders, publishers, journalists and organizations serving communities of color.
+- Consider as a foundational criteria for all newsrooms that their organizations, including leadership, are reflective of the communities they serve.
+- Break the cycle of disinvestment and the disproportionate investment in white leaders and organizations with under-representation of people of color.
 
 Racial and ethnic diversity fosters trust between media outlets and underrepresented communities. When people see themselves and their experiences reflected in the news, they are more likely to engage with it and view journalism as a credible and valuable resource. We know from research done by the [Trust Project](https://thetrustproject.org/) that one of the [indicators of trustworthiness](https://thetrustproject.org/trust-indicators/) on the part of news consumers is the inclusion of diverse voices.
 
@@ -50,19 +49,19 @@ Signed,
 
 ### Professional Membership Associations
 
-* Naomi Tacuyan Underwood, Executive Director, Asian American Journalists Association
-* Nicole Dungca, National Board President, Asian American Journalists Association
-* Rebecca Landsberry-Baker, Executive Director, Indigenous Journalists Association
-* Christine Trudeau, President, Indigenous Journalists Association
-* Ken Lemon, President, National Association of Black Journalists
-* Yvette Cabrera, President, Board of Directors, National Association of Hispanic Journalists
+- Naomi Tacuyan Underwood, Executive Director, Asian American Journalists Association
+- Nicole Dungca, National Board President, Asian American Journalists Association
+- Rebecca Landsberry-Baker, Executive Director, Indigenous Journalists Association
+- Christine Trudeau, President, Indigenous Journalists Association
+- Ken Lemon, President, National Association of Black Journalists
+- Yvette Cabrera, President, Board of Directors, National Association of Hispanic Journalists
 
-### Vision25: Racial Equity in Journalism Partners 
+### Vision25: Racial Equity in Journalism Partners
 
-* John X. Miller, Chair, Board of Directors, Maynard Institute
-* Evelyn Hsu & Martin G. Reynolds, Co-executive directors, Maynard Institute
-* LaSharah S. Bunting, CEO and Executive Director, Online News Association
-* Erika Owens, Co-Director, OpenNews
+- John X. Miller, Chair, Board of Directors, Maynard Institute
+- Evelyn Hsu & Martin G. Reynolds, Co-executive directors, Maynard Institute
+- LaSharah S. Bunting, CEO and Executive Director, Online News Association
+- Erika Owens, Co-Director, OpenNews
 
 ---
 

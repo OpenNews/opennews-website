@@ -18,7 +18,7 @@ We're calling for action because right now, many news organizations are failing 
 
 At OpenNews, we know how powerful [data can be](https://postguild.org/2022-pay-study/) in holding the powerful to account. Many newsrooms have said they want to address racial injustice, but if we aren't even willing to measure where we're at, how can we build a more equitable future for journalism? As an industry, we demand transparency and accountability from the institutions we cover — we cannot hold ourselves to a lesser standard.
 
-Individual signers and organizations can join the effort to push for diversity transparency in the news industry. [Add your name or organization here](https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform). 
+Individual signers and organizations can join the effort to push for diversity transparency in the news industry. [Add your name or organization here](https://docs.google.com/forms/d/e/1FAIpQLSf0xdcKW2AQzLM8eeZH9w71b6YN_TosGUF2Y-lrlvCuy9YWpQ/viewform).
 
 The most up-to-date list of organization and individuals signers is on [our shared open letter](https://docs.google.com/document/d/1MgJNiUZlLSARhpHVZV2wavU32dIuPrVooP-40pC5Jdc/edit).
 

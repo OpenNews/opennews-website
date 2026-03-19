@@ -5,7 +5,6 @@ date: 2026-02-17 12:00
 author: Tiff Fehr, former board member & interim council lead
 tags: OpenNews
 excerpt: To meet persistent journalism, career & tech changes our Board will become an Advisory Council, with rebooted responsibilities and fresh faces
-
 ---
 
 <p style="text-align:center; margin:0;">
@@ -29,13 +28,13 @@ We’re grateful for the efforts of our Advisory Board, and we’re excited to i
 
 Over the past fifteen(\!) years, the OpenNews community has proven its resilience amid many twists and turns in our personal and professional lives. And throughout, we have continued to build and hold an even more supportive and effective space for us all.
 
-To ensure our directors have decisive, relevant and proactive advice for its *next* quindecennial, the Council structure will adopt greater responsibilities as our community and organizational needs change. The new Council has a charter that includes (in short):
+To ensure our directors have decisive, relevant and proactive advice for its _next_ quindecennial, the Council structure will adopt greater responsibilities as our community and organizational needs change. The new Council has a charter that includes (in short):
 
-* Increased roles, responsibilities and engagement  
-* Rotation plans and fresh voices  
-* Specialty sub-committees, when warranted  
-* Ongoing and expanded support for OpenNews staff and events  
-* And more\!
+- Increased roles, responsibilities and engagement
+- Rotation plans and fresh voices
+- Specialty sub-committees, when warranted
+- Ongoing and expanded support for OpenNews staff and events
+- And more\!
 
 Moving to an Advisory Council is strategic, to ensure OpenNews remains a vibrant and responsive space for us all. By spring, the Council will be fully operational and focused on strategic support for our directors. This includes OpenNews’s consulting work, SRCCON, events, sustainability, community engagement, fundraising and more.
 
