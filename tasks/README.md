@@ -1,6 +1,8 @@
 # Rake Tasks (Ruby)
 
-This directory contains Rake tasks that are automatically loaded by the main `Rakefile`.
+This directory contains task modules that are loaded by the main `Rakefile`.
+
+Note: several top-level tasks are defined directly in the root `Rakefile` (for example: `validate_yaml`, `check`, `build`, `serve`, `clean`, and `deploy:*`).
 
 ## Available Task Files
 
@@ -32,8 +34,13 @@ Comprehensive testing suite for the built site.
 Validate external/public URLs in the built site (slower, requires network access).
 
 - `rake review:external_links` - Check all external links in the built site for validity
+- `rake review:compare_deployed_sites` - Compare deployed staging vs production page content
 
-**Note:** This task requires the site to be built first (`rake build`). It performs actual HTTP requests to external URLs, so it's slower than internal tests and requires network access.
+**Notes:**
+
+- `review:external_links` requires the site to be built first (`rake build`) and performs real HTTP requests to external URLs.
+- `review:compare_deployed_sites` requires deployment bucket config in `_config.yml` and compares URLs derived from those settings.
+- `review:compare_deployed_sites` also supports optional `EXTRA_PATHS` and `EXTRA_PATHS_FILE` environment variables for legacy/archive URLs not present in local `_site`.
 
 ### `outdated.rake` - Dependency Updates
 
