@@ -142,7 +142,7 @@ jobs:
               repo: context.repo.repo,
               deployment_id: ${{ steps.deployment_production.outputs.result }},
               state: 'success',
-              environment_url: 'https://srccon.org',
+              environment_url: 'https://opennews.org',
               description: 'Production deployment completed successfully'
             });
 
