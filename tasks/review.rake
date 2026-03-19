@@ -15,13 +15,7 @@ module ReviewHelpers
   def self.fetch_url(url)
     uri = URI.parse(url)
 
-    Net::HTTP.start(
-      uri.host,
-      uri.port,
-      use_ssl: uri.scheme == "https",
-      open_timeout: 10,
-      read_timeout: 30,
-    ) do |http|
+    Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == "https", open_timeout: 10, read_timeout: 30) do |http|
       request = Net::HTTP::Get.new(uri.request_uri)
       response = http.request(request)
 
@@ -63,85 +57,86 @@ namespace :review do
     abort "❌ No _site/ directory found. Please run 'bundle exec rake build' first." unless Dir.exist?("./_site")
 
     proofer = nil
-    
+
     # Suppress Ruby warnings from html-proofer dependencies
     original_verbose = $VERBOSE
     $VERBOSE = nil
 
     begin
       puts "🔍 Checking external links (this takes a while)..."
-      proofer = HTMLProofer.check_directory(
-        "./_site",
-        {
-          disable_external: false,
-          enforce_https: false,
-          ignore_urls: [
-            "http://localhost",
-            "http://127.0.0.1",
-            "https://use.typekit.net",
-            %r{\Ahttps://opennews\.us5\.list-manage\.com/},
-            # dead domains
-            %r{etherpad\.mozilla\.org},
-            %r{public\.etherpad-mozilla\.org},
-            %r{lcc-slack\.herokuapp\.com},
-            %r{journalists\.org/%E2%80%8Bvision25},
-            %r{seemurphy|colegillespie|kavyasukumar|happyworm|stdout\.be|harloholm\.es|algorhyth\.ms|malev\.com\.ar},
-            %r{gastopublicobahiense\.org},
-            %r{searlevideo|hyperaudio-dev|tinfoil\.press},
-            # only http
-            %r{mitrakalita\.com},
-            # blocked domains
-            %r{westraco\.com},
-            %r{flickr\.com},
-            %r{medium\.com},
-            %r{nytimes\.com},
-            %r{qz\.com},
-            %r{chronicle\.com},
-            %r{councilofnonprofits\.org},
-            %r{journalismfestival\.com},
-            %r{newsintegrity\.com},
-            %r{documentedny\.com},
-            %r{ihollaback\.org},
-            %r{gijn\.org},
-            %r{census|bls\.gov},
-            %r{niemanlab\.org},
-            %r{archive\.org},
-            %r{forms\.fm},
-            %r{stanford\.edu},
-            %r{eventbrite\.com},
-            %r{presentation/d/120xpJQV4OnuvUQkb4ctifcPRuUptK9oKPG-Oy9L4Kkw},
-            # skip our own image URLs
-            # %r{srccon\.org},
-            %r{media/img/},
-          ],
-          # skip checking links from high-noise sections/pages
-          ignore_files: [
-            # %r{_site/blog/},
-            # %r{_site/_posts/},
-          ],
-          allow_hash_href: true,
-          check_external_hash: false,
-          log_level: :info,
-          # Add some reasonable defaults for external checking
-          typhoeus: {
-            followlocation: true,
-            maxredirs: 5,
-            connecttimeout: 10,
-            timeout: 30,
-          },
-          hydra: {
-            max_concurrency: 2, # Be gentle with external sites
-          },
-          # optional
-          cache: {
-            timeframe: {
-              external: "1d", # Cache external link checks for 1 day
+      proofer =
+        HTMLProofer.check_directory(
+          "./_site",
+          {
+            disable_external: false,
+            enforce_https: false,
+            ignore_urls: [
+              "http://localhost",
+              "http://127.0.0.1",
+              "https://use.typekit.net",
+              %r{\Ahttps://opennews\.us5\.list-manage\.com/},
+              # dead domains
+              /etherpad\.mozilla\.org/,
+              /public\.etherpad-mozilla\.org/,
+              /lcc-slack\.herokuapp\.com/,
+              %r{journalists\.org/%E2%80%8Bvision25},
+              /seemurphy|colegillespie|kavyasukumar|happyworm|stdout\.be|harloholm\.es|algorhyth\.ms|malev\.com\.ar/,
+              /gastopublicobahiense\.org/,
+              /searlevideo|hyperaudio-dev|tinfoil\.press/,
+              # only http
+              /mitrakalita\.com/,
+              # blocked domains
+              /westraco\.com/,
+              /flickr\.com/,
+              /medium\.com/,
+              /nytimes\.com/,
+              /qz\.com/,
+              /chronicle\.com/,
+              /councilofnonprofits\.org/,
+              /journalismfestival\.com/,
+              /newsintegrity\.com/,
+              /documentedny\.com/,
+              /ihollaback\.org/,
+              /gijn\.org/,
+              /census|bls\.gov/,
+              /niemanlab\.org/,
+              /archive\.org/,
+              /forms\.fm/,
+              /stanford\.edu/,
+              /eventbrite\.com/,
+              %r{presentation/d/120xpJQV4OnuvUQkb4ctifcPRuUptK9oKPG-Oy9L4Kkw},
+              # skip our own image URLs
+              # %r{srccon\.org},
+              %r{media/img/},
+            ],
+            # skip checking links from high-noise sections/pages
+            ignore_files: [
+              # %r{_site/blog/},
+              # %r{_site/_posts/},
+            ],
+            allow_hash_href: true,
+            check_external_hash: false,
+            log_level: :info,
+            # Add some reasonable defaults for external checking
+            typhoeus: {
+              followlocation: true,
+              maxredirs: 5,
+              connecttimeout: 10,
+              timeout: 30,
+            },
+            hydra: {
+              max_concurrency: 2, # Be gentle with external sites
+            },
+            # optional
+            cache: {
+              timeframe: {
+                external: "1d", # Cache external link checks for 1 day
+              },
             },
           },
-        },
-      )
+        )
       proofer.reporter = ReviewHelpers::QuietReporter.new
-      
+
       proofer.run
       puts "\n✅ External link validation passed!"
     rescue Interrupt
@@ -165,9 +160,9 @@ namespace :review do
     failures = proofer.failed_checks
     return if failures.empty?
 
-    puts "\n" + "="*80
+    puts "\n" + "=" * 80
     puts "DEDUPLICATED FAILURE SUMMARY"
-    puts "="*80
+    puts "=" * 80
 
     external_by_status_and_url = Hash.new { |h, k| h[k] = { count: 0, paths: [] } }
     non_external = Hash.new(0)
@@ -209,39 +204,35 @@ namespace :review do
         404 => "🔍 HTTP 404 Not Found",
         410 => "🗑️  HTTP 410 Gone",
         500 => "💥 HTTP 500 Server Error",
-        503 => "⚠️  HTTP 503 Service Unavailable"
+        503 => "⚠️  HTTP 503 Service Unavailable",
       }.each do |code, label|
         next unless grouped_by_status[code]&.any?
 
         entries = grouped_by_status[code].sort_by { |entry| -entry[:count] }
         puts "\n   #{label}: #{entries.size} URLs"
-        entries.first(8).each do |entry|
-          puts "      - #{entry[:url]} (#{entry[:count]}x across #{entry[:unique_paths]} page(s))"
-          entry[:paths].first(3).each do |path|
-            puts "        • #{path}"
+        entries
+          .first(8)
+          .each do |entry|
+            puts "      - #{entry[:url]} (#{entry[:count]}x across #{entry[:unique_paths]} page(s))"
+            entry[:paths].first(3).each { |path| puts "        • #{path}" }
+            puts "        • ... and #{entry[:paths].size - 3} more page(s)" if entry[:paths].size > 3
           end
-          puts "        • ... and #{entry[:paths].size - 3} more page(s)" if entry[:paths].size > 3
-        end
         puts "      ... and #{entries.size - 8} more" if entries.size > 8
       end
 
       other_codes = grouped_by_status.keys - [0, 403, 404, 410, 500, 503]
-      if other_codes.any?
-        puts "\n   Other status codes: #{other_codes.sort.join(', ')}"
-      end
+      puts "\n   Other status codes: #{other_codes.sort.join(", ")}" if other_codes.any?
     end
 
     if non_external.any?
       puts "\nℹ️  Other failure categories"
-      non_external.sort.each do |check_name, count|
-        puts "   - #{check_name}: #{count}"
-      end
+      non_external.sort.each { |check_name, count| puts "   - #{check_name}: #{count}" }
     end
 
-    puts "\n" + "="*80
+    puts "\n" + "=" * 80
     puts "Total unique external URLs: #{external_by_status_and_url.size}"
     puts "Total failure occurrences: #{failures.size}"
-    puts "="*80 + "\n"
+    puts "=" * 80 + "\n"
   end
 
   desc "Compare staging vs production site content (requires both sites to be deployed)"
@@ -250,9 +241,7 @@ namespace :review do
     require "uri"
 
     # Load deployment config
-    unless File.exist?("_config.yml")
-      abort "❌ _config.yml not found. Are you in the project root directory?"
-    end
+    abort "❌ _config.yml not found. Are you in the project root directory?" unless File.exist?("_config.yml")
 
     begin
       config = YAML.safe_load_file("_config.yml")
@@ -284,20 +273,13 @@ namespace :review do
     # (e.g., legacy/archive URLs still live on deployed environments).
     extra_paths = []
 
-    if ENV["EXTRA_PATHS"]
-      extra_paths.concat(ENV["EXTRA_PATHS"].split(",").map(&:strip).reject(&:empty?))
-    end
+    extra_paths.concat(ENV["EXTRA_PATHS"].split(",").map(&:strip).reject(&:empty?)) if ENV["EXTRA_PATHS"]
 
     if ENV["EXTRA_PATHS_FILE"]
-      unless File.exist?(ENV["EXTRA_PATHS_FILE"])
-        abort "❌ EXTRA_PATHS_FILE not found: #{ENV["EXTRA_PATHS_FILE"]}"
-      end
+      abort "❌ EXTRA_PATHS_FILE not found: #{ENV["EXTRA_PATHS_FILE"]}" unless File.exist?(ENV["EXTRA_PATHS_FILE"])
 
       file_paths =
-        File
-          .readlines(ENV["EXTRA_PATHS_FILE"])
-          .map(&:strip)
-          .reject { |line| line.empty? || line.start_with?("#") }
+        File.readlines(ENV["EXTRA_PATHS_FILE"]).map(&:strip).reject { |line| line.empty? || line.start_with?("#") }
       extra_paths.concat(file_paths)
     end
 
@@ -307,9 +289,7 @@ namespace :review do
       puts "➕ Added #{extra_paths.size} extra path(s) from EXTRA_PATHS/EXTRA_PATHS_FILE"
     end
 
-    if html_files.empty?
-      abort "❌ No HTML files found in _site/. Please run 'bundle exec rake build' first."
-    end
+    abort "❌ No HTML files found in _site/. Please run 'bundle exec rake build' first." if html_files.empty?
 
     puts "📄 Found #{html_files.size} pages to compare"
     puts ""
@@ -337,15 +317,9 @@ namespace :review do
           # Calculate similarity
           staging_size = staging_normalized.length
           prod_size = prod_normalized.length
-          size_diff_pct =
-            ((staging_size - prod_size).abs.to_f / [staging_size, prod_size].max * 100).round(1)
+          size_diff_pct = ((staging_size - prod_size).abs.to_f / [staging_size, prod_size].max * 100).round(1)
 
-          differences << {
-            path: path,
-            staging_size: staging_size,
-            prod_size: prod_size,
-            size_diff_pct: size_diff_pct,
-          }
+          differences << { path: path, staging_size: staging_size, prod_size: prod_size, size_diff_pct: size_diff_pct }
         end
       rescue => e
         errors << "#{path}: #{e.message}"
@@ -382,9 +356,7 @@ namespace :review do
       minor = differences.select { |d| d[:size_diff_pct] <= 10 }
       if minor.any?
         puts "ℹ️  Minor differences (≤10% size change): #{minor.size} pages"
-        if minor.size <= 10
-          minor.each { |diff| puts "  - #{diff[:path]} (#{diff[:size_diff_pct]}% diff)" }
-        end
+        minor.each { |diff| puts "  - #{diff[:path]} (#{diff[:size_diff_pct]}% diff)" } if minor.size <= 10
         puts ""
       end
 
