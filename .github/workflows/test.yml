@@ -50,6 +50,6 @@ jobs:
             --swap-urls "^https?\:\/\/www\.opennews\.org:"
 
       - name: Test deployment command (dry run)
-        run: DRYRUN=true bundle exec rake deploy:staging
+        run: DRYRUN=true bundle exec rake deploy:staging:dryrun
         env:
           AWS_REGION: us-east-1
