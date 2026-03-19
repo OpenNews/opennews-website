@@ -1,6 +1,6 @@
 /* adapted from https://github.com/kognise/water.css */
 :root {
-	--body-font: serif;	
+  --body-font: serif;
   --background-body: #fff;
   --background-ui: #f7f7f7;
   --background-alt: #f7f7f7;
@@ -12,11 +12,11 @@
   --animation-duration: 0.1s;
   --button-hover: #ddd;
   --scrollbar-thumb: #d5d5d5;
-	--scrollbar-thumb-hover: #c4c4c4;
-	--form-font: sans-serif;
+  --scrollbar-thumb-hover: #c4c4c4;
+  --form-font: sans-serif;
   --form-placeholder: #949494;
-	--form-text: #000;
-	--input-thumb: #000;
+  --form-text: #000;
+  --input-thumb: #000;
   --highlight: #ff0;
   --select-arrow: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' height='63' width='117' fill='%23161f27'%3E%3Cpath d='M115 2c-1-2-4-2-5 0L59 53 7 2a4 4 0 00-5 5l54 54 2 2 3-2 54-54c2-1 2-4 0-5z'/%3E%3C/svg%3E");
 }
@@ -25,13 +25,17 @@ html {
   scrollbar-width: thin;
 }
 body {
-	line-height: 1.4;
+  line-height: 1.4;
   word-wrap: break-word;
   color: var(--text-main);
-	background: var(--on-tan);
-	font-family: var(--body-font);
-	text-rendering: optimizeLegibility;
-	font-feature-settings: 'kern' 1, 'onum' 0, 'liga' 0, 'tnum' 1;
+  background: var(--on-tan);
+  font-family: var(--body-font);
+  text-rendering: optimizeLegibility;
+  font-feature-settings:
+    "kern" 1,
+    "onum" 0,
+    "liga" 0,
+    "tnum" 1;
 }
 h1,
 h2,
@@ -39,15 +43,20 @@ h3,
 h4,
 h5,
 h6 {
-	margin: 1rem 0;
+  margin: 1rem 0;
 }
 p {
-	margin: 1rem 0;
+  margin: 1rem 0;
 }
 button,
 input,
 textarea {
-  transition: background-color var(--animation-duration) linear, border-color var(--animation-duration) linear, color var(--animation-duration) linear, box-shadow var(--animation-duration) linear, transform var(--animation-duration) ease;
+  transition:
+    background-color var(--animation-duration) linear,
+    border-color var(--animation-duration) linear,
+    color var(--animation-duration) linear,
+    box-shadow var(--animation-duration) linear,
+    transform var(--animation-duration) ease;
 }
 mark {
   background-color: var(--highlight);
@@ -117,7 +126,8 @@ textarea:not([rows]) {
   height: 140px;
 }
 select {
-  background: var(--background-ui) var(--select-arrow) calc(100% - 12px) 50%/12px no-repeat;
+  background: var(--background-ui) var(--select-arrow) calc(100% - 12px)
+    50%/12px no-repeat;
   padding-right: 32px;
 }
 select::-ms-expand {
@@ -170,8 +180,8 @@ legend {
   font-weight: 600;
 }
 input[type="range"] {
-	padding: 0;
-	margin: 0;
+  padding: 0;
+  margin: 0;
   background: transparent;
 }
 input[type="range"]:focus {
@@ -205,7 +215,9 @@ input[type="range"]::-moz-range-track {
   border-radius: 4px;
 }
 input[type="range"]::-moz-range-thumb {
-  box-shadow: 1px 1px 1px #000, 0 0 1px #0d0d0d;
+  box-shadow:
+    1px 1px 1px #000,
+    0 0 1px #0d0d0d;
   height: 20px;
   width: 20px;
   border-radius: 50%;
@@ -224,7 +236,9 @@ input[type="range"]::-ms-fill-upper {
   background: var(--background-ui);
   border: 0.2px solid #010101;
   border-radius: 4px;
-  box-shadow: 1px 1px 1px #000, 0 0 1px #0d0d0d;
+  box-shadow:
+    1px 1px 1px #000,
+    0 0 1px #0d0d0d;
 }
 input[type="range"]::-ms-thumb {
   height: 20px;
@@ -238,16 +252,16 @@ input[type="range"]:focus::-ms-fill-upper {
 }
 a {
   background-repeat: no-repeat;
-  transition: background-position .08s ease-out;
-  background-image: linear-gradient(180deg,transparent 0,var(--on-teal) 0);
+  transition: background-position 0.08s ease-out;
+  background-image: linear-gradient(180deg, transparent 0, var(--on-teal) 0);
   background-position: 0 1.125em;
   border-bottom: none;
   text-decoration: none;
-  color: var(--off-black)
+  color: var(--off-black);
 }
 a:hover {
   background-position: 0 0em;
-  color: var(--on-tan)
+  color: var(--on-tan);
 }
 img,
 video {

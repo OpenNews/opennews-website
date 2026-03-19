@@ -50,12 +50,10 @@ sub-section: index
   }
 </style>
 
-
 <p class="bodybig">The OpenNews community is building the future we all want for journalism, and we can help you do it, too. Our small but impactful team has backgrounds in editorial, technology, product, and audience. Whether you’re planning a small event or building a cross-functional team, let us handle the details so you can focus on what you and your team do best. <a href="https://airtable.com/appdaxYotl8OFHNMq/pagglZpzMuJhFkycJ/form">Send us a note to get started</a>.</p>
 
-
 <img src="/media/img/hire_us_postit_brainstorm2.jpg" class="topline" alt="a person looking at post-it notes on the wall, capturing brainstorming during a community event">
-<p class="caption">Let's figure out the best version of your next project together. (SRCCON photo: <a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption">Let's figure out the best version of your next project together. (SRCCON photo: <a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 ## What we offer
 
@@ -63,36 +61,35 @@ sub-section: index
 
 We offer coaching, consulting, and facilitation to bring decades of newsroom experience into projects related to data reporting, product development, community building, audience engagement, and newsroom organization and operations. Our approach is always rooted in doing work that leads with equity, anti-racism, and peer support.
 
-
 ### FACILITATION
 
 We design thoughtful, memorable events that emphasize care and belonging.
 
 We can help you:
 
-* Lead a team retreat where colleagues get to know each other better, understand how their working styles interact, and find alignment on organizational values.
-* Create small events that pull developers out of their day-to-day grind to collaborate on new tools, or help decision-makers figure out the details for their next big project.
-* Plan and program a conference for your community that connects people to learn from each other and develop relationships that last.
+- Lead a team retreat where colleagues get to know each other better, understand how their working styles interact, and find alignment on organizational values.
+- Create small events that pull developers out of their day-to-day grind to collaborate on new tools, or help decision-makers figure out the details for their next big project.
+- Plan and program a conference for your community that connects people to learn from each other and develop relationships that last.
 
 ### RESEARCH, DOCUMENTATION and PUBLISHING
 
-We synthesize information, record processes, and work with you to share your ideas. 
+We synthesize information, record processes, and work with you to share your ideas.
 
 We can help you:
 
-* Organize research for your project, connecting with a community of journalists so you can be confident your work answers real needs in the field.
-* Document reporting and journalism support projects in ways that amplify your work, with storytelling that shows the impact of your organization or awards program.
-* Document team workflows and the other internal processes you need to bring clarity and build operational resilience across your organization.
+- Organize research for your project, connecting with a community of journalists so you can be confident your work answers real needs in the field.
+- Document reporting and journalism support projects in ways that amplify your work, with storytelling that shows the impact of your organization or awards program.
+- Document team workflows and the other internal processes you need to bring clarity and build operational resilience across your organization.
 
 ### COACHING
 
-We work with newsroom leaders to find satisfying solutions to your toughest problems. 
+We work with newsroom leaders to find satisfying solutions to your toughest problems.
 
 We can help you:
 
-* Design application forms and processes that are welcoming and inclusive, from outreach to review to reply.
-* Develop a product team or product strategies for your newsroom.
-* Develop workflows that help small teams move quickly, making recurring work more efficient and less stressful.
+- Design application forms and processes that are welcoming and inclusive, from outreach to review to reply.
+- Develop a product team or product strategies for your newsroom.
+- Develop workflows that help small teams move quickly, making recurring work more efficient and less stressful.
 
 ### CONSULTING
 
@@ -100,19 +97,19 @@ We develop processes and programs that will change your notion of what’s possi
 
 We can help you:
 
-* Structure teams in ways that promote collaboration, empowerment, and progress toward your newsroom’s goals.
-* Build a conference program that delights and meets the most pressing needs of your community, helping speakers prepare sessions that make a difference.
-* Audit or design DEI efforts to ensure you’re making meaningful progress toward goals, and providing the kind of resources that make this work more than just promises.
+- Structure teams in ways that promote collaboration, empowerment, and progress toward your newsroom’s goals.
+- Build a conference program that delights and meets the most pressing needs of your community, helping speakers prepare sessions that make a difference.
+- Audit or design DEI efforts to ensure you’re making meaningful progress toward goals, and providing the kind of resources that make this work more than just promises.
 
 ## Who we work with
 
 Here are some of our recent projects and collaborations:
 
-* We helped the **News Product Alliance** develop, manage, and produce [their annual Summit](https://newsproduct.org/summit). Hundreds of product thinkers gathered for 47 sessions across three days—master classes, topical workshops, and social conversations designed around deepening peer relationships, learning new skills and co-creating best practices for product work in the news industry.
-* We partnered with the **Center for Journalism & Democracy** and **the Ida B. Wells Society** for [The Data Institute](https://cjddatainstitute.org/), a free, intensive workshop that teaches journalists how to use data, design, and code. OpenNews managed program development and the application and review process and also designed a cohort experience for 15 journalists who spent two weeks at Howard University to dive into data journalism together.
-* We worked with the **Center for Journalism & Democracy** again, providing program and speaker support for their [second annual Democracy Summit](https://www.youtube.com/watch?v=0fkGiZ0WqRc).
-* We collaborate with the **Data-Driven Reporting Project** to help the newsrooms they work with tell [the stories behind](https://source.opennews.org/articles/story-recipe-schools-data-restraint-and-seclusion/) [investigative projects](https://source.opennews.org/articles/lessons-data-project-toronto-vision-zero/). The documentation is designed to amplify impact, helping journalists replicate important work and sharing takeaways that give them a head start on projects of their own.
-* We coordinate large-scale DEI efforts—like [an open, public letter](https://opennews.org/blog/open-letter-press-forward/) to Press Forward—with our partners at Vision 25, **the Online News Association** and the **Maynard Institute**, while also hosting [the DEI Coalition for Anti-Racist, Equitable and Just Newsrooms](https://opennews.org/what/community/dei-coalition/), a group of more than 1,000 journalists from across the world who connect via a Slack community in support of wholesale DEI changes in our field.
+- We helped the **News Product Alliance** develop, manage, and produce [their annual Summit](https://newsproduct.org/summit). Hundreds of product thinkers gathered for 47 sessions across three days—master classes, topical workshops, and social conversations designed around deepening peer relationships, learning new skills and co-creating best practices for product work in the news industry.
+- We partnered with the **Center for Journalism & Democracy** and **the Ida B. Wells Society** for [The Data Institute](https://cjddatainstitute.org/), a free, intensive workshop that teaches journalists how to use data, design, and code. OpenNews managed program development and the application and review process and also designed a cohort experience for 15 journalists who spent two weeks at Howard University to dive into data journalism together.
+- We worked with the **Center for Journalism & Democracy** again, providing program and speaker support for their [second annual Democracy Summit](https://www.youtube.com/watch?v=0fkGiZ0WqRc).
+- We collaborate with the **Data-Driven Reporting Project** to help the newsrooms they work with tell [the stories behind](https://source.opennews.org/articles/story-recipe-schools-data-restraint-and-seclusion/) [investigative projects](https://source.opennews.org/articles/lessons-data-project-toronto-vision-zero/). The documentation is designed to amplify impact, helping journalists replicate important work and sharing takeaways that give them a head start on projects of their own.
+- We coordinate large-scale DEI efforts—like [an open, public letter](https://opennews.org/blog/open-letter-press-forward/) to Press Forward—with our partners at Vision 25, **the Online News Association** and the **Maynard Institute**, while also hosting [the DEI Coalition for Anti-Racist, Equitable and Just Newsrooms](https://opennews.org/what/community/dei-coalition/), a group of more than 1,000 journalists from across the world who connect via a Slack community in support of wholesale DEI changes in our field.
 
 We’ve loved working on all of these projects, with each of these partners. If you’d like to talk with us about a project where we can help make a difference in _your_ work, [please reach out](https://airtable.com/appdaxYotl8OFHNMq/pagglZpzMuJhFkycJ/form)!
 

@@ -21,7 +21,7 @@ We organize SRCCON events with a lot of space for conversation and emergent idea
 
 Several folks also mentioned that they appreciated the topical theme for this event including that the theme "meant everyone had some common interest, even if we had super different job titles." Participants to this event were tied together by the fact that they were all working to shift power dynamics in journalism. One attendee mentioned, "in particular, I found this conference did a fantastic job of pushing difficult conversations in kind and supportive ways."
 
-With this shared grounding, we also put a lot of intention into helping folks think about takeaways from the event and how to [keep the work and conversations moving forward](/blog/srccon-power-forward/) after these two days. It's been great to see ideas flowing in for ways we can support people’s work, and a bunch of notes about takeaways that are exactly what we hoped for—including:
+With this shared grounding, we also put a lot of intention into helping folks think about takeaways from the event and how to [keep the work and conversations moving forward](https://opennews.org/blog/srccon-power-forward/) after these two days. It's been great to see ideas flowing in for ways we can support people’s work, and a bunch of notes about takeaways that are exactly what we hoped for—including:
 
 - "There is a community in journalism that wants to reform power structures and it makes me feel heard and safe."
 - "Some strong connections with others in the industry I hadn't gotten to know before, a plan for a write-up and a personal sense of obligation to use my own power more often!"
@@ -35,7 +35,7 @@ In addition to feedback from our anonymous attendee survey, several attendees to
 - "Lots of meaningful discussions and so many ideas to bring back to @Reveal." - [@achabel](https://twitter.com/achabel/status/1074135669411319808)
 - "Thank you for making #srcconpower amazing. I’m bringing your values and spirit home with me." - [@wmariano](https://twitter.com/wmariano/status/1073722976409915393)
 - "thank you @erika_owens @source & my new pals from #SRCCONPOWER for holding space, sharing and listening" - [@chenkx](https://twitter.com/chenkx/status/1073736012008955905)
-- "My first thought is that this was the best @SRCCON yet." - [@britrenee_](https://twitter.com/BritRenee_/status/1073938855470993410)
+- "My first thought is that this was the best @SRCCON yet." - [@britrenee\_](https://twitter.com/BritRenee_/status/1073938855470993410)
 - "Thank you @SRCCON #SRCCONPOWER for having me and feeding my soul!" - [@webjournalist](https://twitter.com/webjournalist/status/1073726973871046658)
 - "#SRCCONPOWER hands down the best conference I've ever been to. Thank you for making time & space for these conversations about power" - [@mandicai](https://twitter.com/MandiCai/status/1073710645734985728)
 - "So inspired by the people I met at #SRCCONPOWER and also renewed in my energy around transforming journalism." - [@LewisPants](https://twitter.com/LewisPants/status/1073701372598632450)
@@ -63,7 +63,7 @@ We're still [gathering feedback from attendees](https://goo.gl/forms/myUTr8gobRw
 
 ## What's next
 
-As many of you have suggested, we will be getting some rest after organizing this event! In the new year, we've got a [bunch of plans](/opennews.org/blog/srccon-power-forward/) for following up on ideas coming out of sessions. Source will have ample [write-ups and space for documentation](https://source.opennews.org/articles/tags/srcconpower/) and continued conversation. We've also already set the date and location for SRCCON 2019: We'll be back in Minneapolis on July 11-12.
+As many of you have suggested, we will be getting some rest after organizing this event! In the new year, we've got a [bunch of plans](https://opennews.org/blog/srccon-power-forward/) for following up on ideas coming out of sessions. Source will have ample [write-ups and space for documentation](https://source.opennews.org/articles/tags/srcconpower/) and continued conversation. We've also already set the date and location for SRCCON 2019: We'll be back in Minneapolis on July 11-12.
 
 Newsrooms are super skilled in productive conflict when it comes to the reporting and editing process. There are fewer spaces to have conversations about the legacy of racism in our reporting and institutions, and how newsroom structures and reporting perpetuate inequitable power dynamics. At SRCCON:POWER, we had more than 100 people willing to get into those kinds of questions, to envision what equitable workplaces can look like, newsrooms with inclusive, respectful relationship with community, and maybe a more skeptical orientation toward technology companies. We heard from a few participants that this event with its topical focus and emphasis on outcomes was their favorite SRCCON yet. As one attendee put it, “I appreciate the tangible takeaways. There were a few sessions where I found myself thinking: ‘Huh, this is something I've spent a lot of brain energy on, but I don't think I've ever once tried to map it out on paper.’”
 

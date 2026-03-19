@@ -5,17 +5,17 @@ date: 2017-08-31 8:00
 author: Dan Sinker and Erika Owens
 tags: stakeholdernewsletter
 excerpt: A look at SRCCON 2017, the second News Nerd Survey, and what we’ve got coming up for the rest of 2017.
-
 ---
 
-(*This is the first of a new series of monthly newsletters to stakeholders providing an overview of what OpenNews has been working on and showcasing folks in the community.*)
+(_This is the first of a new series of monthly newsletters to stakeholders providing an overview of what OpenNews has been working on and showcasing folks in the community._)
 
 At OpenNews, our purpose is to connect and nurture the people using technology to create stronger, more representative journalism.
 
 We understand that journalists need support and care for the whole selves that they bring into this work. The challenges may change week to week, from hurricanes to massive data dumps, but the need for more durable and accessible support systems remains. We see how a data journalist of color building maps to cover socially-charged issues will need different support systems than a white journalist or how a woman manager is perceived differently advocating for her team than a man—that is why we hope to find places where we can collaborate with folks to promote the health and diversity of this community.
 
 ## SRCCON: A space to share and care for one another
-August kicked off with our [fourth annual SRCCON conference](http://2017.srccon.org), two days of collaborative sessions focused on the practical challenges that news technology and data teams encounter every day. 
+
+August kicked off with our [fourth annual SRCCON conference](https://2017.srccon.org), two days of collaborative sessions focused on the practical challenges that news technology and data teams encounter every day.
 
 We design SRCCON to empower and celebrate the journalism tech community. For many, it has become more than just another stop on the conference circuit: Folks created spaces to continue conversations from NICAR such as [being a journalist of color](https://2017.srccon.org/schedule/#_session-people-of-color-newsrooms) and [threat modeling for your own well being](https://2017.srccon.org/schedule/#_session-threat-modeling-well-being). This year, the Journalists of Color Slack decided to hold their first house party at SRCCON because of its dedication to inclusion and diversity, and their admin team came to us to ask about what sort of resources OpenNews might be able to provide to help them nurture the community. Many across the news nerd community come to SRCCON because, for them, it is the heart of the family.
 
@@ -51,8 +51,8 @@ Many members of this community are at career transition points like Emma, and we
 
 - Right now, we're running our annual News Nerd Survey, made possible by the support of Google News Lab and a community advisory group including Soo Oh, John S. Knight Fellow; Jennifer Lee of Google News Lab; and Liam Andrew of The Texas Tribune. It will help us, and the rest of the community, understand the career pathways and skill-building needs of news nerds. Can you help us spread the word? It's open till September 9: [https://www.research.net/r/newsnerd2017](https://www.research.net/r/newsnerd2017). We will share the results from the survey at SRCCON:WORK.
 
-- We've got a few more events brewing for the rest of the year, and we're wrapping our [ticket+travel scholarship program](http://opennews.org/what/community/scholarships) this year by sending folks to the Excellence in Journalism Conference and Online News Association conference. By the end of the year, we'll have sent over 100 journalists from a range of newsrooms to events around the world where they were able to learn from journalists at other career stages and build skills. We'll have more about that soon as well.
+- We've got a few more events brewing for the rest of the year, and we're wrapping our [ticket+travel scholarship program](https://opennews.org/what/community/scholarships) this year by sending folks to the Excellence in Journalism Conference and Online News Association conference. By the end of the year, we'll have sent over 100 journalists from a range of newsrooms to events around the world where they were able to learn from journalists at other career stages and build skills. We'll have more about that soon as well.
 
-As we enter September, we're deep into planning for 2018 [with our advisory board](https://opennews.org/who/) and drawing from community feedback. Please [reach out to us](mailto:info@opennews.org) if there's anything here that resonates with what you're working on—we'd love to collaborate. 
+As we enter September, we're deep into planning for 2018 [with our advisory board](https://opennews.org/who/) and drawing from community feedback. Please [reach out to us](mailto:info@opennews.org) if there's anything here that resonates with what you're working on—we'd love to collaborate.
 
-We have settled into our new home, [since transitioning earlier this year](https://opennews.org/blog/new-opennews/), and we're not only excited about the work ahead, but we know its necessity. We have heard from community members how they need organizations like ours, organizations that have their back and intentionally build the supports they need to focus on transformative journalism. We're grateful to be a part of this work with them—and you. 
+We have settled into our new home, [since transitioning earlier this year](https://opennews.org/blog/new-opennews/), and we're not only excited about the work ahead, but we know its necessity. We have heard from community members how they need organizations like ours, organizations that have their back and intentionally build the supports they need to focus on transformative journalism. We're grateful to be a part of this work with them—and you.

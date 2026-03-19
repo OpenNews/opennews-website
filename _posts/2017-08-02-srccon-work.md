@@ -13,12 +13,12 @@ We know that supporting _people_ can have a transformative effect in newsrooms. 
 
 These are the kinds of topics we want to tackle—with you—at SRCCON:WORK:
 
-* **Collaboration & teamwork,** because building relationships across our newsrooms breaks us out of siloes, and leads to code and stories that change readers’ lives.
-* **Hiring & career growth,** because we can’t give our communities the coverage they deserve without bringing in diverse, skilled voices and making newsrooms a place they want to stay.
-* **Mental health & self-care,** because it is _hard_ to do journalism right now.
+- **Collaboration & teamwork,** because building relationships across our newsrooms breaks us out of siloes, and leads to code and stories that change readers’ lives.
+- **Hiring & career growth,** because we can’t give our communities the coverage they deserve without bringing in diverse, skilled voices and making newsrooms a place they want to stay.
+- **Mental health & self-care,** because it is _hard_ to do journalism right now.
 
-What we talk about at SRCCON:WORK will build on many of the discussions taking place in Minneapolis this week [at SRCCON](https://srccon.org). Our program in Philadelphia this December will give us a chance to further explore these themes with an intentionally cozy audience of about 100 participants, gathering as a group for focused presentations, then breaking out for sets of smaller workshops. 
+What we talk about at SRCCON:WORK will build on many of the discussions taking place in Minneapolis this week [at SRCCON](https://srccon.org). Our program in Philadelphia this December will give us a chance to further explore these themes with an intentionally cozy audience of about 100 participants, gathering as a group for focused presentations, then breaking out for sets of smaller workshops.
 
-Our Call For Proposals will open in early September, and you can [sign up for our email list](http://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) if you’d like to get a reminder. We’ll be looking for talks and workshops that speak to members of our community at a few key moments: people new to journalism, whether fresh out of school or from another field; technical managers trying to balance blended teams, sustainable code, and newsroom deadlines; and people at decision points in their careers, wrestling with what comes next—for the industry and for themselves.
+Our Call For Proposals will open in early September, and you can [sign up for our email list](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc) if you’d like to get a reminder. We’ll be looking for talks and workshops that speak to members of our community at a few key moments: people new to journalism, whether fresh out of school or from another field; technical managers trying to balance blended teams, sustainable code, and newsroom deadlines; and people at decision points in their careers, wrestling with what comes next—for the industry and for themselves.
 
 The ideas behind [SRCCON:WORK](https://work.srccon.org/) have emerged from conversations with you, the people in our community who are willing to bring up challenges and then start looking for solutions together. We can't wait to share more about this event in the weeks to come, and to work with everyone to make it something that sustains you and your colleagues, keeping you connected to the work you do.

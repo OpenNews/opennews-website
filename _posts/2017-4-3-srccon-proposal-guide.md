@@ -16,12 +16,12 @@ So when it comes to SRCCON, we put a lot of effort into supporting new voices—
 
 So this year I put together [a guide to submitting SRCCON proposals](https://srccon.org/sessions/proposals/guide/) that (we hope!) takes the mystery out of the session proposal process. It covers:
 
-* key dates in the review calendar
-* what we look for in session pitches
-* how to draft a proposal that stands out
-* where to reach out for further support
+- key dates in the review calendar
+- what we look for in session pitches
+- how to draft a proposal that stands out
+- where to reach out for further support
 
-We're always impressed when organizations put in the work to make applications accessible—this NPR Visuals writeup on [how to apply for an internship](http://blog.apps.npr.org/2015/10/14/how-to-apply.html) is a great example—and this documentation is [one part](https://srccon.org/docs/) of our effort to do the same for SRCCON. It's an opportunity for us to share both expectations and encouragement. We hope it helps you feel ready to write up your ideas, and that you'll [tell us](mailto:srccon@opennews.org) how we can make the guide even better.
+We're always impressed when organizations put in the work to make applications accessible—this NPR Visuals writeup on [how to apply for an internship](https://blog.apps.npr.org/2015/10/14/how-to-apply.html) is a great example—and this documentation is [one part](https://srccon.org/docs/) of our effort to do the same for SRCCON. It's an opportunity for us to share both expectations and encouragement. We hope it helps you feel ready to write up your ideas, and that you'll [tell us](mailto:srccon@opennews.org) how we can make the guide even better.
 
 We don't want to be prescriptive about what you pitch, but we _do_ want you to feel confident about [filling out that proposal form](https://srccon.org/sessions/proposals/pitch/). Nothing's more fun for us than being blown away by a session idea, and imagining how excited SRCCON will be to see it on the schedule.
 

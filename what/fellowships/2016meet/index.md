@@ -4,8 +4,9 @@ title: Meet the 2016 Knight-Mozilla Fellows
 section: fellowships
 sub-section: fellows_2016
 ---
+
 <img src="/media/img/2016fellows-3.jpg" alt="Meet the 2016 fellows." style="width: 100%;">
-<p class="caption">Our 2016 Knight-Mozilla Fellows gather in London. (photo/<a href="http://westraco.com">Erik Westra</a>)</p>
+<p class="caption">Our 2016 Knight-Mozilla Fellows gather in London. (photo/<a href="https://westraco.com">Erik Westra</a>)</p>
 
 <h2>{{ page.title }}</h2>
 <p class="bodybig">The 2016 Knight-Mozilla Fellows—our <em>fifth</em> cohort of fellows—come from inside and outside of journalism to spend 10 months working with tech teams within our fellowship partner organizations. This year, our fellows will work with the Los Angeles Times Data Desk, NPR, Vox Media,  Frontline, Correct!v, and the Coral Project (a collaboration between the New York  Times, the  Washington Post, and Mozilla).</p>

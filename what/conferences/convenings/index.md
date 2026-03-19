@@ -2,9 +2,9 @@
 layout: post_notitle
 title: Code, Culture, and Leadership Convenings
 section: what we do
-
 ---
-<img src="/media/img/codeconveningnyc.jpg" class="topline">
+
+<img src="/media/img/codeconveningnyc.jpg" class="topline" alt="Code convening attendees" />
 <h2>{{ page.title }}</h2>
 <p class="bodybig">Code, Culture, and Leadership convenings were cohort-driven events where small groups come together to work and problem-solve on a common theme.</p>
 

@@ -5,23 +5,23 @@ date: 2019-08-26 12:00
 author: Erika Owens
 tags: OpenNews
 excerpt: We've got answers to some of your questions about this new position with OpenNews.
-
 ---
+
 We're hiring a new [full-time member of the OpenNews team](/blog/hiring-director-programs/)! We've set a priority deadline for applications of September 15, 2019. The [application will remain open](https://opennews.forms.fm/director-of-programs-job) until the position is filled, but we will begin reviewing and interviewing applicants after that date so it's the best time to apply.
 
 I wanted to publicly respond to questions we've received so far. If you have any others, please feel free to [email me](mailto:erika@opennews.org) as well.
 
-As a general point, the position description is written very broadly by design. We're interested in seeing what kind of skills someone would like to contribute to the team and how that will complement our work going forward. 
+As a general point, the position description is written very broadly by design. We're interested in seeing what kind of skills someone would like to contribute to the team and how that will complement our work going forward.
 
 ## About the position
 
 **What programs?**<br>
 This position would help with our existing slate of programs, and our work as it grows and evolves. Which precise programs this person would take the lead on would depend on that person's strengths and interests, and how they complement the rest of the team. Our current programs include:
 
-* [events](https://srccon.org) (SRCCON, smaller thematic SRCCON events, event consulting helping with other organizations' events)
-* [community support programs](/blog/srccon-power-forward/) (scholarships and small grants, consulting and feedback, other support)
-* research, documentation, and sharing ([Source](https://source.opennews.org), [community call](/what/community/calls), [News Nerd Survey](/what/community/survey), speaking and writing about journalism tech)
-* internal work (our own internal systems for technology, fundraising, planning, and more)
+- [events](https://srccon.org) (SRCCON, smaller thematic SRCCON events, event consulting helping with other organizations' events)
+- [community support programs](/blog/srccon-power-forward/) (scholarships and small grants, consulting and feedback, other support)
+- research, documentation, and sharing ([Source](https://source.opennews.org), [community call](/what/community/calls), [News Nerd Survey](/what/community/survey), speaking and writing about journalism tech)
+- internal work (our own internal systems for technology, fundraising, planning, and more)
 
 We work together as a team to run all of those programs, and this position would likely take the lead on a few of them.
 
@@ -37,7 +37,7 @@ Not at this time. Project management skills are probably one of the most importa
 We are a team of three at this time (two full-time staff managing all organization activities, one part-time editor of our website Source). Our work is informed by community feedback and is designed to generate more opportunities for community members to take leadership of the work as well. The expectation is that this position will join as part of a process of looking at how the full team works together, where we complement each other, and what may need to change to work well for the whole team. We will do some planning and decision making together as a group, and other work will be delegated with each person "bottom lining" projects having power to make decisions about those projects.
 
 **Where is OpenNews headed?**<br>
-We hope this position will be a big part of how we figure that out! Over the years, the journalism-tech community that OpenNews serves has made it very clear that newsroom culture is what needs to change, specifically around making news organizations more diverse, equitable, and inclusive. Our work continues to orient in that direction and to figure out how we can support more "news nerds" in moving into leadership positions where they can change how power functions in news organizations. We're entering a period of some intensive planning for determining where we want to be in the next 3-5 years. 
+We hope this position will be a big part of how we figure that out! Over the years, the journalism-tech community that OpenNews serves has made it very clear that newsroom culture is what needs to change, specifically around making news organizations more diverse, equitable, and inclusive. Our work continues to orient in that direction and to figure out how we can support more "news nerds" in moving into leadership positions where they can change how power functions in news organizations. We're entering a period of some intensive planning for determining where we want to be in the next 3-5 years.
 
 **How does inclusion and equity show up in how you work?**<br>
 The biggest way it shows up is by setting up processes and procedures to move from intention to the actual impact we hope to see. We start with listening, seek out strategies for how to do our work better, and make adjustments when we miss the mark. This is a huge part of how we organize our programs, from keeping track of who participates to how we structure the programs to alleviate barriers to participation. We also partner with organizations led by marginalized communities and work together with folks who are already doing work we're entering into. Staff have done self education and anti-racist workshops, which have influenced how we work to shift our organization to not default to white supremacy culture in how we operate. We also give each other time, space, and support as needed when dealing with personal and health matters, and when what's going on in the world takes its toll.
@@ -56,4 +56,3 @@ We're an all remote team and communicate largely through Slack. We've been all r
 In terms of hours, this is another area where we are flexible. This job is planned to be 40 hours/full time, but we're open to other setups if that allows the person to take on this role. Some benefits kick in at 20 hours/week and more kick in at 30 hours/week. We have experience with team members working different numbers of hours as well, so we wouldn't be figuring it out for the first time. One note about hours is that some of the travel requirements are for a fixed amount of time, though we try to accommodate as much as we can (for example, shifting where/when we have in-person team meetings between cities where staff are based).
 
 We hope this clarifies a few key details about the role and the work! If you have any other questions, please feel free to [email me](mailto:erika@opennews.org) as well.
-

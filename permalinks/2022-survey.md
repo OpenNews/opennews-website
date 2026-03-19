@@ -4,5 +4,5 @@ excerpt: This survey seeks to gather new data on how the field of journalism is 
 image: /media/img/blog/opennews-source-sticker-button.jpg
 permalink: /2022-survey/
 redirect_to:
- - https://www.research.net/r/2022_OpenNewsSurvey
+  - https://www.research.net/r/2022_OpenNewsSurvey
 ---

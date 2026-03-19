@@ -42,7 +42,7 @@ Year 1 was about launching the space with [incredible](https://source.opennews.o
 
 **🚀 Year 2 will be focused on TAKING ACTION. 🚀**
 
-Imagine with me for a moment: What could we accomplish if every member of the Coalition — every type of reporter, manager, editor, funder, direct supporter, professor, and student of journalism — got together and worked collectively to make systems level change across the journalism industry? What if that process also centered joy, flexibility, clarity, and making lifelong connections? 
+Imagine with me for a moment: What could we accomplish if every member of the Coalition — every type of reporter, manager, editor, funder, direct supporter, professor, and student of journalism — got together and worked collectively to make systems level change across the journalism industry? What if that process also centered joy, flexibility, clarity, and making lifelong connections?
 
 If you want to be a part of a joyful process to create real, systemic change in the journalism industry, I can’t wait to welcome you to join, or deepen your work, with the DEI Coalition this year.
 
@@ -52,20 +52,21 @@ Here’s what your experience will be like as we make a plan and follow through 
 
 **Flexibility:** Most of our work will be asynchronous, so you can contribute in a way that works for you and your life. As Coalition members know from experience, any video meetings will always include [asynchronous ways to participate](https://source.opennews.org/articles/redesigning-brainstorming-asynchronous/), and we always respect your time. When you sign up, you tell us what level of time commitment you’d like to make — ranging from 4 hrs/month, to completely tag-in-tag-out as works for you.
 
-**Joy and satisfaction:** We’ll be making as much space as we can for you to contribute in ways that bring you joy and satisfaction. Fighting for equity is often frustrating, stressful work. The beauty of being able to work alongside a community is that we can find ways for everyone to play different roles, and help everyone be able to do the things they love, all while helping move DEI forward in a meaningful way.  
+**Joy and satisfaction:** We’ll be making as much space as we can for you to contribute in ways that bring you joy and satisfaction. Fighting for equity is often frustrating, stressful work. The beauty of being able to work alongside a community is that we can find ways for everyone to play different roles, and help everyone be able to do the things they love, all while helping move DEI forward in a meaningful way.
 
 **Clear next steps:** I’ll be facilitating the entire process and providing guidance and some training along the way. Next steps and concrete ways you can help will always be clear. Anyone who participated in our work to create the Coalition Slack can expect a similar, but even more improved process this year.
 
 **Lifelong connections:** Many folks who participated in our initial work to design the Coalition Slack made deep connections and lasting friendships with one another. Our Year 2 process is even more likely to help you establish, broaden, or deepen these meaningful connections.
 
 **Starting in May, together with community members, we will:**
-* Try out “sprints,” aka 6-week periods where we do guided, focused work together
-* Have deep conversations with other Coalition members 1-1 about their challenges 
-* Research specific topics to see what’s been done before and find where the opportunities are
-* Have facilitated group brainstorms and conversations 
-* Synthesize what we learn and collaboratively pick what actions to take together
-* Stress test asks we can make through research and 1-1 interviews
-* Meaningfully take action together
+
+- Try out “sprints,” aka 6-week periods where we do guided, focused work together
+- Have deep conversations with other Coalition members 1-1 about their challenges
+- Research specific topics to see what’s been done before and find where the opportunities are
+- Have facilitated group brainstorms and conversations
+- Synthesize what we learn and collaboratively pick what actions to take together
+- Stress test asks we can make through research and 1-1 interviews
+- Meaningfully take action together
 
 If you’re interested in joining us in any way for Year 2: TAKING ACTION with the DEI Coalition, please [sign up](https://docs.google.com/forms/d/e/1FAIpQLScOhYekI1tbDajjoRQg3TxHdit09nSIcf6pklHJcOACyOVT1Q/viewform).
 

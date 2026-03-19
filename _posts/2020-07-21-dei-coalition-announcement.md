@@ -9,9 +9,9 @@ image: /media/img/blog/2020-07-21-together-mural-social-crop.jpg
 ---
 
 <img src="/media/img/blog/2020-07-21-together-mural.jpg" style="width: 100%;" alt="Together, written on a mural."> 
-<p class="caption" style="margin-top: -15px; text-align: left;">OpenNews is co-creating with the community two digital organizing spaces — hosted on Slack — focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry. (Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/s/photos/together?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</p> 
+<p class="caption" style="margin-top: -15px; text-align: left;">OpenNews is co-creating with the community two digital organizing spaces — hosted on Slack — focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry. (Photo by <a href="https://unsplash.com/@adigold1?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Adi Goldstein</a> on <a href="https://unsplash.com/s/photos/together?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>)</p>
 
-OpenNews exists in support of a movement in journalism — one that is fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities we've long ignored can trust in journalism again, or for the first time ever. 
+OpenNews exists in support of a movement in journalism — one that is fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities we've long ignored can trust in journalism again, or for the first time ever.
 
 To take steps toward that future, OpenNews is looking to co-create with the journalism community already doing or wanting to do this work, two digital organizing spaces — hosted on Slack — focused on organizing, collective action, and knowledge sharing in the service of a more equitable journalism industry.
 
@@ -21,7 +21,7 @@ To take steps toward that future, OpenNews is looking to co-create with the jour
 
 **Finally, we'll also be looking into ways for the two communities to communicate and strategize across each other, when needed.**
 
-In her [SRCCON 2020 talk](https://2020.srccon.org/schedule/#_session-wed-talks-alicia-tauhid) with [Tauhid Chappell](https://www.freepress.net/about/staff/tauhid-chappell), [Alicia Bell](https://www.freepress.net/about/staff/alicia-bell) mentioned that power is a web of connected relationships and moving power requires mobilizing and organizing across a network of networks. This is why we also feel it's incredibly important to acknowledge that the two Slack communities we're building are there for just that: organizing networks that already exist.
+In her [SRCCON 2020 talk](https://2020.srccon.org/schedule/#_session-wed-talks-alicia-tauhid) with [Tauhid Chappell](https://web.archive.org/web/20210427101847/https://www.freepress.net/about/staff/tauhid-chappell), [Alicia Bell](https://web.archive.org/web/20210427101829/https://www.freepress.net/about/staff/alicia-bell) mentioned that power is a web of connected relationships and moving power requires mobilizing and organizing across a network of networks. This is why we also feel it's incredibly important to acknowledge that the two Slack communities we're building are there for just that: organizing networks that already exist.
 
 Personally, I am already a member of a few existing communities that are near and dear to my heart — because years ago, they were the places where I first felt like I found a community that shared all of my identities and could therefore relate to all parts of my lived experience. And in those spaces today, journalists are mobilizing from a shared experience of being oppressed, while still making sure to inform each other that oppression doesn't look the same for everyone.
 
@@ -57,12 +57,12 @@ Naturally, I wanted to know: Is there something that we can do at OpenNews, to l
 
 It was clear to the whole OpenNews team that the conversations spread out all [across SRCCON 2020](https://2020.srccon.org/schedule) helped us get at this. But that part isn't that surprising, because SRCCON is built by our community, and those conversations are the ones they told us they wanted to have. Frankly, it's a conversation that our community demanded to have.
 
-But the questions that I saw come up in SRCCON sessions matched the same ones I've been hearing for weeks, or even years, from both public and private conversations I’ve had with journalists of all colors at big and small newsrooms all over the country: 
+But the questions that I saw come up in SRCCON sessions matched the same ones I've been hearing for weeks, or even years, from both public and private conversations I’ve had with journalists of all colors at big and small newsrooms all over the country:
 
-*   What kinds of things have you asked for in your newsroom? 
-*   How did you get leadership to commit to that?
-*   How do I start a diversity committee at my newsroom? How much of a difference will it make? 
-*   Is it time for us to unionize?
+- What kinds of things have you asked for in your newsroom?
+- How did you get leadership to commit to that?
+- How do I start a diversity committee at my newsroom? How much of a difference will it make?
+- Is it time for us to unionize?
 
 So, the natural question was: how can we help journalists come together? Join efforts? Teach each other? Stand in solidarity with each other? All while they're doing hard, emotionally laborious, personally traumatizing, work?
 

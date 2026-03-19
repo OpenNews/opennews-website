@@ -1,12 +1,11 @@
 ---
 layout: blogpost
-title: A celebration of the relationships and actions that move the news nerd community 
+title: A celebration of the relationships and actions that move the news nerd community
 date: 2022-12-14 10:30-04:00
 author: mago torres, on December 14, 2022
 tags: OpenNews, survey
 excerpt: The first highlights from the latest News Nerd Survey tell us about how our community has been working together to support each other, some shifts in its configuration and where to take more action.
 image: /media/img/blog/kaleidoscope.jpg
-
 ---
 
 <img src="/media/img/blog/kaleidoscope.jpg" style="width: 100%;" alt="A multi-colored refraction of a kaleidoscope with light shining through."> 
@@ -15,6 +14,7 @@ image: /media/img/blog/kaleidoscope.jpg
 Analyzing a survey that gives us a portrait of our community is like looking into a kaleidoscope. Every turn is a reminder of the light that binds us, but that also reflects our diversity. We see how our personal experiences mold how we inhabit our professional space: how career trajectories, age, race, roles and gender intersect with systems and structures that are not set up to work for all of us.
 
 The first highlights from this year&rsquo;s [News Nerd Survey](/what/community/survey/), which had the participation of over 600 members of the community, are a reflection of these experiences. In this first update of the results, we share not the numbers, but some of the intangibles that speak to who we are as a community.
+
 <ul>
 <li><strong>Our connections (can) translate into collective efforts for everyone. </strong>One of the most beautiful aspects to see through responses of the survey is the constant recognition of the value of <strong>mutual support</strong> inside the news nerd community. And that this support and helping each other takes a lot of forms, from being available to answer questions in a <a href="/what/community/dei-coalition/">Slack community</a>, to offering <a href="https://opennews.org/what/community/datareview/">peer support</a>, <a href="https://source.opennews.org/articles/mentor-will-get-you-coffee-sponsor-will-get-you-pr/">advocating and mentoring (or sponsoring!)</a>, being present and active in spaces for hard conversations, and impromptu check-ins, among many others. Respondents with more tenure shared that one of the things they look forward to is offering support in the same way they got it and that helped move forward their careers.&nbsp;&nbsp;</li>
 <ul>
@@ -34,7 +34,6 @@ The first highlights from this year&rsquo;s [News Nerd Survey](/what/community/s
 </ul>
 </ul>
 We close these highlights with the recognition that none of this would be possible without the effort that everyone puts in to continue and transform the news nerd community. We have clarity that leadership is not hierarchical, but shared and co-created. That the relationships that we build when we share the space to listen, talk and understand each other are at the heart of the transformation of our industry. Thank you for being present and collectively leading the way. We are looking at ways in which we can interrogate the data together. If you, like us, have questions that can help us to find more turns to this kaleidoscope, email us at [mago@opennews.org](mailto:mago@opennews.org). We&rsquo;ll have further updates and analysis to share in early 2023.
-
 
 <em>This [News Nerd Survey](/what/community/survey/) is the third iteration of a survey designed by Network Impact and informed by community input to understand more about the people who work at the intersection of journalism and technology, and how together we can strengthen and make better our organizations and work environments.
 

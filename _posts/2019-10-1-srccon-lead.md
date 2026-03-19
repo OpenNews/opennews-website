@@ -16,11 +16,11 @@ Our industry needs to talk about how to truly prepare and support the people it 
 
 SRCCON:LEAD will take place this November 19 & 20, [with a program built around different opportunities to plan and learn together](https://lead.srccon.org/program/). We'll have:
 
-* hands-on sessions (it wouldn't be a SRCCON without them!) that inspire us to look to the future and teach us the practical skills that can take us there.
-* talks that create a shared experience, challenging and even provoking us, getting us excited about doing the work.
-* open, emergent conversations that respond to the moment, from ideas that pop into people's minds on the way to Philadelphia to connections that kick up during a session right there at SRCCON:LEAD.
+- hands-on sessions (it wouldn't be a SRCCON without them!) that inspire us to look to the future and teach us the practical skills that can take us there.
+- talks that create a shared experience, challenging and even provoking us, getting us excited about doing the work.
+- open, emergent conversations that respond to the moment, from ideas that pop into people's minds on the way to Philadelphia to connections that kick up during a session right there at SRCCON:LEAD.
 
-[Each piece of the program will be peer-driven](https://lead.srccon.org/participation/), representing backgrounds and experiences from across the journalism-tech community. SRCCON:LEAD is for people doing leadership work with or without the title, and it's for people ready to see journalism redefine what leadership looks like. Coming up with plans that work means listening to everyone in the room, and that's where we'll start—we even have [scholarships](https://lead.srccon.org/scholarships/) that can help you get there. 
+[Each piece of the program will be peer-driven](https://lead.srccon.org/participation/), representing backgrounds and experiences from across the journalism-tech community. SRCCON:LEAD is for people doing leadership work with or without the title, and it's for people ready to see journalism redefine what leadership looks like. Coming up with plans that work means listening to everyone in the room, and that's where we'll start—we even have [scholarships](https://lead.srccon.org/scholarships/) that can help you get there.
 
 This will be the third in a series of smaller, thematic OpenNews events that started in 2017. At [SRCCON:WORK](https://work.srccon.org/), we explored how people in this community can support each other and collaborate to make journalism more representative. Last year, [SRCCON:POWER](https://power.srccon.org/) took on the ways power operates in our newsrooms and our relationships with communities, and what that means for ethical decision-making in this industry.
 

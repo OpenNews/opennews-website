@@ -8,7 +8,7 @@ excerpt: SRCCON is a beginning of our work as a community, not a culmination. He
 ---
 
 <img src="/media/img/blog/srccon_2023_giving.jpg" style="width: 100%;" alt="An overhead view in McNamara Alumni Center shows tables full of SRCCON participants."> 
-<p class="caption" style="margin-top: -15px; text-align: left;">Yep we're back, back again (for SRCCON in Minneapolis)! (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
+<p class="caption" style="margin-top: -15px; text-align: left;">Yep we're back, back again (for SRCCON in Minneapolis)! (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 It's a little hard to process how excited we are to be back in Minneapolis next week for SRCCON 2023, and almost as hard to believe that 2023 is the _10th year of SRCCON_. As much as things around us have changed since that first conference in Philly in 2014, our core principles remain the same: We get to learn a ton from each other, we get to know each other better, and we get to imagine a better future for journalism because, for a couple days, we get to spend time right there together in it.
 
@@ -33,7 +33,6 @@ Our sessions represent a wide range of news organizations, roles, and perspectiv
 During virtual SRCCONs, that "evening" program morphed into our "social" program, and one thing we found was, these sessions are just ... program. The chance to hang out together as not just journalists, but as people who love all sorts of fascinating things, makes this community so much stronger.
 
 **Scholarships and accessibility:** We were able to offer nearly 1/3 of our facilitators this year travel support to attend, and more than 15% of attendees overall. Many more people were able to register for a free ticket as part of our tiered ticket sales program. SRCCON is an intentionally small event, and it means a lot to us to be able to make it this accessible. We're so grateful for the support of sponsors who help make this happen, and for the community working with us on tiered ticket sales. We've always envisioned that as a way for people to offer support when they're able and receive support when they need it, and that's really the way it's worked out.
-
 
 These are all pieces of the mutual aid network this community is building. And when we walk out of the doors at SRCCON 2023 and start looking toward 2024, we know we're going to be full of ideas about what we should build together next.
 
