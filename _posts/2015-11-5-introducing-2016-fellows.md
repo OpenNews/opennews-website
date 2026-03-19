@@ -46,7 +46,7 @@ We get to work with seven incredible individuals next year. Here they are:
 <p>Christine Zhang is a data geek with a passion to find meaning in numbers. She believes that good data journalism can take us from "_more_-informed" to "_better_-informed." Her aim? To tell meaningful news stories with data, and to use open data and open-source tools to empower her readers to ask their own questions. Christine currently tells data-driven stories about the global economy at the Brookings Institution in Washington, DC and has previously done so in roles at Deutsche Bank and Infosys. Christine will be joining the team of news nerds on the LA Times Data Desk in 2016.
 <p>Follow Christine on Twitter at <a href="https://twitter.com/@christinezhang">@christinezhang</a>
 
-<h3 id="#process">How we found them</h3>
+<h3 id="process">How we found them</h3>
 
 Each year, I've written about [our recruitment](https://web.archive.org/web/20190407090316/https://erikaowens.com/blog/recruiting-and-selecting-amazing-group-fellows) and [selection process](https://erikaowens.com/blog/amazing-overwhelming-knight-mozilla-fellowship-applicants). This year, we continued with much the same approach, but with a renewed emphasis on building connection between programs, communities, and individuals.
 
@@ -58,13 +58,13 @@ We prioritized contacting potential applicants at the many tech events that happ
 
 In addition to this targeted work during the application window, we saw a number of applications from folks who had connected with our programs. Like last year, several applicants mentioned SRCCON in their applications. But this year, a few applicants even noted SRCCON on their _resumes_. Applicants also referred to reading [our website Source](/what/community/source) as part of how they learned about the fellowship and other activities in journalism code.
 
-<h3 id="#coming-up">Coming Up</h3>
+<h3 id="coming-up">Coming Up</h3>
 
 As our [alumni network](/what/fellowships/community) grows (with this cohort we have 33 fellows) and the offerings of OpenNews evolve to support the needs of the entire journalism-code community, we're finding more chances to build connections and welcome new participants. You can check out the [stats from our applications](#numbers) this year. Those stats also reveal a challenge: how to support the hundreds(!) of great people who applied, but who we're not able to welcome as fellows. We're still experimenting with ways to better engage with this group, and we'd love to hear ideas about what supports would be beneficial.
 
 The 2016 Knight-Mozilla Fellows are part of a growing network of people who work with technology in and near newsrooms. They'll join their newsrooms in early 2016 to explore, collaborate, and share with the many groups that make up that journalism-code community. In the new year, we'll have more to share about their work and the accomplishments of the 2015 fellows.
 
-<h3 id="#numbers">By the numbers - 2016 cohort</h3>
+<h3 id="numbers">By the numbers - 2016 cohort</h3>
 
 - 560 - Valid applications
 - 176 (31%) - Identify as a woman
