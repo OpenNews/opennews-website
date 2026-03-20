@@ -21,7 +21,6 @@ exclude:
   - "yarn.lock"
   - "node_modules/"
   - "vendor/"
-  - "*.json"
 permalink: /blog/:title/
 future: true
 
