@@ -9,7 +9,7 @@ redirect_from:
 
 <h2>{{ page.title }}</h2>
 
-Thank you for your interest in the Knight-Mozilla Fellowships. Unfortunatley, we are no longer accepting applications for our 2016 fellowship cohort. We'll be announcing our 2016 Knight-Mozilla Fellows at the [Mozilla Festival, November 6-8 in London](https://https://web.archive.org/web/20151001180442/https://2015.mozillafestival.org//).
+Thank you for your interest in the Knight-Mozilla Fellowships. Unfortunately, we are no longer accepting applications for our 2016 fellowship cohort. We'll be announcing our 2016 Knight-Mozilla Fellows at the [Mozilla Festival, November 6-8 in London](https://web.archive.org/web/20151001180442/https://2015.mozillafestival.org/).
 
 If you're interested in learning more about [what we do at OpenNews](/what), or how to [get further involved](/what/community/) in the journalism-code community, feel free to explore this site or join one of our [open community calls](/what/community/calls/).
 

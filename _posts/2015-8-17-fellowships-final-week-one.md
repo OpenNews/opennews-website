@@ -27,7 +27,7 @@ For Livia Labate, [who is spending her fellowship year with NPR, she approaches 
 
 [We ask our fellowship hosts, who offer workspace, peers, and tons of challenges, [to think in terms of experimentation and flexibility as well.](https://opennews.org/blog/fellowships-news-partners/)
 
-[As the Vox Product team writes](https://https://web.archive.org/web/20221208233210/https://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow): "We’re working on better tools for development and tools for journalists, but we’ve done this mainly to satisfy our own obvious needs. We need a scientific approach to help us refine these tools and test new ideas."
+[As the Vox Product team writes](https://web.archive.org/web/20221208233210/https://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow): "We’re working on better tools for development and tools for journalists, but we’ve done this mainly to satisfy our own obvious needs. We need a scientific approach to help us refine these tools and test new ideas."
 
 Fellows move to the city of their newsroom host (we help with your relocation costs), and do a deep dive into a multitude of problemsets. Solutions, and how to get there, are up to you. Frontline puts it another way when they say the "possibilities for innovation are endless."
 
