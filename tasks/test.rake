@@ -26,7 +26,7 @@ namespace :test do
             "http://localhost",
             "http://127.0.0.1",
             # only http
-            /mitrakalita\.com/
+            /mitrakalita\.com/,
           ],
         },
       ).run
