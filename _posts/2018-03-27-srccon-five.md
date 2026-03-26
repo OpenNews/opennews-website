@@ -7,8 +7,9 @@ tags: SRCCON
 excerpt: For our fifth SRCCON, we’re evolving our approach to the conference. It will still be the highly-participatory, peer-led, human-first conference you’ve come to expect, but we’ll be trying some new things too.
 published: true
 ---
-<img src="/media/img/blog/srccon-overhead.jpg" style="width: 100%;">
-<p class="caption" style="margin-top: 5px;">The scene from SRCCON 2017. We return here for SRCCON 2018. (photo/<a href="http://www.westraco.com/">Erik Westra</a>)</p>
+
+<img src="/media/img/blog/srccon-overhead.jpg" style="width: 100%;" alt="Overhead shot of McNamara" />
+<p class="caption" style="margin-top: 5px;">The scene from SRCCON 2017. We return here for SRCCON 2018. (photo/<a href="https://www.westraco.com/">Erik Westra</a>)</p>
 
 Five years ago, during the lightning talks at the NICAR conference, I leaned over to my colleague Erin Kissane and whispered “What if we do a conference that’s this, but instead of five-minute talks for an hour, it’s two days long.” A month later, the OpenNews team met in Portland to design the conference and, just a few months after that, [the first SRCCON](https://2014.srccon.org/) was held in Philadelphia.
 
@@ -22,15 +23,14 @@ That’s the foundation that finds us here today, announcing the [fifth SRCCON](
 
 For our fifth SRCCON, we’re evolving our approach to the conference. It will still be the highly-participatory, peer-led, human-first conference you’ve come to expect, but we’re iterating as well.
 
-
 - **Themes.** At OpenNews we talk a lot about “making the implicit explicit” and in this case it means taking the priorities of the community and making them themes we’re looking for at SRCCON. Those include:
-    - **Experimenting in the open** - by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
-    - **Supporting one another** - by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
-    - **Leading change** - by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
+  - **Experimenting in the open** - by sharing our work and processes, we do the innovative work our organizations need to evolve on the web and better inform our audiences.
+  - **Supporting one another** - by offering each other our expertise and empathy, we find new collaborators, help each other learn, and make our networks and organizations more resilient.
+  - **Leading change** - by challenging the power structures that have failed our industry, we push for inclusive, long-lasting change in our newsrooms, led by journalists of color and the wide swath of journalists outside of NYC/DC.
 - **Participation.** We’ve always called SRCCON a “highly participatory” conference (I even did it up there) and it is. There are no panels droning on at the front of a room, no speakers clicking through slide decks. It’s a conference where sessions are facilitated conversations between peers; where it’s just as likely someone sitting at a table across from you has a solution to your problem as the person at the front of the room; and it’s a conference where everyone buys a ticket, whether you’re running a session or “just” taking part. But despite its participatory nature, we’ve always had very different processes for choosing facilitators and SRCCON attendees. Now we’re combining it and [thinking of everyone at SRCCON as participants](https://www.srccon.org/participation), who:
-    - **Create the space** - as facilitators, participants design the sessions, pose the questions, and convene the conversations that make up the bulk of SRCCON.
-    - **Share wisdom** - as attendees, in every session, participants bring their own experience and expertise to the questions at hand and find new collaborators and supporters.
-    - **Bring learnings home** - as leaders, participants take the strategies, the network, and the energy from SRCCON and use it all to make changes in their organizations.
+  - **Create the space** - as facilitators, participants design the sessions, pose the questions, and convene the conversations that make up the bulk of SRCCON.
+  - **Share wisdom** - as attendees, in every session, participants bring their own experience and expertise to the questions at hand and find new collaborators and supporters.
+  - **Bring learnings home** - as leaders, participants take the strategies, the network, and the energy from SRCCON and use it all to make changes in their organizations.
 - **Core Sponsors.** This year we’re also changing our approach to sponsorship. Instead of selling off every little piece of SRCCON from the smallest to the biggest, we’re simply creating six equal “Core Sponsors” of SRCCON. Core Sponsors will enable us to do everything from our SRCCON Scholarships to free childcare to feeding all participants 5 meals plus snacks (and coffee) and they will be able to be participants in SRCCON as well, joining in alongside everyone else—not sitting behind a booth. [If you’re interested, learn more](https://www.srccon.org/sponsors).
 
 Of course there’s plenty that isn’t changing about SRCCON: We’ll still be feeding our participants five meals over two days. We’ll still have free childcare for participants with traveling with family. We’ll still have Thursday evening activities so there’s not as much focus on hitting the bars. And of course we’ll still have our peer-to-peer sessions and plenty of downtime for meeting new people.

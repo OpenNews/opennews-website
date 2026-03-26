@@ -5,7 +5,6 @@ date: 2026-03-04 10:00
 author: Jessica Morrison and John Hernandez
 tags: OpenNews, council
 excerpt: They each bring a passion for developing community, uplifting others, and asking difficult questions of journalism and its potential.
-
 ---
 
 <p style="text-align:center; margin:0;">
@@ -13,15 +12,15 @@ excerpt: They each bring a passion for developing community, uplifting others, a
 </p> 
 <p class="caption" style="text-align: center;margin-top:15px;">OpenNews Advisory Council from top left: Emma Carew Grovum, Dan Sinker, Candice Fortman, Andrew Losowsky, Luisa Ortiz Pérez, Tiff Fehr, Cordelia Yu</p>
 
-Last month, we shared our thinking behind [the next phase of community-driven leadership for OpenNews](https://opennews.org/blog/opennews-creates-advisory-council/). Today, we’re thrilled to introduce our new Advisory Council. 
+Last month, we shared our thinking behind [the next phase of community-driven leadership for OpenNews](https://opennews.org/blog/opennews-creates-advisory-council/). Today, we’re thrilled to introduce our new Advisory Council.
 
 This move comes as OpenNews enters its fifteenth year of building and holding a supportive space for journalists to learn and grow together. We see our incoming Council as an extension of our team that matches our vision for shared and democratic movement building in journalism. They each bring a passion for developing community, uplifting others, and asking difficult questions of journalism and its potential. While their roles and experiences are diverse, their values and resilience exemplify what will keep this community going as we face uncharted territory.
 
-We are grateful for the support of our departing advisors who have seen OpenNews through leadership changes and will continue as community members and friends of OpenNews. Thank you to Trei Brundrett, Dawn Garcia, Aron Pilhofer, and Aaron Williams. 
+We are grateful for the support of our departing advisors who have seen OpenNews through leadership changes and will continue as community members and friends of OpenNews. Thank you to Trei Brundrett, Dawn Garcia, Aron Pilhofer, and Aaron Williams.
 
-Incoming Council members will serve two-year terms, except for where a term is transitional and intentionally shortened, and will contribute to OpenNews consulting work, SRCCON and other events, community engagement, and fundraising. We are excited about this behind-the-scenes evolution and even more delighted for the support and enthusiasm our advisors are bringing to OpenNews at a time when we need each other more than ever. 
+Incoming Council members will serve two-year terms, except for where a term is transitional and intentionally shortened, and will contribute to OpenNews consulting work, SRCCON and other events, community engagement, and fundraising. We are excited about this behind-the-scenes evolution and even more delighted for the support and enthusiasm our advisors are bringing to OpenNews at a time when we need each other more than ever.
 
-As part of our introduction, we asked each of our advisors to share a brief reflection or an earliest memory of OpenNews. Like many in our community, our annual conference SRCCON became a place for them to make connections, form bonds, and expand possibilities. Please extend a warm hello to our Council when you see them at NICAR, ONA, SRCCON, and elsewhere this year. 
+As part of our introduction, we asked each of our advisors to share a brief reflection or an earliest memory of OpenNews. Like many in our community, our annual conference SRCCON became a place for them to make connections, form bonds, and expand possibilities. Please extend a warm hello to our Council when you see them at NICAR, ONA, SRCCON, and elsewhere this year.
 
 ### New to our Advisory Council
 
@@ -33,7 +32,7 @@ Andrew Losowsky, Director of Product / Product Editor at CalMatters and The Mark
 
 - “SRCCON is my happy place, where we can be vulnerable and ourselves, as we laugh and cry and scheme together. I have especially fond memories of every SRCCON game night, ending as they often do with the incredible noise of Pig Destroyer.”
 
-Luisa Ortiz Pérez, Executive Director at [Vita-Activa.Org](http://Vita-Activa.Org) and Lead at [MDRNet.org](http://MDRNet.org)	
+Luisa Ortiz Pérez, Executive Director at [Vita-Activa.Org](https://Vita-Activa.Org) and Lead at [MDRNet.org](https://MDRNet.org)
 
 - “I feel so much gratitude for all the care and support OpenNews has given me over the years, be it as a small grant to attend ONA, a webinar or Slack conversation, or in the kindness of Ryan, Erika, John, Jessica or the community members. Thank you\!”
 
@@ -43,9 +42,9 @@ Cordelia Yu also joins our Advisory Council.
 
 Tiff Fehr, Principal at Gasworks Data, ex-NYT
 
-- “OpenNews staff showed up on the nerd-filled floor of The NYT one day to film news nerd interviews and a teammate’s absence moved me — a relatively new hire — into the list. So my introduction to OpenNews was caught on <a href="https://youtu.be/8GOWLNWifxc?si=xb2GE40ZjnhPSSjV">film</a>. Long hours on the London 2012 Olympics newsapp had me in glasses and full-on project myopia, but it was a joy to share that work and hear *real* engagement and encouragement from OpenNews staff. That carried over into the first SRCCON and beyond.”
+- “OpenNews staff showed up on the nerd-filled floor of The NYT one day to film news nerd interviews and a teammate’s absence moved me — a relatively new hire — into the list. So my introduction to OpenNews was caught on <a href="https://youtu.be/8GOWLNWifxc?si=xb2GE40ZjnhPSSjV">film</a>. Long hours on the London 2012 Olympics newsapp had me in glasses and full-on project myopia, but it was a joy to share that work and hear _real_ engagement and encouragement from OpenNews staff. That carried over into the first SRCCON and beyond.”
 
-Candice Fortman 
+Candice Fortman
 
 - “The first time I attended SRCCON was also the first time I attended a conference that asked for pronouns. This was not a common practice at the time, but I thought it was a degree of thoughtfulness and inclusion that could remind us all to go a step further in our professional care.”
 

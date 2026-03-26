@@ -4,8 +4,8 @@ title: Join the DEI Coalition For Anti-Racist, Equitable, And Just Newsrooms
 section: what we do
 excerpt: Become a member of the DEI Coalition Slack.
 image: /media/img/dei-coalition/dei-card-A1.png
-
 ---
+
 <style>
 
   article h2 {
@@ -216,11 +216,12 @@ Before filling out your membership request form below, please make sure that you
   <li><a href="https://docs.google.com/document/d/1xzZlzvUkbGCb9EjYrLUx_QSpSGCAgSY8UuXqsxBGB3Q/edit">Our Community Agreements</a></li>
 </ul>
 
-We’ll be asking you to agree to both, so checking them out now will save you time. 
+We’ll be asking you to agree to both, so checking them out now will save you time.
 
 <strong>Question Preview</strong>
 
 Here are the questions we'll be asking you to answer in the form below:
+
 - What's your name?
 - What email address would you like your Slack invite to go to?
 - How can we verify you are who you say are? (You’ll be given a series of concrete options for how to do this, and will provide us with a link to the verification option of your choice.)
@@ -236,7 +237,6 @@ Here are the questions we'll be asking you to answer in the form below:
 As we read your answers, we’re looking to see that you are genuinely invested in this work and committed to taking action to make journalism an anti-racist, equitable, and just industry. There are specific questions to help you share this with us; do so in whatever way feels most natural to you. Your answers don’t have to be long, but they need to give us a real sense of why you’re interested in joining. We may reach out and ask you to fill out the form again if we can’t get a sense of your interest from your answers.
 
 <iframe id="app-form" src="https://docs.google.com/forms/d/e/1FAIpQLScLyf-gREURzPU50DiEGX5d79rNz8jmE6BM1ZAKnAg84jhZwA/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading…</iframe>
-
 
 <script type="text/javascript">
   count = 0;

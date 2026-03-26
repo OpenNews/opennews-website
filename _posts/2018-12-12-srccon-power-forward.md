@@ -4,7 +4,7 @@ title: Moving our work forward from SRCCON:POWER
 date: 2018-12-12 11:00
 author: Erika Owens
 tags: OpenNews
-excerpt: We’re gathering for two days this week, and making plans on how to keep the work going after the conference, too. 
+excerpt: We’re gathering for two days this week, and making plans on how to keep the work going after the conference, too.
 published: true
 ---
 
@@ -19,26 +19,26 @@ SRCCON:POWER is an important opportunity to join together and refine some ideas 
 
 Here’s what we can offer:
 
-* Consulting and feedback - We can act as a sounding board, help you shape your idea, share facilitation and project management expertise.
-* Small-scale financial support - Would covering a meal help get people from your news org into a room? We might be able to cover the check.
-* Training and external expertise - We can help connect you with particular expertise, within and outside of journalism (and potentially pay for it).
-* Spread the word about your work - We can work with you to write about your project, help find collaborators or participants.
+- Consulting and feedback - We can act as a sounding board, help you shape your idea, share facilitation and project management expertise.
+- Small-scale financial support - Would covering a meal help get people from your news org into a room? We might be able to cover the check.
+- Training and external expertise - We can help connect you with particular expertise, within and outside of journalism (and potentially pay for it).
+- Spread the word about your work - We can work with you to write about your project, help find collaborators or participants.
 
 Does that kind of help sound of interest? We’ve just released [a community support request form](https://docs.google.com/forms/d/e/1FAIpQLScmspqUeSnUBC9JGdVuisSWg_7gfcmLp-unqtkc2newj6vjxw/viewform) for you to tell us about what you’re working on and how we might be able to help! In addition, we also opened [another round of our popular Ticket+Travel Scholarship application](https://opennews.org/what/community/scholarships), if getting to an event would help your work. This support is open to anyone, not only participants at our conference.
 
-We’re grateful to [our sponsors](https://power.srccon.org/sponsors/list/) the News Integrity Initiative, Democracy Fund, JSK Fellowship, and Vox Media for supporting the event and this work. 
+We’re grateful to [our sponsors](https://power.srccon.org/sponsors/list/) the News Integrity Initiative, Democracy Fund, JSK Fellowship, and Vox Media for supporting the event and this work.
 
 ## Connecting people, changing journalism
 
 We convened SRCCON:POWER because we know it’s vital to have space to connect with colleagues, to know that you’re not alone, and to take a moment away from the day-to-day to reflect on challenges in the field. The event has room to share conversations and research, to dig deeply into questions about how teams function and journalism as an industry organizes itself. The audience includes folks in technical and digital roles who lead innovative work and are pushing to shift the cultures within their organizations and journalism overall.
 
-These are core values for OpenNews: the power of collective action, the importance of time together to restore and fortify ourselves, and the necessity of changing the status quo in this industry. The news nerd community we support began by pushing for [openness in code](https://twitter.com/tribapps), [sharing processes](https://source.opennews.org/) and [teaching one another](https://ire.org/events-and-training/). While that work continues to shape journalism [and the open web overall](http://www2.ljworld.com/news/2015/jul/09/happy-birthday-django/), this community also recognizes that journalism [needs to be more diverse and inclusive](https://opennews.org/blog/news-nerd-survey-2017), and is working together to make that happen.
+These are core values for OpenNews: the power of collective action, the importance of time together to restore and fortify ourselves, and the necessity of changing the status quo in this industry. The news nerd community we support began by pushing for [openness in code](https://twitter.com/tribapps), [sharing processes](https://source.opennews.org/) and [teaching one another](https://www.ire.org/training/workshops/). While that work continues to shape journalism [and the open web overall](https://www2.ljworld.com/news/2015/jul/09/happy-birthday-django/), this community also recognizes that journalism [needs to be more diverse and inclusive](https://opennews.org/blog/news-nerd-survey-2017), and is working together to make that happen.
 
 OpenNews works alongside the news nerd community to strengthen network connections and offer support for making change. In 2019, we will continue this work and focus on projects that help create more inclusive, equitable cultures within newsrooms and in particular:
 
-* help define career pathways for tech within journalism
-* support journalists of color
-* support technologists at regional and local publications.
+- help define career pathways for tech within journalism
+- support journalists of color
+- support technologists at regional and local publications.
 
 There is lots of overlap between each of these areas, and we’re excited about exploring the intersections and the specific types of support each group needs as well.
 

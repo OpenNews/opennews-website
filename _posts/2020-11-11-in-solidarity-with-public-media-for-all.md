@@ -13,14 +13,14 @@ excerpt: Transcript of Sisi Wei's talk at the Public Media For All Nov. 10 day o
 
 <i>I was honored to be asked by the coalition to talk about my journey in this work during their event. A couple participants asked for a transcript of the talks, so we're posting a transcript of the video I prepared below.</i>
 
-<i>Public Media For All has also posted [the full recording](https://fb.watch/1HL9d8BBlo/) of their Nov. 10 webinar, which includes not only other speakers, but also shares the stories of people of color in public media, and the racism they've experienced. [Please check it out](https://fb.watch/1HL9d8BBlo/).</i> 
+<i>Public Media For All has also posted [the full recording](https://fb.watch/1HL9d8BBlo/) of their Nov. 10 webinar, which includes not only other speakers, but also shares the stories of people of color in public media, and the racism they've experienced. [Please check it out](https://fb.watch/1HL9d8BBlo/).</i>
 
 <hr>
 TRANSCRIPT
 
 Hi everyone. I’m so happy to be here in support of [Public Media For All](https://www.publicmediaforall.com/), and to tell you about my own journey doing this work, as well as what we’ve been doing at OpenNews to push for change in journalism.
 
-My name is Sisi Wei and I work at [OpenNews](http://opennews.org/), where we are supporting a movement in journalism — one that is fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities we’ve long ignored can trust in journalism again, or for the first time ever.
+My name is Sisi Wei and I work at [OpenNews](https://opennews.org/), where we are supporting a movement in journalism — one that is fighting for a future where all journalists can work in newsrooms that are anti-racist, equitable, inclusive, and collaborative, and where the communities we’ve long ignored can trust in journalism again, or for the first time ever.
 
 I’m recording this video on Nov. 6, which is three days after the U.S. election, and before any final results have come out. But no matter who wins, what will always be true is how close the election was, and the message that sends to communities of color, journalists included.
 
@@ -28,9 +28,9 @@ As [Roxanne Gay wrote in her op-ed](https://www.nytimes.com/2020/11/05/opinion/t
 
 Over the last few days, I’ve seen people of color react in so many different ways, ranging from heartbreak, to exhaustion, to fear. For many folks, Roxanne included, such a close race isn’t even a surprise because they’ve always understood how racist the country and its systems have been.
 
-In moments like this, the work we do on the ground level can feel overwhelming, and dreams of being able to live and work just in an anti-racist industry — it feels distant. 
+In moments like this, the work we do on the ground level can feel overwhelming, and dreams of being able to live and work just in an anti-racist industry — it feels distant.
 
-I don’t think anyone coming to today’s day of action is giving up though. We all may need to take breaks once in a while, because this work can be draining. But all of you also showed up here today, even if it’s just to listen and learn, and that’s step one in taking action and showing solidarity. 
+I don’t think anyone coming to today’s day of action is giving up though. We all may need to take breaks once in a while, because this work can be draining. But all of you also showed up here today, even if it’s just to listen and learn, and that’s step one in taking action and showing solidarity.
 
 The vision of Public Media For All is similar to a daydream I’ve had for a while now. The idea that we could have journalism institutions that weave diversity, equity and inclusion into their very nature — at events we organize, in our coverage, on our staff, in their pay, in our leaders, and in the guidance and trust we get from our communities — that all sounds like a dream, because it’s so hard to find examples of organizations that live up to that standard in journalism.
 

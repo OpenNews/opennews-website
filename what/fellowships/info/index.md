@@ -4,8 +4,9 @@ title: The Knight-Mozilla Fellowships&colon; Program Details
 section: fellowships
 sub-section: fellows_info
 redirect_from:
-- /what/fellowships/details/index.html
+  - /what/fellowships/details/index.html
 ---
+
 <p class="bodybig">The Knight-Mozilla Fellowships were an opportunity for people who love to code and who want to influence the future of journalism on the web. <a href="/what/fellowships/2016meet/">Our 2016 fellows</a> worked in six newsrooms in the U.S. and Germany. The fellowship <a href="/blog/fellowship-what-next/">has closed</a>.</p>
 
 This page describes details of the program as it existed from 2011-16.
@@ -28,7 +29,7 @@ Fellows get to work in a way that is different from a lot of other roles. Not a 
 
 **Who can become a fellow?**
 
-It could be you. Anyone who loves to solve problems via code and has an  interest in journalism. You do not have to have previous experience with journalism. You also do not have to have experience with any particular programming language. A lot of news app development happens in the front-end, especially mapping and visualization, and people with those skills are highly sought after. Statistics, data, and even hard math skills are also great.
+It could be you. Anyone who loves to solve problems via code and has an interest in journalism. You do not have to have previous experience with journalism. You also do not have to have experience with any particular programming language. A lot of news app development happens in the front-end, especially mapping and visualization, and people with those skills are highly sought after. Statistics, data, and even hard math skills are also great.
 
 And you can be from anywhere. We are an international program and welcome participants from around the world. You do not need to be a U.S. citizen to participate in the program. We assist fellows with any necessary visa applications for working and traveling during the fellowship. We make our best effort to handle any visa needs a fellow may have, but it is possible that visa requirements may affect your ability to participate in the fellowship. If you are concerned that this may be the case for you, it is something we can investigate at the finalist stage of [the application process](/what/fellowships/faq).
 
@@ -38,12 +39,12 @@ Fellows are based, unless special circumstances dictate, in the town of their ho
 
 Our fellowship locations for 2016 are:
 
-* The [Los Angeles Times Data Desk](http://datadesk.github.io/2015-08-12-open-news/)—Los Angeles, CA
-* [NPR](http://blog.apps.npr.org/2015/08/10/knight-mozilla.html)—Washington, DC
-* [Vox Media](http://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow)—Austin, TX; New York, NY; or Washington, DC
-* [Frontline](http://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/)—Boston, MA
-* [Correct!v](https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/)—Berlin, Germany
-* The [Coral Project](http://coralproject.net/fellows.html)—New York, NY (a partnership of the New York Times, the Washington Post, and Mozilla, based out of the New York Times)
+- The [Los Angeles Times Data Desk](https://datadesk.github.io/2015-08-12-open-news/)—Los Angeles, CA
+- [NPR](https://blog.apps.npr.org/2015/08/10/knight-mozilla.html)—Washington, DC
+- [Vox Media](https://web.archive.org/web/20221208233210/https://product.voxmedia.com/2015/8/13/9132033/you-should-be-the-vox-media-2016-opennews-fellow)—Austin, TX; New York, NY; or Washington, DC
+- [Frontline](https://www.pbs.org/wgbh/pages/frontline/inside-frontline/join-frontline-as-a-knight-mozilla-opennews-fellow/)—Boston, MA
+- [Correct!v](https://web.archive.org/web/20150918205159/https://web.archive.org/web/20150918205159/https://correctiv.org/en/nerds/blog/2015/08/11/become-opennews-fellow-correctiv/)—Berlin, Germany
+- The [Coral Project](https://web.archive.org/web/collections/20150501000000*/https://coralproject.net/fellows.html)—New York, NY (a partnership of the New York Times, the Washington Post, and Mozilla, based out of the New York Times)
 
 Each news organization [described what they are looking for in a fellow](/blog/fellowships-news-partners) and the types of projects they are excited to work on with a fellow.
 

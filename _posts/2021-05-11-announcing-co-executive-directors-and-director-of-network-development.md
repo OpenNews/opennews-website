@@ -2,10 +2,9 @@
 layout: blogpost_noimage
 title: Announcing our Co-Executive Directors and Director of Network Development
 date: 2021-05-11 15:00
-author: <a href="http://opennews.org/who/">OpenNews Team</a>, on May 11, 2021
+author: <a href="https://opennews.org/who/">OpenNews Team</a>, on May 11, 2021
 tags: OpenNews
 excerpt: At OpenNews, we’ve always been a values-driven team that dreams big. That’s why we’re so excited to announce two big changes to OpenNews today.
- 
 ---
 
 At OpenNews, we’ve always been a values-driven team that dreams big. That’s why we’re so excited to announce two big changes to OpenNews today.
@@ -18,6 +17,6 @@ Ryan will be shedding his old title as Program Lead for Technology — which has
 
 These changes in our structure and titles reflect so many of the values that are core to our work: deliberately sharing power, authenticity, collaboration, building connections between people, the real power of community, and lifelong learning and iteration in pursuit of a better future.
 
-In the coming months, we’ll be sharing a series of essays on these changes, why we’re thrilled to be making them, dive further on what they really mean for OpenNews, and how they help us more fully embody our values. 
+In the coming months, we’ll be sharing a series of essays on these changes, why we’re thrilled to be making them, dive further on what they really mean for OpenNews, and how they help us more fully embody our values.
 
 If you want to make sure you don’t miss any of it, [sign up for our community newsletter](https://opennews.us5.list-manage.com/subscribe?u=71c95e9a43708843d2fdc1f09&id=996e9290cc), where we’ll share our essays, as well as some behind the scenes thoughts on why we’re writing them.

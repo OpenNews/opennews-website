@@ -3,55 +3,57 @@ Default template CSS - if you change anything here then updating will be a bit m
 */
 /**= Desktop only */
 .columns {
-	margin-left: -10px;
+  margin-left: -10px;
 }
 .col {
-	box-sizing: border-box;
-	float: left;
-	padding: 0px 30px 10px;
-	width: 50%;
+  box-sizing: border-box;
+  float: left;
+  padding: 0px 30px 10px;
+  width: 50%;
 }
 .col-left {
-	padding-left: 0px;
+  padding-left: 0px;
 }
 .col img {
-	width: 100%;
+  width: 100%;
 }
 
 /* Footer */
 
 .external .col-left p:first-child {
-	margin-top: 0px;
+  margin-top: 0px;
 }
 
 .external .col h3:first-child {
-	margin-top: 0px;
+  margin-top: 0px;
 }
 
 .external .col-right p {
-	margin-top: 0px;
+  margin-top: 0px;
 }
 
 .external h3 {
-	text-transform: none;
-	font-size: 1.4em;
+  text-transform: none;
+  font-size: 1.4em;
 }
 
 .external .col a.sidebar-button {
-	max-width: 200px;
-	margin: 0;
+  max-width: 200px;
+  margin: 0;
   box-sizing: border-box;
 }
 
-
-#mc_embed_signup{
-	background: transparent; 
-	clear:left; 
-	font:14px Helvetica,Arial,sans-serif; 
+#mc_embed_signup {
+  background: transparent;
+  clear: left;
+  font:
+    14px Helvetica,
+    Arial,
+    sans-serif;
 }
 
 #mc_embed_signup form {
-	padding: 0px;
+  padding: 0px;
 }
 
 #mc_embed_signup input.email {
@@ -64,100 +66,95 @@ Default template CSS - if you change anything here then updating will be a bit m
 }
 
 #mc_embed_signup input.button {
-	background-color: #fc6e1f;
-	font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
-	width: 30%;
-	max-width: 200px;
-	margin: 0;
-	font-size: 1.2rem;
-	padding: .67em;
-	line-height: 1.2rem;
-	min-height: 45px;
-	clear: none;
+  background-color: #fc6e1f;
+  font-family: "sofia-pro", Helvetica, Verdana, Arial, sans-serif;
+  width: 30%;
+  max-width: 200px;
+  margin: 0;
+  font-size: 1.2rem;
+  padding: 0.67em;
+  line-height: 1.2rem;
+  min-height: 45px;
+  clear: none;
 }
 
 @media screen and (max-width: 930px) {
-
-	#mc_embed_signup input.email {
-		width: 100%;
-		float: none;
-	}
-	#mc_embed_signup input.button {
-		clear: both;
-		width: 100%;
-	}
-
+  #mc_embed_signup input.email {
+    width: 100%;
+    float: none;
+  }
+  #mc_embed_signup input.button {
+    clear: both;
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 620px) {
-
-	.col {
-		float: none;
-		width: 100%;
-		padding: 0 0 20px 0;
-	}
-
+  .col {
+    float: none;
+    width: 100%;
+    padding: 0 0 20px 0;
+  }
 }
 
 /* Masthead */
 
 #nav {
-	width: 100%;
-	background-color: black;
-	margin-top: 0px;
-	top: 0px;
-	height: 50px;
+  width: 100%;
+  background-color: black;
+  margin-top: 0px;
+  top: 0px;
+  height: 50px;
 }
 
 #nav #navblock {
-	display: block;
-	margin: 0 auto;
-	margin-top: 15px;
-	width: 980px;
+  display: block;
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 980px;
 }
 
 #nav ul {
-	color: white;
-	font-size: .9em;
+  color: white;
+  font-size: 0.9em;
 }
 nav li {
-	padding-top: 15px;
-	display: inline;
+  padding-top: 15px;
+  display: inline;
 }
 #nav li a {
-	color: white;
-	padding: 1em 15px;
-
+  color: white;
+  padding: 1em 15px;
 }
 
 /**= Overrides from devices.css */
 .busta {
-	max-width: 980px;
-	padding: 0 20px 150px;
-	margin: 0 auto;
+  max-width: 980px;
+  padding: 0 20px 150px;
+  margin: 0 auto;
 }
 .partners h2 {
-	line-height: 75px;
-	margin-bottom: 1em;
+  line-height: 75px;
+  margin-bottom: 1em;
 }
 .partners ul {
-	margin: 1.1125em 0 1.1125em 20px;
+  margin: 1.1125em 0 1.1125em 20px;
 }
 
 /**= And now time for your styles */
 /* Template overrides */
 #ONlogo {
-	display: block;
+  display: block;
 }
 .partners h2 {
-	line-height: 50px;
+  line-height: 50px;
 }
 #brand img {
-	width: auto;
+  width: auto;
 }
 .main_col {
-	width: 68%;
-	float: left;
+  width: 68%;
+  float: left;
 }
 
 /*blockquote.orange-highlight {
@@ -171,68 +168,68 @@ nav li {
 }*/
 
 small {
-	font-size: 1rem;
+  font-size: 1rem;
 }
 
 .fellowsbox {
-	padding-bottom: 20px;
-	padding-right: 10px;
-	padding-top: 18px;
-	margin-top: 20px;
-	width: 30%;
-	float: right;
-	padding-left: 24px;
-	border-left: 1px solid #C6C6C6;
+  padding-bottom: 20px;
+  padding-right: 10px;
+  padding-top: 18px;
+  margin-top: 20px;
+  width: 30%;
+  float: right;
+  padding-left: 24px;
+  border-left: 1px solid #c6c6c6;
 }
 .fellowsbox .photo {
-	width: 40%;
+  width: 40%;
 }
 
 #brand img {
-	margin-top: 80px;
+  margin-top: 80px;
 }
 
 header.opengraph {
-	margin-bottom: 40px;
+  margin-bottom: 40px;
 }
-
 
 #ONlogo {
-margin-right: 40px;
+  margin-right: 40px;
 }
 #fellowside {
-	border-top: none;
+  border-top: none;
 }
 
 .multicolumn {
-	-moz-column-count: 3;
-	-moz-column-gap: 20px;
-	-webkit-column-count: 3;
-	-webkit-column-gap: 20px;
-	column-count: 3;
-	column-gap: 20px;
+  -moz-column-count: 3;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 3;
+  -webkit-column-gap: 20px;
+  column-count: 3;
+  column-gap: 20px;
 }
 
-.hamburger, #fellowside select {
-	display: none;
+.hamburger,
+#fellowside select {
+  display: none;
 }
 
 #fellowside ul {
-display: inline;
+  display: inline;
 }
 
 img.fellowssmall {
-	display: none;
+  display: none;
 }
 
 #navlist h3.first {
-	margin-top: 20px;
+  margin-top: 20px;
 }
 
 #navlist ul {
-	padding-left: 10px;
+  padding-left: 10px;
 }
 
 img.section {
-	margin-top: 40px;
+  margin-top: 40px;
 }

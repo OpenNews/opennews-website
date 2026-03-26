@@ -4,5 +4,5 @@ excerpt: OpenNews and 100+ members of the journalism community have co-created a
 image: /media/img/dei-coalition/dei-card-A1.png
 permalink: /dei-coalition/
 redirect_to:
- - https://opennews.org/what/community/dei-coalition/
+  - https://opennews.org/what/community/dei-coalition/
 ---

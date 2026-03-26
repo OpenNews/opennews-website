@@ -1,0 +1,4 @@
+OpenNews is the website for OpenNews, a team that connects a network of developers, designers, journalists, and editors to collaborate on open technologies and processes within journalism (https://github.com/OpenNews).
+
+This site was originally built by Dan Sinker, Ryan Pitts, Erika Owens, and Erin Kissane.
+It is now maintained by the folks listed in our GitHub contributors page: https://github.com/OpenNews/opennews-website/graphs/contributors

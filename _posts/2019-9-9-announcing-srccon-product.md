@@ -8,7 +8,7 @@ excerpt: Next year, we'll gather 150 product thinkers for the first conference b
 ---
 
 <img src="/media/img/postit-brainstorm-schedule.jpg" style="width: 100%;"  alt="Colorful post-its on the wall"> 
-<p class="caption" style="margin-top: 5px;">Together we'll build the schedule for SRCCON:PRODUCT. (Photo: Alyson McClaran for Colorado Media Project)</p> 
+<p class="caption" style="margin-top: 5px;">Together we'll build the schedule for SRCCON:PRODUCT. (Photo: Alyson McClaran for Colorado Media Project)</p>
 
 Next February we are back in Philadelphia for SRCCON:PRODUCT, a day-long discussion about the role of product management in news media organizations.
 
@@ -31,4 +31,3 @@ SRCCON:PRODUCT will focus on the question, “**How do we make news media organi
 The day after the Philadelphia conference, organizers of the Product Thinking initiative will meet with a newly formed advisory panel representing a diverse cross section of the industry. The group was assembled this month to help develop the SRCCON:PRODUCT program. Our February 9 meeting will focus on how an ongoing organization might provide long-term support for the work of product thinkers.
 
 The future of journalism is digital-first, reader-focused, community-oriented, informed by data, highly collaborative internally and externally and supported by diverse revenue sources and strategies. Product thinking is a key to how we transform our organizations to meet those challenges. We hope you will join us in Philadelphia in February to kick off an important new effort to support journalists and journalism.
-

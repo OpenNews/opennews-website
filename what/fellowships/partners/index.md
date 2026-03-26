@@ -16,14 +16,15 @@ section: partnerships
 Hosting a fellow is different from adding another member to the team. Fellows collaborate with newsroom technology teams working on projects that are both editorial and technical. But fellows also have the chance to collaborate  with other folks in the newsroom, with the other fellows in their cohort, and wider journalism-code community. Fellowship partners provide a homebase for fellows and continuity of work and connection, while also leaving room for exploration. Fellows and their newsroom partners work together to decide on projects to work on before their fellowship,  with the support of OpenNews. They also leave ample room for those ideas  evolving over the course of the fellowship.-->
 
 ### Prior partners
-Over  the years, we've worked with news organizations in the US, Argentina,  the United Kingdom, Germany, and Kenya. Our partners have included:
 
-* 2016: Correct!v, Coral Project, Frontline, Los Angeles Times Data Desk, NPR, Vox Media
-* 2015: Center for Investigative Reporting/Reveal, Guardian, La Nacion, NPR, Vox Media, The Coral Project (a collaboration between New York Times, The Washington Post, and Mozilla)
-* 2014: La Nacion, New York Times, ProPublica, Texas Tribune, The Washington Post, and a joint fellowship placement with Ushahidi and Internews-Kenya
-* 2013: BBC, Boston Globe, Guardian, La Nacion, New York Times, ProPublica, Spiegel Online, and Zeit Online
-* 2012: Al Jazeera, BBC, Boston Globe, Guardian, and Zeit Online
+Over the years, we've worked with news organizations in the US, Argentina, the United Kingdom, Germany, and Kenya. Our partners have included:
 
+- 2016: Correct!v, Coral Project, Frontline, Los Angeles Times Data Desk, NPR, Vox Media
+- 2015: Center for Investigative Reporting/Reveal, Guardian, La Nacion, NPR, Vox Media, The Coral Project (a collaboration between New York Times, The Washington Post, and Mozilla)
+- 2014: La Nacion, New York Times, ProPublica, Texas Tribune, The Washington Post, and a joint fellowship placement with Ushahidi and Internews-Kenya
+- 2013: BBC, Boston Globe, Guardian, La Nacion, New York Times, ProPublica, Spiegel Online, and Zeit Online
+- 2012: Al Jazeera, BBC, Boston Globe, Guardian, and Zeit Online
 
 ### Partnering with OpenNews
-Being  a fellowship partner is the most intensive way that OpenNews collaborates with news organizations, but it is just one of [to get involved with our work](/getinvolved/) and work together. Through our website Source and events like SRCCON, we  partner with news organizations and their teams to share their work. We also host events called code convenings to help teams open source  projects. 
+
+Being a fellowship partner is the most intensive way that OpenNews collaborates with news organizations, but it is just one of [to get involved with our work](/getinvolved/) and work together. Through our website Source and events like SRCCON, we partner with news organizations and their teams to share their work. We also host events called code convenings to help teams open source projects.

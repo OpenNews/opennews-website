@@ -1,23 +1,175 @@
 ## OpenNews
+
 This is the website for [OpenNews](https://opennews.org).
 
 OpenNews is a Knight Foundation-funded project that supports the growing community of news developers, designers, and data analysts helping journalism thrive on the open web.
 
-[![Build Status](https://travis-ci.org/OpenNews/opennews-website.svg?branch=master)](https://travis-ci.org/OpenNews/opennews-website)
+## Development Setup
+
+### Prerequisites
+
+- Ruby 3.2.6 (specified in [.ruby-version](.ruby-version))
+- Node.js 20+
+- Bundler (`gem install bundler`)
+
+### Initial Setup
+
+1. Clone this repository to your local machine
+2. Install Ruby dependencies: `bundle install`
+3. Install Node dependencies: `npm install`
+
+### Local Development Commands
+
+**Start local development server:**
+
+```bash
+bundle exec rake -T               # see all available tasks
+bundle exec rake serve            # serve locally at localhost:4000
+bundle exec rake check            # runs various pre-deploy checks
+bundle exec rake build            # build static site ready to deploy
+bundle exec rake test             # run all tests
+bundle exec rake deploy:precheck  # runs validate_yaml, check, build, and test
+bundle exec rake lint             # list code formatting errors (ruby et al)
+npm run format:check              # list code formatting errors (node)
+bundle exec rake format           # auto-fix all formatting issues
+
+# less frequent
+bundle exec rake validate_yaml    # validate all YAML
+bundle exec rake clean            # kill caches and modules
+bundle exec rake outdated         # check for outdated dependencies
+
+# rare
+bundle exec rake review:external_links # get list of bad links (401s, 403s, 404s, timeouts)
+bundle exec rake review:compare_deployed_sites # compare current build to production (requires local build in _site/)
+```
+
+For detailed task documentation, see [tasks/README.md](tasks/README.md).
 
 ## How to update the OpenNews site
-### Testing changes locally
-* Clone this repository to your local machine.
-* For minor updates, work directly in the `staging` branch. For major updates, or if you're working on long-term changes to the site, create a new feature branch.
-* To test your work locally, run `jekyll serve` or `jekyll build`, and view the site in a browser. If you don't have jekyll installed, [follow their installation instructions here](https://jekyllrb.com/docs/installation/macos/).
+
+### Configuration
+
+Before deploying, ensure the AWS S3 bucket names and CloudFront distribution ID are configured in [\_config.yml](_config.yml):
+
+```yaml
+deployment:
+  bucket: YOUR_PRODUCTION_BUCKET_HERE
+  staging_bucket: YOUR_STAGING_BUCKET_HERE
+  cloudfront_distribution_id: YOUR_CLOUDFRONT_ID_HERE
+```
+
+### Workflow
+
+- For minor updates, work directly in the `staging` branch
+- For major updates or long-term changes, create a new feature branch
+- Test your changes locally using `bundle exec rake serve`
+- NOTE: You do _not_ need to commit updates to your local `_site` directory. Only commit markdown documents, templates, and static media files.
 
 ### Pushing to staging
-* When you're ready to have someone review a site update, update the `staging` branch in GitHub. If you're working in `staging` locally, you just need to push your code changes. If you're working in a separate feature branch, push that branch to GitHub and then open a pull request into `staging` and merge it.
-* NOTE: You do _not_ need to commit updates to your local `_site` directory after you run `jekyll build` or `jekyll serve`. You only need to commit new or updated markdown documents and templates, and new or updated static media files.
-* A commit to the `staging` branch on GitHub will trigger an automatic build of the staging site. This runs its own `jekyll build` process before copying everything to S3. (So any changes you've committed to the repo's `_site` directory will be ignored.)
-* The Travis CI process that handles this can take a minute or two to complete. Your changes will not be visible on the staging site immediately, but they'll be there quickly.
+
+- When ready for review, push to the `staging` branch in GitHub
+- If working in a separate feature branch, open a pull request into `staging` and merge it
+- A push to `staging` triggers an automatic GitHub Actions workflow that:
+  1. Validates YAML files
+  2. Builds the Jekyll site
+  3. Deploys to the staging S3 bucket
+- The workflow typically completes in 2-3 minutes
+- View the staging site to review your changes
 
 ### Pushing to production
-* Review your changes on the staging site, and if everything looks OK, come back to this repo and open a pull request from `staging` into `master`.
-* Merging a pull request into `master`, or pushing any commit to the `master` branch, will trigger an automatic build of the production site at [opennews.org](https://opennews.org). Again, this runs its own `jekyll build` process before copying to S3, ignoring any committed changes to the repo's `_site` directory.
-* The production site is delivered through Amazon CloudFront so that we can serve a secure, https-enabled [opennews.org](https://opennews.org). CloudFront also caches everything for performance. The rebuild process triggers an invalidation of the entire cache, but it still may take up to 10 minutes for site changes to be reflected on production.
+
+- Review changes on the staging site
+- Open a pull request from `staging` into `main`
+- Merging into `main` triggers an automatic deployment that:
+  1. Validates YAML files
+  2. Builds the Jekyll site
+  3. Deploys to the production S3 bucket
+  4. Invalidates the CloudFront cache
+- The production site is served via Amazon CloudFront (HTTPS-enabled)
+- Cache invalidation may take up to 10 minutes to propagate fully
+
+### Manual deployment (local)
+
+For testing deployments locally or when automated deployment isn't available:
+
+**Dry-run first (recommended):**
+
+```bash
+bundle exec rake deploy:staging        # Test staging deploy
+bundle exec rake deploy:production     # Test production deploy
+```
+
+`deploy:staging` and `deploy:production` are aliases for each namespace's default dry-run task.
+
+**Then deploy for real:**
+
+```bash
+bundle exec rake deploy:staging:real      # Deploy to staging (requires confirmation)
+bundle exec rake deploy:production:real   # Deploy to production (requires "yes")
+```
+
+**Note:** Manual deployments require AWS CLI configured with appropriate credentials.
+
+### Optional promotion safety check
+
+After deploying to staging, you can compare deployed staging and production content before promoting:
+
+```bash
+bundle exec rake review:compare_deployed_sites
+```
+
+This fetches both deployed environments and reports significant page-level differences.
+
+## CI/CD
+
+### GitHub Actions Workflows
+
+**Test Workflow** ([.github/workflows/test.yml](.github/workflows/test.yml))
+
+- Runs on pull requests and non-deployment branches
+- Validates YAML, builds site, runs HTML checks
+- Tests deployment command with dry-run
+
+**Deploy Workflow** ([.github/workflows/deploy.yml](.github/workflows/deploy.yml))
+
+- Runs on push to `main` (production) or `staging` branches
+- Uses AWS OIDC authentication (no long-lived credentials)
+- Automatically deploys to appropriate environment
+
+**Health Check Workflow** ([.github/workflows/health-check.yml](.github/workflows/health-check.yml))
+
+- Runs weekly on Mondays at 9am UTC
+- Reports outdated dependencies
+- Creates GitHub issues when updates are available
+
+### AWS Authentication
+
+Deployment uses OpenID Connect (OIDC) for secure AWS authentication. The `AWS_ROLE_ARN` secret must be configured at the organization level in GitHub.
+
+## Code Quality
+
+### Formatting & Linting
+
+- **Prettier**: Formats HTML, CSS, JavaScript, JSON, YAML, Markdown, and Ruby files
+- **StandardRB**: Ruby linting (configured in [.standard.yml](.standard.yml))
+- **EditorConfig**: Universal editor settings
+- **VS Code**: Recommended settings in [.vscode/settings.json](.vscode/settings.json) enable format-on-save
+
+Run `bundle exec rake lint` to check formatting, or `bundle exec rake format` to auto-fix issues.
+
+### Testing
+
+The site includes comprehensive automated tests:
+
+- **HTML Proofer**: Validates internal links, images, and HTML structure
+- **Template Validation**: Checks for Liquid syntax errors and unclosed tags
+- **Accessibility**: Basic a11y checks for alt text, lang attributes, form labels
+- **Performance**: Checks for large files and inline styles
+- **Placeholders**: Detects TODO/FIXME markers in built site
+- **External Links**: Validates external URLs (requires network access)
+
+Run `bundle exec rake test` to run all tests, or see [tasks/README.md](tasks/README.md) for individual test commands.
+
+## Troubleshooting
+
+See [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for common issues and solutions.

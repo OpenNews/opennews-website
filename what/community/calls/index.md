@@ -2,14 +2,14 @@
 layout: post_notitle
 title: Community Calls and Standups
 section: what we do
-
 ---
 
 <style type="text/css">
 img.topline { border: none; }
 </style>
 
-<img src="/media/img/communitycall.png" class="topline">
+<img src="/media/img/communitycall.png" class="topline" alt="Community call attendee screen capture" />
+
 <p class="caption">Our calls allow you to show up as you are, video on or off, to share experiences, take collective notes and connect with peers.</p>
 
 <h2>{{ page.title }}</h2>
@@ -28,7 +28,7 @@ The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled
 
 **[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
-[Follow us on Bluesky](https://bsky.app/profile/opennews.bsky.social) and [LinkedIn](https://www.linkedin.com/company/15401949/admin/dashboard/) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)  ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
+[Follow us on Bluesky](https://bsky.app/profile/opennews.bsky.social) and [LinkedIn](https://www.linkedin.com/company/15401949/admin/dashboard/) or [subscribe to the community call Google Calendar](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com) ([iCal link](https://www.google.com/calendar/ical/r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com/public/basic.ics)) to be notified of upcoming calls.
 
 ### Community Daily Standups
 
@@ -42,7 +42,8 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
   <h3><span class="mw-headline" id="Call_Archives">Community Call Archives</span></h3>
   <p>We use Etherpad to take full, participatory notes during our calls.</p>
       
-  <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls. <a href="#" class="showall more">Show full call archive</a> <a href="#" class="showall less">Hide full call archive</a></p>
+  <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls.</p>
+  <p id="details"><strong><a href="#details" class="showall more">Show full call archive</a> <a href="#details" class="showall less">Hide full call archive</a></strong></p>
 
   <ul>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-February-12-2026">February 26, 2026 call</a> on<a ref="nofollow" class="external text" href="https://source.opennews.org/articles/journalism-lost-sharing-culture/">Open source and sharing in news</a></li>
