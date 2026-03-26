@@ -38,9 +38,9 @@ bundle exec rake validate_yaml    # validate all YAML
 bundle exec rake clean            # kill caches and modules
 bundle exec rake outdated         # check for outdated dependencies
 
-# rare
+# rare (requires local build in _site/)
 bundle exec rake review:external_links # get list of bad links (401s, 403s, 404s, timeouts)
-bundle exec rake review:compare_deployed_sites # compare current build to production (requires local build in _site/)
+bundle exec rake review:compare_deployed_sites # compare current build to production
 ```
 
 For detailed task documentation, see [tasks/README.md](tasks/README.md).
@@ -63,7 +63,7 @@ deployment:
 - For minor updates, work directly in the `staging` branch
 - For major updates or long-term changes, create a new feature branch
 - Test your changes locally using `bundle exec rake serve`
-- NOTE: You do _not_ need to commit updates to your local `_site` directory. Only commit markdown documents, templates, and static media files.
+- your local `_site` will never be committed, it's just a way to see what Jekyll sees
 
 ### Pushing to staging
 
@@ -72,25 +72,26 @@ deployment:
 - A push to `staging` triggers an automatic GitHub Actions workflow that:
   1. Validates YAML files
   2. Builds the Jekyll site
-  3. Deploys to the staging S3 bucket
+  3. Deploys to the staging S3 bucket and the [staging site](http://staging.opennews.org/)
 - The workflow typically completes in 2-3 minutes
-- View the staging site to review your changes
+- View the [staging site](http://staging.opennews.org/) to smoke-test your changes
 
 ### Pushing to production
 
-- Review changes on the staging site
 - Open a pull request from `staging` into `main`
 - Merging into `main` triggers an automatic deployment that:
   1. Validates YAML files
   2. Builds the Jekyll site
   3. Deploys to the production S3 bucket
-  4. Invalidates the CloudFront cache
+  4. Invalidates the CloudFront cache for the [production site](https://www.opennews.org/)
 - The production site is served via Amazon CloudFront (HTTPS-enabled)
 - Cache invalidation may take up to 10 minutes to propagate fully
 
-### Manual deployment (local)
+### Manual deployment (local, very rarely needed)
 
-For testing deployments locally or when automated deployment isn't available:
+**Note:** Manual deployments require AWS CLI configured with appropriate credentials.
+
+For testing deployments locally **when automated deployment isn't available**:
 
 **Dry-run first (recommended):**
 
@@ -107,8 +108,6 @@ bundle exec rake deploy:production     # Test production deploy
 bundle exec rake deploy:staging:real      # Deploy to staging (requires confirmation)
 bundle exec rake deploy:production:real   # Deploy to production (requires "yes")
 ```
-
-**Note:** Manual deployments require AWS CLI configured with appropriate credentials.
 
 ### Optional promotion safety check
 
@@ -144,7 +143,8 @@ This fetches both deployed environments and reports significant page-level diffe
 
 ### AWS Authentication
 
-Deployment uses OpenID Connect (OIDC) for secure AWS authentication. The `AWS_ROLE_ARN` secret must be configured at the organization level in GitHub.
+Deployment uses OpenID Connect (OIDC) for secure AWS authentication.
+The `AWS_ROLE_ARN` secret **is** and must be configured at the organization level in GitHub.
 
 ## Code Quality
 
