@@ -24,7 +24,7 @@ You can participate by listening in, offering your thoughts, asking questions, r
 
 The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled call dates to be let in.
 
-**Next Scheduled Call:** February 26, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-February-26-2026)
+**Next Scheduled Call:** March 26, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-March-26-2026)
 
 **[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
@@ -41,11 +41,12 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
 <div class="calllist closed">
   <h3><span class="mw-headline" id="Call_Archives">Community Call Archives</span></h3>
   <p>We use Etherpad to take full, participatory notes during our calls.</p>
-      
+
   <p>Feel free to look through the archive of our call notes. It's an extensive archive, so we're only displaying the last five calls.</p>
   <p id="details"><strong><a href="#details" class="showall more">Show full call archive</a> <a href="#details" class="showall less">Hide full call archive</a></strong></p>
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-March-12-2026"> March 12, 2026 call</a> on<a ref="nofollow" class="external text" href="">RJI fellow Claudia Yaujar-Amaro on<a href="https://rjionline.org/news/covering-immigration-journalism-needs-more-than-good-intentions/"> Covering Immigration.</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-February-12-2026">February 26, 2026 call</a> on<a ref="nofollow" class="external text" href="https://source.opennews.org/articles/journalism-lost-sharing-culture/">Open source and sharing in news</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-January-2026">January 29, 2026 call</a> with the <a ref="nofollow" class="external text" href="https://www.tlvoice.org/introducing-the-tenderloin-voice/">Tenderloin Voice</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb20-25">February 20, 2025 call</a></li>
@@ -97,7 +98,7 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan27">January 27, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan13">January 13, 2022 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec16">December 16, 2021 call</a></li>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec2">December 2, 2021 call</a></li> 
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec2">December 2, 2021 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov18">November 18, 2021 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov4">November 4, 2021 call</a></li>
      <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct21">October 21, 2021 call</a></li>
@@ -128,10 +129,10 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Mar19">March 19, 2020 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb20">February 20, 2020 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Jan9">January 9, 2020 call</a></li>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec12">December 12, 2019 call</a></li> 
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov14">November 14, 2019 call</a></li> 
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct31">October 31, 2019 call</a></li> 
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct3">October 3, 2019 call</a></li> 
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Dec12">December 12, 2019 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Nov14">November 14, 2019 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct31">October 31, 2019 call</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Oct3">October 3, 2019 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept19">September 19, 2019 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Sept5">September 5, 2019 call</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Aug29">August 29, 2019 call</a></li>
