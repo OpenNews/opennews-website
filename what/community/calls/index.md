@@ -24,7 +24,7 @@ You can participate by listening in, offering your thoughts, asking questions, r
 
 The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled call dates to be let in.
 
-**Next Scheduled Call:** March 26, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-March-26-2026)
+**Next Scheduled Call:** April 9, 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-April-9-2026)
 
 **[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
@@ -46,7 +46,8 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
   <p id="details"><strong><a href="#details" class="showall more">Show full call archive</a> <a href="#details" class="showall less">Hide full call archive</a></strong></p>
 
   <ul>
-    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-March-12-2026"> March 12, 2026 call</a> on <a ref="nofollow" class="external text" href="https://rjionline.org/person/claudia-yaujar-amaro/">RJI fellow Claudia Yaujar-Amaro</a> on <a href="https://rjionline.org/news/covering-immigration-journalism-needs-more-than-good-intentions/">Covering Immigration.</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-March-26-2026"> March 12, 2026 call</a> with Nicolás Ríos from Documented</a> on <a href="https://rjionline.org/news/building-trust-begins-by-listening-but-it-only-grows-when-newsrooms-give-back/">closing feedback loops and reciprocity from newsrooms.</a></li>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-March-12-2026"> March 12, 2026 call</a> with <a ref="nofollow" class="external text" href="https://rjionline.org/person/claudia-yaujar-amaro/">RJI fellow Claudia Yaujar-Amaro</a> on <a href="https://rjionline.org/news/covering-immigration-journalism-needs-more-than-good-intentions/">Covering Immigration.</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-February-12-2026">February 26, 2026 call</a> on<a ref="nofollow" class="external text" href="https://source.opennews.org/articles/journalism-lost-sharing-culture/">Open source and sharing in news</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-January-2026">January 29, 2026 call</a> with the <a ref="nofollow" class="external text" href="https://www.tlvoice.org/introducing-the-tenderloin-voice/">Tenderloin Voice</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/communitycall-Feb20-25">February 20, 2025 call</a></li>
