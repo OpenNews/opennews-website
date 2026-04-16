@@ -3,41 +3,40 @@ updates:
   # GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
+    target-branch: "staging"
     schedule:
       interval: "weekly"
       day: "monday"
     labels:
       - "dependencies"
       - "github-actions"
-    commit-message:
-      prefix: "ci"
+    open-pull-requests-limit: 5
+    ignore:
+      - dependency-name: "OpenNews/opennews-actions"
+        # Keep floating @v1 tag instead of pinning to specific versions
 
   # Bundler (Ruby dependencies)
   - package-ecosystem: "bundler"
     directory: "/"
+    target-branch: "staging"
     schedule:
       interval: "weekly"
       day: "monday"
     labels:
       - "dependencies"
       - "ruby"
-    commit-message:
-      prefix: "deps"
-    ignore:
-      - dependency-name: "*"
-        update-types: ["version-update:semver-major"]
+    open-pull-requests-limit: 5
+    versioning-strategy: increase
 
   # npm (JavaScript dependencies)
   - package-ecosystem: "npm"
     directory: "/"
+    target-branch: "staging"
     schedule:
       interval: "weekly"
       day: "monday"
     labels:
       - "dependencies"
       - "javascript"
-    commit-message:
-      prefix: "deps"
-    ignore:
-      - dependency-name: "*"
-        update-types: ["version-update:semver-major"]
+    open-pull-requests-limit: 5
+    versioning-strategy: increase
