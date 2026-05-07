@@ -24,3 +24,4 @@ Thumbs.db
 # Local environment
 .env
 .env.local
+Gemfile.lock
