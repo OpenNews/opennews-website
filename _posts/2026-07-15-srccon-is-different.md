@@ -7,10 +7,10 @@ tags: OpenNews, SRCCON, gatherings, events, care
 excerpt: We know journalists, technologists and creators deserve care, so we push the boundaries of what’s possible at our gatherings.
 ---
 
-<p style="text-align:center; margin:0;">
-    <img src="/media/img/blog/srccon_2026_puzzletable.jpg" style="width:95%; display:block; margin:0 auto;" alt="A group of five Source-con 2026 attendees gather around a table in Memorial Hall of the McNamara Alumni Center, the conference venue, to complete a 1000 piece puzzle together at the puzzle table.">
+<p style="text-align: center; margin-top: 0;">
+  <img src="/media/img/blog/srccon_2026_puzzletable.jpg" alt="A group of five Source-con 2026 attendees gather in Memorial Hall of the McNamara Alumni Center, the conference venue, to complete a 1000 piece puzzle together at the puzzle table." style="max-width: 90%; height: auto; display: inline-block;" />
 </p>
-<p class="caption" style="text-align: center;margin-top:15px;">The puzzle table at SRCCON 2026 was a hit. (Photo Credit: Jessica Morrison)</p>
+<p class="caption" style="text-align: center; margin-top: 15px;">The puzzle table at SRCCON 2026 was a hit. (Photo Credit: Jessica Morrison)</p>
 
 What makes SRCCON different?
 
@@ -21,6 +21,11 @@ Here’s a thought: Journalists deserve to receive the same kind of care from th
 But care is baked into every element of SRCCON, in spite of an industry that has trained us to be unfeeling.
 
 We were taught that to do our jobs as journalists ethically, we have to remain objective. And boy, did we ever knock that assignment out of the park. We became so neutral that the best of us would choose silence before we would have an opinion, we relegated our personalities to film and television writers, and we ceased to exist at all in our communities beyond screens and bylines. We hide our humanity behind our principles, and then wonder [why we don’t feel seen](https://www.pewresearch.org/short-reads/2026/02/11/majority-of-americans-express-low-confidence-in-journalists-to-act-in-publics-best-interests/).
+
+<p style="text-align: center; margin-top: 0;">
+  <img src="/media/img/blog/srccon_2026_memorial.jpg" alt="Participants gathered in Memorial Hall during SRCCON 2026." style="max-width: 90%; height: auto; display: inline-block;" />
+</p>
+<p class="caption" style="text-align: center; margin-top: 15px;">Participants gathered in Memorial Hall during SRCCON 2026. (Photo Credit: Lisa Rowan)</p>
 
 That’s why SRCCON feels so different. We convene the field *from within* with care, and we trust participants to show up fully and create the gathered experience together with us. But we don’t leave *how it feels* to chance.
 
@@ -41,6 +46,11 @@ Our work as organizers looks like:
 It’s unusual at a journalism conference to focus so much on the journalists themselves alongside craft, but we know two things: the people doing the work of journalism matter, and people who are supported and shown care are more capable of supporting and showing care to others. That impact is hard to measure, but we also know that SRCCON influences how participants show up for the audiences and communities they serve because they tell us.
 
 “I keep coming back to SRCCON because this has become one of my surest sources every year of inspiration and recharge,” said Cordelia Yu, a long-time OpenNews community member and current advisory council member, during the opening session on Day 1 of SRCCON 2026 in Minneapolis.
+
+<p style="text-align: center; margin-top: 0;">
+  <img src="/media/img/blog/srccon_2016_notes.png" alt="A photo of handwritten notes from Source-con 2016 that says, 'Where you meet people who are just like you but also not like you!' around hand-drawn, stylized 'SRCCON' text." style="max-width: 90%; height: auto; display: inline-block;" />
+</p>
+<p class="caption" style="text-align: center; margin-top: 15px;">Looking back at SRCCON 2016, this gathering has always emphasized radical care. (Photo Credit: Emma Carew Grovum)</p>
 
 My SRCCON story is like many others: I found SRCCON a decade ago when I was entering a phase of my journalism career that felt less linear and more confusing. I met a whole conference full of people who were thinking about and making moves to change how we do our work — infusing care and intentionality into hiring, onboarding, project management, team development, and all the work that goes on behind the scenes. I returned year after year, feeling inspired and heading home with a head full of ideas to try out in my newsroom as I moved from reporter to project editor to building and leading a newsroom product team.
 
