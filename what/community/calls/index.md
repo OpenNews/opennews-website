@@ -24,7 +24,7 @@ You can participate by listening in, offering your thoughts, asking questions, r
 
 The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled call dates to be let in.
 
-**Next Scheduled Call:** Octoer, 1 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-October-1-2026)
+**Next Scheduled Call:** October, 1 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-October-1-2026)
 
 **[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
@@ -290,5 +290,3 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
     <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-July18">July 18, 2012 call</a></li>
     <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-calls-June20">June 27, 2012 call</a></li>
     <li><a rel="nofollow" class="external text" href="https://etherpad.mozilla.org/opennews-call-archive">Archive</a> from February 2012-June 6, 2012 prior to switching to per-call Etherpads</li>
-  </ul>
-</div>
