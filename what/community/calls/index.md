@@ -24,7 +24,7 @@ You can participate by listening in, offering your thoughts, asking questions, r
 
 The calls are open on Zoom! Click the join link below at 12 p.m. ET on scheduled call dates to be let in.
 
-**Next Scheduled Call:** October, 1 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-October-1-2026)
+**Next Scheduled Call:** October, 15 2026 at 12 p.m. ET - [Call Agenda](https://etherpad.opennews.org/p/CC-October-15-2026)
 
 **[Join via Zoom](https://us06web.zoom.us/j/89708128880?pwd=zsgacpkSQbEDozAOfyeD4tvYZUba49.1)** or use the **conference number** in the [calendar invitation](https://www.google.com/calendar/embed?src=r2u7nkls68sk5cbqr5u07c36kc@group.calendar.google.com)
 
@@ -46,6 +46,7 @@ Standups happen on Zoom and require registration before you can join. Sign up vi
   <p id="details"><strong><a href="#details" class="showall more">Show full call archive</a> <a href="#details" class="showall less">Hide full call archive</a></strong></p>
 
   <ul>
+    <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-October-1-2026"> October 1, 2026 call</a>with Patrick Boehler and Madison Karas on tbd/con, our relationship to AI and using Gather for virtual convenings.
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-April-23-2026"> April 23, 2026 call</a>with Emma Carew Grovum on hiring.
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-March-26-2026"> March 26, 2026 call</a> with Nicolás Ríos from Documented on <a href="https://rjionline.org/news/building-trust-begins-by-listening-but-it-only-grows-when-newsrooms-give-back/">closing feedback loops and reciprocity from newsrooms.</a></li>
     <li><a ref="nofollow" class="external text" href="https://etherpad.opennews.org/p/CC-March-12-2026"> March 12, 2026 call</a> with <a ref="nofollow" class="external text" href="https://rjionline.org/person/claudia-yaujar-amaro/">RJI fellow Claudia Yaujar-Amaro</a> on <a href="https://rjionline.org/news/covering-immigration-journalism-needs-more-than-good-intentions/">Covering Immigration.</a></li>
